@@ -1,0 +1,51 @@
+.word-card {
+  min-width: 332px;
+  border-radius: 12px;
+  border: 1px solid #d6d6d7;
+  overflow: auto;
+  cursor: pointer;
+
+  .block {
+    width: 100%;
+    &.horizontal {
+      display: flex;
+      flex-direction: row;
+    }
+  }
+
+  .meme-photo {
+    width: 65%;
+    border-right: 1px solid #d6d6d7;
+  }
+
+  .main-content {
+    width: 100%;
+    padding: 8px 16px;
+    .word {
+      text-transform: uppercase;
+      font-weight: bold;
+      font-size: 24px;
+      line-height: 28px;
+    }
+
+    .meaning {
+      font-size: 12px;
+    }
+
+    .description {
+
+    }
+  }
+
+  .footer {
+    padding: 8px 16px;
+
+    .phrase {
+      font-weight: 550;
+    }
+
+    &.green {
+      background: darkseagreen;
+    }
+  }
+}
