@@ -10,12 +10,13 @@ type WordCardPropType = {
   meme: string;
   phrase: string;
   sentences?: string[];
+  onClick?: () => void;
 }
 const WordCard = (props: WordCardPropType) => {
-  const {word, meme, meaning, description, phrase, sentences} = props;
+  const {word, meme, meaning, description, phrase, sentences, onClick} = props;
   return (
       <Badge.Ribbon text="Verb" color="green">
-        <div className={"word-card"}>
+        <div className={"word-card"} onClick={onClick}>
           <div className={"block horizontal"}>
             <div className={"meme-photo"}>
               <Image
