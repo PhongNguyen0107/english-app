@@ -1,57 +1,114 @@
 [
   {
-    "id": "strategy",
-    "word": "strategy",
-    "meaning": "Chiến lược",
+    "id": "usual",
+    "word": "usual",
+    "meaning": "Thông thường/Thông dụng",
+    "ipa_pronunciation": "'ju:ʒl",
     "phrases": [
       {
         "id": "01",
-        "phrase": "strategy {{for}}",
+        "phrase": "{{as}} usual",
         "suggestion": [
-          "for",
-          "with",
-          "to"
+          "am",
+          "as",
+          "like"
         ]
       }
     ],
-    "description": "",
+    "description": "describing something that normally happens",
     "sentences": [
       {
         "id": "1",
-        "sentence": "Must have a {{strategy}} for it.",
+        "sentence": "She gets the highest score as {{usual}}",
         "suggestion": [
-          "strategy",
-          "plan",
-          "work"
+          "well",
+          "usual",
+          "normally"
+        ]
+      },
+      {
+        "id": "2",
+        "sentence": "You're late, as {{usual}}",
+        "suggestion": [
+          "usual",
+          "daily",
+          "monday"
+        ]
+      },
+      {
+        "id": "3",
+        "sentence": "As {{usual}}, there weren't many people at the meeting",
+        "suggestion": [
+          "usual",
+          "daily",
+          "monday"
+        ]
+      },
+      {
+        "id": "4",
+        "sentence": "To arrive later than {{usual}}",
+        "suggestion": [
+          "me",
+          "usual",
+          "our"
+        ]
+      },
+      {
+        "id": "5",
+        "sentence": "He wasn't his {{usual}} self",
+        "suggestion": [
+          "by",
+          "to",
+          "usual"
+        ]
+      },
+      {
+        "id": "6",
+        "sentence": "I will have my {{usual}}, please",
+        "suggestion": [
+          "cake",
+          "breakfast",
+          "usual"
         ]
       }
     ],
     "question": [
       {
         "id": "1",
-        "sentence": "Must have a {{strategy}} for it.",
+        "sentence": "She gets the highest score as {{usual}}",
         "suggestion": [
-          "strategy",
-          "plan",
-          "work"
-        ]
-      },
-      {
-        "id": "2",
-        "sentence": "Please help me, find out a {{strategy}} for it.",
-        "suggestion": [
-          "strategy",
-          "plan",
-          "work"
+          "well",
+          "usual",
+          "normally"
         ]
       }
     ],
     "status": 0,
     "field": [
-      "work"
+      "Daily Activities"
     ],
-    "type": "noun",
-    "list_of_synonym": [],
+    "type": "adj",
+    "list_of_antonyms": ["exceptional", "irregular"],
+    "list_of_synonym": [
+      "common",
+      "customary",
+      "everyday",
+      "familiar",
+      "habitual",
+      "natural",
+      "normal",
+      "predictable",
+      "regular",
+      "standard",
+      "traditional",
+      "typical",
+      "everyday",
+      "familiar",
+      "habitual",
+      "predictable",
+      "regular",
+      "routine"
+    ],
     "feedbacks": [
       {
         "id": "f1",

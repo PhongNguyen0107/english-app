@@ -1,0 +1,82 @@
+[
+  {
+    "unit_id": "1",
+    "word": "Thông thường",
+    "answer": ["Usual"],
+    "suggestions": ["Always", "usual", "frequent"],
+    "phrases": [],
+    "sentences": []
+  },
+  {
+    "unit_id": "1",
+    "word": "Ngày trong tuần",
+    "answer": ["Weekday"],
+    "suggestions": [],
+    "phrases": [],
+    "sentences": []
+  },
+  {
+    "unit_id": "1",
+    "word": "Gấp",
+    "answer": ["Fold"],
+    "suggestions": [],
+    "phrases": [],
+    "sentences": []
+  },
+  {
+    "unit_id": "1",
+    "word": "Là ủi",
+    "answer": ["Iron"],
+    "suggestions": [],
+    "phrases": [],
+    "sentences": []
+  },
+  {
+    "unit_id": "1",
+    "word": "Kéo",
+    "answer": ["pull"],
+    "suggestions": [],
+    "phrases": [],
+    "sentences": []
+  },
+  {
+    "unit_id": "1",
+    "word": "Với tới",
+    "answer": ["Reach"],
+    "suggestions": [],
+    "phrases": ["Reach for something"],
+    "sentences": ["He reaches for the TV remote"]
+  },
+  {
+    "unit_id": "1",
+    "word": "Tầng trên",
+    "answer": ["Upstairs"],
+    "suggestions": [],
+    "phrases": [],
+    "sentences": ["You can go upstairs to meet him"]
+  },
+  {
+    "unit_id": "1",
+    "word": "Thang máy",
+    "answer": ["Elevator"],
+    "suggestions": [],
+    "phrases": [],
+    "sentences": ["I always take the elevator, not the stairs"]
+  },
+  {
+    "unit_id": "1",
+    "word": "Hóa đơn",
+    "answer": ["Receipt"],
+    "suggestions": [],
+    "phrases": [],
+    "sentences": ["Keep the receipt in case you need to return the items "]
+  },
+  {
+    "unit_id": "1",
+    "word": "Đếm",
+    "answer": ["Count"],
+    "suggestions": [],
+    "phrases": [],
+    "sentences": ["Let's count from 1 to 10 together"]
+  }
+]
