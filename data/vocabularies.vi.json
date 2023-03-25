@@ -1,82 +1,422 @@
 [
-  {
-    "unit_id": "1",
-    "word": "Thông thường",
-    "answer": ["Usual"],
-    "suggestions": ["Always", "usual", "frequent"],
-    "phrases": [],
-    "sentences": []
-  },
-  {
-    "unit_id": "1",
-    "word": "Ngày trong tuần",
-    "answer": ["Weekday"],
-    "suggestions": [],
-    "phrases": [],
-    "sentences": []
-  },
-  {
-    "unit_id": "1",
-    "word": "Gấp",
-    "answer": ["Fold"],
-    "suggestions": [],
-    "phrases": [],
-    "sentences": []
-  },
-  {
-    "unit_id": "1",
-    "word": "Là ủi",
-    "answer": ["Iron"],
-    "suggestions": [],
-    "phrases": [],
-    "sentences": []
-  },
-  {
-    "unit_id": "1",
-    "word": "Kéo",
-    "answer": ["pull"],
-    "suggestions": [],
-    "phrases": [],
-    "sentences": []
-  },
-  {
-    "unit_id": "1",
-    "word": "Với tới",
-    "answer": ["Reach"],
-    "suggestions": [],
-    "phrases": ["Reach for something"],
-    "sentences": ["He reaches for the TV remote"]
-  },
-  {
-    "unit_id": "1",
-    "word": "Tầng trên",
-    "answer": ["Upstairs"],
-    "suggestions": [],
-    "phrases": [],
-    "sentences": ["You can go upstairs to meet him"]
-  },
-  {
-    "unit_id": "1",
-    "word": "Thang máy",
-    "answer": ["Elevator"],
-    "suggestions": [],
-    "phrases": [],
-    "sentences": ["I always take the elevator, not the stairs"]
-  },
-  {
-    "unit_id": "1",
-    "word": "Hóa đơn",
-    "answer": ["Receipt"],
-    "suggestions": [],
-    "phrases": [],
-    "sentences": ["Keep the receipt in case you need to return the items "]
-  },
-  {
-    "unit_id": "1",
-    "word": "Đếm",
-    "answer": ["Count"],
-    "suggestions": [],
-    "phrases": [],
-    "sentences": ["Let's count from 1 to 10 together"]
-  }
+    {
+        "id": "ff79c0af-f6e3-4e06-bd54-c2d51b8b2ed2",
+        "unitId": 26,
+        "word": "Chương trình",
+        "answers": [
+            "Show"
+        ],
+        "sentences": [
+            "I watch TV shows on my television"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "e7b63cfa-35ca-4220-85a4-7abacd64777b",
+        "unitId": 26,
+        "word": "Cảnh",
+        "answers": [
+            "Scene"
+        ],
+        "sentences": [
+            "The crew needs to film a scene"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "48decd6c-856e-494a-930a-917644b04b12",
+        "unitId": 26,
+        "word": "Nam diễn viên",
+        "answers": [
+            "Actor"
+        ],
+        "sentences": [
+            "Who is the lead actor in titanic"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "0de78fa0-97ea-461d-b9ee-9502f5f1911e",
+        "unitId": 26,
+        "word": "Thuộc âm nhạc",
+        "answers": [
+            "Musical"
+        ],
+        "sentences": [
+            "The audience loved the musical performance "
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "f57a6ddf-a459-46f2-846b-b7795f3f60fb",
+        "unitId": 26,
+        "word": "Nhạc phim",
+        "answers": [
+            "Soundtrack"
+        ],
+        "sentences": [
+            "The soundtrack of this movie is great"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "adc79ffd-f908-4025-846d-648c39d721dc",
+        "unitId": 26,
+        "word": "Thuộc lịch sử",
+        "answers": [
+            "Historical"
+        ],
+        "sentences": [
+            "Albert Einstein is an important historical figure"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "6e6df797-373b-45e1-8472-18f87358f6f6",
+        "unitId": 26,
+        "word": "Bí ẩn",
+        "answers": [
+            "Mystery"
+        ],
+        "sentences": [
+            "Nobody can solve the mystery of the Bermuda triangle"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "a35d292f-12c1-4c1b-9710-de16c56887da",
+        "unitId": 26,
+        "word": "Tội ác",
+        "answers": [
+            "Crime"
+        ],
+        "sentences": [
+            "Stealing money is a serious crime"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "79ba5a07-bf06-4402-8585-61e7a1036454",
+        "unitId": 26,
+        "word": "Đoạn kết",
+        "answers": [
+            "Ending"
+        ],
+        "sentences": [
+            "Fairy tales have happy endings"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "d762ffa1-88da-422b-b7a4-6fa285372d5f",
+        "unitId": 26,
+        "word": "Tiết lộ",
+        "answers": [
+            "Reveal"
+        ],
+        "sentences": [
+            "The magician never reveals the truth"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "da12d35d-edb9-4bc7-9c17-0cb40cc188a1",
+        "unitId": 26,
+        "word": "Phim giật gân",
+        "answers": [
+            "Thriller"
+        ],
+        "sentences": [
+            "Thriller movies are scary"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "3eab6ace-a062-413d-bbe9-1e6cfdc746fb",
+        "unitId": 26,
+        "word": "Xưởng, không gian sáng tạo",
+        "answers": [
+            "Studio"
+        ],
+        "sentences": [
+            "She teaches us at her dance studio"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "881c106e-6457-4e98-ba35-b62019f84f28",
+        "unitId": 26,
+        "word": "Bối cảnh, khung cảnh",
+        "answers": [
+            "Setting"
+        ],
+        "sentences": [
+            "What a beautiful setting this city is "
+        ],
+        "phrases": [
+            "A beautiful setting"
+        ]
+    },
+    {
+        "id": "22a18562-a6b5-453f-8af1-f2d9389775a2",
+        "unitId": 26,
+        "word": "Điều viễn tưởng",
+        "answers": [
+            "Fiction"
+        ],
+        "sentences": [
+            "She wrote fiction on aliens and love"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "f449766a-bab7-4448-af4e-d32642c2842a",
+        "unitId": 26,
+        "word": "Sự việc kịch tính",
+        "answers": [
+            "Drama"
+        ],
+        "sentences": [
+            "Teens like to watch drama series"
+        ],
+        "phrases": [
+            "A drama series"
+        ]
+    },
+    {
+        "id": "976d7af0-ce7c-40f3-bd7c-81236b3321b4",
+        "unitId": 26,
+        "word": "Đạo diễn",
+        "answers": [
+            "Director"
+        ],
+        "sentences": [
+            "The young film director deserves our recognition"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "860a308d-6c07-4835-bacc-70223cf47425",
+        "unitId": 26,
+        "word": "Ra mắt",
+        "answers": [
+            "Come out"
+        ],
+        "sentences": [
+            "When is her album coming out?"
+        ],
+        "phrases": [
+            "Something new comes out"
+        ]
+    },
+    {
+        "id": "f4646264-837a-4f66-80eb-a51bcc3aff8f",
+        "unitId": 26,
+        "word": "Nhân vật",
+        "answers": [
+            "Character"
+        ],
+        "sentences": [
+            "The main character in \"Batman\" is mysterious"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "04654652-119a-4eff-9b64-75299d7c2fad",
+        "unitId": 26,
+        "word": "Nữ diễn viên",
+        "answers": [
+            "Actress"
+        ],
+        "sentences": [
+            "She was a good actress back then"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "0801dab6-9de3-43a8-928d-1548442dfed9",
+        "unitId": 26,
+        "word": "Kỳ lạ, kỳ quặc",
+        "answers": [
+            "Odd"
+        ],
+        "sentences": [
+            "Hanging out with odd people is fun"
+        ],
+        "phrases": [
+            "An odd person"
+        ]
+    },
+    {
+        "id": "cb8fcf85-96ee-4bad-94e1-46796937132b",
+        "unitId": 26,
+        "word": "Màn hình",
+        "answers": [
+            "Screen"
+        ],
+        "sentences": [
+            "The laptop has a big computer screen"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "8a4ee5eb-8284-4e66-a98f-affcf00546b3",
+        "unitId": 26,
+        "word": "Hành động",
+        "answers": [
+            "Action"
+        ],
+        "sentences": [
+            "My favorite action movie is Fast and Furious"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "162a7aa1-503d-408d-b2e3-df258e8b7f80",
+        "unitId": 26,
+        "word": "Chuyến phiêu lưu",
+        "answers": [
+            "Adventure"
+        ],
+        "sentences": [
+            "I seek an adventure of a lifetime"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "33335824-9fff-4451-9b8b-b38b33e10bb8",
+        "unitId": 26,
+        "word": "Phim tài liệu",
+        "answers": [
+            "Documentary"
+        ],
+        "sentences": [
+            "I watched that documentary film on Netflix"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "fe57dcbf-8a2a-4bf5-b5fc-df13b111ecbb",
+        "unitId": 26,
+        "word": "Góc",
+        "answers": [
+            "Angle"
+        ],
+        "sentences": [
+            "Tilt your head to a 45 angle"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "9eb70c91-cd86-4cf7-9fd7-8f043e02dc00",
+        "unitId": 26,
+        "word": "Thấy khó hiểu",
+        "answers": [
+            "Confused"
+        ],
+        "sentences": [
+            "Are you confused about the instructions?"
+        ],
+        "phrases": [
+            "Confused about something"
+        ]
+    },
+    {
+        "id": "dc36d942-b4e0-43ff-80b6-7dea01c86bf9",
+        "unitId": 26,
+        "word": "Cuộc hội thoại, lời thoại",
+        "answers": [
+            "Dialogue"
+        ],
+        "sentences": [
+            "The dialogue with my therapist helped me"
+        ],
+        "phrases": [
+            "Dialogue with somebody"
+        ]
+    },
+    {
+        "id": "7bca4406-1d16-4928-b22a-8a808c215c94",
+        "unitId": 26,
+        "word": "Tác phẩm thành công",
+        "answers": [
+            "Hit"
+        ],
+        "sentences": [
+            "His book became a big hit"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "b8aa33cc-460f-48f7-baf3-de9983a44757",
+        "unitId": 26,
+        "word": "Tuyệt vời",
+        "answers": [
+            "Wonderful"
+        ],
+        "sentences": [
+            "I am grateful for the wonderful opportunity"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "6ef729a5-7c1c-4cff-8cea-91260f73f480",
+        "unitId": 26,
+        "word": "Tài giỏi, tuyệt vời",
+        "answers": [
+            "Brilliant"
+        ],
+        "sentences": [
+            "Thank you for the brilliant idea"
+        ],
+        "phrases": [
+            ""
+        ]
+    }
 ]
