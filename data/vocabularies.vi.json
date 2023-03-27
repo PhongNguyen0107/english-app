@@ -1,6 +1,6 @@
 [
     {
-        "id": "ff79c0af-f6e3-4e06-bd54-c2d51b8b2ed2",
+        "id": "e91f8a08-4f2b-4ab5-b15f-b2071eeeaaf0",
         "unitId": 26,
         "word": "Chương trình",
         "answers": [
@@ -14,7 +14,7 @@
         ]
     },
     {
-        "id": "e7b63cfa-35ca-4220-85a4-7abacd64777b",
+        "id": "18dc10db-aef1-42f5-9cb9-d2f915e37ef5",
         "unitId": 26,
         "word": "Cảnh",
         "answers": [
@@ -28,7 +28,7 @@
         ]
     },
     {
-        "id": "48decd6c-856e-494a-930a-917644b04b12",
+        "id": "3a3430f5-5438-430f-a176-774bf89d8e12",
         "unitId": 26,
         "word": "Nam diễn viên",
         "answers": [
@@ -42,7 +42,7 @@
         ]
     },
     {
-        "id": "0de78fa0-97ea-461d-b9ee-9502f5f1911e",
+        "id": "4d3d0516-bc83-48a3-afc9-b6d52f32fb4c",
         "unitId": 26,
         "word": "Thuộc âm nhạc",
         "answers": [
@@ -56,7 +56,7 @@
         ]
     },
     {
-        "id": "f57a6ddf-a459-46f2-846b-b7795f3f60fb",
+        "id": "eda84941-ee46-4a1c-86e7-f6f16127d82b",
         "unitId": 26,
         "word": "Nhạc phim",
         "answers": [
@@ -70,7 +70,7 @@
         ]
     },
     {
-        "id": "adc79ffd-f908-4025-846d-648c39d721dc",
+        "id": "2d713a22-aeac-48b5-be9b-acac79b2ec27",
         "unitId": 26,
         "word": "Thuộc lịch sử",
         "answers": [
@@ -84,7 +84,7 @@
         ]
     },
     {
-        "id": "6e6df797-373b-45e1-8472-18f87358f6f6",
+        "id": "7e756ab8-c2d7-41e6-9f0e-e49d4d2ffdd1",
         "unitId": 26,
         "word": "Bí ẩn",
         "answers": [
@@ -98,7 +98,7 @@
         ]
     },
     {
-        "id": "a35d292f-12c1-4c1b-9710-de16c56887da",
+        "id": "8ab1732e-c79c-4b60-8507-7a891c5c381e",
         "unitId": 26,
         "word": "Tội ác",
         "answers": [
@@ -112,7 +112,7 @@
         ]
     },
     {
-        "id": "79ba5a07-bf06-4402-8585-61e7a1036454",
+        "id": "b7d8d0db-8112-46f5-bb09-d1723dc7d938",
         "unitId": 26,
         "word": "Đoạn kết",
         "answers": [
@@ -126,7 +126,7 @@
         ]
     },
     {
-        "id": "d762ffa1-88da-422b-b7a4-6fa285372d5f",
+        "id": "4970385f-5158-4d01-bffa-350767cce9c5",
         "unitId": 26,
         "word": "Tiết lộ",
         "answers": [
@@ -140,7 +140,7 @@
         ]
     },
     {
-        "id": "da12d35d-edb9-4bc7-9c17-0cb40cc188a1",
+        "id": "769ceb16-d9b2-4998-aea5-3c19c7b6d186",
         "unitId": 26,
         "word": "Phim giật gân",
         "answers": [
@@ -154,7 +154,7 @@
         ]
     },
     {
-        "id": "3eab6ace-a062-413d-bbe9-1e6cfdc746fb",
+        "id": "332fa304-65b0-41fb-a7d8-c75aa5e1be04",
         "unitId": 26,
         "word": "Xưởng, không gian sáng tạo",
         "answers": [
@@ -168,7 +168,7 @@
         ]
     },
     {
-        "id": "881c106e-6457-4e98-ba35-b62019f84f28",
+        "id": "0e06fb5a-b324-4290-855c-ffa11323abb3",
         "unitId": 26,
         "word": "Bối cảnh, khung cảnh",
         "answers": [
@@ -182,7 +182,7 @@
         ]
     },
     {
-        "id": "22a18562-a6b5-453f-8af1-f2d9389775a2",
+        "id": "4f6018f0-4216-4bc4-9fcd-3d736124cff7",
         "unitId": 26,
         "word": "Điều viễn tưởng",
         "answers": [
@@ -196,7 +196,7 @@
         ]
     },
     {
-        "id": "f449766a-bab7-4448-af4e-d32642c2842a",
+        "id": "70a548a9-0525-4ad5-8b2d-652d6351a991",
         "unitId": 26,
         "word": "Sự việc kịch tính",
         "answers": [
@@ -210,7 +210,7 @@
         ]
     },
     {
-        "id": "976d7af0-ce7c-40f3-bd7c-81236b3321b4",
+        "id": "122814ab-462c-471a-88d8-191a9b742535",
         "unitId": 26,
         "word": "Đạo diễn",
         "answers": [
@@ -224,7 +224,7 @@
         ]
     },
     {
-        "id": "860a308d-6c07-4835-bacc-70223cf47425",
+        "id": "33a9d7a3-a142-4eda-b857-e7f18c078c02",
         "unitId": 26,
         "word": "Ra mắt",
         "answers": [
@@ -238,7 +238,7 @@
         ]
     },
     {
-        "id": "f4646264-837a-4f66-80eb-a51bcc3aff8f",
+        "id": "17890545-e363-42b1-ba1a-988e15bebe03",
         "unitId": 26,
         "word": "Nhân vật",
         "answers": [
@@ -252,7 +252,7 @@
         ]
     },
     {
-        "id": "04654652-119a-4eff-9b64-75299d7c2fad",
+        "id": "c3217b5f-b61f-4f33-92e6-00ee26ebd21b",
         "unitId": 26,
         "word": "Nữ diễn viên",
         "answers": [
@@ -266,7 +266,7 @@
         ]
     },
     {
-        "id": "0801dab6-9de3-43a8-928d-1548442dfed9",
+        "id": "2280d702-88f7-4a39-b560-0e9410d28246",
         "unitId": 26,
         "word": "Kỳ lạ, kỳ quặc",
         "answers": [
@@ -280,7 +280,7 @@
         ]
     },
     {
-        "id": "cb8fcf85-96ee-4bad-94e1-46796937132b",
+        "id": "c84dd97b-6dfd-4675-a879-f7fb627ea74d",
         "unitId": 26,
         "word": "Màn hình",
         "answers": [
@@ -294,7 +294,7 @@
         ]
     },
     {
-        "id": "8a4ee5eb-8284-4e66-a98f-affcf00546b3",
+        "id": "bf32e9f1-1061-4383-9264-6d3257f3090d",
         "unitId": 26,
         "word": "Hành động",
         "answers": [
@@ -308,7 +308,7 @@
         ]
     },
     {
-        "id": "162a7aa1-503d-408d-b2e3-df258e8b7f80",
+        "id": "11e2ee97-0ae1-4b01-9ed6-ac226f8d5401",
         "unitId": 26,
         "word": "Chuyến phiêu lưu",
         "answers": [
@@ -322,7 +322,7 @@
         ]
     },
     {
-        "id": "33335824-9fff-4451-9b8b-b38b33e10bb8",
+        "id": "2cebde0b-254a-46ae-aff4-6e54829869f1",
         "unitId": 26,
         "word": "Phim tài liệu",
         "answers": [
@@ -336,7 +336,7 @@
         ]
     },
     {
-        "id": "fe57dcbf-8a2a-4bf5-b5fc-df13b111ecbb",
+        "id": "22d63a03-f781-4c2e-a639-4ed2fdd63423",
         "unitId": 26,
         "word": "Góc",
         "answers": [
@@ -350,7 +350,7 @@
         ]
     },
     {
-        "id": "9eb70c91-cd86-4cf7-9fd7-8f043e02dc00",
+        "id": "1aca3d8e-33cf-47f9-91e2-6d996bfad494",
         "unitId": 26,
         "word": "Thấy khó hiểu",
         "answers": [
@@ -364,7 +364,7 @@
         ]
     },
     {
-        "id": "dc36d942-b4e0-43ff-80b6-7dea01c86bf9",
+        "id": "adbd168e-5e71-4f6e-aa05-35675017cbca",
         "unitId": 26,
         "word": "Cuộc hội thoại, lời thoại",
         "answers": [
@@ -378,7 +378,7 @@
         ]
     },
     {
-        "id": "7bca4406-1d16-4928-b22a-8a808c215c94",
+        "id": "d23f9071-e7ce-4c01-8eca-2adc9ef34708",
         "unitId": 26,
         "word": "Tác phẩm thành công",
         "answers": [
@@ -392,7 +392,7 @@
         ]
     },
     {
-        "id": "b8aa33cc-460f-48f7-baf3-de9983a44757",
+        "id": "bdafd70d-8891-4268-a0f9-b88543aa2436",
         "unitId": 26,
         "word": "Tuyệt vời",
         "answers": [
@@ -406,7 +406,7 @@
         ]
     },
     {
-        "id": "6ef729a5-7c1c-4cff-8cea-91260f73f480",
+        "id": "174b09e1-8748-482c-b39c-8127f5cd6e66",
         "unitId": 26,
         "word": "Tài giỏi, tuyệt vời",
         "answers": [
@@ -417,6 +417,406 @@
         ],
         "phrases": [
             ""
+        ]
+    },
+    {
+        "id": "205a0a95-a528-4c7f-a7d0-60648af428c1",
+        "unitId": 27,
+        "word": "Khiêm tốn",
+        "answers": [
+            "Modest"
+        ],
+        "sentences": [
+            "You are too modest! You are gifted."
+        ]
+    },
+    {
+        "id": "9476a3d2-c7ee-4439-b234-578512c427e4",
+        "unitId": 27,
+        "word": "Có năng khiếu",
+        "answers": [
+            "Gifted"
+        ],
+        "sentences": [
+            "Do you consider yourself a gifted musican?"
+        ]
+    },
+    {
+        "id": "e45e1f8d-4f24-4678-9031-50918375e4f1",
+        "unitId": 27,
+        "word": "Ngành giải trí",
+        "answers": [
+            "Showbiz"
+        ],
+        "sentences": [
+            "People in showbiz are movie stars"
+        ]
+    },
+    {
+        "id": "5032dd55-04dd-4288-ac06-f45600ed54ba",
+        "unitId": 27,
+        "word": "Kênh",
+        "answers": [
+            "Channel"
+        ],
+        "sentences": [
+            "The show is live on the VTV3 channel"
+        ]
+    },
+    {
+        "id": "d0905362-9ac4-4c85-8aab-2a7efe58f611",
+        "unitId": 27,
+        "word": "Truyền thông",
+        "answers": [
+            "Media"
+        ],
+        "sentences": [
+            "My mom posts so many pictures on social media"
+        ]
+    },
+    {
+        "id": "2fc95bfb-3a7e-4689-baa4-a08b44238219",
+        "unitId": 27,
+        "word": "Nổi tiếng",
+        "answers": [
+            "Well-known"
+        ],
+        "sentences": [
+            "Is he a well-known actor?"
+        ]
+    },
+    {
+        "id": "e324fe92-e775-4865-8057-481ac71eb2ff",
+        "unitId": 27,
+        "word": "Nhận ra",
+        "answers": [
+            "Recognize"
+        ],
+        "sentences": [
+            "Did you recognize me on stage?"
+        ],
+        "phrases": [
+            "Recognize somebody or something"
+        ]
+    },
+    {
+        "id": "d76808e0-8440-44ba-8bc6-a11d975040e3",
+        "unitId": 27,
+        "word": "Người hâm mộ",
+        "answers": [
+            "Fan"
+        ],
+        "sentences": [
+            "My girlfriend is a big soccer fan"
+        ],
+        "phrases": [
+            "A soccer fan"
+        ]
+    },
+    {
+        "id": "d2cf742e-888c-4763-9c0f-4e6937f47a4f",
+        "unitId": 27,
+        "word": "Đăng ký",
+        "answers": [
+            "Subscribe"
+        ],
+        "sentences": [
+            "Please subscribe to step up english youtube channel"
+        ]
+    },
+    {
+        "id": "56538bc1-baeb-4846-8fa4-37ac5bbda92f",
+        "unitId": 27,
+        "word": "Hét to",
+        "answers": [
+            "Sceam"
+        ],
+        "sentences": [
+            "They screamed out loud for help"
+        ],
+        "phrases": [
+            "Scream out loud"
+        ]
+    },
+    {
+        "id": "66cb3c34-e686-4c47-9773-99f6dfa3ebf6",
+        "unitId": 27,
+        "word": "Buồn cười",
+        "answers": [
+            "Funny"
+        ],
+        "sentences": [
+            "The funny story made me laugh hard"
+        ],
+        "phrases": [
+            "A funny story"
+        ]
+    },
+    {
+        "id": "cce2c8aa-f542-4ea1-8442-d957029a44c1",
+        "unitId": 27,
+        "word": "Hiện nay",
+        "answers": [
+            "Currently"
+        ],
+        "sentences": [
+            "I am currently working as a front-end developer"
+        ],
+        "phrases": [
+            "Currently working as something"
+        ]
+    },
+    {
+        "id": "b4c5221b-07f0-4755-a43b-08016bbb7379",
+        "unitId": 27,
+        "word": "Lan truyền nhanh",
+        "answers": [
+            "Viral"
+        ],
+        "sentences": [
+            "The video went viral on Facebook"
+        ],
+        "phrases": [
+            "Go viral"
+        ]
+    },
+    {
+        "id": "e3057e7d-3842-46ef-99bb-3540a6a211e2",
+        "unitId": 27,
+        "word": "Màn biểu diễn",
+        "answers": [
+            "Performance"
+        ],
+        "sentences": [
+            "The opera singer delivered an outstanding performance"
+        ],
+        "phrases": [
+            "Deliver an outstanding performance"
+        ]
+    },
+    {
+        "id": "5bd6d2e1-82c2-4c23-a8ae-69f396d5d64d",
+        "unitId": 27,
+        "word": "Quá khứ",
+        "answers": [
+            "Past"
+        ],
+        "sentences": [
+            "I used to live abroad in the past"
+        ],
+        "phrases": [
+            "In the past"
+        ]
+    },
+    {
+        "id": "15939ad3-7065-40a5-b629-4a2192ce7c9f",
+        "unitId": 27,
+        "word": "Trở nên",
+        "answers": [
+            "Become"
+        ],
+        "sentences": [
+            "I want to become a person of influence"
+        ],
+        "phrases": [
+            "Become somebody or something"
+        ]
+    },
+    {
+        "id": "9552b2e5-d719-477d-8eaa-96cada49b507",
+        "unitId": 27,
+        "word": "Toàn cầu",
+        "answers": [
+            "Global"
+        ],
+        "sentences": [
+            "The singer's talent made her go global"
+        ],
+        "phrases": [
+            "Go global"
+        ]
+    },
+    {
+        "id": "2ebd94b8-2dc6-48a9-86e6-a0ff708be4a9",
+        "unitId": 27,
+        "word": "Lên tiếng",
+        "answers": [
+            "Speak out"
+        ],
+        "sentences": [
+            "She bravely spoke out against her boss"
+        ],
+        "phrases": [
+            "Speak out against somebody or something"
+        ]
+    },
+    {
+        "id": "1c0d4b81-5a83-433a-b75f-724fe1f0867b",
+        "unitId": 27,
+        "word": "Xứng đáng",
+        "answers": [
+            "Deserve"
+        ],
+        "sentences": [
+            "I deserve ice cream after work"
+        ],
+        "phrases": [
+            "Deserve something"
+        ]
+    },
+    {
+        "id": "542684bd-cc94-4904-b5db-8e225f7ea3db",
+        "unitId": 27,
+        "word": "Trực tiếp",
+        "answers": [
+            "Live"
+        ],
+        "sentences": [
+            "The band did a live performance"
+        ],
+        "phrases": [
+            "A live performance"
+        ]
+    },
+    {
+        "id": "67668a40-a937-4ef3-89a2-8fda7443cb09",
+        "unitId": 27,
+        "word": "Giải thưởng",
+        "answers": [
+            "Award"
+        ],
+        "sentences": [
+            "She received an award for her acting"
+        ],
+        "phrases": [
+            "Receive an award"
+        ]
+    },
+    {
+        "id": "00d21011-0cb3-49cf-a42f-f3f291512ff7",
+        "unitId": 27,
+        "word": "Danh dự",
+        "answers": [
+            "Honor"
+        ],
+        "sentences": [
+            "Welcome",
+            " you are my guest of honor"
+        ],
+        "phrases": [
+            "The guest of honor"
+        ]
+    },
+    {
+        "id": "0a3486ad-e59c-487f-b7ff-63bd7e60051c",
+        "unitId": 27,
+        "word": "Việc thiện nguyện",
+        "answers": [
+            "Charity"
+        ],
+        "sentences": [
+            "We should do charity for the disadvantaged"
+        ],
+        "phrases": [
+            "Do charity for somebody"
+        ]
+    },
+    {
+        "id": "ab497afa-8e15-4507-b1a9-5eddc0031631",
+        "unitId": 27,
+        "word": "Tình nguyện",
+        "answers": [
+            "Volunteer"
+        ],
+        "sentences": [
+            "She volunteered to clean the car"
+        ],
+        "phrases": [
+            "Volunteer to do something"
+        ]
+    },
+    {
+        "id": "8952535d-d2ad-493e-8878-96830d8beb61",
+        "unitId": 27,
+        "word": "Vụ bê bối",
+        "answers": [
+            "Scandal"
+        ],
+        "sentences": [
+            "He created the scandal to attract attention"
+        ],
+        "phrases": [
+            "Create a scandal"
+        ]
+    },
+    {
+        "id": "43b6ea5d-4b43-4c2d-89e3-77c540cf23a7",
+        "unitId": 27,
+        "word": "Tin đồn",
+        "answers": [
+            "Rumor"
+        ],
+        "sentences": [
+            "Rumor has it that you got the job!"
+        ],
+        "phrases": [
+            "Rumor has it that"
+        ]
+    },
+    {
+        "id": "d195fb5c-48d3-4e1d-b0a1-12c72d63ea12",
+        "unitId": 27,
+        "word": "Tiểu sử",
+        "answers": [
+            "Biography"
+        ],
+        "sentences": [
+            "They wrote a biography of her life"
+        ],
+        "phrases": [
+            "A biography of something"
+        ]
+    },
+    {
+        "id": "fa51a4c7-728a-414c-99db-53049f388b56",
+        "unitId": 27,
+        "word": "Ngưỡng mộ",
+        "answers": [
+            "Admire"
+        ],
+        "sentences": [
+            "I admire my student's passion"
+        ],
+        "phrases": [
+            "Admire somebody or something"
+        ]
+    },
+    {
+        "id": "f38ba068-4da6-472d-9237-82d1e4e24b81",
+        "unitId": 27,
+        "word": "Ngưỡng mộ",
+        "answers": [
+            "Look up to"
+        ],
+        "sentences": [
+            "I look up to my father very much"
+        ],
+        "phrases": [
+            "Look up to somebody"
+        ]
+    },
+    {
+        "id": "4929890c-f537-442c-82df-467c417654ec",
+        "unitId": 27,
+        "word": "Đáp ứng tiêu chuẩn",
+        "answers": [
+            "Live up to"
+        ],
+        "sentences": [
+            "He lived up to my parent's expectations"
+        ],
+        "phrases": [
+            "Live up to my parent's expectations"
         ]
     }
 ]

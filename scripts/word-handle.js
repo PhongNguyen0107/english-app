@@ -64,7 +64,6 @@ function reformatting(words) {
   words.forEach(w => {
     rows.push({
       ...w,
-      id: uuidv4(),
       answers: w.answers ? w.answers.join(",") : "",
       sentences: w.sentences ? w.sentences.join(",") : "",
       phrases: w.phrases ? w.phrases.join(",") : "",
