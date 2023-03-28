@@ -10,6 +10,7 @@ type IProps = {
   isShowAnswer?: boolean;
   isShowSentence?: boolean;
   isShowPhrase?: boolean;
+  strategy: string;
   onClick: () => void;
 }
 
@@ -17,19 +18,25 @@ const WordCard = (props: IProps) => {
   const {
     word: wordProps, isShowAnswer,
     isShowPhrase, isShowSentence, onClick,
-    active
+    active, strategy
   } = props;
   const {word, unitId, phrases, sentences, answers, id} = wordProps;
+  
   return (
     <Badge.Ribbon text={`Unit ${unitId}`} color="green">
       <div className={"word-card"} onClick={onClick}>
         <div className={"block horizontal"}>
-          
-          <div className={"main-content"}>
-            <div className="word">{word}</div>
-            {(isShowAnswer || active?.id === id) && <div className="word green">{answers[0]}</div>}
-          </div>
-        
+          {strategy === "ENGLISH" ? (
+            <div className={"main-content"}>
+              <div className="word">{answers[0]}</div>
+              {(isShowAnswer || active?.id === id) && <div className="word green">{word}</div>}
+            </div>
+          ) : (
+            <div className={"main-content"}>
+              <div className="word">{word}</div>
+              {(isShowAnswer || active?.id === id) && <div className="word green">{answers[0]}</div>}
+            </div>
+          )}
         </div>
         
         <div className="footer green">

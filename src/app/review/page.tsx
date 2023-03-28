@@ -16,6 +16,7 @@ type IState = {
   isShowAnswer: boolean;
   isShowPhrase: boolean;
   active: any;
+  strategy: string;
   isShowSentence: boolean;
 }
 const ReviewPage = (props: IProps) => {
@@ -26,6 +27,7 @@ const ReviewPage = (props: IProps) => {
   
   const [reviewState, setReviewState] = useSetState<IState>({
     active: null,
+    strategy: "ENGLISH",
     isShowAnswer: false,
     isShowPhrase: false,
     isShowSentence: false,
@@ -38,16 +40,32 @@ const ReviewPage = (props: IProps) => {
           <Affix offsetTop={24}>
             <Col xs={24} className={"fw"}>
               <Space size={12}>
-                <Button onClick={() => setReviewState({isShowAnswer: !reviewState.isShowAnswer})}>
+                <Button
+                  type={"dashed"}
+                  onClick={() => setReviewState({isShowAnswer: !reviewState.isShowAnswer})}>
                   {reviewState.isShowAnswer ? `Hide` : `Show`} Word
                 </Button>
-                
-                <Button onClick={() => setReviewState({isShowPhrase: !reviewState.isShowPhrase})}>
+  
+                <Button
+                  type={"dashed"}
+                  onClick={() => setReviewState({isShowPhrase: !reviewState.isShowPhrase})}>
                   {reviewState.isShowPhrase ? `Hide` : `Show`} Phrase
                 </Button>
-                
-                <Button onClick={() => setReviewState({isShowSentence: !reviewState.isShowSentence})}>
+  
+                <Button
+                  type={"dashed"}
+                  onClick={() => setReviewState({isShowSentence: !reviewState.isShowSentence})}>
                   {reviewState.isShowSentence ? `Hide` : `Show`} Sentence
+                </Button>
+  
+                <Button
+                  type={"primary"}
+                  onClick={() => {
+                    setReviewState({
+                      strategy: reviewState.strategy === "ENGLISH" ? "VIETNAMESE" : "ENGLISH"
+                    })
+                  }}>
+                  {reviewState.strategy === "ENGLISH" ? "VIETNAMESE" : "ENGLISH"}
                 </Button>
               </Space>
             </Col>
@@ -57,6 +75,7 @@ const ReviewPage = (props: IProps) => {
             return (
               <Col key={w.id} xs={24} md={12} lg={10} xl={8} xxl={6}>
                 <ReviewWordCard
+                  strategy={reviewState.strategy}
                   onClick={() => setReviewState({active: w})}
                   active={reviewState.active}
                   isShowSentence={reviewState.isShowSentence}
