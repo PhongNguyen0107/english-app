@@ -428,6 +428,9 @@
         ],
         "sentences": [
             "You are too modest! You are gifted."
+        ],
+        "phrases": [
+            ""
         ]
     },
     {
@@ -439,6 +442,9 @@
         ],
         "sentences": [
             "Do you consider yourself a gifted musican?"
+        ],
+        "phrases": [
+            ""
         ]
     },
     {
@@ -450,6 +456,9 @@
         ],
         "sentences": [
             "People in showbiz are movie stars"
+        ],
+        "phrases": [
+            ""
         ]
     },
     {
@@ -461,6 +470,9 @@
         ],
         "sentences": [
             "The show is live on the VTV3 channel"
+        ],
+        "phrases": [
+            ""
         ]
     },
     {
@@ -472,6 +484,9 @@
         ],
         "sentences": [
             "My mom posts so many pictures on social media"
+        ],
+        "phrases": [
+            ""
         ]
     },
     {
@@ -483,6 +498,9 @@
         ],
         "sentences": [
             "Is he a well-known actor?"
+        ],
+        "phrases": [
+            ""
         ]
     },
     {
@@ -522,6 +540,9 @@
         ],
         "sentences": [
             "Please subscribe to step up english youtube channel"
+        ],
+        "phrases": [
+            ""
         ]
     },
     {
@@ -807,6 +828,847 @@
     },
     {
         "id": "4929890c-f537-442c-82df-467c417654ec",
+        "unitId": 28,
+        "word": "Thích hơn",
+        "answers": [
+            "Prefer"
+        ],
+        "sentences": [
+            "She prefers eating apples to pears"
+        ],
+        "phrases": [
+            "Prefer something to something"
+        ]
+    },
+    {
+        "id": "e9589940-742b-43f2-ac65-fc45bb80e027",
+        "unitId": 26,
+        "word": "Chương trình",
+        "answers": [
+            "Show"
+        ],
+        "sentences": [
+            "I watch TV shows on my television"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "df96699a-5763-442b-95fc-cbb91f19f173",
+        "unitId": 26,
+        "word": "Cảnh",
+        "answers": [
+            "Scene"
+        ],
+        "sentences": [
+            "The crew needs to film a scene"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "b404c93e-c748-4648-9faf-190a9ad5dba8",
+        "unitId": 26,
+        "word": "Nam diễn viên",
+        "answers": [
+            "Actor"
+        ],
+        "sentences": [
+            "Who is the lead actor in titanic"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "7c8e0bd5-ee8c-41f0-bdc6-7d308bfa4ab5",
+        "unitId": 26,
+        "word": "Thuộc âm nhạc",
+        "answers": [
+            "Musical"
+        ],
+        "sentences": [
+            "The audience loved the musical performance "
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "9f86076e-64fe-4a74-aaba-1d8f05735eac",
+        "unitId": 26,
+        "word": "Nhạc phim",
+        "answers": [
+            "Soundtrack"
+        ],
+        "sentences": [
+            "The soundtrack of this movie is great"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "559fe9af-e60b-4194-83d4-fc1806e45563",
+        "unitId": 26,
+        "word": "Thuộc lịch sử",
+        "answers": [
+            "Historical"
+        ],
+        "sentences": [
+            "Albert Einstein is an important historical figure"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "4b845d2c-e2c1-4fdd-8548-32d690072f4e",
+        "unitId": 26,
+        "word": "Bí ẩn",
+        "answers": [
+            "Mystery"
+        ],
+        "sentences": [
+            "Nobody can solve the mystery of the Bermuda triangle"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "9d47ec42-31eb-4357-bfc0-45d200872d21",
+        "unitId": 26,
+        "word": "Tội ác",
+        "answers": [
+            "Crime"
+        ],
+        "sentences": [
+            "Stealing money is a serious crime"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "4ff90ae3-5e15-4a78-94f0-735775606ffa",
+        "unitId": 26,
+        "word": "Đoạn kết",
+        "answers": [
+            "Ending"
+        ],
+        "sentences": [
+            "Fairy tales have happy endings"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "a71d8989-9fc3-4461-9b1c-aee9819e51f1",
+        "unitId": 26,
+        "word": "Tiết lộ",
+        "answers": [
+            "Reveal"
+        ],
+        "sentences": [
+            "The magician never reveals the truth"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "28ba2cea-e9b7-444f-bf0c-5f414436bfba",
+        "unitId": 26,
+        "word": "Phim giật gân",
+        "answers": [
+            "Thriller"
+        ],
+        "sentences": [
+            "Thriller movies are scary"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "8aa2c4b0-1c7c-4945-82fa-8382cdf4ab6f",
+        "unitId": 26,
+        "word": "Xưởng, không gian sáng tạo",
+        "answers": [
+            "Studio"
+        ],
+        "sentences": [
+            "She teaches us at her dance studio"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "2cb14656-58ab-4802-975a-080e7e9be699",
+        "unitId": 26,
+        "word": "Bối cảnh, khung cảnh",
+        "answers": [
+            "Setting"
+        ],
+        "sentences": [
+            "What a beautiful setting this city is "
+        ],
+        "phrases": [
+            "A beautiful setting"
+        ]
+    },
+    {
+        "id": "7acaa11d-729f-42b7-9f09-0955a4f7d42c",
+        "unitId": 26,
+        "word": "Điều viễn tưởng",
+        "answers": [
+            "Fiction"
+        ],
+        "sentences": [
+            "She wrote fiction on aliens and love"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "1b1a8ac3-85cf-492c-8008-e9953d15f894",
+        "unitId": 26,
+        "word": "Sự việc kịch tính",
+        "answers": [
+            "Drama"
+        ],
+        "sentences": [
+            "Teens like to watch drama series"
+        ],
+        "phrases": [
+            "A drama series"
+        ]
+    },
+    {
+        "id": "c128256f-c15c-4d39-8060-be37724208b0",
+        "unitId": 26,
+        "word": "Đạo diễn",
+        "answers": [
+            "Director"
+        ],
+        "sentences": [
+            "The young film director deserves our recognition"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "38610c4a-fe8b-4d51-8168-17aa92f7ff9d",
+        "unitId": 26,
+        "word": "Ra mắt",
+        "answers": [
+            "Come out"
+        ],
+        "sentences": [
+            "When is her album coming out?"
+        ],
+        "phrases": [
+            "Something new comes out"
+        ]
+    },
+    {
+        "id": "9f62ae08-61be-4094-804d-cc8013c0a33e",
+        "unitId": 26,
+        "word": "Nhân vật",
+        "answers": [
+            "Character"
+        ],
+        "sentences": [
+            "The main character in \"Batman\" is mysterious"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "63b355e6-86e1-4e37-9a68-1b9447be1780",
+        "unitId": 26,
+        "word": "Nữ diễn viên",
+        "answers": [
+            "Actress"
+        ],
+        "sentences": [
+            "She was a good actress back then"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "d7aeac52-22a8-48c9-b3dc-9c983249b645",
+        "unitId": 26,
+        "word": "Kỳ lạ, kỳ quặc",
+        "answers": [
+            "Odd"
+        ],
+        "sentences": [
+            "Hanging out with odd people is fun"
+        ],
+        "phrases": [
+            "An odd person"
+        ]
+    },
+    {
+        "id": "52a8de1b-1439-4e9f-8889-7ca55f5db9d4",
+        "unitId": 26,
+        "word": "Màn hình",
+        "answers": [
+            "Screen"
+        ],
+        "sentences": [
+            "The laptop has a big computer screen"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "acf897b0-c82a-4b38-a0ec-7b014ca4e7f1",
+        "unitId": 26,
+        "word": "Hành động",
+        "answers": [
+            "Action"
+        ],
+        "sentences": [
+            "My favorite action movie is Fast and Furious"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "e802aafa-29e6-435e-ac76-b39e6011f747",
+        "unitId": 26,
+        "word": "Chuyến phiêu lưu",
+        "answers": [
+            "Adventure"
+        ],
+        "sentences": [
+            "I seek an adventure of a lifetime"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "43076760-6d75-4fe1-a6a3-dbf273a1ed69",
+        "unitId": 26,
+        "word": "Phim tài liệu",
+        "answers": [
+            "Documentary"
+        ],
+        "sentences": [
+            "I watched that documentary film on Netflix"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "15049f9d-7c2c-4f70-b7dd-d6fcb78f6f94",
+        "unitId": 26,
+        "word": "Góc",
+        "answers": [
+            "Angle"
+        ],
+        "sentences": [
+            "Tilt your head to a 45 angle"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "0f3bd34e-ee98-4fee-b98b-23644a117b3c",
+        "unitId": 26,
+        "word": "Thấy khó hiểu",
+        "answers": [
+            "Confused"
+        ],
+        "sentences": [
+            "Are you confused about the instructions?"
+        ],
+        "phrases": [
+            "Confused about something"
+        ]
+    },
+    {
+        "id": "04388592-876e-4575-adcd-e0fe1be365b3",
+        "unitId": 26,
+        "word": "Cuộc hội thoại, lời thoại",
+        "answers": [
+            "Dialogue"
+        ],
+        "sentences": [
+            "The dialogue with my therapist helped me"
+        ],
+        "phrases": [
+            "Dialogue with somebody"
+        ]
+    },
+    {
+        "id": "7344acb7-f1a2-4fc1-b76e-94122a109c7a",
+        "unitId": 26,
+        "word": "Tác phẩm thành công",
+        "answers": [
+            "Hit"
+        ],
+        "sentences": [
+            "His book became a big hit"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "5677ba8e-838f-4b4f-b705-0df492ebdf1b",
+        "unitId": 26,
+        "word": "Tuyệt vời",
+        "answers": [
+            "Wonderful"
+        ],
+        "sentences": [
+            "I am grateful for the wonderful opportunity"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "e36b0ed5-6805-48e8-ad47-328b2dfa37ec",
+        "unitId": 26,
+        "word": "Tài giỏi, tuyệt vời",
+        "answers": [
+            "Brilliant"
+        ],
+        "sentences": [
+            "Thank you for the brilliant idea"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "3208a29f-cd43-40f0-a981-777899ce22c0",
+        "unitId": 27,
+        "word": "Khiêm tốn",
+        "answers": [
+            "Modest"
+        ],
+        "sentences": [
+            "You are too modest! You are gifted."
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "ee5e822f-b746-4dcf-8c93-863f4fcf61f0",
+        "unitId": 27,
+        "word": "Có năng khiếu",
+        "answers": [
+            "Gifted"
+        ],
+        "sentences": [
+            "Do you consider yourself a gifted musican?"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "19720a6e-bfec-46ab-a32d-98ff082191a7",
+        "unitId": 27,
+        "word": "Ngành giải trí",
+        "answers": [
+            "Showbiz"
+        ],
+        "sentences": [
+            "People in showbiz are movie stars"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "fdc92382-011c-40e3-a9c5-499c24fccbae",
+        "unitId": 27,
+        "word": "Kênh",
+        "answers": [
+            "Channel"
+        ],
+        "sentences": [
+            "The show is live on the VTV3 channel"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "94ad9cc2-958c-450f-820f-10508e3e81c3",
+        "unitId": 27,
+        "word": "Truyền thông",
+        "answers": [
+            "Media"
+        ],
+        "sentences": [
+            "My mom posts so many pictures on social media"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "77310ddb-be92-4c78-8912-8012f9026c38",
+        "unitId": 27,
+        "word": "Nổi tiếng",
+        "answers": [
+            "Well-known"
+        ],
+        "sentences": [
+            "Is he a well-known actor?"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "a800480b-6b2f-4c5f-9279-9ac2416d7189",
+        "unitId": 27,
+        "word": "Nhận ra",
+        "answers": [
+            "Recognize"
+        ],
+        "sentences": [
+            "Did you recognize me on stage?"
+        ],
+        "phrases": [
+            "Recognize somebody or something"
+        ]
+    },
+    {
+        "id": "c2ea6b48-2f8f-420f-9655-6b55b0e784d6",
+        "unitId": 27,
+        "word": "Người hâm mộ",
+        "answers": [
+            "Fan"
+        ],
+        "sentences": [
+            "My girlfriend is a big soccer fan"
+        ],
+        "phrases": [
+            "A soccer fan"
+        ]
+    },
+    {
+        "id": "961ae097-bbd2-4be2-b313-094621395203",
+        "unitId": 27,
+        "word": "Đăng ký",
+        "answers": [
+            "Subscribe"
+        ],
+        "sentences": [
+            "Please subscribe to step up english youtube channel"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "880b0225-c9b1-4bdd-8ed7-93e6220d7346",
+        "unitId": 27,
+        "word": "Hét to",
+        "answers": [
+            "Sceam"
+        ],
+        "sentences": [
+            "They screamed out loud for help"
+        ],
+        "phrases": [
+            "Scream out loud"
+        ]
+    },
+    {
+        "id": "d288a6d6-a293-416d-8b1f-4f3d01131e7f",
+        "unitId": 27,
+        "word": "Buồn cười",
+        "answers": [
+            "Funny"
+        ],
+        "sentences": [
+            "The funny story made me laugh hard"
+        ],
+        "phrases": [
+            "A funny story"
+        ]
+    },
+    {
+        "id": "c9daf53e-22ab-4e9d-8eb3-d36471ceb17f",
+        "unitId": 27,
+        "word": "Hiện nay",
+        "answers": [
+            "Currently"
+        ],
+        "sentences": [
+            "I am currently working as a front-end developer"
+        ],
+        "phrases": [
+            "Currently working as something"
+        ]
+    },
+    {
+        "id": "4077b92e-d763-449e-accf-f4cf450bddb8",
+        "unitId": 27,
+        "word": "Lan truyền nhanh",
+        "answers": [
+            "Viral"
+        ],
+        "sentences": [
+            "The video went viral on Facebook"
+        ],
+        "phrases": [
+            "Go viral"
+        ]
+    },
+    {
+        "id": "ff459de3-e4f7-413a-821d-8205032383d7",
+        "unitId": 27,
+        "word": "Màn biểu diễn",
+        "answers": [
+            "Performance"
+        ],
+        "sentences": [
+            "The opera singer delivered an outstanding performance"
+        ],
+        "phrases": [
+            "Deliver an outstanding performance"
+        ]
+    },
+    {
+        "id": "3ab2b1c9-7355-4d3c-9b89-8797da83a013",
+        "unitId": 27,
+        "word": "Quá khứ",
+        "answers": [
+            "Past"
+        ],
+        "sentences": [
+            "I used to live abroad in the past"
+        ],
+        "phrases": [
+            "In the past"
+        ]
+    },
+    {
+        "id": "8f6ad1e1-0aa4-409c-a69f-5bacf2a68b0a",
+        "unitId": 27,
+        "word": "Trở nên",
+        "answers": [
+            "Become"
+        ],
+        "sentences": [
+            "I want to become a person of influence"
+        ],
+        "phrases": [
+            "Become somebody or something"
+        ]
+    },
+    {
+        "id": "5b58d634-aaa6-406c-9146-9a2ade88aed4",
+        "unitId": 27,
+        "word": "Toàn cầu",
+        "answers": [
+            "Global"
+        ],
+        "sentences": [
+            "The singer's talent made her go global"
+        ],
+        "phrases": [
+            "Go global"
+        ]
+    },
+    {
+        "id": "6e8ad717-d117-427e-9279-a45e9219729c",
+        "unitId": 27,
+        "word": "Lên tiếng",
+        "answers": [
+            "Speak out"
+        ],
+        "sentences": [
+            "She bravely spoke out against her boss"
+        ],
+        "phrases": [
+            "Speak out against somebody or something"
+        ]
+    },
+    {
+        "id": "c456e86d-ec7c-4d45-bcb7-3274a394c455",
+        "unitId": 27,
+        "word": "Xứng đáng",
+        "answers": [
+            "Deserve"
+        ],
+        "sentences": [
+            "I deserve ice cream after work"
+        ],
+        "phrases": [
+            "Deserve something"
+        ]
+    },
+    {
+        "id": "84f34f22-2fc4-42a9-a379-016b2d32bd27",
+        "unitId": 27,
+        "word": "Trực tiếp",
+        "answers": [
+            "Live"
+        ],
+        "sentences": [
+            "The band did a live performance"
+        ],
+        "phrases": [
+            "A live performance"
+        ]
+    },
+    {
+        "id": "e4a3eb62-d8da-43d9-ad02-2381e98beeb0",
+        "unitId": 27,
+        "word": "Giải thưởng",
+        "answers": [
+            "Award"
+        ],
+        "sentences": [
+            "She received an award for her acting"
+        ],
+        "phrases": [
+            "Receive an award"
+        ]
+    },
+    {
+        "id": "249f29dc-63c9-4c07-958a-715d411f0fa1",
+        "unitId": 27,
+        "word": "Danh dự",
+        "answers": [
+            "Honor"
+        ],
+        "sentences": [
+            "Welcome",
+            " you are my guest of honor"
+        ],
+        "phrases": [
+            "The guest of honor"
+        ]
+    },
+    {
+        "id": "ed08c637-8021-49df-b96e-11b99461fd79",
+        "unitId": 27,
+        "word": "Việc thiện nguyện",
+        "answers": [
+            "Charity"
+        ],
+        "sentences": [
+            "We should do charity for the disadvantaged"
+        ],
+        "phrases": [
+            "Do charity for somebody"
+        ]
+    },
+    {
+        "id": "fd1e295f-870f-4951-a3d2-338a4c66acee",
+        "unitId": 27,
+        "word": "Tình nguyện",
+        "answers": [
+            "Volunteer"
+        ],
+        "sentences": [
+            "She volunteered to clean the car"
+        ],
+        "phrases": [
+            "Volunteer to do something"
+        ]
+    },
+    {
+        "id": "72cfa590-d7e9-4a64-830a-a29b0527af30",
+        "unitId": 27,
+        "word": "Vụ bê bối",
+        "answers": [
+            "Scandal"
+        ],
+        "sentences": [
+            "He created the scandal to attract attention"
+        ],
+        "phrases": [
+            "Create a scandal"
+        ]
+    },
+    {
+        "id": "4abb9347-8561-40c4-9763-175c5bd472f2",
+        "unitId": 27,
+        "word": "Tin đồn",
+        "answers": [
+            "Rumor"
+        ],
+        "sentences": [
+            "Rumor has it that you got the job!"
+        ],
+        "phrases": [
+            "Rumor has it that"
+        ]
+    },
+    {
+        "id": "6ecb16e9-54fc-4a3b-ba96-4c22542beefa",
+        "unitId": 27,
+        "word": "Tiểu sử",
+        "answers": [
+            "Biography"
+        ],
+        "sentences": [
+            "They wrote a biography of her life"
+        ],
+        "phrases": [
+            "A biography of something"
+        ]
+    },
+    {
+        "id": "d09efba9-808b-404a-899c-686f3af486b3",
+        "unitId": 27,
+        "word": "Ngưỡng mộ",
+        "answers": [
+            "Admire"
+        ],
+        "sentences": [
+            "I admire my student's passion"
+        ],
+        "phrases": [
+            "Admire somebody or something"
+        ]
+    },
+    {
+        "id": "f91e3b67-dc1a-448b-b69a-f6cf708fc839",
+        "unitId": 27,
+        "word": "Ngưỡng mộ",
+        "answers": [
+            "Look up to"
+        ],
+        "sentences": [
+            "I look up to my father very much"
+        ],
+        "phrases": [
+            "Look up to somebody"
+        ]
+    },
+    {
+        "id": "b1e22646-acd3-4f2c-b655-0c647a0b88f2",
         "unitId": 27,
         "word": "Đáp ứng tiêu chuẩn",
         "answers": [
@@ -817,6 +1679,417 @@
         ],
         "phrases": [
             "Live up to my parent's expectations"
+        ]
+    },
+    {
+        "id": "7537ced0-edd5-41b1-9372-2001d3458cd8",
+        "unitId": 28,
+        "word": "Buổi hòa nhạc",
+        "answers": [
+            "Concert"
+        ],
+        "sentences": [
+            "Let's go to a concert tonight!"
+        ],
+        "phrases": [
+            "Go to a concert"
+        ]
+    },
+    {
+        "id": "27ffff20-c05d-4bd9-adba-beb4139629a5",
+        "unitId": 28,
+        "word": "Trò xếp hình, trò giải đố",
+        "answers": [
+            "Puzzle"
+        ],
+        "sentences": [
+            "Crassword puzzles are for everyone to play"
+        ],
+        "phrases": [
+            "A crossword puzzle"
+        ]
+    },
+    {
+        "id": "3a2594b0-4677-4970-8022-74fc6b86aa9b",
+        "unitId": 28,
+        "word": "Đoán",
+        "answers": [
+            "Guess"
+        ],
+        "sentences": [
+            "Can you guess my age"
+        ],
+        "phrases": [
+            "Guess something"
+        ]
+    },
+    {
+        "id": "2714de7f-867b-4a2d-bd49-32627164a79f",
+        "unitId": 28,
+        "word": "Tin Tường",
+        "answers": [
+            "Keen"
+        ],
+        "sentences": [
+            "She has a keen eye for fashion"
+        ],
+        "phrases": [
+            "A keen eye for something"
+        ]
+    },
+    {
+        "id": "ce6c5dd8-b42c-47cb-93b4-df482a6f7f63",
+        "unitId": 28,
+        "word": "Đan",
+        "answers": [
+            "Knit"
+        ],
+        "sentences": [
+            "Grandma loves to knit scarves"
+        ],
+        "phrases": [
+            "Knit something"
+        ]
+    },
+    {
+        "id": "a7887bd5-fea2-4053-9659-2996e7912f5f",
+        "unitId": 28,
+        "word": "Tiểu thuyết",
+        "answers": [
+            "Novel"
+        ],
+        "sentences": [
+            "The author wrote two best-selling novels"
+        ],
+        "phrases": [
+            "A best-selling novel"
+        ]
+    },
+    {
+        "id": "9fa0f6e5-eab4-49d8-903c-5a5d5e9b9fe6",
+        "unitId": 28,
+        "word": "Bộ sưu tập",
+        "answers": [
+            "Collection"
+        ],
+        "sentences": [
+            "He has a collection of vinyl records"
+        ],
+        "phrases": [
+            "Collection of something"
+        ]
+    },
+    {
+        "id": "dab81130-0d84-4c31-92fa-61fe23ce815e",
+        "unitId": 28,
+        "word": "Chèo thuyền",
+        "answers": [
+            "Sail"
+        ],
+        "sentences": [
+            "Can we sail a boat tomorrow?"
+        ],
+        "phrases": [
+            "Sail a boat"
+        ]
+    },
+    {
+        "id": "6c50b6c3-429d-4ea8-b0b7-577239200ebd",
+        "unitId": 28,
+        "word": "Có hứng thú",
+        "answers": [
+            "Interested"
+        ],
+        "sentences": [
+            "Are you interested in the arts?"
+        ],
+        "phrases": [
+            "Interested in something or somebody"
+        ]
+    },
+    {
+        "id": "67ea425c-c978-46ff-b6ca-1fb5e78fc9f4",
+        "unitId": 28,
+        "word": "Nhiếp ảnh",
+        "answers": [
+            "Photography"
+        ],
+        "sentences": [
+            "The artist mainly does digital photography"
+        ],
+        "phrases": [
+            "Digital photography"
+        ]
+    },
+    {
+        "id": "fef2d6ba-22e3-4581-90b9-007f05b11c58",
+        "unitId": 28,
+        "word": "Hướng dẫn cách làm",
+        "answers": [
+            "Tutorial"
+        ],
+        "sentences": [
+            "Check out her step-by-step tutorial on makeup"
+        ],
+        "phrases": [
+            "Step-by-Step tutorial"
+        ]
+    },
+    {
+        "id": "8bbb0350-9bdb-49c0-87b5-9f1a4cc59ba4",
+        "unitId": 28,
+        "word": "Nhật ký bằng video",
+        "answers": [
+            "Vlogs"
+        ]
+    },
+    {
+        "id": "b5f240ec-c5f0-413b-a02f-f1938c8ba8c8",
+        "unitId": 28,
+        "word": "Đội, nhóm",
+        "answers": [
+            "Team"
+        ],
+        "sentences": [
+            "The soccer team won 5-1"
+        ],
+        "phrases": [
+            "A soccer team"
+        ]
+    },
+    {
+        "id": "b3b854ea-ae11-4e9f-a8fd-64994ac9dbbf",
+        "unitId": 28,
+        "word": "Thử",
+        "answers": [
+            "Try out"
+        ],
+        "sentences": [
+            "Would you try out a new method of cooking?"
+        ],
+        "phrases": [
+            "Try out a new method"
+        ]
+    },
+    {
+        "id": "28a056a6-afc8-4573-b795-129679e826fd",
+        "unitId": 28,
+        "word": "Tham gia",
+        "answers": [
+            "Participate"
+        ],
+        "sentences": [
+            "Please participate more in class"
+        ],
+        "phrases": [
+            "Participate in something"
+        ]
+    },
+    {
+        "id": "a83f5781-c10b-4059-b678-f5017c3bfd91",
+        "unitId": 28,
+        "word": "Chương trình",
+        "answers": [
+            "Program"
+        ],
+        "sentences": [
+            "She works for a news program"
+        ],
+        "phrases": [
+            "A news program"
+        ]
+    },
+    {
+        "id": "c851cfa6-da17-4115-bfba-e73ad76bad11",
+        "unitId": 28,
+        "word": "Hoạt hình",
+        "answers": [
+            "Cartoon"
+        ],
+        "sentences": [
+            "Mickey mouse is a walt disney cartoon"
+        ]
+    },
+    {
+        "id": "7df8e698-06b4-4ed7-be9e-55f134bd1398",
+        "unitId": 28,
+        "word": "Thể loại",
+        "answers": [
+            "Genre"
+        ],
+        "sentences": [
+            "What music genre do you listen to?"
+        ],
+        "phrases": [
+            "Music genre"
+        ]
+    },
+    {
+        "id": "158fe7a4-efef-4a53-b28c-89efeb6d300a",
+        "unitId": 28,
+        "word": "Phim hài",
+        "answers": [
+            "Comedy"
+        ],
+        "sentences": [
+            "My friend loves watching remoantic comedies"
+        ],
+        "phrases": [
+            "A romantic comedy"
+        ]
+    },
+    {
+        "id": "98d438f9-e8b5-470e-9413-e9da43789b60",
+        "unitId": 28,
+        "word": "Trèo",
+        "answers": [
+            "Climb"
+        ],
+        "sentences": [
+            "The cat climbed up the tree"
+        ],
+        "phrases": [
+            "Climb up something"
+        ]
+    },
+    {
+        "id": "0ef71b05-a9f0-4c83-96d8-ef620421699f",
+        "unitId": 28,
+        "word": "Sự thích thú, niềm vui",
+        "answers": [
+            "Pleasure"
+        ],
+        "sentences": [
+            "The kids find pleasure in singing"
+        ],
+        "phrases": [
+            "Take or find pleasure in doing something"
+        ]
+    },
+    {
+        "id": "bf37e4d2-1ace-45b0-92fa-c09b9579ba53",
+        "unitId": 28,
+        "word": "Trong nhà",
+        "answers": [
+            "Indoor"
+        ],
+        "sentences": [
+            "The hotel's indoor swimming pool is huge!"
+        ],
+        "phrases": [
+            "An indoor swimming pool"
+        ]
+    },
+    {
+        "id": "282ee767-dd0b-456f-8e48-a59f2ec0ada4",
+        "unitId": 28,
+        "word": "Chuyến nghỉ dưỡng, kỳ nghỉ",
+        "answers": [
+            "Holiday"
+        ],
+        "sentences": [
+            "I do not work on holiday"
+        ],
+        "phrases": [
+            "On holiday"
+        ]
+    },
+    {
+        "id": "4b5365bb-45cc-471f-93f9-fdd6365503db",
+        "unitId": 28,
+        "word": "Chuyến đi",
+        "answers": [
+            "Ride"
+        ],
+        "sentences": [
+            "We are in for a bumpy ride"
+        ],
+        "phrases": [
+            "A bumpy ride"
+        ]
+    },
+    {
+        "id": "d170c824-40b3-4d23-85bc-dac94d473ef6",
+        "unitId": 28,
+        "word": "Có ý nghĩa",
+        "answers": [
+            "Meaningful"
+        ],
+        "sentences": [
+            "I strive to do meaningful work"
+        ],
+        "phrases": [
+            "Meaningful work"
+        ]
+    },
+    {
+        "id": "6bc2356b-925a-4b5e-a5f8-d18885512916",
+        "unitId": 28,
+        "word": "Việc cấm trại",
+        "answers": [
+            "Camping"
+        ],
+        "sentences": [
+            "We are going on a camping trip"
+        ],
+        "phrases": [
+            "A camping trip"
+        ]
+    },
+    {
+        "id": "deaadcab-99d2-4f62-9991-d8ea1255331a",
+        "unitId": 28,
+        "word": "Hợp tác",
+        "answers": [
+            "Cooperate"
+        ],
+        "sentences": [
+            "You have to cooperate with here"
+        ],
+        "phrases": [
+            "Cooperate with something or somebody"
+        ]
+    },
+    {
+        "id": "aaeea09b-0891-4adf-a60a-f1b9819850d7",
+        "unitId": 28,
+        "word": "Lều",
+        "answers": [
+            "Tent"
+        ],
+        "sentences": [
+            "Please put up the tent for me"
+        ],
+        "phrases": [
+            "Put up a tent"
+        ]
+    },
+    {
+        "id": "a72056af-f2b4-47fa-99d4-23d65d468706",
+        "unitId": 28,
+        "word": "Hứng thú với",
+        "answers": [
+            "Go in for"
+        ],
+        "sentences": [
+            "My sister decides to go in for a debate competition"
+        ],
+        "phrases": [
+            "Go in for a competition"
+        ]
+    },
+    {
+        "id": "649d019d-0852-4490-94ad-2d14e1e266f1",
+        "unitId": 28,
+        "word": "Thích hơn",
+        "answers": [
+            "Prefer"
+        ],
+        "sentences": [
+            "She prefers eating apples to pears"
+        ],
+        "phrases": [
+            "Prefer something to something"
         ]
     }
 ]

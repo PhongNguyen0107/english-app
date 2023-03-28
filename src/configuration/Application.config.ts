@@ -7,5 +7,12 @@ export const ROUTE_NAME = {
   HOME: 'home',
   WORDS: 'words',
   LEARNING: 'learning',
+  REVIEW: 'review',
   SETTINGS: 'settings'
+}
+
+export const QUERY_CONFIG = {
+  enable: false,
+  refetchIntervalInBackground: false,
+  refetchOnWindowFocus: false
 }

@@ -33,6 +33,13 @@ const TabBarCustomization = (props: TabBarPropType) => {
       badge: '1',
     },
     {
+      key: ROUTE_NAME.REVIEW,
+      title: 'Review',
+      url: `/${ROUTE_NAME.REVIEW}`,
+      icon: <Student size={32}/>,
+      badge: '1',
+    },
+    {
       key: ROUTE_NAME.SETTINGS,
       url: `/${ROUTE_NAME.SETTINGS}`,
       title: 'Settings',
