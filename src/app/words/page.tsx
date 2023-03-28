@@ -19,7 +19,7 @@ export default function Page() {
         <Row gutter={[12, 12]}>
           {words.map((w: WordType) => {
             return (
-              <Col key={w.id} xs={24} md={12}>
+              <Col key={w.id} xs={24} md={12} xl={10} xxl={8}>
                 <WordCard
                   onClick={() => router.push(`/${ROUTE_NAME.WORDS}/${w.id}`)}
                   word={w.word}

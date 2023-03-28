@@ -11,7 +11,7 @@ export default function Home() {
       <div className={"page-body"}>
         <Row gutter={[12, 12]}>
           
-          <Col xs={24} md={12}>
+          <Col xs={24} md={12} lg={10} xl={8} xxl={6}>
             <WordCard
               word={"BOOK"}
               meaning={"Sách"}
@@ -24,7 +24,7 @@ export default function Home() {
               ]}
             />
           </Col>
-          <Col xs={24} md={12}>
+          <Col xs={24} md={12} lg={10} xl={8} xxl={6}>
             <WordCard
               word={"BOOK"}
               meaning={"Sách"}

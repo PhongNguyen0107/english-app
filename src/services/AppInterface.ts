@@ -11,8 +11,7 @@ export type WordReviewPropType = {
   id: string;
   unitId: number;
   word: string;
-  answer: string[];
+  answers: string[];
   phrases?: string[];
   sentences?: string[];
-  onClick?: () => void;
 }
