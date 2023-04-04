@@ -2,7 +2,7 @@
 import React, {useEffect} from 'react';
 import {useRouter} from "next/navigation";
 import {useQuery} from "react-query";
-import {Affix, Button, Col, Input, Row, Space} from "antd";
+import {Affix, Button, Col, Input, Row, Space, Select} from "antd";
 import {WordReviewPropType} from "@/services/AppInterface";
 import {QUERY_CONFIG, ROUTE_NAME} from "@/configuration/Application.config";
 import TabBar from "@/components/tab-bar/TabBar";
@@ -13,6 +13,7 @@ import {InstantSearch} from "react-instantsearch-hooks-web";
 import {ALGOLIA_SEARCH_CONFIG, searchClient} from "@/configuration/algolia-search-config";
 import AlgoliaAutocomplete from "@/components/AlgoliaAutocomplete";
 import Fuse from 'fuse.js'
+import {getListOfUnit} from "@/services/English.service";
 
 const {Search} = Input;
 type IProps = {}
@@ -22,6 +23,7 @@ type IState = {
   active: any;
   strategy: string;
   search: string;
+  unit: number;
   words: any[];
   isShowSentence: boolean;
 }
@@ -30,22 +32,23 @@ const ReviewPage = (props: IProps) => {
   // @ts-ignore
   const {data: wordsResp, isLoading, error} = useQuery('words/review', getWordReview, QUERY_CONFIG);
   const words = wordsResp?.data?.data || []
-  
+
   const [reviewState, setReviewState] = useSetState<IState>({
     active: null,
     words: [],
-    strategy: "ENGLISH",
+    strategy: "VIETNAMESE",
     isShowAnswer: false,
     isShowPhrase: false,
     isShowSentence: false,
-    search: ""
+    search: "",
+    unit: 0
   })
-  
+
   useEffect(() => {
     setReviewState({words: words})
   }, [words]);
-  
-  
+
+
   const onSearchInput = (v: string) => {
     if(!v) setReviewState({search: v, words: words});
     else {
@@ -74,7 +77,7 @@ const ReviewPage = (props: IProps) => {
       }
       //@ts-ignore
       const fuse = new Fuse(words, options)
-      
+
       const results = fuse.search(v)
       const dataFilterUpdate: any[] = results.map(res => {
         // @ts-ignore
@@ -86,7 +89,19 @@ const ReviewPage = (props: IProps) => {
       })
     }
   }
-  
+
+  const onChangeUnit = (v: number) => {
+    let filter = [];
+    if(v === 0) filter = words;
+
+    else filter = words.filter((x: WordReviewPropType) => x.unitId === v)
+
+    return setReviewState({
+      unit: v,
+      words: filter
+    })
+  }
+
   return (
     <div className="page">
       <div className={"page-body"}>
@@ -102,7 +117,7 @@ const ReviewPage = (props: IProps) => {
                     //@ts-ignore
                     onChange={(e) => onSearchInput(e.target.value)}
                   />
-          
+
                   {1 < 0 && (
                     <InstantSearch
                       indexName={ALGOLIA_SEARCH_CONFIG.REVIEW_INDEX_NAME}
@@ -116,26 +131,33 @@ const ReviewPage = (props: IProps) => {
                         className={"auto-complete-tools"}
                       />
                     </InstantSearch>)}
-        
                 </div>
+
+                <Select
+                  defaultValue={reviewState.unit}
+                  style={{ width: 120 }}
+                  onChange={(v) => onChangeUnit(v)}
+                  options={getListOfUnit()}
+                />
+
                 <Button
                   type={"dashed"}
                   onClick={() => setReviewState({isShowAnswer: !reviewState.isShowAnswer})}>
                   {reviewState.isShowAnswer ? `Hide` : `Show`} Word
                 </Button>
-        
+
                 <Button
                   type={"dashed"}
                   onClick={() => setReviewState({isShowPhrase: !reviewState.isShowPhrase})}>
                   {reviewState.isShowPhrase ? `Hide` : `Show`} Phrase
                 </Button>
-  
+
                 <Button
                   type={"dashed"}
                   onClick={() => setReviewState({isShowSentence: !reviewState.isShowSentence})}>
                   {reviewState.isShowSentence ? `Hide` : `Show`} Sentence
                 </Button>
-  
+
                 <Button
                   type={"primary"}
                   onClick={() => {
@@ -147,9 +169,9 @@ const ReviewPage = (props: IProps) => {
                 </Button>
               </Space>
             </Col>
-  
+
           </Affix>
-  
+
           {reviewState.words.map((w: WordReviewPropType, ind: number) => {
             return (
               <Col key={`${w.id}_${ind}`} xs={24} md={12} lg={10} xl={8} xxl={6}>
@@ -166,7 +188,7 @@ const ReviewPage = (props: IProps) => {
 
         </Row>
       </div>
-  
+
       <TabBar active={ROUTE_NAME.REVIEW}/>
     </div>
   );
