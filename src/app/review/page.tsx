@@ -14,6 +14,7 @@ import {ALGOLIA_SEARCH_CONFIG, searchClient} from "@/configuration/algolia-searc
 import AlgoliaAutocomplete from "@/components/AlgoliaAutocomplete";
 import Fuse from 'fuse.js'
 import {getListOfUnit} from "@/services/English.service";
+import "./Review.style.scss"
 
 const {Search} = Input;
 type IProps = {}

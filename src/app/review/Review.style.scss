@@ -1,0 +1,19 @@
+.word-card {
+
+  &:hover {
+    .controls {
+      display: block;
+      position: absolute;
+      bottom: 0;
+      padding: 12px;
+      right: 0;
+      z-index: 2;
+    }
+  }
+
+
+
+  .controls {
+    display: none;
+  }
+}

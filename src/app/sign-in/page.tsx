@@ -9,7 +9,7 @@ const GoogleSignIn = (props: IProps) => {
   const router = useRouter()
   const onLoginHandle = (user: any, token: string) => {
     if(token && user ){
-      return router.push(ROUTE_NAME.LEARNING)
+      return router.push(ROUTE_NAME.REVIEW)
     }
   }
 

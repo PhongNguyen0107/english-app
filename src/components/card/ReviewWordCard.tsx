@@ -1,8 +1,10 @@
 'use client';
 import React from 'react';
-import {Badge} from "antd";
+import {Badge, Button, Space} from "antd";
 import "./WordCard.style.scss";
 import {WordReviewPropType} from "@/services/AppInterface";
+import {FloppyDisk} from "@phosphor-icons/react";
+import {AppColors} from "@/shared/AppColors";
 
 type IProps = {
   word: WordReviewPropType;
@@ -12,6 +14,7 @@ type IProps = {
   isShowPhrase?: boolean;
   strategy: string;
   onClick: () => void;
+  onSaveWord: (w: WordReviewPropType) => void;
 }
 
 const WordCard = (props: IProps) => {
@@ -21,7 +24,7 @@ const WordCard = (props: IProps) => {
     active, strategy
   } = props;
   const {word, unitId, phrases, sentences, answers, id} = wordProps;
-  
+
   return (
     <Badge.Ribbon text={`Unit ${unitId}`} color="green">
       <div className={"word-card"} onClick={onClick}>
@@ -38,14 +41,26 @@ const WordCard = (props: IProps) => {
             </div>
           )}
         </div>
-        
+
         <div className="footer green">
           {(isShowPhrase || active?.id === id) && phrases?.[0] &&
             <div className={"phrase"}><strong>*</strong> {phrases[0]}</div>}
-          
+
           {(isShowSentence || active?.id === id) && sentences?.map(sentence => {
             return <div key={sentence} title={sentence}>{sentence}</div>
           })}
+        </div>
+
+
+        <div className="controls">
+          <Space size={4} direction={"vertical"}>
+            <Button
+              style={{background: AppColors.green60}}
+              type="primary"
+              shape="circle"
+              icon={<FloppyDisk size={12}/>}
+            />
+          </Space>
         </div>
       </div>
     </Badge.Ribbon>
