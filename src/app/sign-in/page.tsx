@@ -1,3 +1,4 @@
+"use client"
 import React from 'react';
 import GoogleSignInProvider from "@/components/GoogleSignInProvider";
 import {useRouter} from "next/navigation";
@@ -8,7 +9,7 @@ const GoogleSignIn = (props: IProps) => {
   const router = useRouter()
   const onLoginHandle = (user: any, token: string) => {
     if(token && user ){
-      return router.push(ROUTE_NAME.HOME)
+      return router.push(ROUTE_NAME.LEARNING)
     }
   }
 
