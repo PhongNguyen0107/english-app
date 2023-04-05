@@ -103,6 +103,10 @@ const ReviewPage = (props: IProps) => {
     })
   }
 
+  const onSaveWord = (w: WordReviewPropType) => {
+
+  }
+
   return (
     <div className="page">
       <div className={"page-body"}>
@@ -136,7 +140,7 @@ const ReviewPage = (props: IProps) => {
 
                 <Select
                   defaultValue={reviewState.unit}
-                  style={{ width: 120 }}
+                  style={{ width: 220 }}
                   onChange={(v) => onChangeUnit(v)}
                   options={getListOfUnit()}
                 />
@@ -182,6 +186,7 @@ const ReviewPage = (props: IProps) => {
                   active={reviewState.active}
                   isShowSentence={reviewState.isShowSentence}
                   isShowPhrase={reviewState.isShowPhrase}
+                  onSaveWord={onSaveWord}
                   isShowAnswer={reviewState.isShowAnswer} word={w}/>
               </Col>
             )

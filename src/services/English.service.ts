@@ -12,6 +12,22 @@ export const getListOfUnit = (): Unit[] => {
       description: "All unit on this application",
       value: 0,
     },
+
+    {
+      label: "01. Daily Activities",
+      description: "",
+      value: 1,
+    },
+    {
+      label: "02. Daily Activities",
+      description: "",
+      value: 2,
+    },
+    {
+      label: "03. A Productive Day",
+      description: "",
+      value: 3,
+    },
     {
       label: "",
       description: "",
