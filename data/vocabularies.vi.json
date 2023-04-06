@@ -3779,5 +3779,425 @@
         "phrases": [
             "Dream of something"
         ]
+    },
+    {
+        "id": "U06_01",
+        "unitId": 6,
+        "word": "Mục tiêu",
+        "answers": [
+            "Goal"
+        ],
+        "sentences": [
+            "He works so hard to achieve his goals"
+        ],
+        "phrases": [
+            "Achieve one's goal"
+        ]
+    },
+    {
+        "id": "U06_02",
+        "unitId": 6,
+        "word": "Công ty",
+        "answers": [
+            "Company"
+        ],
+        "sentences": [
+            "Vinamilk is a very large company"
+        ],
+        "phrases": [
+            "A large company"
+        ]
+    },
+    {
+        "id": "U06_03",
+        "unitId": 6,
+        "word": "Chuẩn bị",
+        "answers": [
+            "Prepare"
+        ],
+        "sentences": [
+            "She saves money to prepare for her retirement"
+        ],
+        "phrases": [
+            "Prepare for something"
+        ]
+    },
+    {
+        "id": "U06_04",
+        "unitId": 6,
+        "word": "Tuyển dụng",
+        "answers": [
+            "Hire"
+        ],
+        "sentences": [
+            "VinGroup hired an excellent employee"
+        ],
+        "phrases": [
+            "Hire an excellent"
+        ]
+    },
+    {
+        "id": "U06_05",
+        "unitId": 6,
+        "word": "Vị trí",
+        "answers": [
+            "Position"
+        ],
+        "sentences": [
+            "She works in a managerial position"
+        ],
+        "phrases": [
+            "Managerial position"
+        ]
+    },
+    {
+        "id": "U06_06",
+        "unitId": 6,
+        "word": "Khả năng",
+        "answers": [
+            "Ability"
+        ],
+        "sentences": [
+            "Influencers have the ability to impact youngsters"
+        ],
+        "phrases": [
+            "The ability to do something"
+        ]
+    },
+    {
+        "id": "U06_07",
+        "unitId": 6,
+        "word": "Đưa đề nghị",
+        "answers": [
+            "Offer"
+        ],
+        "sentences": [
+            "We offer him a full-time position"
+        ],
+        "phrases": [
+            "Offer somebody something"
+        ]
+    },
+    {
+        "id": "U06_08",
+        "unitId": 6,
+        "word": "Điều kiện",
+        "answers": [
+            "Condition"
+        ],
+        "sentences": [
+            "The working conditions at my company are great"
+        ],
+        "phrases": [
+            "Working condition"
+        ]
+    },
+    {
+        "id": "U06_09",
+        "unitId": 6,
+        "word": "Lương ",
+        "answers": [
+            "Salary"
+        ],
+        "sentences": [
+            "He expects a monthly salary of 20 milion dongs"
+        ],
+        "phrases": [
+            "A monthly salary"
+        ]
+    },
+    {
+        "id": "U06_10",
+        "unitId": 6,
+        "word": "Khoản thưởng",
+        "answers": [
+            "Bonus"
+        ],
+        "sentences": [
+            "A year-end bonus is considered a major income"
+        ],
+        "phrases": [
+            "A year-end bonus"
+        ]
+    },
+    {
+        "id": "U06_11",
+        "unitId": 6,
+        "word": "Bảo hiểm",
+        "answers": [
+            "Insurance"
+        ],
+        "sentences": [
+            "Health insurance is compulsory for university students"
+        ],
+        "phrases": [
+            "Health insurance"
+        ]
+    },
+    {
+        "id": "U06_12",
+        "unitId": 6,
+        "word": "Liên quan",
+        "answers": [
+            "Relevant"
+        ],
+        "sentences": [
+            "My experience is not relevant to the job"
+        ],
+        "phrases": [
+            "Relevant to somebody or something"
+        ]
+    },
+    {
+        "id": "U06_13",
+        "unitId": 6,
+        "word": "Nổi bật",
+        "answers": [
+            "Stand out"
+        ],
+        "sentences": [
+            "Lady Gaga stands out as an excellent artist"
+        ],
+        "phrases": [
+            "Stand out as something or somebody"
+        ]
+    },
+    {
+        "id": "U06_14",
+        "unitId": 6,
+        "word": "Nhiệm vụ",
+        "answers": [
+            "Duty"
+        ],
+        "sentences": [
+            "My doctor friend is on duty every weekend"
+        ],
+        "phrases": [
+            "On duty / có ca trực"
+        ]
+    },
+    {
+        "id": "U06_15",
+        "unitId": 6,
+        "word": "Xử lý",
+        "answers": [
+            "Process"
+        ],
+        "sentences": [
+            "It took me 2 days to process all of the documents"
+        ],
+        "phrases": [
+            "Process something"
+        ]
+    },
+    {
+        "id": "U06_16",
+        "unitId": 6,
+        "word": "Đánh giá",
+        "answers": [
+            "Assess"
+        ],
+        "sentences": [
+            "My manager assesses our productivity bi-weekly"
+        ],
+        "phrases": [
+            "Assess something or somebody"
+        ]
+    },
+    {
+        "id": "U06_17",
+        "unitId": 6,
+        "word": "Điểm yếu",
+        "answers": [
+            "Weakness"
+        ],
+        "sentences": [
+            "Knowing your strengths and weaknesses helps you grow"
+        ],
+        "phrases": [
+            "Strengths and weaknesses"
+        ]
+    },
+    {
+        "id": "U06_18",
+        "unitId": 6,
+        "word": "Đào tạo",
+        "answers": [
+            "Training"
+        ],
+        "sentences": [
+            "A training course is required for all new employees"
+        ],
+        "phrases": [
+            "A training course"
+        ]
+    },
+    {
+        "id": "U06_19",
+        "unitId": 6,
+        "word": "Đánh giá",
+        "answers": [
+            "Evaluate"
+        ],
+        "sentences": [
+            "The director evaluates my proposal carefully"
+        ],
+        "phrases": [
+            "Evaluate something"
+        ]
+    },
+    {
+        "id": "U06_20",
+        "unitId": 6,
+        "word": "Mong chờ",
+        "answers": [
+            "Look forward to"
+        ],
+        "sentences": [
+            "I look forward to hearing from you soon"
+        ],
+        "phrases": [
+            "Look forward to doing something"
+        ]
+    },
+    {
+        "id": "U06_21",
+        "unitId": 6,
+        "word": "Luật lệ",
+        "answers": [
+            "Rule"
+        ],
+        "sentences": [
+            "Students are told to follow the rules"
+        ],
+        "phrases": [
+            "Follow a rule"
+        ]
+    },
+    {
+        "id": "U06_22",
+        "unitId": 6,
+        "word": "Sứ mệnh",
+        "answers": [
+            "Mission"
+        ],
+        "sentences": [
+            "She says \"mission accomplished\" when everything is done"
+        ],
+        "phrases": [
+            "Mission accomplished"
+        ]
+    },
+    {
+        "id": "U06_23",
+        "unitId": 6,
+        "word": "Thất bại",
+        "answers": [
+            "Failure"
+        ],
+        "sentences": [
+            "Failure to meet deadlines will impact your pay"
+        ],
+        "phrases": [
+            "Failure to do something"
+        ]
+    },
+    {
+        "id": "U06_24",
+        "unitId": 6,
+        "word": "Bài học",
+        "answers": [
+            "Lesson"
+        ],
+        "sentences": [
+            "My failure helps me learn a lesson"
+        ],
+        "phrases": [
+            "Learn a lesson"
+        ]
+    },
+    {
+        "id": "U06_25",
+        "unitId": 6,
+        "word": "Đủ tiêu chuẩn",
+        "answers": [
+            "Qualify"
+        ],
+        "sentences": [
+            "She does not qualify for the position"
+        ],
+        "phrases": [
+            "Qualify for something"
+        ]
+    },
+    {
+        "id": "U06_26",
+        "unitId": 6,
+        "word": "Phòng ban",
+        "answers": [
+            "Department"
+        ],
+        "sentences": [
+            "He works in the human resources department"
+        ],
+        "phrases": [
+            "The human resources department"
+        ]
+    },
+    {
+        "id": "U06_27",
+        "unitId": 6,
+        "word": "Tạm thời",
+        "answers": [
+            "Temporary"
+        ],
+        "sentences": [
+            "Temporary workers only receive minimum salaries"
+        ],
+        "phrases": [
+            "Temporary workers / Những người lao động tạm thời"
+        ]
+    },
+    {
+        "id": "U06_28",
+        "unitId": 6,
+        "word": "Cuộc hẹn",
+        "answers": [
+            "Appointment"
+        ],
+        "sentences": [
+            "We arranged an appointment with him"
+        ],
+        "phrases": [
+            "Arrange an appointment "
+        ]
+    },
+    {
+        "id": "U06_29",
+        "unitId": 6,
+        "word": "Chính thức ",
+        "answers": [
+            "Official"
+        ],
+        "sentences": [
+            "English and French are the official languages of canada"
+        ],
+        "phrases": [
+            "Official language"
+        ]
+    },
+    {
+        "id": "U06_30",
+        "unitId": 6,
+        "word": "Tiềm năng",
+        "answers": [
+            "Potential"
+        ],
+        "sentences": [
+            "The candidate has the potential to win this election"
+        ],
+        "phrases": [
+            "Have the potential to do something / có tiềm năng làm được gì"
+        ]
     }
 ]
