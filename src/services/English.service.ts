@@ -28,28 +28,39 @@ export const getListOfUnit = (): Unit[] => {
       description: "",
       value: 3,
     },
+
     {
-      label: "",
+      label: "04. Personal Information",
+      description: "",
+      value: 4,
+    },
+    {
+      label: "05. Career Orientation",
+      description: "",
+      value: 5,
+    },
+    {
+      label: "26. ",
       description: "",
       value: 26,
     },
     {
-      label: "",
+      label: "27. ",
       description: "",
       value: 27,
     },
     {
-      label: "",
+      label: "28. ",
       description: "",
       value: 28,
     },
     {
-      label: "",
+      label: "29. ",
       description: "",
       value: 29,
     },
     {
-      label: "",
+      label: "30. ",
       description: "",
       value: 30,
     }
