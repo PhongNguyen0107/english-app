@@ -1,2522 +1,3783 @@
 [
-  {
-    "id": "U01_01",
-    "unitId": 1,
-    "word": "Có xu hướng, thường",
-    "answers": [
-      "Tend"
-    ],
-    "sentences": [
-      "I tend  to listen to my grandmother's advice"
-    ],
-    "phrases": [
-      "Tend to do something"
-    ]
-  },
-  {
-    "id": "U01_02",
-    "unitId": 1,
-    "word": "Tới nơi",
-    "answers": [
-      "Arrive"
-    ],
-    "sentences": [
-      "We arrive home early"
-    ],
-    "phrases": [
-      "Arrive home"
-    ]
-  },
-  {
-    "id": "U01_03",
-    "unitId": 1,
-    "word": "Thức dậy",
-    "answers": [
-      "Get up"
-    ],
-    "sentences": [
-      "I get up at 6 in the morning"
-    ],
-    "phrases": [
-      "Get up in the morning"
-    ]
-  },
-  {
-    "id": "U01_04",
-    "unitId": 1,
-    "word": "Buổi trưa",
-    "answers": [
-      "Noon"
-    ],
-    "sentences": [
-      "My break starts at noon"
-    ],
-    "phrases": [
-      "At noon"
-    ]
-  },
-  {
-    "id": "U01_05",
-    "unitId": 1,
-    "word": "Ca làm",
-    "answers": [
-      "Shift"
-    ],
-    "sentences": [
-      "She is tired because of her night shift"
-    ],
-    "phrases": [
-      "A night shift"
-    ]
-  },
-  {
-    "id": "U01_06",
-    "unitId": 1,
-    "word": "Việc tắm rửa",
-    "answers": [
-      "Shower"
-    ],
-    "sentences": [
-      "She takes a shower twice a day"
-    ],
-    "phrases": [
-      "Take a shower"
-    ]
-  },
-  {
-    "id": "U01_07",
-    "unitId": 1,
-    "word": "Điển hình",
-    "answers": [
-      "Typical"
-    ],
-    "sentences": [
-      "Apple is a typical example of fruit"
-    ],
-    "phrases": [
-      "A typical example"
-    ]
-  },
-  {
-    "id": "U01_08",
-    "unitId": 1,
-    "word": "Chảy",
-    "answers": [
-      "Flow"
-    ],
-    "sentences": [
-      "The water flows down the drain"
-    ],
-    "phrases": [
-      "Flow down somewhere"
-    ]
-  },
-  {
-    "id": "U01_09",
-    "unitId": 1,
-    "word": "Nếp sinh hoạt",
-    "answers": [
-      "Routine"
-    ],
-    "sentences": [
-      "My daily routine is quite boring"
-    ],
-    "phrases": [
-      "A daily routine"
-    ]
-  },
-  {
-    "id": "U01_10",
-    "unitId": 1,
-    "word": "Quay lại",
-    "answers": [
-      "Come back"
-    ],
-    "sentences": [
-      "I will come back home tomorrow"
-    ],
-    "phrases": [
-      "Come back home"
-    ]
-  },
-  {
-    "id": "U01_11",
-    "unitId": 1,
-    "word": "Hóa đơn",
-    "answers": [
-      "Receipt"
-    ],
-    "sentences": [
-      "Keep the receipt in case you need to return the items"
-    ],
-    "phrases": [
-      "Keep the receipt"
-    ]
-  },
-  {
-    "id": "U01_12",
-    "unitId": 1,
-    "word": "Đếm",
-    "answers": [
-      "Count"
-    ],
-    "sentences": [
-      "Let's count from 1 to 10 together"
-    ],
-    "phrases": [
-      "Count from 1 to 10"
-    ]
-  },
-  {
-    "id": "U01_13",
-    "unitId": 1,
-    "word": "Treo, phơi",
-    "answers": [
-      "Hang"
-    ],
-    "sentences": [
-      "My mom hangs the clothes outside"
-    ],
-    "phrases": [
-      "Hang the clothes"
-    ]
-  },
-  {
-    "id": "U01_14",
-    "unitId": 1,
-    "word": "Quần áo cần giặc",
-    "answers": [
-      "Laundry"
-    ],
-    "sentences": [
-      "I often do laundry myself"
-    ],
-    "phrases": [
-      "Do laundry"
-    ]
-  },
-  {
-    "id": "U01_15",
-    "unitId": 1,
-    "word": "Mặc vào",
-    "answers": [
-      "Put on"
-    ],
-    "sentences": [
-      "Her mom helps her put on her clothes"
-    ],
-    "phrases": [
-      "Put on clothes"
-    ]
-  },
-  {
-    "id": "U01_16",
-    "unitId": 1,
-    "word": "Bậc lên",
-    "answers": [
-      "Turn on"
-    ],
-    "sentences": [
-      "Could you turn on the light",
-      " please"
-    ],
-    "phrases": [
-      "Turn on the light"
-    ]
-  },
-  {
-    "id": "U01_17",
-    "unitId": 1,
-    "word": "Nhấn",
-    "answers": [
-      "Press"
-    ],
-    "sentences": [
-      "Press this button to shut down your computer"
-    ],
-    "phrases": [
-      "Press this button"
-    ]
-  },
-  {
-    "id": "U01_18",
-    "unitId": 1,
-    "word": "Đóng",
-    "answers": [
-      "Shut"
-    ],
-    "sentences": [
-      "Shut the door",
-      " please!"
-    ],
-    "phrases": [
-      "Shut the door"
-    ]
-  },
-  {
-    "id": "U01_19",
-    "unitId": 1,
-    "word": "Làm đầy lại",
-    "answers": [
-      "Refill"
-    ],
-    "sentences": [
-      "The waiter refills my glass with some water"
-    ],
-    "phrases": [
-      "Refill a glass with water"
-    ]
-  },
-  {
-    "id": "U01_20",
-    "unitId": 1,
-    "word": "Vai trò",
-    "answers": [
-      "Role"
-    ],
-    "sentences": [
-      "Water plays an important role in nature"
-    ],
-    "phrases": [
-      "Play an important role"
-    ]
-  },
-  {
-    "id": "U01_21",
-    "unitId": 1,
-    "word": "Thông thường",
-    "answers": [
-      "Usual"
-    ],
-    "sentences": [
-      "She gets the highest score as usual"
-    ],
-    "phrases": [
-      "As usual"
-    ]
-  },
-  {
-    "id": "U01_22",
-    "unitId": 1,
-    "word": "Ngày trong tuần",
-    "answers": [
-      "Weekday"
-    ],
-    "sentences": [
-      "You should come on a weekday to avoid the crowd"
-    ],
-    "phrases": [
-      "On a weekday"
-    ]
-  },
-  {
-    "id": "U01_23",
-    "unitId": 1,
-    "word": "Gấp",
-    "answers": [
-      "Fold"
-    ],
-    "sentences": [
-      "Please fold your clothes immediately"
-    ],
-    "phrases": [
-      "Fold clothes"
-    ]
-  },
-  {
-    "id": "U01_24",
-    "unitId": 1,
-    "word": "Là ủi",
-    "answers": [
-      "Iron"
-    ],
-    "sentences": [
-      "My dad irons her clothes every day"
-    ],
-    "phrases": [
-      "Iron the clothes"
-    ]
-  },
-  {
-    "id": "U01_25",
-    "unitId": 1,
-    "word": "Quét",
-    "answers": [
-      "Sweep"
-    ],
-    "sentences": [
-      "My brother has to sweep the floor"
-    ],
-    "phrases": [
-      "Sweep the floor"
-    ]
-  },
-  {
-    "id": "U01_26",
-    "unitId": 1,
-    "word": "Quét bụi",
-    "answers": [
-      "Dust"
-    ],
-    "sentences": [
-      "I dust the bookshelf every week"
-    ],
-    "phrases": [
-      "Dust the bookshelf"
-    ]
-  },
-  {
-    "id": "U01_27",
-    "unitId": 1,
-    "word": "Kéo",
-    "answers": [
-      "Pull"
-    ],
-    "sentences": [
-      "He pulls open the door"
-    ],
-    "phrases": [
-      "Pull open"
-    ]
-  },
-  {
-    "id": "U01_28",
-    "unitId": 1,
-    "word": "Với tới ",
-    "answers": [
-      "Reach"
-    ],
-    "sentences": [
-      "He reaches for the TV remote"
-    ],
-    "phrases": [
-      "Reach for something"
-    ]
-  },
-  {
-    "id": "U01_29",
-    "unitId": 1,
-    "word": "Tầng trên",
-    "answers": [
-      "Upstairs"
-    ],
-    "sentences": [
-      "You can go upstairs to meet him"
-    ],
-    "phrases": [
-      "Go upstairs"
-    ]
-  },
-  {
-    "id": "U01_30",
-    "unitId": 1,
-    "word": "Thang máy",
-    "answers": [
-      "Elevator"
-    ],
-    "sentences": [
-      "I always take the elevator",
-      " not the stairs"
-    ],
-    "phrases": [
-      "Take the elevator"
-    ]
-  },
-  {
-    "id": "U02_01",
-    "unitId": 2,
-    "word": "Làm phiền",
-    "answers": [
-      "Bother"
-    ],
-    "sentences": [
-      "Don't bother me when I am working"
-    ],
-    "phrases": [
-      "Don't bother somebody"
-    ]
-  },
-  {
-    "id": "U02_02",
-    "unitId": 2,
-    "word": "Hoàng hôn",
-    "answers": [
-      "Sunset"
-    ],
-    "sentences": [
-      "Beaches at sunset are beautiful"
-    ],
-    "phrases": [
-      "At sunset"
-    ]
-  },
-  {
-    "id": "U02_03",
-    "unitId": 2,
-    "word": "Nữa đêm",
-    "answers": [
-      "Midnight"
-    ],
-    "sentences": [
-      "Why are you still awake at midnight"
-    ],
-    "phrases": [
-      "At mignight"
-    ]
-  },
-  {
-    "id": "U02_04",
-    "unitId": 2,
-    "word": "Buồn ngủ",
-    "answers": [
-      "Sleepy"
-    ],
-    "sentences": [
-      "I always feel sleepy when it’s cold"
-    ],
-    "phrases": [
-      "Feel sleepy"
-    ]
-  },
-  {
-    "id": "U02_05",
-    "unitId": 2,
-    "word": "Tỉnh",
-    "answers": [
-      "Awake"
-    ],
-    "sentences": [
-      "She needs to stay awake for the class"
-    ],
-    "phrases": [
-      "Stay awake"
-    ]
-  },
-  {
-    "id": "U02_06",
-    "unitId": 2,
-    "word": "Ngồi không",
-    "answers": [
-      "Sit around"
-    ],
-    "sentences": [
-      "I sit around watching TV all day"
-    ],
-    "phrases": [
-      "Sit around watching TV"
-    ]
-  },
-  {
-    "id": "U02_07",
-    "unitId": 2,
-    "word": "Rác",
-    "answers": [
-      "Garbage"
-    ],
-    "sentences": [
-      "I take out the garbadge at 5 pm"
-    ],
-    "phrases": [
-      "Take out the garbadge"
-    ]
-  },
-  {
-    "id": "U02_08",
-    "unitId": 2,
-    "word": "Khó khăn",
-    "answers": [
-      "Tough"
-    ],
-    "sentences": [
-      "This is a tough decision for me"
-    ],
-    "phrases": [
-      "A tough decision"
-    ]
-  },
-  {
-    "id": "U02_09",
-    "unitId": 2,
-    "word": "Hơi hơi",
-    "answers": [
-      "Slightly"
-    ],
-    "sentences": [
-      "My brother is slightly taller than me"
-    ],
-    "phrases": [
-      "Slightly taller"
-    ]
-  },
-  {
-    "id": "U02_10",
-    "unitId": 2,
-    "word": "Trượt chân",
-    "answers": [
-      "Slip"
-    ],
-    "sentences": [
-      "He slips on a wet floor at work"
-    ],
-    "phrases": [
-      "Slip on the floor"
-    ]
-  },
-  {
-    "id": "U02_11",
-    "unitId": 2,
-    "word": "Một mình",
-    "answers": [
-      "Alone"
-    ],
-    "sentences": [
-      "Please leave me alone"
-    ],
-    "phrases": [
-      "Leave me alone"
-    ]
-  },
-  {
-    "id": "U02_12",
-    "unitId": 2,
-    "word": "Gõ ",
-    "answers": [
-      "Knock"
-    ],
-    "sentences": [
-      "Someone is knocking on the door"
-    ],
-    "phrases": [
-      "Knock on the door"
-    ]
-  },
-  {
-    "id": "U02_13",
-    "unitId": 2,
-    "word": "Hàng xóm",
-    "answers": [
-      "Neighbor"
-    ],
-    "sentences": [
-      "Our next-door neighbors are very noisy"
-    ],
-    "phrases": [
-      "Next-door neighbors"
-    ]
-  },
-  {
-    "id": "U02_14",
-    "unitId": 2,
-    "word": "Kéo dãn",
-    "answers": [
-      "Stretch"
-    ],
-    "sentences": [
-      "She stretched her body after the workout"
-    ],
-    "phrases": [
-      "Stretch one's body"
-    ]
-  },
-  {
-    "id": "U02_15",
-    "unitId": 2,
-    "word": "Lúc nghỉ ngơi",
-    "answers": [
-      "Rest"
-    ],
-    "sentences": [
-      "The docter told me to get some rest"
-    ],
-    "phrases": [
-      "Get some rest"
-    ]
-  },
-  {
-    "id": "U02_16",
-    "unitId": 2,
-    "word": "Đẩy",
-    "answers": [
-      "Push"
-    ],
-    "sentences": [
-      "My cat pushes all my books off the table"
-    ],
-    "phrases": [
-      "Push something off somewhere"
-    ]
-  },
-  {
-    "id": "U02_17",
-    "unitId": 2,
-    "word": "Làm vỡ",
-    "answers": [
-      "Break"
-    ],
-    "sentences": [
-      "The chef breaks the chocolate bar into pieces"
-    ],
-    "phrases": [
-      "Break into pieces"
-    ]
-  },
-  {
-    "id": "U02_18",
-    "unitId": 2,
-    "word": "Lấp đầy",
-    "answers": [
-      "Fill up"
-    ],
-    "sentences": [
-      "I fill up my bottle with tea"
-    ],
-    "phrases": [
-      "Fill up something"
-    ]
-  },
-  {
-    "id": "U02_19",
-    "unitId": 2,
-    "word": "Làm đổ",
-    "answers": [
-      "Spill"
-    ],
-    "sentences": [
-      "He spills water all over the table"
-    ],
-    "phrases": [
-      "Spill something all over"
-    ]
-  },
-  {
-    "id": "U02_20",
-    "unitId": 2,
-    "word": "Hết sạch",
-    "answers": [
-      "Run out"
-    ],
-    "sentences": [
-      "I am sorry. We have run out of cakes"
-    ],
-    "phrases": [
-      "Run out of something"
-    ]
-  },
-  {
-    "id": "U02_21",
-    "unitId": 2,
-    "word": "Xả nước",
-    "answers": [
-      "Flush"
-    ],
-    "sentences": [
-      "Don't forget to flush the toilet"
-    ],
-    "phrases": [
-      "Flush the toilet"
-    ]
-  },
-  {
-    "id": "U02_22",
-    "unitId": 2,
-    "word": "Hơi thở",
-    "answers": [
-      "Breath"
-    ],
-    "sentences": [
-      "Food with garlic gives you bad breath"
-    ],
-    "phrases": [
-      "Bad breath"
-    ]
-  },
-  {
-    "id": "U02_23",
-    "unitId": 2,
-    "word": "Giai đoạn",
-    "answers": [
-      "Phase"
-    ],
-    "sentences": [
-      "The final phase of vaccine testing is done"
-    ],
-    "phrases": [
-      "The final phase"
-    ]
-  },
-  {
-    "id": "U02_24",
-    "unitId": 2,
-    "word": "Phim dài tập",
-    "answers": [
-      "Series"
-    ],
-    "sentences": [
-      "My favorite TV series is \"Friends\""
-    ],
-    "phrases": [
-      "A TV series"
-    ]
-  },
-  {
-    "id": "U02_25",
-    "unitId": 2,
-    "word": "Thừa",
-    "answers": [
-      "Spare"
-    ],
-    "sentences": [
-      "What do you do in your spare time"
-    ],
-    "phrases": [
-      "Spare time"
-    ]
-  },
-  {
-    "id": "U02_26",
-    "unitId": 2,
-    "word": "Thức muộn",
-    "answers": [
-      "Stay up"
-    ],
-    "sentences": [
-      "He stays up late every night"
-    ],
-    "phrases": [
-      "Stay up late"
-    ]
-  },
-  {
-    "id": "U02_27",
-    "unitId": 2,
-    "word": "Bình minh",
-    "answers": [
-      "Sunrise"
-    ],
-    "sentences": [
-      "My mother wakes up at sunrise to go to the market"
-    ],
-    "phrases": [
-      "At sunrise"
-    ]
-  },
-  {
-    "id": "U02_28",
-    "unitId": 2,
-    "word": "Lúc rảnh rỗi",
-    "answers": [
-      "Leisure"
-    ],
-    "sentences": [
-      "What is your favorite leisure activity?"
-    ],
-    "phrases": [
-      "A leisure activity"
-    ]
-  },
-  {
-    "id": "U02_29",
-    "unitId": 2,
-    "word": "Giấc ngủ ngắn",
-    "answers": [
-      "Snooze"
-    ],
-    "sentences": [
-      "I hit the snooze button 5 times already"
-    ],
-    "phrases": [
-      "Hit the snooze button"
-    ]
-  },
-  {
-    "id": "U02_30",
-    "unitId": 2,
-    "word": "Ngủ nướng ",
-    "answers": [
-      "Sleep in"
-    ],
-    "sentences": [
-      "I usually sleep in on weekends"
-    ],
-    "phrases": [
-      "Sleep in on weekends"
-    ]
-  },
-  {
-    "id": "U26_01",
-    "unitId": 26,
-    "word": "Chương trình",
-    "answers": [
-      "Show"
-    ],
-    "sentences": [
-      "I watch TV shows on my television"
-    ],
-    "phrases": [
-      ""
-    ]
-  },
-  {
-    "id": "U26_02",
-    "unitId": 26,
-    "word": "Cảnh",
-    "answers": [
-      "Scene"
-    ],
-    "sentences": [
-      "The crew needs to film a scene"
-    ],
-    "phrases": [
-      ""
-    ]
-  },
-  {
-    "id": "U26_03",
-    "unitId": 26,
-    "word": "Nam diễn viên",
-    "answers": [
-      "Actor"
-    ],
-    "sentences": [
-      "Who is the lead actor in titanic"
-    ],
-    "phrases": [
-      ""
-    ]
-  },
-  {
-    "id": "U26_04",
-    "unitId": 26,
-    "word": "Thuộc âm nhạc",
-    "answers": [
-      "Musical"
-    ],
-    "sentences": [
-      "The audience loved the musical performance "
-    ],
-    "phrases": [
-      ""
-    ]
-  },
-  {
-    "id": "U26_05",
-    "unitId": 26,
-    "word": "Nhạc phim",
-    "answers": [
-      "Soundtrack"
-    ],
-    "sentences": [
-      "The soundtrack of this movie is great"
-    ],
-    "phrases": [
-      ""
-    ]
-  },
-  {
-    "id": "U26_06",
-    "unitId": 26,
-    "word": "Thuộc lịch sử",
-    "answers": [
-      "Historical"
-    ],
-    "sentences": [
-      "Albert Einstein is an important historical figure"
-    ],
-    "phrases": [
-      ""
-    ]
-  },
-  {
-    "id": "U26_07",
-    "unitId": 26,
-    "word": "Bí ẩn",
-    "answers": [
-      "Mystery"
-    ],
-    "sentences": [
-      "Nobody can solve the mystery of the Bermuda triangle"
-    ],
-    "phrases": [
-      ""
-    ]
-  },
-  {
-    "id": "U26_08",
-    "unitId": 26,
-    "word": "Tội ác",
-    "answers": [
-      "Crime"
-    ],
-    "sentences": [
-      "Stealing money is a serious crime"
-    ],
-    "phrases": [
-      ""
-    ]
-  },
-  {
-    "id": "U26_09",
-    "unitId": 26,
-    "word": "Đoạn kết",
-    "answers": [
-      "Ending"
-    ],
-    "sentences": [
-      "Fairy tales have happy endings"
-    ],
-    "phrases": [
-      ""
-    ]
-  },
-  {
-    "id": "U26_10",
-    "unitId": 26,
-    "word": "Tiết lộ",
-    "answers": [
-      "Reveal"
-    ],
-    "sentences": [
-      "The magician never reveals the truth"
-    ],
-    "phrases": [
-      ""
-    ]
-  },
-  {
-    "id": "U26_11",
-    "unitId": 26,
-    "word": "Phim giật gân",
-    "answers": [
-      "Thriller"
-    ],
-    "sentences": [
-      "Thriller movies are scary"
-    ],
-    "phrases": [
-      ""
-    ]
-  },
-  {
-    "id": "U26_12",
-    "unitId": 26,
-    "word": "Xưởng, không gian sáng tạo",
-    "answers": [
-      "Studio"
-    ],
-    "sentences": [
-      "She teaches us at her dance studio"
-    ],
-    "phrases": [
-      ""
-    ]
-  },
-  {
-    "id": "U26_13",
-    "unitId": 26,
-    "word": "Bối cảnh, khung cảnh",
-    "answers": [
-      "Setting"
-    ],
-    "sentences": [
-      "What a beautiful setting this city is "
-    ],
-    "phrases": [
-      "A beautiful setting"
-    ]
-  },
-  {
-    "id": "U26_14",
-    "unitId": 26,
-    "word": "Điều viễn tưởng",
-    "answers": [
-      "Fiction"
-    ],
-    "sentences": [
-      "She wrote fiction on aliens and love"
-    ],
-    "phrases": [
-      ""
-    ]
-  },
-  {
-    "id": "U26_15",
-    "unitId": 26,
-    "word": "Sự việc kịch tính",
-    "answers": [
-      "Drama"
-    ],
-    "sentences": [
-      "Teens like to watch drama series"
-    ],
-    "phrases": [
-      "A drama series"
-    ]
-  },
-  {
-    "id": "U26_16",
-    "unitId": 26,
-    "word": "Đạo diễn",
-    "answers": [
-      "Director"
-    ],
-    "sentences": [
-      "The young film director deserves our recognition"
-    ],
-    "phrases": [
-      ""
-    ]
-  },
-  {
-    "id": "U26_17",
-    "unitId": 26,
-    "word": "Ra mắt",
-    "answers": [
-      "Come out"
-    ],
-    "sentences": [
-      "When is her album coming out?"
-    ],
-    "phrases": [
-      "Something new comes out"
-    ]
-  },
-  {
-    "id": "U26_18",
-    "unitId": 26,
-    "word": "Nhân vật",
-    "answers": [
-      "Character"
-    ],
-    "sentences": [
-      "The main character in \"Batman\" is mysterious"
-    ],
-    "phrases": [
-      ""
-    ]
-  },
-  {
-    "id": "U26_19",
-    "unitId": 26,
-    "word": "Nữ diễn viên",
-    "answers": [
-      "Actress"
-    ],
-    "sentences": [
-      "She was a good actress back then"
-    ],
-    "phrases": [
-      ""
-    ]
-  },
-  {
-    "id": "U26_20",
-    "unitId": 26,
-    "word": "Kỳ lạ, kỳ quặc",
-    "answers": [
-      "Odd"
-    ],
-    "sentences": [
-      "Hanging out with odd people is fun"
-    ],
-    "phrases": [
-      "An odd person"
-    ]
-  },
-  {
-    "id": "U26_21",
-    "unitId": 26,
-    "word": "Màn hình",
-    "answers": [
-      "Screen"
-    ],
-    "sentences": [
-      "The laptop has a big computer screen"
-    ],
-    "phrases": [
-      ""
-    ]
-  },
-  {
-    "id": "U26_22",
-    "unitId": 26,
-    "word": "Hành động",
-    "answers": [
-      "Action"
-    ],
-    "sentences": [
-      "My favorite action movie is Fast and Furious"
-    ],
-    "phrases": [
-      ""
-    ]
-  },
-  {
-    "id": "U26_23",
-    "unitId": 26,
-    "word": "Chuyến phiêu lưu",
-    "answers": [
-      "Adventure"
-    ],
-    "sentences": [
-      "I seek an adventure of a lifetime"
-    ],
-    "phrases": [
-      ""
-    ]
-  },
-  {
-    "id": "U26_24",
-    "unitId": 26,
-    "word": "Phim tài liệu",
-    "answers": [
-      "Documentary"
-    ],
-    "sentences": [
-      "I watched that documentary film on Netflix"
-    ],
-    "phrases": [
-      ""
-    ]
-  },
-  {
-    "id": "U26_25",
-    "unitId": 26,
-    "word": "Góc",
-    "answers": [
-      "Angle"
-    ],
-    "sentences": [
-      "Tilt your head to a 45 angle"
-    ],
-    "phrases": [
-      ""
-    ]
-  },
-  {
-    "id": "U26_26",
-    "unitId": 26,
-    "word": "Thấy khó hiểu",
-    "answers": [
-      "Confused"
-    ],
-    "sentences": [
-      "Are you confused about the instructions?"
-    ],
-    "phrases": [
-      "Confused about something"
-    ]
-  },
-  {
-    "id": "U26_27",
-    "unitId": 26,
-    "word": "Cuộc hội thoại, lời thoại",
-    "answers": [
-      "Dialogue"
-    ],
-    "sentences": [
-      "The dialogue with my therapist helped me"
-    ],
-    "phrases": [
-      "Dialogue with somebody"
-    ]
-  },
-  {
-    "id": "U26_28",
-    "unitId": 26,
-    "word": "Tác phẩm thành công",
-    "answers": [
-      "Hit"
-    ],
-    "sentences": [
-      "His book became a big hit"
-    ],
-    "phrases": [
-      ""
-    ]
-  },
-  {
-    "id": "U26_29",
-    "unitId": 26,
-    "word": "Tuyệt vời",
-    "answers": [
-      "Wonderful"
-    ],
-    "sentences": [
-      "I am grateful for the wonderful opportunity"
-    ],
-    "phrases": [
-      ""
-    ]
-  },
-  {
-    "id": "U26_30",
-    "unitId": 26,
-    "word": "Tài giỏi, tuyệt vời",
-    "answers": [
-      "Brilliant"
-    ],
-    "sentences": [
-      "Thank you for the brilliant idea"
-    ],
-    "phrases": [
-      ""
-    ]
-  },
-  {
-    "id": "U27_01",
-    "unitId": 27,
-    "word": "Khiêm tốn",
-    "answers": [
-      "Modest"
-    ],
-    "sentences": [
-      "You are too modest! You are gifted."
-    ],
-    "phrases": [
-      ""
-    ]
-  },
-  {
-    "id": "U27_02",
-    "unitId": 27,
-    "word": "Có năng khiếu",
-    "answers": [
-      "Gifted"
-    ],
-    "sentences": [
-      "Do you consider yourself a gifted musican?"
-    ],
-    "phrases": [
-      ""
-    ]
-  },
-  {
-    "id": "U27_03",
-    "unitId": 27,
-    "word": "Ngành giải trí",
-    "answers": [
-      "Showbiz"
-    ],
-    "sentences": [
-      "People in showbiz are movie stars"
-    ],
-    "phrases": [
-      ""
-    ]
-  },
-  {
-    "id": "U27_04",
-    "unitId": 27,
-    "word": "Kênh",
-    "answers": [
-      "Channel"
-    ],
-    "sentences": [
-      "The show is live on the VTV3 channel"
-    ],
-    "phrases": [
-      ""
-    ]
-  },
-  {
-    "id": "U27_05",
-    "unitId": 27,
-    "word": "Truyền thông",
-    "answers": [
-      "Media"
-    ],
-    "sentences": [
-      "My mom posts so many pictures on social media"
-    ],
-    "phrases": [
-      ""
-    ]
-  },
-  {
-    "id": "U27_06",
-    "unitId": 27,
-    "word": "Nổi tiếng",
-    "answers": [
-      "Well-known"
-    ],
-    "sentences": [
-      "Is he a well-known actor?"
-    ],
-    "phrases": [
-      ""
-    ]
-  },
-  {
-    "id": "U27_07",
-    "unitId": 27,
-    "word": "Nhận ra",
-    "answers": [
-      "Recognize"
-    ],
-    "sentences": [
-      "Did you recognize me on stage?"
-    ],
-    "phrases": [
-      "Recognize somebody or something"
-    ]
-  },
-  {
-    "id": "U27_08",
-    "unitId": 27,
-    "word": "Người hâm mộ",
-    "answers": [
-      "Fan"
-    ],
-    "sentences": [
-      "My girlfriend is a big soccer fan"
-    ],
-    "phrases": [
-      "A soccer fan"
-    ]
-  },
-  {
-    "id": "U27_09",
-    "unitId": 27,
-    "word": "Đăng ký",
-    "answers": [
-      "Subscribe"
-    ],
-    "sentences": [
-      "Please subscribe to step up english youtube channel"
-    ],
-    "phrases": [
-      ""
-    ]
-  },
-  {
-    "id": "U27_10",
-    "unitId": 27,
-    "word": "Hét to",
-    "answers": [
-      "Sceam"
-    ],
-    "sentences": [
-      "They screamed out loud for help"
-    ],
-    "phrases": [
-      "Scream out loud"
-    ]
-  },
-  {
-    "id": "U27_11",
-    "unitId": 27,
-    "word": "Buồn cười",
-    "answers": [
-      "Funny"
-    ],
-    "sentences": [
-      "The funny story made me laugh hard"
-    ],
-    "phrases": [
-      "A funny story"
-    ]
-  },
-  {
-    "id": "U27_12",
-    "unitId": 27,
-    "word": "Hiện nay",
-    "answers": [
-      "Currently"
-    ],
-    "sentences": [
-      "I am currently working as a front-end developer"
-    ],
-    "phrases": [
-      "Currently working as something"
-    ]
-  },
-  {
-    "id": "U27_13",
-    "unitId": 27,
-    "word": "Lan truyền nhanh",
-    "answers": [
-      "Viral"
-    ],
-    "sentences": [
-      "The video went viral on Facebook"
-    ],
-    "phrases": [
-      "Go viral"
-    ]
-  },
-  {
-    "id": "U27_14",
-    "unitId": 27,
-    "word": "Màn biểu diễn",
-    "answers": [
-      "Performance"
-    ],
-    "sentences": [
-      "The opera singer delivered an outstanding performance"
-    ],
-    "phrases": [
-      "Deliver an outstanding performance"
-    ]
-  },
-  {
-    "id": "U27_15",
-    "unitId": 27,
-    "word": "Quá khứ",
-    "answers": [
-      "Past"
-    ],
-    "sentences": [
-      "I used to live abroad in the past"
-    ],
-    "phrases": [
-      "In the past"
-    ]
-  },
-  {
-    "id": "U27_16",
-    "unitId": 27,
-    "word": "Trở nên",
-    "answers": [
-      "Become"
-    ],
-    "sentences": [
-      "I want to become a person of influence"
-    ],
-    "phrases": [
-      "Become somebody or something"
-    ]
-  },
-  {
-    "id": "U27_17",
-    "unitId": 27,
-    "word": "Toàn cầu",
-    "answers": [
-      "Global"
-    ],
-    "sentences": [
-      "The singer's talent made her go global"
-    ],
-    "phrases": [
-      "Go global"
-    ]
-  },
-  {
-    "id": "U27_18",
-    "unitId": 27,
-    "word": "Lên tiếng",
-    "answers": [
-      "Speak out"
-    ],
-    "sentences": [
-      "She bravely spoke out against her boss"
-    ],
-    "phrases": [
-      "Speak out against somebody or something"
-    ]
-  },
-  {
-    "id": "U27_19",
-    "unitId": 27,
-    "word": "Xứng đáng",
-    "answers": [
-      "Deserve"
-    ],
-    "sentences": [
-      "I deserve ice cream after work"
-    ],
-    "phrases": [
-      "Deserve something"
-    ]
-  },
-  {
-    "id": "U27_20",
-    "unitId": 27,
-    "word": "Trực tiếp",
-    "answers": [
-      "Live"
-    ],
-    "sentences": [
-      "The band did a live performance"
-    ],
-    "phrases": [
-      "A live performance"
-    ]
-  },
-  {
-    "id": "U27_21",
-    "unitId": 27,
-    "word": "Giải thưởng",
-    "answers": [
-      "Award"
-    ],
-    "sentences": [
-      "She received an award for her acting"
-    ],
-    "phrases": [
-      "Receive an award"
-    ]
-  },
-  {
-    "id": "U27_22",
-    "unitId": 27,
-    "word": "Danh dự",
-    "answers": [
-      "Honor"
-    ],
-    "sentences": [
-      "Welcome",
-      " you are my guest of honor"
-    ],
-    "phrases": [
-      "The guest of honor"
-    ]
-  },
-  {
-    "id": "U27_23",
-    "unitId": 27,
-    "word": "Việc thiện nguyện",
-    "answers": [
-      "Charity"
-    ],
-    "sentences": [
-      "We should do charity for the disadvantaged"
-    ],
-    "phrases": [
-      "Do charity for somebody"
-    ]
-  },
-  {
-    "id": "U27_24",
-    "unitId": 27,
-    "word": "Tình nguyện",
-    "answers": [
-      "Volunteer"
-    ],
-    "sentences": [
-      "She volunteered to clean the car"
-    ],
-    "phrases": [
-      "Volunteer to do something"
-    ]
-  },
-  {
-    "id": "U27_25",
-    "unitId": 27,
-    "word": "Vụ bê bối",
-    "answers": [
-      "Scandal"
-    ],
-    "sentences": [
-      "He created the scandal to attract attention"
-    ],
-    "phrases": [
-      "Create a scandal"
-    ]
-  },
-  {
-    "id": "U27_26",
-    "unitId": 27,
-    "word": "Tin đồn",
-    "answers": [
-      "Rumor"
-    ],
-    "sentences": [
-      "Rumor has it that you got the job!"
-    ],
-    "phrases": [
-      "Rumor has it that"
-    ]
-  },
-  {
-    "id": "U27_27",
-    "unitId": 27,
-    "word": "Tiểu sử",
-    "answers": [
-      "Biography"
-    ],
-    "sentences": [
-      "They wrote a biography of her life"
-    ],
-    "phrases": [
-      "A biography of something"
-    ]
-  },
-  {
-    "id": "U27_28",
-    "unitId": 27,
-    "word": "Ngưỡng mộ",
-    "answers": [
-      "Admire"
-    ],
-    "sentences": [
-      "I admire my student's passion"
-    ],
-    "phrases": [
-      "Admire somebody or something"
-    ]
-  },
-  {
-    "id": "U27_29",
-    "unitId": 27,
-    "word": "Ngưỡng mộ",
-    "answers": [
-      "Look up to"
-    ],
-    "sentences": [
-      "I look up to my father very much"
-    ],
-    "phrases": [
-      "Look up to somebody"
-    ]
-  },
-  {
-    "id": "U27_30",
-    "unitId": 27,
-    "word": "Đáp ứng tiêu chuẩn",
-    "answers": [
-      "Live up to"
-    ],
-    "sentences": [
-      "He lived up to my parent's expectations"
-    ],
-    "phrases": [
-      "Live up to my parent's expectations"
-    ]
-  },
-  {
-    "id": "U28_01",
-    "unitId": 28,
-    "word": "Buổi hòa nhạc",
-    "answers": [
-      "Concert"
-    ],
-    "sentences": [
-      "Let's go to a concert tonight!"
-    ],
-    "phrases": [
-      "Go to a concert"
-    ]
-  },
-  {
-    "id": "U28_02",
-    "unitId": 28,
-    "word": "Trò xếp hình, trò giải đố",
-    "answers": [
-      "Puzzle"
-    ],
-    "sentences": [
-      "Crassword puzzles are for everyone to play"
-    ],
-    "phrases": [
-      "A crossword puzzle"
-    ]
-  },
-  {
-    "id": "U28_03",
-    "unitId": 28,
-    "word": "Đoán",
-    "answers": [
-      "Guess"
-    ],
-    "sentences": [
-      "Can you guess my age"
-    ],
-    "phrases": [
-      "Guess something"
-    ]
-  },
-  {
-    "id": "U28_04",
-    "unitId": 28,
-    "word": "Tin Tường",
-    "answers": [
-      "Keen"
-    ],
-    "sentences": [
-      "She has a keen eye for fashion"
-    ],
-    "phrases": [
-      "A keen eye for something"
-    ]
-  },
-  {
-    "id": "U28_05",
-    "unitId": 28,
-    "word": "Đan",
-    "answers": [
-      "Knit"
-    ],
-    "sentences": [
-      "Grandma loves to knit scarves"
-    ],
-    "phrases": [
-      "Knit something"
-    ]
-  },
-  {
-    "id": "U28_06",
-    "unitId": 28,
-    "word": "Tiểu thuyết",
-    "answers": [
-      "Novel"
-    ],
-    "sentences": [
-      "The author wrote two best-selling novels"
-    ],
-    "phrases": [
-      "A best-selling novel"
-    ]
-  },
-  {
-    "id": "U28_07",
-    "unitId": 28,
-    "word": "Bộ sưu tập",
-    "answers": [
-      "Collection"
-    ],
-    "sentences": [
-      "He has a collection of vinyl records"
-    ],
-    "phrases": [
-      "Collection of something"
-    ]
-  },
-  {
-    "id": "U28_08",
-    "unitId": 28,
-    "word": "Chèo thuyền",
-    "answers": [
-      "Sail"
-    ],
-    "sentences": [
-      "Can we sail a boat tomorrow?"
-    ],
-    "phrases": [
-      "Sail a boat"
-    ]
-  },
-  {
-    "id": "U28_09",
-    "unitId": 28,
-    "word": "Có hứng thú",
-    "answers": [
-      "Interested"
-    ],
-    "sentences": [
-      "Are you interested in the arts?"
-    ],
-    "phrases": [
-      "Interested in something or somebody"
-    ]
-  },
-  {
-    "id": "U28_10",
-    "unitId": 28,
-    "word": "Nhiếp ảnh",
-    "answers": [
-      "Photography"
-    ],
-    "sentences": [
-      "The artist mainly does digital photography"
-    ],
-    "phrases": [
-      "Digital photography"
-    ]
-  },
-  {
-    "id": "U28_11",
-    "unitId": 28,
-    "word": "Hướng dẫn cách làm",
-    "answers": [
-      "Tutorial"
-    ],
-    "sentences": [
-      "Check out her step-by-step tutorial on makeup"
-    ],
-    "phrases": [
-      "Step-by-Step tutorial"
-    ]
-  },
-  {
-    "id": "U28_12",
-    "unitId": 28,
-    "word": "Nhật ký bằng video",
-    "answers": [
-      "Vlogs"
-    ]
-  },
-  {
-    "id": "U28_13",
-    "unitId": 28,
-    "word": "Đội, nhóm",
-    "answers": [
-      "Team"
-    ],
-    "sentences": [
-      "The soccer team won 5-1"
-    ],
-    "phrases": [
-      "A soccer team"
-    ]
-  },
-  {
-    "id": "U28_14",
-    "unitId": 28,
-    "word": "Thử",
-    "answers": [
-      "Try out"
-    ],
-    "sentences": [
-      "Would you try out a new method of cooking?"
-    ],
-    "phrases": [
-      "Try out a new method"
-    ]
-  },
-  {
-    "id": "U28_15",
-    "unitId": 28,
-    "word": "Tham gia",
-    "answers": [
-      "Participate"
-    ],
-    "sentences": [
-      "Please participate more in class"
-    ],
-    "phrases": [
-      "Participate in something"
-    ]
-  },
-  {
-    "id": "U28_16",
-    "unitId": 28,
-    "word": "Chương trình",
-    "answers": [
-      "Program"
-    ],
-    "sentences": [
-      "She works for a news program"
-    ],
-    "phrases": [
-      "A news program"
-    ]
-  },
-  {
-    "id": "U28_17",
-    "unitId": 28,
-    "word": "Hoạt hình",
-    "answers": [
-      "Cartoon"
-    ],
-    "sentences": [
-      "Mickey mouse is a walt disney cartoon"
-    ]
-  },
-  {
-    "id": "U28_18",
-    "unitId": 28,
-    "word": "Thể loại",
-    "answers": [
-      "Genre"
-    ],
-    "sentences": [
-      "What music genre do you listen to?"
-    ],
-    "phrases": [
-      "Music genre"
-    ]
-  },
-  {
-    "id": "U28_19",
-    "unitId": 28,
-    "word": "Phim hài",
-    "answers": [
-      "Comedy"
-    ],
-    "sentences": [
-      "My friend loves watching remoantic comedies"
-    ],
-    "phrases": [
-      "A romantic comedy"
-    ]
-  },
-  {
-    "id": "U28_20",
-    "unitId": 28,
-    "word": "Trèo",
-    "answers": [
-      "Climb"
-    ],
-    "sentences": [
-      "The cat climbed up the tree"
-    ],
-    "phrases": [
-      "Climb up something"
-    ]
-  },
-  {
-    "id": "U28_21",
-    "unitId": 28,
-    "word": "Sự thích thú, niềm vui",
-    "answers": [
-      "Pleasure"
-    ],
-    "sentences": [
-      "The kids find pleasure in singing"
-    ],
-    "phrases": [
-      "Take or find pleasure in doing something"
-    ]
-  },
-  {
-    "id": "U28_22",
-    "unitId": 28,
-    "word": "Trong nhà",
-    "answers": [
-      "Indoor"
-    ],
-    "sentences": [
-      "The hotel's indoor swimming pool is huge!"
-    ],
-    "phrases": [
-      "An indoor swimming pool"
-    ]
-  },
-  {
-    "id": "U28_23",
-    "unitId": 28,
-    "word": "Chuyến nghỉ dưỡng, kỳ nghỉ",
-    "answers": [
-      "Holiday"
-    ],
-    "sentences": [
-      "I do not work on holiday"
-    ],
-    "phrases": [
-      "On holiday"
-    ]
-  },
-  {
-    "id": "U28_24",
-    "unitId": 28,
-    "word": "Chuyến đi",
-    "answers": [
-      "Ride"
-    ],
-    "sentences": [
-      "We are in for a bumpy ride"
-    ],
-    "phrases": [
-      "A bumpy ride"
-    ]
-  },
-  {
-    "id": "U28_25",
-    "unitId": 28,
-    "word": "Có ý nghĩa",
-    "answers": [
-      "Meaningful"
-    ],
-    "sentences": [
-      "I strive to do meaningful work"
-    ],
-    "phrases": [
-      "Meaningful work"
-    ]
-  },
-  {
-    "id": "U28_26",
-    "unitId": 28,
-    "word": "Việc cấm trại",
-    "answers": [
-      "Camping"
-    ],
-    "sentences": [
-      "We are going on a camping trip"
-    ],
-    "phrases": [
-      "A camping trip"
-    ]
-  },
-  {
-    "id": "U28_27",
-    "unitId": 28,
-    "word": "Hợp tác",
-    "answers": [
-      "Cooperate"
-    ],
-    "sentences": [
-      "You have to cooperate with here"
-    ],
-    "phrases": [
-      "Cooperate with something or somebody"
-    ]
-  },
-  {
-    "id": "U28_28",
-    "unitId": 28,
-    "word": "Lều",
-    "answers": [
-      "Tent"
-    ],
-    "sentences": [
-      "Please put up the tent for me"
-    ],
-    "phrases": [
-      "Put up a tent"
-    ]
-  },
-  {
-    "id": "U28_29",
-    "unitId": 28,
-    "word": "Hứng thú với",
-    "answers": [
-      "Go in for"
-    ],
-    "sentences": [
-      "My sister decides to go in for a debate competition"
-    ],
-    "phrases": [
-      "Go in for a competition"
-    ]
-  },
-  {
-    "id": "U28_30",
-    "unitId": 28,
-    "word": "Thích hơn",
-    "answers": [
-      "Prefer"
-    ],
-    "sentences": [
-      "She prefers eating apples to pears"
-    ],
-    "phrases": [
-      "Prefer something to something"
-    ]
-  },
-  {
-    "id": "U29_01",
-    "unitId": 29,
-    "word": "Câu cá",
-    "answers": [
-      "Fishing"
-    ],
-    "sentences": [
-      "My dad and I go fishing every day"
-    ],
-    "phrases": [
-      "Go fishing"
-    ]
-  },
-  {
-    "id": "U29_02",
-    "unitId": 29,
-    "word": "Vận động viên",
-    "answers": [
-      "Athlete"
-    ],
-    "sentences": [
-      "Olumpic athletes train hard to complete"
-    ],
-    "phrases": [
-      "An Olympic athlete"
-    ]
-  },
-  {
-    "id": "U29_03",
-    "unitId": 29,
-    "word": "Môn đấu vật",
-    "answers": [
-      "Wrestling"
-    ],
-    "sentences": [
-      "Wrestling matches are popular in the US"
-    ],
-    "phrases": [
-      "A wrestling match"
-    ]
-  },
-  {
-    "id": "U29_04",
-    "unitId": 29,
-    "word": "Chuyên nghiệp",
-    "answers": [
-      "Professional"
-    ],
-    "sentences": [
-      "He was a professional soccer player"
-    ],
-    "phrases": [
-      "A professional soccer player"
-    ]
-  },
-  {
-    "id": "U29_05",
-    "unitId": 29,
-    "word": "Hàng năm",
-    "answers": [
-      "Annual"
-    ],
-    "sentences": [
-      "The company has annual meetings for us"
-    ],
-    "phrases": [
-      "An annual meeting"
-    ]
-  },
-  {
-    "id": "U29_06",
-    "unitId": 29,
-    "word": "Giải đấu",
-    "answers": [
-      "Tournament"
-    ],
-    "sentences": [
-      "What an exciting soccer tournament!"
-    ],
-    "phrases": [
-      "A soccer tournament"
-    ]
-  },
-  {
-    "id": "U29_07",
-    "unitId": 29,
-    "word": "Huấn luyện viên",
-    "answers": [
-      "Coach"
-    ],
-    "sentences": [
-      "The team coach trains us hard"
-    ],
-    "phrases": [
-      "The team coach"
-    ]
-  },
-  {
-    "id": "U29_08",
-    "unitId": 29,
-    "word": "Trận đấu",
-    "answers": [
-      "Match"
-    ],
-    "sentences": [
-      "There is a soccer match tonight"
-    ],
-    "phrases": [
-      "A soccer match"
-    ]
-  },
-  {
-    "id": "U29_09",
-    "unitId": 29,
-    "word": "Đánh bại",
-    "answers": [
-      "Beat"
-    ],
-    "sentences": [
-      "They beat their opponents in the first round"
-    ],
-    "phrases": [
-      "Beat something or somebody"
-    ]
-  },
-  {
-    "id": "U29_10",
-    "unitId": 29,
-    "word": "Đối thủ",
-    "answers": [
-      "Opponent"
-    ],
-    "sentences": [
-      "She is my opponent in chess"
-    ],
-    "phrases": [
-      "One's oppponent in something"
-    ]
-  },
-  {
-    "id": "U29_11",
-    "unitId": 29,
-    "word": "Môn thể thao",
-    "answers": [
-      "Athletics"
-    ],
-    "sentences": [
-      "Football",
-      " soccer",
-      " and baseball are types of atheletics"
-    ],
-    "phrases": [
-      "Types of athletics"
-    ]
-  },
-  {
-    "id": "U29_12",
-    "unitId": 29,
-    "word": "Bóng rỗ",
-    "answers": [
-      "Basketball"
-    ],
-    "sentences": [
-      "I am the captain of the basketball team"
-    ],
-    "phrases": [
-      "A basketball team"
-    ]
-  },
-  {
-    "id": "U29_13",
-    "unitId": 29,
-    "word": "Người chơi",
-    "answers": [
-      "Player"
-    ],
-    "sentences": [
-      "He is the best soccer player here"
-    ],
-    "phrases": [
-      "A soccer player"
-    ]
-  },
-  {
-    "id": "U29_14",
-    "unitId": 29,
-    "word": "Liên đoàn ",
-    "answers": [
-      "League"
-    ],
-    "sentences": [
-      "My sone plays for a soccer league"
-    ],
-    "phrases": [
-      "A soccer league"
-    ]
-  },
-  {
-    "id": "U29_15",
-    "unitId": 29,
-    "word": "Giải vô địch",
-    "answers": [
-      "Championship"
-    ],
-    "sentences": [
-      "Are you ready for the basketball championship"
-    ],
-    "phrases": [
-      "A basketball championship"
-    ]
-  },
-  {
-    "id": "U29_16",
-    "unitId": 29,
-    "word": "Đội trưởng",
-    "answers": [
-      "Captain"
-    ],
-    "sentences": [
-      "We vote for a team camtain"
-    ],
-    "phrases": [
-      "Team captain"
-    ]
-  },
-  {
-    "id": "U29_17",
-    "unitId": 29,
-    "word": "Ghi điểm",
-    "answers": [
-      "Score"
-    ],
-    "sentences": [
-      "He scored a goal for the team"
-    ],
-    "phrases": [
-      "Score a goal"
-    ]
-  },
-  {
-    "id": "U29_18",
-    "unitId": 29,
-    "word": "Danh hiệu",
-    "answers": [
-      "Title"
-    ],
-    "sentences": [
-      "The team won the title with a goal in the last minute"
-    ],
-    "phrases": [
-      "Win the title"
-    ]
-  },
-  {
-    "id": "U29_19",
-    "unitId": 29,
-    "word": "Lưới",
-    "answers": [
-      "Net"
-    ],
-    "sentences": [
-      "The fishing net has holes in it"
-    ],
-    "phrases": [
-      "A fishing net"
-    ]
-  },
-  {
-    "id": "U29_20",
-    "unitId": 29,
-    "word": "Anh hùng",
-    "answers": [
-      "Hero"
-    ],
-    "sentences": [
-      "The fireman became a local hero"
-    ],
-    "phrases": [
-      "A local hero"
-    ]
-  },
-  {
-    "id": "U29_21",
-    "unitId": 29,
-    "word": "Môn đạp xe",
-    "answers": [
-      "Cycling"
-    ],
-    "sentences": [
-      "She went cycling down the hill"
-    ],
-    "phrases": [
-      "Go cycling"
-    ]
-  },
-  {
-    "id": "U29_22",
-    "unitId": 29,
-    "word": "Sân vận động",
-    "answers": [
-      "Stadium"
-    ],
-    "sentences": [
-      "Where is the biggest sports stadium in hanoi"
-    ],
-    "phrases": [
-      "A sport stadium"
-    ]
-  },
-  {
-    "id": "U29_23",
-    "unitId": 29,
-    "word": "Người thắng cuộc",
-    "answers": [
-      "Winner"
-    ],
-    "sentences": [
-      "The actor is an award winner"
-    ],
-    "phrases": [
-      "An award winer"
-    ]
-  },
-  {
-    "id": "U29_24",
-    "unitId": 29,
-    "word": "Môn đánh golf",
-    "answers": [
-      "Golf"
-    ],
-    "sentences": [
-      "Businessmen love to play golf"
-    ],
-    "phrases": [
-      "Play golf"
-    ]
-  },
-  {
-    "id": "U29_25",
-    "unitId": 29,
-    "word": "Đánh",
-    "answers": [
-      "Strike"
-    ],
-    "sentences": [
-      "He strikes the golf ball perfectly"
-    ],
-    "phrases": [
-      "Strike the ball"
-    ]
-  },
-  {
-    "id": "U29_26",
-    "unitId": 29,
-    "word": "Đích, mục tiêu",
-    "answers": [
-      "Target"
-    ],
-    "sentences": [
-      "He shot the arrow and hit the target"
-    ],
-    "phrases": [
-      "Hit the target"
-    ]
-  },
-  {
-    "id": "U29_27",
-    "unitId": 29,
-    "word": "Tối đa",
-    "answers": [
-      "Maximum"
-    ],
-    "sentences": [
-      "The maximum amount for storage is 256GB"
-    ],
-    "phrases": [
-      "The maximum amount"
-    ]
-  },
-  {
-    "id": "U29_28",
-    "unitId": 29,
-    "word": "Lướt",
-    "answers": [
-      "Surf"
-    ],
-    "sentences": [
-      "In hawaii",
-      " you must surf the waves"
-    ],
-    "phrases": [
-      "Surf the wave"
-    ]
-  },
-  {
-    "id": "U29_29",
-    "unitId": 29,
-    "word": "Không may",
-    "answers": [
-      "Unfortunately"
-    ],
-    "sentences": [
-      "Unfortunately",
-      " I won't be able to attend the meeting"
-    ],
-    "phrases": [
-      "Unfortunately",
-      " I won't"
-    ]
-  },
-  {
-    "id": "U29_30",
-    "unitId": 29,
-    "word": "Trân trọng, đánh giá cao",
-    "answers": [
-      "Appreciate"
-    ],
-    "sentences": [
-      "I appreciate the help you gave me"
-    ],
-    "phrases": [
-      "Appreciate somebody or something"
-    ]
-  }
+    {
+        "id": "U01_01",
+        "unitId": 1,
+        "word": "Có xu hướng, thường",
+        "answers": [
+            "Tend"
+        ],
+        "sentences": [
+            "I tend  to listen to my grandmother's advice"
+        ],
+        "phrases": [
+            "Tend to do something"
+        ]
+    },
+    {
+        "id": "U01_02",
+        "unitId": 1,
+        "word": "Tới nơi",
+        "answers": [
+            "Arrive"
+        ],
+        "sentences": [
+            "We arrive home early"
+        ],
+        "phrases": [
+            "Arrive home"
+        ]
+    },
+    {
+        "id": "U01_03",
+        "unitId": 1,
+        "word": "Thức dậy",
+        "answers": [
+            "Get up"
+        ],
+        "sentences": [
+            "I get up at 6 in the morning"
+        ],
+        "phrases": [
+            "Get up in the morning"
+        ]
+    },
+    {
+        "id": "U01_04",
+        "unitId": 1,
+        "word": "Buổi trưa",
+        "answers": [
+            "Noon"
+        ],
+        "sentences": [
+            "My break starts at noon"
+        ],
+        "phrases": [
+            "At noon"
+        ]
+    },
+    {
+        "id": "U01_05",
+        "unitId": 1,
+        "word": "Ca làm",
+        "answers": [
+            "Shift"
+        ],
+        "sentences": [
+            "She is tired because of her night shift"
+        ],
+        "phrases": [
+            "A night shift"
+        ]
+    },
+    {
+        "id": "U01_06",
+        "unitId": 1,
+        "word": "Việc tắm rửa",
+        "answers": [
+            "Shower"
+        ],
+        "sentences": [
+            "She takes a shower twice a day"
+        ],
+        "phrases": [
+            "Take a shower"
+        ]
+    },
+    {
+        "id": "U01_07",
+        "unitId": 1,
+        "word": "Điển hình",
+        "answers": [
+            "Typical"
+        ],
+        "sentences": [
+            "Apple is a typical example of fruit"
+        ],
+        "phrases": [
+            "A typical example"
+        ]
+    },
+    {
+        "id": "U01_08",
+        "unitId": 1,
+        "word": "Chảy",
+        "answers": [
+            "Flow"
+        ],
+        "sentences": [
+            "The water flows down the drain"
+        ],
+        "phrases": [
+            "Flow down somewhere"
+        ]
+    },
+    {
+        "id": "U01_09",
+        "unitId": 1,
+        "word": "Nếp sinh hoạt",
+        "answers": [
+            "Routine"
+        ],
+        "sentences": [
+            "My daily routine is quite boring"
+        ],
+        "phrases": [
+            "A daily routine"
+        ]
+    },
+    {
+        "id": "U01_10",
+        "unitId": 1,
+        "word": "Quay lại",
+        "answers": [
+            "Come back"
+        ],
+        "sentences": [
+            "I will come back home tomorrow"
+        ],
+        "phrases": [
+            "Come back home"
+        ]
+    },
+    {
+        "id": "U01_11",
+        "unitId": 1,
+        "word": "Hóa đơn",
+        "answers": [
+            "Receipt"
+        ],
+        "sentences": [
+            "Keep the receipt in case you need to return the items"
+        ],
+        "phrases": [
+            "Keep the receipt"
+        ]
+    },
+    {
+        "id": "U01_12",
+        "unitId": 1,
+        "word": "Đếm",
+        "answers": [
+            "Count"
+        ],
+        "sentences": [
+            "Let's count from 1 to 10 together"
+        ],
+        "phrases": [
+            "Count from 1 to 10"
+        ]
+    },
+    {
+        "id": "U01_13",
+        "unitId": 1,
+        "word": "Treo, phơi",
+        "answers": [
+            "Hang"
+        ],
+        "sentences": [
+            "My mom hangs the clothes outside"
+        ],
+        "phrases": [
+            "Hang the clothes"
+        ]
+    },
+    {
+        "id": "U01_14",
+        "unitId": 1,
+        "word": "Quần áo cần giặc",
+        "answers": [
+            "Laundry"
+        ],
+        "sentences": [
+            "I often do laundry myself"
+        ],
+        "phrases": [
+            "Do laundry"
+        ]
+    },
+    {
+        "id": "U01_15",
+        "unitId": 1,
+        "word": "Mặc vào",
+        "answers": [
+            "Put on"
+        ],
+        "sentences": [
+            "Her mom helps her put on her clothes"
+        ],
+        "phrases": [
+            "Put on clothes"
+        ]
+    },
+    {
+        "id": "U01_16",
+        "unitId": 1,
+        "word": "Bậc lên",
+        "answers": [
+            "Turn on"
+        ],
+        "sentences": [
+            "Could you turn on the light",
+            " please"
+        ],
+        "phrases": [
+            "Turn on the light"
+        ]
+    },
+    {
+        "id": "U01_17",
+        "unitId": 1,
+        "word": "Nhấn",
+        "answers": [
+            "Press"
+        ],
+        "sentences": [
+            "Press this button to shut down your computer"
+        ],
+        "phrases": [
+            "Press this button"
+        ]
+    },
+    {
+        "id": "U01_18",
+        "unitId": 1,
+        "word": "Đóng",
+        "answers": [
+            "Shut"
+        ],
+        "sentences": [
+            "Shut the door",
+            " please!"
+        ],
+        "phrases": [
+            "Shut the door"
+        ]
+    },
+    {
+        "id": "U01_19",
+        "unitId": 1,
+        "word": "Làm đầy lại",
+        "answers": [
+            "Refill"
+        ],
+        "sentences": [
+            "The waiter refills my glass with some water"
+        ],
+        "phrases": [
+            "Refill a glass with water"
+        ]
+    },
+    {
+        "id": "U01_20",
+        "unitId": 1,
+        "word": "Vai trò",
+        "answers": [
+            "Role"
+        ],
+        "sentences": [
+            "Water plays an important role in nature"
+        ],
+        "phrases": [
+            "Play an important role"
+        ]
+    },
+    {
+        "id": "U01_21",
+        "unitId": 1,
+        "word": "Thông thường",
+        "answers": [
+            "Usual"
+        ],
+        "sentences": [
+            "She gets the highest score as usual"
+        ],
+        "phrases": [
+            "As usual"
+        ]
+    },
+    {
+        "id": "U01_22",
+        "unitId": 1,
+        "word": "Ngày trong tuần",
+        "answers": [
+            "Weekday"
+        ],
+        "sentences": [
+            "You should come on a weekday to avoid the crowd"
+        ],
+        "phrases": [
+            "On a weekday"
+        ]
+    },
+    {
+        "id": "U01_23",
+        "unitId": 1,
+        "word": "Gấp",
+        "answers": [
+            "Fold"
+        ],
+        "sentences": [
+            "Please fold your clothes immediately"
+        ],
+        "phrases": [
+            "Fold clothes"
+        ]
+    },
+    {
+        "id": "U01_24",
+        "unitId": 1,
+        "word": "Là ủi",
+        "answers": [
+            "Iron"
+        ],
+        "sentences": [
+            "My dad irons her clothes every day"
+        ],
+        "phrases": [
+            "Iron the clothes"
+        ]
+    },
+    {
+        "id": "U01_25",
+        "unitId": 1,
+        "word": "Quét",
+        "answers": [
+            "Sweep"
+        ],
+        "sentences": [
+            "My brother has to sweep the floor"
+        ],
+        "phrases": [
+            "Sweep the floor"
+        ]
+    },
+    {
+        "id": "U01_26",
+        "unitId": 1,
+        "word": "Quét bụi",
+        "answers": [
+            "Dust"
+        ],
+        "sentences": [
+            "I dust the bookshelf every week"
+        ],
+        "phrases": [
+            "Dust the bookshelf"
+        ]
+    },
+    {
+        "id": "U01_27",
+        "unitId": 1,
+        "word": "Kéo",
+        "answers": [
+            "Pull"
+        ],
+        "sentences": [
+            "He pulls open the door"
+        ],
+        "phrases": [
+            "Pull open"
+        ]
+    },
+    {
+        "id": "U01_28",
+        "unitId": 1,
+        "word": "Với tới ",
+        "answers": [
+            "Reach"
+        ],
+        "sentences": [
+            "He reaches for the TV remote"
+        ],
+        "phrases": [
+            "Reach for something"
+        ]
+    },
+    {
+        "id": "U01_29",
+        "unitId": 1,
+        "word": "Tầng trên",
+        "answers": [
+            "Upstairs"
+        ],
+        "sentences": [
+            "You can go upstairs to meet him"
+        ],
+        "phrases": [
+            "Go upstairs"
+        ]
+    },
+    {
+        "id": "U01_30",
+        "unitId": 1,
+        "word": "Thang máy",
+        "answers": [
+            "Elevator"
+        ],
+        "sentences": [
+            "I always take the elevator",
+            " not the stairs"
+        ],
+        "phrases": [
+            "Take the elevator"
+        ]
+    },
+    {
+        "id": "U02_01",
+        "unitId": 2,
+        "word": "Làm phiền",
+        "answers": [
+            "Bother"
+        ],
+        "sentences": [
+            "Don't bother me when I am working"
+        ],
+        "phrases": [
+            "Don't bother somebody"
+        ]
+    },
+    {
+        "id": "U02_02",
+        "unitId": 2,
+        "word": "Hoàng hôn",
+        "answers": [
+            "Sunset"
+        ],
+        "sentences": [
+            "Beaches at sunset are beautiful"
+        ],
+        "phrases": [
+            "At sunset"
+        ]
+    },
+    {
+        "id": "U02_03",
+        "unitId": 2,
+        "word": "Nữa đêm",
+        "answers": [
+            "Midnight"
+        ],
+        "sentences": [
+            "Why are you still awake at midnight"
+        ],
+        "phrases": [
+            "At mignight"
+        ]
+    },
+    {
+        "id": "U02_04",
+        "unitId": 2,
+        "word": "Buồn ngủ",
+        "answers": [
+            "Sleepy"
+        ],
+        "sentences": [
+            "I always feel sleepy when it’s cold"
+        ],
+        "phrases": [
+            "Feel sleepy"
+        ]
+    },
+    {
+        "id": "U02_05",
+        "unitId": 2,
+        "word": "Tỉnh",
+        "answers": [
+            "Awake"
+        ],
+        "sentences": [
+            "She needs to stay awake for the class"
+        ],
+        "phrases": [
+            "Stay awake"
+        ]
+    },
+    {
+        "id": "U02_06",
+        "unitId": 2,
+        "word": "Ngồi không",
+        "answers": [
+            "Sit around"
+        ],
+        "sentences": [
+            "I sit around watching TV all day"
+        ],
+        "phrases": [
+            "Sit around watching TV"
+        ]
+    },
+    {
+        "id": "U02_07",
+        "unitId": 2,
+        "word": "Rác",
+        "answers": [
+            "Garbage"
+        ],
+        "sentences": [
+            "I take out the garbadge at 5 pm"
+        ],
+        "phrases": [
+            "Take out the garbadge"
+        ]
+    },
+    {
+        "id": "U02_08",
+        "unitId": 2,
+        "word": "Khó khăn",
+        "answers": [
+            "Tough"
+        ],
+        "sentences": [
+            "This is a tough decision for me"
+        ],
+        "phrases": [
+            "A tough decision"
+        ]
+    },
+    {
+        "id": "U02_09",
+        "unitId": 2,
+        "word": "Hơi hơi",
+        "answers": [
+            "Slightly"
+        ],
+        "sentences": [
+            "My brother is slightly taller than me"
+        ],
+        "phrases": [
+            "Slightly taller"
+        ]
+    },
+    {
+        "id": "U02_10",
+        "unitId": 2,
+        "word": "Trượt chân",
+        "answers": [
+            "Slip"
+        ],
+        "sentences": [
+            "He slips on a wet floor at work"
+        ],
+        "phrases": [
+            "Slip on the floor"
+        ]
+    },
+    {
+        "id": "U02_11",
+        "unitId": 2,
+        "word": "Một mình",
+        "answers": [
+            "Alone"
+        ],
+        "sentences": [
+            "Please leave me alone"
+        ],
+        "phrases": [
+            "Leave me alone"
+        ]
+    },
+    {
+        "id": "U02_12",
+        "unitId": 2,
+        "word": "Gõ ",
+        "answers": [
+            "Knock"
+        ],
+        "sentences": [
+            "Someone is knocking on the door"
+        ],
+        "phrases": [
+            "Knock on the door"
+        ]
+    },
+    {
+        "id": "U02_13",
+        "unitId": 2,
+        "word": "Hàng xóm",
+        "answers": [
+            "Neighbor"
+        ],
+        "sentences": [
+            "Our next-door neighbors are very noisy"
+        ],
+        "phrases": [
+            "Next-door neighbors"
+        ]
+    },
+    {
+        "id": "U02_14",
+        "unitId": 2,
+        "word": "Kéo dãn",
+        "answers": [
+            "Stretch"
+        ],
+        "sentences": [
+            "She stretched her body after the workout"
+        ],
+        "phrases": [
+            "Stretch one's body"
+        ]
+    },
+    {
+        "id": "U02_15",
+        "unitId": 2,
+        "word": "Lúc nghỉ ngơi",
+        "answers": [
+            "Rest"
+        ],
+        "sentences": [
+            "The docter told me to get some rest"
+        ],
+        "phrases": [
+            "Get some rest"
+        ]
+    },
+    {
+        "id": "U02_16",
+        "unitId": 2,
+        "word": "Đẩy",
+        "answers": [
+            "Push"
+        ],
+        "sentences": [
+            "My cat pushes all my books off the table"
+        ],
+        "phrases": [
+            "Push something off somewhere"
+        ]
+    },
+    {
+        "id": "U02_17",
+        "unitId": 2,
+        "word": "Làm vỡ",
+        "answers": [
+            "Break"
+        ],
+        "sentences": [
+            "The chef breaks the chocolate bar into pieces"
+        ],
+        "phrases": [
+            "Break into pieces"
+        ]
+    },
+    {
+        "id": "U02_18",
+        "unitId": 2,
+        "word": "Lấp đầy",
+        "answers": [
+            "Fill up"
+        ],
+        "sentences": [
+            "I fill up my bottle with tea"
+        ],
+        "phrases": [
+            "Fill up something"
+        ]
+    },
+    {
+        "id": "U02_19",
+        "unitId": 2,
+        "word": "Làm đổ",
+        "answers": [
+            "Spill"
+        ],
+        "sentences": [
+            "He spills water all over the table"
+        ],
+        "phrases": [
+            "Spill something all over"
+        ]
+    },
+    {
+        "id": "U02_20",
+        "unitId": 2,
+        "word": "Hết sạch",
+        "answers": [
+            "Run out"
+        ],
+        "sentences": [
+            "I am sorry. We have run out of cakes"
+        ],
+        "phrases": [
+            "Run out of something"
+        ]
+    },
+    {
+        "id": "U02_21",
+        "unitId": 2,
+        "word": "Xả nước",
+        "answers": [
+            "Flush"
+        ],
+        "sentences": [
+            "Don't forget to flush the toilet"
+        ],
+        "phrases": [
+            "Flush the toilet"
+        ]
+    },
+    {
+        "id": "U02_22",
+        "unitId": 2,
+        "word": "Hơi thở",
+        "answers": [
+            "Breath"
+        ],
+        "sentences": [
+            "Food with garlic gives you bad breath"
+        ],
+        "phrases": [
+            "Bad breath"
+        ]
+    },
+    {
+        "id": "U02_23",
+        "unitId": 2,
+        "word": "Giai đoạn",
+        "answers": [
+            "Phase"
+        ],
+        "sentences": [
+            "The final phase of vaccine testing is done"
+        ],
+        "phrases": [
+            "The final phase"
+        ]
+    },
+    {
+        "id": "U02_24",
+        "unitId": 2,
+        "word": "Phim dài tập",
+        "answers": [
+            "Series"
+        ],
+        "sentences": [
+            "My favorite TV series is \"Friends\""
+        ],
+        "phrases": [
+            "A TV series"
+        ]
+    },
+    {
+        "id": "U02_25",
+        "unitId": 2,
+        "word": "Thừa",
+        "answers": [
+            "Spare"
+        ],
+        "sentences": [
+            "What do you do in your spare time"
+        ],
+        "phrases": [
+            "Spare time"
+        ]
+    },
+    {
+        "id": "U02_26",
+        "unitId": 2,
+        "word": "Thức muộn",
+        "answers": [
+            "Stay up"
+        ],
+        "sentences": [
+            "He stays up late every night"
+        ],
+        "phrases": [
+            "Stay up late"
+        ]
+    },
+    {
+        "id": "U02_27",
+        "unitId": 2,
+        "word": "Bình minh",
+        "answers": [
+            "Sunrise"
+        ],
+        "sentences": [
+            "My mother wakes up at sunrise to go to the market"
+        ],
+        "phrases": [
+            "At sunrise"
+        ]
+    },
+    {
+        "id": "U02_28",
+        "unitId": 2,
+        "word": "Lúc rảnh rỗi",
+        "answers": [
+            "Leisure"
+        ],
+        "sentences": [
+            "What is your favorite leisure activity?"
+        ],
+        "phrases": [
+            "A leisure activity"
+        ]
+    },
+    {
+        "id": "U02_29",
+        "unitId": 2,
+        "word": "Giấc ngủ ngắn",
+        "answers": [
+            "Snooze"
+        ],
+        "sentences": [
+            "I hit the snooze button 5 times already"
+        ],
+        "phrases": [
+            "Hit the snooze button"
+        ]
+    },
+    {
+        "id": "U02_30",
+        "unitId": 2,
+        "word": "Ngủ nướng ",
+        "answers": [
+            "Sleep in"
+        ],
+        "sentences": [
+            "I usually sleep in on weekends"
+        ],
+        "phrases": [
+            "Sleep in on weekends"
+        ]
+    },
+    {
+        "id": "U26_01",
+        "unitId": 26,
+        "word": "Chương trình",
+        "answers": [
+            "Show"
+        ],
+        "sentences": [
+            "I watch TV shows on my television"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "U26_02",
+        "unitId": 26,
+        "word": "Cảnh",
+        "answers": [
+            "Scene"
+        ],
+        "sentences": [
+            "The crew needs to film a scene"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "U26_03",
+        "unitId": 26,
+        "word": "Nam diễn viên",
+        "answers": [
+            "Actor"
+        ],
+        "sentences": [
+            "Who is the lead actor in titanic"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "U26_04",
+        "unitId": 26,
+        "word": "Thuộc âm nhạc",
+        "answers": [
+            "Musical"
+        ],
+        "sentences": [
+            "The audience loved the musical performance "
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "U26_05",
+        "unitId": 26,
+        "word": "Nhạc phim",
+        "answers": [
+            "Soundtrack"
+        ],
+        "sentences": [
+            "The soundtrack of this movie is great"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "U26_06",
+        "unitId": 26,
+        "word": "Thuộc lịch sử",
+        "answers": [
+            "Historical"
+        ],
+        "sentences": [
+            "Albert Einstein is an important historical figure"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "U26_07",
+        "unitId": 26,
+        "word": "Bí ẩn",
+        "answers": [
+            "Mystery"
+        ],
+        "sentences": [
+            "Nobody can solve the mystery of the Bermuda triangle"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "U26_08",
+        "unitId": 26,
+        "word": "Tội ác",
+        "answers": [
+            "Crime"
+        ],
+        "sentences": [
+            "Stealing money is a serious crime"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "U26_09",
+        "unitId": 26,
+        "word": "Đoạn kết",
+        "answers": [
+            "Ending"
+        ],
+        "sentences": [
+            "Fairy tales have happy endings"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "U26_10",
+        "unitId": 26,
+        "word": "Tiết lộ",
+        "answers": [
+            "Reveal"
+        ],
+        "sentences": [
+            "The magician never reveals the truth"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "U26_11",
+        "unitId": 26,
+        "word": "Phim giật gân",
+        "answers": [
+            "Thriller"
+        ],
+        "sentences": [
+            "Thriller movies are scary"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "U26_12",
+        "unitId": 26,
+        "word": "Xưởng, không gian sáng tạo",
+        "answers": [
+            "Studio"
+        ],
+        "sentences": [
+            "She teaches us at her dance studio"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "U26_13",
+        "unitId": 26,
+        "word": "Bối cảnh, khung cảnh",
+        "answers": [
+            "Setting"
+        ],
+        "sentences": [
+            "What a beautiful setting this city is "
+        ],
+        "phrases": [
+            "A beautiful setting"
+        ]
+    },
+    {
+        "id": "U26_14",
+        "unitId": 26,
+        "word": "Điều viễn tưởng",
+        "answers": [
+            "Fiction"
+        ],
+        "sentences": [
+            "She wrote fiction on aliens and love"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "U26_15",
+        "unitId": 26,
+        "word": "Sự việc kịch tính",
+        "answers": [
+            "Drama"
+        ],
+        "sentences": [
+            "Teens like to watch drama series"
+        ],
+        "phrases": [
+            "A drama series"
+        ]
+    },
+    {
+        "id": "U26_16",
+        "unitId": 26,
+        "word": "Đạo diễn",
+        "answers": [
+            "Director"
+        ],
+        "sentences": [
+            "The young film director deserves our recognition"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "U26_17",
+        "unitId": 26,
+        "word": "Ra mắt",
+        "answers": [
+            "Come out"
+        ],
+        "sentences": [
+            "When is her album coming out?"
+        ],
+        "phrases": [
+            "Something new comes out"
+        ]
+    },
+    {
+        "id": "U26_18",
+        "unitId": 26,
+        "word": "Nhân vật",
+        "answers": [
+            "Character"
+        ],
+        "sentences": [
+            "The main character in \"Batman\" is mysterious"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "U26_19",
+        "unitId": 26,
+        "word": "Nữ diễn viên",
+        "answers": [
+            "Actress"
+        ],
+        "sentences": [
+            "She was a good actress back then"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "U26_20",
+        "unitId": 26,
+        "word": "Kỳ lạ, kỳ quặc",
+        "answers": [
+            "Odd"
+        ],
+        "sentences": [
+            "Hanging out with odd people is fun"
+        ],
+        "phrases": [
+            "An odd person"
+        ]
+    },
+    {
+        "id": "U26_21",
+        "unitId": 26,
+        "word": "Màn hình",
+        "answers": [
+            "Screen"
+        ],
+        "sentences": [
+            "The laptop has a big computer screen"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "U26_22",
+        "unitId": 26,
+        "word": "Hành động",
+        "answers": [
+            "Action"
+        ],
+        "sentences": [
+            "My favorite action movie is Fast and Furious"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "U26_23",
+        "unitId": 26,
+        "word": "Chuyến phiêu lưu",
+        "answers": [
+            "Adventure"
+        ],
+        "sentences": [
+            "I seek an adventure of a lifetime"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "U26_24",
+        "unitId": 26,
+        "word": "Phim tài liệu",
+        "answers": [
+            "Documentary"
+        ],
+        "sentences": [
+            "I watched that documentary film on Netflix"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "U26_25",
+        "unitId": 26,
+        "word": "Góc",
+        "answers": [
+            "Angle"
+        ],
+        "sentences": [
+            "Tilt your head to a 45 angle"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "U26_26",
+        "unitId": 26,
+        "word": "Thấy khó hiểu",
+        "answers": [
+            "Confused"
+        ],
+        "sentences": [
+            "Are you confused about the instructions?"
+        ],
+        "phrases": [
+            "Confused about something"
+        ]
+    },
+    {
+        "id": "U26_27",
+        "unitId": 26,
+        "word": "Cuộc hội thoại, lời thoại",
+        "answers": [
+            "Dialogue"
+        ],
+        "sentences": [
+            "The dialogue with my therapist helped me"
+        ],
+        "phrases": [
+            "Dialogue with somebody"
+        ]
+    },
+    {
+        "id": "U26_28",
+        "unitId": 26,
+        "word": "Tác phẩm thành công",
+        "answers": [
+            "Hit"
+        ],
+        "sentences": [
+            "His book became a big hit"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "U26_29",
+        "unitId": 26,
+        "word": "Tuyệt vời",
+        "answers": [
+            "Wonderful"
+        ],
+        "sentences": [
+            "I am grateful for the wonderful opportunity"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "U26_30",
+        "unitId": 26,
+        "word": "Tài giỏi, tuyệt vời",
+        "answers": [
+            "Brilliant"
+        ],
+        "sentences": [
+            "Thank you for the brilliant idea"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "U27_01",
+        "unitId": 27,
+        "word": "Khiêm tốn",
+        "answers": [
+            "Modest"
+        ],
+        "sentences": [
+            "You are too modest! You are gifted."
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "U27_02",
+        "unitId": 27,
+        "word": "Có năng khiếu",
+        "answers": [
+            "Gifted"
+        ],
+        "sentences": [
+            "Do you consider yourself a gifted musican?"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "U27_03",
+        "unitId": 27,
+        "word": "Ngành giải trí",
+        "answers": [
+            "Showbiz"
+        ],
+        "sentences": [
+            "People in showbiz are movie stars"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "U27_04",
+        "unitId": 27,
+        "word": "Kênh",
+        "answers": [
+            "Channel"
+        ],
+        "sentences": [
+            "The show is live on the VTV3 channel"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "U27_05",
+        "unitId": 27,
+        "word": "Truyền thông",
+        "answers": [
+            "Media"
+        ],
+        "sentences": [
+            "My mom posts so many pictures on social media"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "U27_06",
+        "unitId": 27,
+        "word": "Nổi tiếng",
+        "answers": [
+            "Well-known"
+        ],
+        "sentences": [
+            "Is he a well-known actor?"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "U27_07",
+        "unitId": 27,
+        "word": "Nhận ra",
+        "answers": [
+            "Recognize"
+        ],
+        "sentences": [
+            "Did you recognize me on stage?"
+        ],
+        "phrases": [
+            "Recognize somebody or something"
+        ]
+    },
+    {
+        "id": "U27_08",
+        "unitId": 27,
+        "word": "Người hâm mộ",
+        "answers": [
+            "Fan"
+        ],
+        "sentences": [
+            "My girlfriend is a big soccer fan"
+        ],
+        "phrases": [
+            "A soccer fan"
+        ]
+    },
+    {
+        "id": "U27_09",
+        "unitId": 27,
+        "word": "Đăng ký",
+        "answers": [
+            "Subscribe"
+        ],
+        "sentences": [
+            "Please subscribe to step up english youtube channel"
+        ],
+        "phrases": [
+            ""
+        ]
+    },
+    {
+        "id": "U27_10",
+        "unitId": 27,
+        "word": "Hét to",
+        "answers": [
+            "Sceam"
+        ],
+        "sentences": [
+            "They screamed out loud for help"
+        ],
+        "phrases": [
+            "Scream out loud"
+        ]
+    },
+    {
+        "id": "U27_11",
+        "unitId": 27,
+        "word": "Buồn cười",
+        "answers": [
+            "Funny"
+        ],
+        "sentences": [
+            "The funny story made me laugh hard"
+        ],
+        "phrases": [
+            "A funny story"
+        ]
+    },
+    {
+        "id": "U27_12",
+        "unitId": 27,
+        "word": "Hiện nay",
+        "answers": [
+            "Currently"
+        ],
+        "sentences": [
+            "I am currently working as a front-end developer"
+        ],
+        "phrases": [
+            "Currently working as something"
+        ]
+    },
+    {
+        "id": "U27_13",
+        "unitId": 27,
+        "word": "Lan truyền nhanh",
+        "answers": [
+            "Viral"
+        ],
+        "sentences": [
+            "The video went viral on Facebook"
+        ],
+        "phrases": [
+            "Go viral"
+        ]
+    },
+    {
+        "id": "U27_14",
+        "unitId": 27,
+        "word": "Màn biểu diễn",
+        "answers": [
+            "Performance"
+        ],
+        "sentences": [
+            "The opera singer delivered an outstanding performance"
+        ],
+        "phrases": [
+            "Deliver an outstanding performance"
+        ]
+    },
+    {
+        "id": "U27_15",
+        "unitId": 27,
+        "word": "Quá khứ",
+        "answers": [
+            "Past"
+        ],
+        "sentences": [
+            "I used to live abroad in the past"
+        ],
+        "phrases": [
+            "In the past"
+        ]
+    },
+    {
+        "id": "U27_16",
+        "unitId": 27,
+        "word": "Trở nên",
+        "answers": [
+            "Become"
+        ],
+        "sentences": [
+            "I want to become a person of influence"
+        ],
+        "phrases": [
+            "Become somebody or something"
+        ]
+    },
+    {
+        "id": "U27_17",
+        "unitId": 27,
+        "word": "Toàn cầu",
+        "answers": [
+            "Global"
+        ],
+        "sentences": [
+            "The singer's talent made her go global"
+        ],
+        "phrases": [
+            "Go global"
+        ]
+    },
+    {
+        "id": "U27_18",
+        "unitId": 27,
+        "word": "Lên tiếng",
+        "answers": [
+            "Speak out"
+        ],
+        "sentences": [
+            "She bravely spoke out against her boss"
+        ],
+        "phrases": [
+            "Speak out against somebody or something"
+        ]
+    },
+    {
+        "id": "U27_19",
+        "unitId": 27,
+        "word": "Xứng đáng",
+        "answers": [
+            "Deserve"
+        ],
+        "sentences": [
+            "I deserve ice cream after work"
+        ],
+        "phrases": [
+            "Deserve something"
+        ]
+    },
+    {
+        "id": "U27_20",
+        "unitId": 27,
+        "word": "Trực tiếp",
+        "answers": [
+            "Live"
+        ],
+        "sentences": [
+            "The band did a live performance"
+        ],
+        "phrases": [
+            "A live performance"
+        ]
+    },
+    {
+        "id": "U27_21",
+        "unitId": 27,
+        "word": "Giải thưởng",
+        "answers": [
+            "Award"
+        ],
+        "sentences": [
+            "She received an award for her acting"
+        ],
+        "phrases": [
+            "Receive an award"
+        ]
+    },
+    {
+        "id": "U27_22",
+        "unitId": 27,
+        "word": "Danh dự",
+        "answers": [
+            "Honor"
+        ],
+        "sentences": [
+            "Welcome",
+            " you are my guest of honor"
+        ],
+        "phrases": [
+            "The guest of honor"
+        ]
+    },
+    {
+        "id": "U27_23",
+        "unitId": 27,
+        "word": "Việc thiện nguyện",
+        "answers": [
+            "Charity"
+        ],
+        "sentences": [
+            "We should do charity for the disadvantaged"
+        ],
+        "phrases": [
+            "Do charity for somebody"
+        ]
+    },
+    {
+        "id": "U27_24",
+        "unitId": 27,
+        "word": "Tình nguyện",
+        "answers": [
+            "Volunteer"
+        ],
+        "sentences": [
+            "She volunteered to clean the car"
+        ],
+        "phrases": [
+            "Volunteer to do something"
+        ]
+    },
+    {
+        "id": "U27_25",
+        "unitId": 27,
+        "word": "Vụ bê bối",
+        "answers": [
+            "Scandal"
+        ],
+        "sentences": [
+            "He created the scandal to attract attention"
+        ],
+        "phrases": [
+            "Create a scandal"
+        ]
+    },
+    {
+        "id": "U27_26",
+        "unitId": 27,
+        "word": "Tin đồn",
+        "answers": [
+            "Rumor"
+        ],
+        "sentences": [
+            "Rumor has it that you got the job!"
+        ],
+        "phrases": [
+            "Rumor has it that"
+        ]
+    },
+    {
+        "id": "U27_27",
+        "unitId": 27,
+        "word": "Tiểu sử",
+        "answers": [
+            "Biography"
+        ],
+        "sentences": [
+            "They wrote a biography of her life"
+        ],
+        "phrases": [
+            "A biography of something"
+        ]
+    },
+    {
+        "id": "U27_28",
+        "unitId": 27,
+        "word": "Ngưỡng mộ",
+        "answers": [
+            "Admire"
+        ],
+        "sentences": [
+            "I admire my student's passion"
+        ],
+        "phrases": [
+            "Admire somebody or something"
+        ]
+    },
+    {
+        "id": "U27_29",
+        "unitId": 27,
+        "word": "Ngưỡng mộ",
+        "answers": [
+            "Look up to"
+        ],
+        "sentences": [
+            "I look up to my father very much"
+        ],
+        "phrases": [
+            "Look up to somebody"
+        ]
+    },
+    {
+        "id": "U27_30",
+        "unitId": 27,
+        "word": "Đáp ứng tiêu chuẩn",
+        "answers": [
+            "Live up to"
+        ],
+        "sentences": [
+            "He lived up to my parent's expectations"
+        ],
+        "phrases": [
+            "Live up to my parent's expectations"
+        ]
+    },
+    {
+        "id": "U28_01",
+        "unitId": 28,
+        "word": "Buổi hòa nhạc",
+        "answers": [
+            "Concert"
+        ],
+        "sentences": [
+            "Let's go to a concert tonight!"
+        ],
+        "phrases": [
+            "Go to a concert"
+        ]
+    },
+    {
+        "id": "U28_02",
+        "unitId": 28,
+        "word": "Trò xếp hình, trò giải đố",
+        "answers": [
+            "Puzzle"
+        ],
+        "sentences": [
+            "Crassword puzzles are for everyone to play"
+        ],
+        "phrases": [
+            "A crossword puzzle"
+        ]
+    },
+    {
+        "id": "U28_03",
+        "unitId": 28,
+        "word": "Đoán",
+        "answers": [
+            "Guess"
+        ],
+        "sentences": [
+            "Can you guess my age"
+        ],
+        "phrases": [
+            "Guess something"
+        ]
+    },
+    {
+        "id": "U28_04",
+        "unitId": 28,
+        "word": "Tin Tường",
+        "answers": [
+            "Keen"
+        ],
+        "sentences": [
+            "She has a keen eye for fashion"
+        ],
+        "phrases": [
+            "A keen eye for something"
+        ]
+    },
+    {
+        "id": "U28_05",
+        "unitId": 28,
+        "word": "Đan",
+        "answers": [
+            "Knit"
+        ],
+        "sentences": [
+            "Grandma loves to knit scarves"
+        ],
+        "phrases": [
+            "Knit something"
+        ]
+    },
+    {
+        "id": "U28_06",
+        "unitId": 28,
+        "word": "Tiểu thuyết",
+        "answers": [
+            "Novel"
+        ],
+        "sentences": [
+            "The author wrote two best-selling novels"
+        ],
+        "phrases": [
+            "A best-selling novel"
+        ]
+    },
+    {
+        "id": "U28_07",
+        "unitId": 28,
+        "word": "Bộ sưu tập",
+        "answers": [
+            "Collection"
+        ],
+        "sentences": [
+            "He has a collection of vinyl records"
+        ],
+        "phrases": [
+            "Collection of something"
+        ]
+    },
+    {
+        "id": "U28_08",
+        "unitId": 28,
+        "word": "Chèo thuyền",
+        "answers": [
+            "Sail"
+        ],
+        "sentences": [
+            "Can we sail a boat tomorrow?"
+        ],
+        "phrases": [
+            "Sail a boat"
+        ]
+    },
+    {
+        "id": "U28_09",
+        "unitId": 28,
+        "word": "Có hứng thú",
+        "answers": [
+            "Interested"
+        ],
+        "sentences": [
+            "Are you interested in the arts?"
+        ],
+        "phrases": [
+            "Interested in something or somebody"
+        ]
+    },
+    {
+        "id": "U28_10",
+        "unitId": 28,
+        "word": "Nhiếp ảnh",
+        "answers": [
+            "Photography"
+        ],
+        "sentences": [
+            "The artist mainly does digital photography"
+        ],
+        "phrases": [
+            "Digital photography"
+        ]
+    },
+    {
+        "id": "U28_11",
+        "unitId": 28,
+        "word": "Hướng dẫn cách làm",
+        "answers": [
+            "Tutorial"
+        ],
+        "sentences": [
+            "Check out her step-by-step tutorial on makeup"
+        ],
+        "phrases": [
+            "Step-by-Step tutorial"
+        ]
+    },
+    {
+        "id": "U28_12",
+        "unitId": 28,
+        "word": "Nhật ký bằng video",
+        "answers": [
+            "Vlogs"
+        ]
+    },
+    {
+        "id": "U28_13",
+        "unitId": 28,
+        "word": "Đội, nhóm",
+        "answers": [
+            "Team"
+        ],
+        "sentences": [
+            "The soccer team won 5-1"
+        ],
+        "phrases": [
+            "A soccer team"
+        ]
+    },
+    {
+        "id": "U28_14",
+        "unitId": 28,
+        "word": "Thử",
+        "answers": [
+            "Try out"
+        ],
+        "sentences": [
+            "Would you try out a new method of cooking?"
+        ],
+        "phrases": [
+            "Try out a new method"
+        ]
+    },
+    {
+        "id": "U28_15",
+        "unitId": 28,
+        "word": "Tham gia",
+        "answers": [
+            "Participate"
+        ],
+        "sentences": [
+            "Please participate more in class"
+        ],
+        "phrases": [
+            "Participate in something"
+        ]
+    },
+    {
+        "id": "U28_16",
+        "unitId": 28,
+        "word": "Chương trình",
+        "answers": [
+            "Program"
+        ],
+        "sentences": [
+            "She works for a news program"
+        ],
+        "phrases": [
+            "A news program"
+        ]
+    },
+    {
+        "id": "U28_17",
+        "unitId": 28,
+        "word": "Hoạt hình",
+        "answers": [
+            "Cartoon"
+        ],
+        "sentences": [
+            "Mickey mouse is a walt disney cartoon"
+        ]
+    },
+    {
+        "id": "U28_18",
+        "unitId": 28,
+        "word": "Thể loại",
+        "answers": [
+            "Genre"
+        ],
+        "sentences": [
+            "What music genre do you listen to?"
+        ],
+        "phrases": [
+            "Music genre"
+        ]
+    },
+    {
+        "id": "U28_19",
+        "unitId": 28,
+        "word": "Phim hài",
+        "answers": [
+            "Comedy"
+        ],
+        "sentences": [
+            "My friend loves watching remoantic comedies"
+        ],
+        "phrases": [
+            "A romantic comedy"
+        ]
+    },
+    {
+        "id": "U28_20",
+        "unitId": 28,
+        "word": "Trèo",
+        "answers": [
+            "Climb"
+        ],
+        "sentences": [
+            "The cat climbed up the tree"
+        ],
+        "phrases": [
+            "Climb up something"
+        ]
+    },
+    {
+        "id": "U28_21",
+        "unitId": 28,
+        "word": "Sự thích thú, niềm vui",
+        "answers": [
+            "Pleasure"
+        ],
+        "sentences": [
+            "The kids find pleasure in singing"
+        ],
+        "phrases": [
+            "Take or find pleasure in doing something"
+        ]
+    },
+    {
+        "id": "U28_22",
+        "unitId": 28,
+        "word": "Trong nhà",
+        "answers": [
+            "Indoor"
+        ],
+        "sentences": [
+            "The hotel's indoor swimming pool is huge!"
+        ],
+        "phrases": [
+            "An indoor swimming pool"
+        ]
+    },
+    {
+        "id": "U28_23",
+        "unitId": 28,
+        "word": "Chuyến nghỉ dưỡng, kỳ nghỉ",
+        "answers": [
+            "Holiday"
+        ],
+        "sentences": [
+            "I do not work on holiday"
+        ],
+        "phrases": [
+            "On holiday"
+        ]
+    },
+    {
+        "id": "U28_24",
+        "unitId": 28,
+        "word": "Chuyến đi",
+        "answers": [
+            "Ride"
+        ],
+        "sentences": [
+            "We are in for a bumpy ride"
+        ],
+        "phrases": [
+            "A bumpy ride"
+        ]
+    },
+    {
+        "id": "U28_25",
+        "unitId": 28,
+        "word": "Có ý nghĩa",
+        "answers": [
+            "Meaningful"
+        ],
+        "sentences": [
+            "I strive to do meaningful work"
+        ],
+        "phrases": [
+            "Meaningful work"
+        ]
+    },
+    {
+        "id": "U28_26",
+        "unitId": 28,
+        "word": "Việc cấm trại",
+        "answers": [
+            "Camping"
+        ],
+        "sentences": [
+            "We are going on a camping trip"
+        ],
+        "phrases": [
+            "A camping trip"
+        ]
+    },
+    {
+        "id": "U28_27",
+        "unitId": 28,
+        "word": "Hợp tác",
+        "answers": [
+            "Cooperate"
+        ],
+        "sentences": [
+            "You have to cooperate with here"
+        ],
+        "phrases": [
+            "Cooperate with something or somebody"
+        ]
+    },
+    {
+        "id": "U28_28",
+        "unitId": 28,
+        "word": "Lều",
+        "answers": [
+            "Tent"
+        ],
+        "sentences": [
+            "Please put up the tent for me"
+        ],
+        "phrases": [
+            "Put up a tent"
+        ]
+    },
+    {
+        "id": "U28_29",
+        "unitId": 28,
+        "word": "Hứng thú với",
+        "answers": [
+            "Go in for"
+        ],
+        "sentences": [
+            "My sister decides to go in for a debate competition"
+        ],
+        "phrases": [
+            "Go in for a competition"
+        ]
+    },
+    {
+        "id": "U28_30",
+        "unitId": 28,
+        "word": "Thích hơn",
+        "answers": [
+            "Prefer"
+        ],
+        "sentences": [
+            "She prefers eating apples to pears"
+        ],
+        "phrases": [
+            "Prefer something to something"
+        ]
+    },
+    {
+        "id": "U29_01",
+        "unitId": 29,
+        "word": "Câu cá",
+        "answers": [
+            "Fishing"
+        ],
+        "sentences": [
+            "My dad and I go fishing every day"
+        ],
+        "phrases": [
+            "Go fishing"
+        ]
+    },
+    {
+        "id": "U29_02",
+        "unitId": 29,
+        "word": "Vận động viên",
+        "answers": [
+            "Athlete"
+        ],
+        "sentences": [
+            "Olumpic athletes train hard to complete"
+        ],
+        "phrases": [
+            "An Olympic athlete"
+        ]
+    },
+    {
+        "id": "U29_03",
+        "unitId": 29,
+        "word": "Môn đấu vật",
+        "answers": [
+            "Wrestling"
+        ],
+        "sentences": [
+            "Wrestling matches are popular in the US"
+        ],
+        "phrases": [
+            "A wrestling match"
+        ]
+    },
+    {
+        "id": "U29_04",
+        "unitId": 29,
+        "word": "Chuyên nghiệp",
+        "answers": [
+            "Professional"
+        ],
+        "sentences": [
+            "He was a professional soccer player"
+        ],
+        "phrases": [
+            "A professional soccer player"
+        ]
+    },
+    {
+        "id": "U29_05",
+        "unitId": 29,
+        "word": "Hàng năm",
+        "answers": [
+            "Annual"
+        ],
+        "sentences": [
+            "The company has annual meetings for us"
+        ],
+        "phrases": [
+            "An annual meeting"
+        ]
+    },
+    {
+        "id": "U29_06",
+        "unitId": 29,
+        "word": "Giải đấu",
+        "answers": [
+            "Tournament"
+        ],
+        "sentences": [
+            "What an exciting soccer tournament!"
+        ],
+        "phrases": [
+            "A soccer tournament"
+        ]
+    },
+    {
+        "id": "U29_07",
+        "unitId": 29,
+        "word": "Huấn luyện viên",
+        "answers": [
+            "Coach"
+        ],
+        "sentences": [
+            "The team coach trains us hard"
+        ],
+        "phrases": [
+            "The team coach"
+        ]
+    },
+    {
+        "id": "U29_08",
+        "unitId": 29,
+        "word": "Trận đấu",
+        "answers": [
+            "Match"
+        ],
+        "sentences": [
+            "There is a soccer match tonight"
+        ],
+        "phrases": [
+            "A soccer match"
+        ]
+    },
+    {
+        "id": "U29_09",
+        "unitId": 29,
+        "word": "Đánh bại",
+        "answers": [
+            "Beat"
+        ],
+        "sentences": [
+            "They beat their opponents in the first round"
+        ],
+        "phrases": [
+            "Beat something or somebody"
+        ]
+    },
+    {
+        "id": "U29_10",
+        "unitId": 29,
+        "word": "Đối thủ",
+        "answers": [
+            "Opponent"
+        ],
+        "sentences": [
+            "She is my opponent in chess"
+        ],
+        "phrases": [
+            "One's oppponent in something"
+        ]
+    },
+    {
+        "id": "U29_11",
+        "unitId": 29,
+        "word": "Môn thể thao",
+        "answers": [
+            "Athletics"
+        ],
+        "sentences": [
+            "Football",
+            " soccer",
+            " and baseball are types of atheletics"
+        ],
+        "phrases": [
+            "Types of athletics"
+        ]
+    },
+    {
+        "id": "U29_12",
+        "unitId": 29,
+        "word": "Bóng rỗ",
+        "answers": [
+            "Basketball"
+        ],
+        "sentences": [
+            "I am the captain of the basketball team"
+        ],
+        "phrases": [
+            "A basketball team"
+        ]
+    },
+    {
+        "id": "U29_13",
+        "unitId": 29,
+        "word": "Người chơi",
+        "answers": [
+            "Player"
+        ],
+        "sentences": [
+            "He is the best soccer player here"
+        ],
+        "phrases": [
+            "A soccer player"
+        ]
+    },
+    {
+        "id": "U29_14",
+        "unitId": 29,
+        "word": "Liên đoàn ",
+        "answers": [
+            "League"
+        ],
+        "sentences": [
+            "My sone plays for a soccer league"
+        ],
+        "phrases": [
+            "A soccer league"
+        ]
+    },
+    {
+        "id": "U29_15",
+        "unitId": 29,
+        "word": "Giải vô địch",
+        "answers": [
+            "Championship"
+        ],
+        "sentences": [
+            "Are you ready for the basketball championship"
+        ],
+        "phrases": [
+            "A basketball championship"
+        ]
+    },
+    {
+        "id": "U29_16",
+        "unitId": 29,
+        "word": "Đội trưởng",
+        "answers": [
+            "Captain"
+        ],
+        "sentences": [
+            "We vote for a team camtain"
+        ],
+        "phrases": [
+            "Team captain"
+        ]
+    },
+    {
+        "id": "U29_17",
+        "unitId": 29,
+        "word": "Ghi điểm",
+        "answers": [
+            "Score"
+        ],
+        "sentences": [
+            "He scored a goal for the team"
+        ],
+        "phrases": [
+            "Score a goal"
+        ]
+    },
+    {
+        "id": "U29_18",
+        "unitId": 29,
+        "word": "Danh hiệu",
+        "answers": [
+            "Title"
+        ],
+        "sentences": [
+            "The team won the title with a goal in the last minute"
+        ],
+        "phrases": [
+            "Win the title"
+        ]
+    },
+    {
+        "id": "U29_19",
+        "unitId": 29,
+        "word": "Lưới",
+        "answers": [
+            "Net"
+        ],
+        "sentences": [
+            "The fishing net has holes in it"
+        ],
+        "phrases": [
+            "A fishing net"
+        ]
+    },
+    {
+        "id": "U29_20",
+        "unitId": 29,
+        "word": "Anh hùng",
+        "answers": [
+            "Hero"
+        ],
+        "sentences": [
+            "The fireman became a local hero"
+        ],
+        "phrases": [
+            "A local hero"
+        ]
+    },
+    {
+        "id": "U29_21",
+        "unitId": 29,
+        "word": "Môn đạp xe",
+        "answers": [
+            "Cycling"
+        ],
+        "sentences": [
+            "She went cycling down the hill"
+        ],
+        "phrases": [
+            "Go cycling"
+        ]
+    },
+    {
+        "id": "U29_22",
+        "unitId": 29,
+        "word": "Sân vận động",
+        "answers": [
+            "Stadium"
+        ],
+        "sentences": [
+            "Where is the biggest sports stadium in hanoi"
+        ],
+        "phrases": [
+            "A sport stadium"
+        ]
+    },
+    {
+        "id": "U29_23",
+        "unitId": 29,
+        "word": "Người thắng cuộc",
+        "answers": [
+            "Winner"
+        ],
+        "sentences": [
+            "The actor is an award winner"
+        ],
+        "phrases": [
+            "An award winer"
+        ]
+    },
+    {
+        "id": "U29_24",
+        "unitId": 29,
+        "word": "Môn đánh golf",
+        "answers": [
+            "Golf"
+        ],
+        "sentences": [
+            "Businessmen love to play golf"
+        ],
+        "phrases": [
+            "Play golf"
+        ]
+    },
+    {
+        "id": "U29_25",
+        "unitId": 29,
+        "word": "Đánh",
+        "answers": [
+            "Strike"
+        ],
+        "sentences": [
+            "He strikes the golf ball perfectly"
+        ],
+        "phrases": [
+            "Strike the ball"
+        ]
+    },
+    {
+        "id": "U29_26",
+        "unitId": 29,
+        "word": "Đích, mục tiêu",
+        "answers": [
+            "Target"
+        ],
+        "sentences": [
+            "He shot the arrow and hit the target"
+        ],
+        "phrases": [
+            "Hit the target"
+        ]
+    },
+    {
+        "id": "U29_27",
+        "unitId": 29,
+        "word": "Tối đa",
+        "answers": [
+            "Maximum"
+        ],
+        "sentences": [
+            "The maximum amount for storage is 256GB"
+        ],
+        "phrases": [
+            "The maximum amount"
+        ]
+    },
+    {
+        "id": "U29_28",
+        "unitId": 29,
+        "word": "Lướt",
+        "answers": [
+            "Surf"
+        ],
+        "sentences": [
+            "In hawaii",
+            " you must surf the waves"
+        ],
+        "phrases": [
+            "Surf the wave"
+        ]
+    },
+    {
+        "id": "U29_29",
+        "unitId": 29,
+        "word": "Không may",
+        "answers": [
+            "Unfortunately"
+        ],
+        "sentences": [
+            "Unfortunately",
+            " I won't be able to attend the meeting"
+        ],
+        "phrases": [
+            "Unfortunately",
+            " I won't"
+        ]
+    },
+    {
+        "id": "U29_30",
+        "unitId": 29,
+        "word": "Trân trọng, đánh giá cao",
+        "answers": [
+            "Appreciate"
+        ],
+        "sentences": [
+            "I appreciate the help you gave me"
+        ],
+        "phrases": [
+            "Appreciate somebody or something"
+        ]
+    },
+    {
+        "id": "U03_01",
+        "unitId": 3,
+        "word": "Hỗ trợ",
+        "answers": [
+            "Assist"
+        ],
+        "sentences": [
+            "Hack nao pro will assist you in learning English"
+        ],
+        "phrases": [
+            "Assist somebody in doing something"
+        ]
+    },
+    {
+        "id": "U03_02",
+        "unitId": 3,
+        "word": "Khối lượng công việc",
+        "answers": [
+            "Workload"
+        ],
+        "sentences": [
+            "A heavy workload makes me exhausted"
+        ],
+        "phrases": [
+            "A heavy workload"
+        ]
+    },
+    {
+        "id": "U03_03",
+        "unitId": 3,
+        "word": "Sắp xếp",
+        "answers": [
+            "Arrange"
+        ],
+        "sentences": [
+            "She arranges an appointment with her doctor"
+        ],
+        "phrases": [
+            "Arrange an appointment "
+        ]
+    },
+    {
+        "id": "U03_04",
+        "unitId": 3,
+        "word": "Kỷ luật",
+        "answers": [
+            "Discipline"
+        ],
+        "sentences": [
+            "He has very good discipline"
+        ],
+        "phrases": [
+            "Have good discipline"
+        ]
+    },
+    {
+        "id": "U03_05",
+        "unitId": 3,
+        "word": "Kết quả",
+        "answers": [
+            "Outcome"
+        ],
+        "sentences": [
+            "The snow affects the outcome of the game"
+        ],
+        "phrases": [
+            "Affect the outcome of"
+        ]
+    },
+    {
+        "id": "U03_06",
+        "unitId": 3,
+        "word": "Có năng suất",
+        "answers": [
+            "Productive"
+        ],
+        "sentences": [
+            "They are not productive workers"
+        ],
+        "phrases": [
+            "Productive worker"
+        ]
+    },
+    {
+        "id": "U03_07",
+        "unitId": 3,
+        "word": "Tin tức",
+        "answers": [
+            "News"
+        ],
+        "sentences": [
+            "He is waiting for the good news"
+        ],
+        "phrases": [
+            "Good news"
+        ]
+    },
+    {
+        "id": "U03_08",
+        "unitId": 3,
+        "word": "Theo sát",
+        "answers": [
+            "Follow up"
+        ],
+        "sentences": [
+            "I want to follow up on the matter we discussed"
+        ],
+        "phrases": [
+            "Follow up on something"
+        ]
+    },
+    {
+        "id": "U03_09",
+        "unitId": 3,
+        "word": "Lên kế hoạch trước",
+        "answers": [
+            "Plan ahead"
+        ],
+        "sentences": [
+            "You should plan ahead for your travel"
+        ],
+        "phrases": [
+            "Plan ahead for something"
+        ]
+    },
+    {
+        "id": "U03_10",
+        "unitId": 3,
+        "word": "Khoảng thời gian",
+        "answers": [
+            "Period"
+        ],
+        "sentences": [
+            "I've worked at this company for a long period of time"
+        ],
+        "phrases": [
+            "A period of time"
+        ]
+    },
+    {
+        "id": "U03_11",
+        "unitId": 3,
+        "word": "Môn đi bộ thể dục",
+        "answers": [
+            "Jogging"
+        ],
+        "sentences": [
+            "My parents go jogging every morning"
+        ],
+        "phrases": [
+            "Go jogging"
+        ]
+    },
+    {
+        "id": "U03_12",
+        "unitId": 3,
+        "word": "Cần thiết",
+        "answers": [
+            "Necessary"
+        ],
+        "sentences": [
+            "Teamwork is a necessary skill"
+        ],
+        "phrases": [
+            "A necessary skill"
+        ]
+    },
+    {
+        "id": "U03_13",
+        "unitId": 3,
+        "word": "Ước lượng",
+        "answers": [
+            "Estimate"
+        ],
+        "sentences": [
+            "He estimate the cost of his trip"
+        ],
+        "phrases": [
+            "Estimate the cost"
+        ]
+    },
+    {
+        "id": "U03_14",
+        "unitId": 3,
+        "word": "Phút",
+        "answers": [
+            "Minute"
+        ],
+        "sentences": [
+            "Please wait a minute"
+        ],
+        "phrases": [
+            "Wait a minute"
+        ]
+    },
+    {
+        "id": "U03_15",
+        "unitId": 3,
+        "word": "Kiệt sức",
+        "answers": [
+            "Burnout"
+        ],
+        "sentences": [
+            "You should avoid burnout at work"
+        ],
+        "phrases": [
+            "Avoid burnout"
+        ]
+    },
+    {
+        "id": "U03_16",
+        "unitId": 3,
+        "word": "Mẹo ",
+        "answers": [
+            "Tip"
+        ],
+        "sentences": [
+            "She gave me a useful tip"
+        ],
+        "phrases": [
+            "A useful tip"
+        ]
+    },
+    {
+        "id": "U03_17",
+        "unitId": 3,
+        "word": "Tập trung",
+        "answers": [
+            "Focus"
+        ],
+        "sentences": [
+            "She only focusses on studying"
+        ],
+        "phrases": [
+            "Focus on something"
+        ]
+    },
+    {
+        "id": "U03_18",
+        "unitId": 3,
+        "word": "Tập luyện",
+        "answers": [
+            "Practice"
+        ],
+        "sentences": [
+            "He practice cooking every day"
+        ],
+        "phrases": [
+            "Practice doing something"
+        ]
+    },
+    {
+        "id": "U03_19",
+        "unitId": 3,
+        "word": "Có hiệu suất cao",
+        "answers": [
+            "Efficient"
+        ],
+        "sentences": [
+            "This new engine is highly efficient"
+        ],
+        "phrases": [
+            "Highly efficient"
+        ]
+    },
+    {
+        "id": "U03_20",
+        "unitId": 3,
+        "word": "Danh sách công việc",
+        "answers": [
+            "Agenda"
+        ],
+        "sentences": [
+            "The salary discussion is not on the agenda"
+        ],
+        "phrases": [
+            "On the agenda"
+        ]
+    },
+    {
+        "id": "U03_21",
+        "unitId": 3,
+        "word": "Từ chối",
+        "answers": [
+            "Decline"
+        ],
+        "sentences": [
+            "She politely declines our invitation"
+        ],
+        "phrases": [
+            "Politely  decline"
+        ]
+    },
+    {
+        "id": "U03_22",
+        "unitId": 3,
+        "word": "Đi phơi",
+        "answers": [
+            "Hang out"
+        ],
+        "sentences": [
+            "I like hanging out at night every weekend"
+        ],
+        "phrases": [
+            "Hang out at night"
+        ]
+    },
+    {
+        "id": "U03_23",
+        "unitId": 3,
+        "word": "Lịch",
+        "answers": [
+            "Calendar"
+        ],
+        "sentences": [
+            "Remember to mark your calendar for this upcoming event"
+        ],
+        "phrases": [
+            "Mark your calendar"
+        ]
+    },
+    {
+        "id": "U03_24",
+        "unitId": 3,
+        "word": "Cơ quan",
+        "answers": [
+            "Workplace"
+        ],
+        "sentences": [
+            "Construction sites value workspace safety"
+        ],
+        "phrases": [
+            "Workplace safety/An toàn lao động"
+        ]
+    },
+    {
+        "id": "U03_25",
+        "unitId": 3,
+        "word": "Hầu như",
+        "answers": [
+            "Almost"
+        ],
+        "sentences": [
+            "Almost all of my students are teenagers"
+        ],
+        "phrases": [
+            "Almost all of"
+        ]
+    },
+    {
+        "id": "U03_26",
+        "unitId": 3,
+        "word": "Từ bỏ",
+        "answers": [
+            "Quit"
+        ],
+        "sentences": [
+            "I quit my job due to work pressure"
+        ],
+        "phrases": [
+            "Quit one's job"
+        ]
+    },
+    {
+        "id": "U03_27",
+        "unitId": 3,
+        "word": "Thể dục",
+        "answers": [
+            "Exercise"
+        ],
+        "sentences": [
+            "She does some exercise every day"
+        ],
+        "phrases": [
+            "Do exercise"
+        ]
+    },
+    {
+        "id": "U03_28",
+        "unitId": 3,
+        "word": "Tuyệt vời",
+        "answers": [
+            "Amazing"
+        ],
+        "sentences": [
+            "You guys are truly amazing"
+        ],
+        "phrases": [
+            "Truly amazing"
+        ]
+    },
+    {
+        "id": "U03_29",
+        "unitId": 3,
+        "word": "Kiên nhẫn",
+        "answers": [
+            "Patient"
+        ],
+        "sentences": [
+            "She is a patient person"
+        ],
+        "phrases": [
+            "A patient person"
+        ]
+    },
+    {
+        "id": "U03_30",
+        "unitId": 3,
+        "word": "Thấy biết ơn",
+        "answers": [
+            "Grateful"
+        ],
+        "sentences": [
+            "I am very grateful to my parents"
+        ],
+        "phrases": [
+            "Grateful to somebody"
+        ]
+    },
+    {
+        "id": "U04_01",
+        "unitId": 4,
+        "word": "Đơn",
+        "answers": [
+            "Form"
+        ],
+        "sentences": [
+            "I havea to finish the application form now"
+        ],
+        "phrases": [
+            "An Application form"
+        ]
+    },
+    {
+        "id": "U04_02",
+        "unitId": 4,
+        "word": "Điền vào",
+        "answers": [
+            "Fill out"
+        ],
+        "sentences": [
+            "Everyone needs to fill out the form"
+        ],
+        "phrases": [
+            "Fill out the form"
+        ]
+    },
+    {
+        "id": "U04_03",
+        "unitId": 4,
+        "word": "Cá nhân",
+        "answers": [
+            "Personal"
+        ],
+        "sentences": [
+            "My phone number is my personal information"
+        ],
+        "phrases": [
+            "Personal information"
+        ]
+    },
+    {
+        "id": "U04_04",
+        "unitId": 4,
+        "word": "Thông tin",
+        "answers": [
+            "Information"
+        ],
+        "sentences": [
+            "His job is to collect information from users"
+        ],
+        "phrases": [
+            "Collect information"
+        ]
+    },
+    {
+        "id": "U04_05",
+        "unitId": 4,
+        "word": "Giới tính",
+        "answers": [
+            "Gender"
+        ],
+        "sentences": [
+            "Gender equality is important in the workplace these days"
+        ],
+        "phrases": [
+            "Gender equality"
+        ]
+    },
+    {
+        "id": "U04_06",
+        "unitId": 4,
+        "word": "Đàn ông",
+        "answers": [
+            "Male"
+        ],
+        "sentences": [
+            "She only has one male friend"
+        ],
+        "phrases": [
+            "A male friend"
+        ]
+    },
+    {
+        "id": "U04_07",
+        "unitId": 4,
+        "word": "Phụ nữ",
+        "answers": [
+            "Female"
+        ],
+        "sentences": [
+            "He has a lot of female friends"
+        ],
+        "phrases": [
+            "A female friend"
+        ]
+    },
+    {
+        "id": "U04_08",
+        "unitId": 4,
+        "word": "Lúc chào đời",
+        "answers": [
+            "Birth"
+        ],
+        "sentences": [
+            "My date of birth is on july 1th 1997"
+        ],
+        "phrases": [
+            "Date of birth"
+        ]
+    },
+    {
+        "id": "U04_09",
+        "unitId": 4,
+        "word": "Ở giữa",
+        "answers": [
+            "Middle"
+        ],
+        "sentences": [
+            "I am the middle child"
+        ],
+        "phrases": [
+            "The middle child"
+        ]
+    },
+    {
+        "id": "U04_10",
+        "unitId": 4,
+        "word": "Sửa lại",
+        "answers": [
+            "Correct"
+        ],
+        "sentences": [
+            "The teacher corrects some mistakes in my essay"
+        ],
+        "phrases": [
+            "Correct a mistake"
+        ]
+    },
+    {
+        "id": "U04_11",
+        "unitId": 4,
+        "word": "Thêm",
+        "answers": [
+            "Additional"
+        ],
+        "sentences": [
+            "If you need additional information",
+            " please contact me"
+        ],
+        "phrases": [
+            "Additional information"
+        ]
+    },
+    {
+        "id": "U04_12",
+        "unitId": 4,
+        "word": "Trước đó",
+        "answers": [
+            "Previous"
+        ],
+        "sentences": [
+            "His income was higher in the previous year"
+        ],
+        "phrases": [
+            "The previous year"
+        ]
+    },
+    {
+        "id": "U04_13",
+        "unitId": 4,
+        "word": "Sống cùng với",
+        "answers": [
+            "Live with"
+        ],
+        "sentences": [
+            "I live with my sister in an apartment"
+        ],
+        "phrases": [
+            "Live with somebody"
+        ]
+    },
+    {
+        "id": "U04_14",
+        "unitId": 4,
+        "word": "Yêu thích",
+        "answers": [
+            "Favorite"
+        ],
+        "sentences": [
+            "My favorite movie is \"Fast and furious\""
+        ],
+        "phrases": [
+            "My favorite movie"
+        ]
+    },
+    {
+        "id": "U04_15",
+        "unitId": 4,
+        "word": "Giới thiệu",
+        "answers": [
+            "Introduction"
+        ],
+        "sentences": [
+            "The introduction by the president was great"
+        ],
+        "phrases": [
+            "Introduction by somebody"
+        ]
+    },
+    {
+        "id": "U04_16",
+        "unitId": 4,
+        "word": "Danh tính",
+        "answers": [
+            "Identity"
+        ],
+        "sentences": [
+            "Please some your national identity card for entry"
+        ],
+        "phrases": [
+            "An identity card/CMND"
+        ]
+    },
+    {
+        "id": "U04_17",
+        "unitId": 4,
+        "word": "Phỏng vấn",
+        "answers": [
+            "Interview"
+        ],
+        "sentences": [
+            "She interviews politicians on a VTV show"
+        ],
+        "phrases": [
+            "Interview somebody"
+        ]
+    },
+    {
+        "id": "U04_18",
+        "unitId": 4,
+        "word": "Ảnh",
+        "answers": [
+            "Photograph"
+        ],
+        "sentences": [
+            "She takes a photograph of her cat every day"
+        ],
+        "phrases": [
+            "Take a photograph"
+        ]
+    },
+    {
+        "id": "U04_19",
+        "unitId": 4,
+        "word": "Lâu dài",
+        "answers": [
+            "Permanent"
+        ],
+        "sentences": [
+            "She is now an australian permanent resident"
+        ],
+        "phrases": [
+            "A permanent resident / cư dân thường trú"
+        ]
+    },
+    {
+        "id": "U04_20",
+        "unitId": 4,
+        "word": "Mã",
+        "answers": [
+            "Code"
+        ],
+        "sentences": [
+            "Do not share your security code with anybody"
+        ],
+        "phrases": [
+            "Security code"
+        ]
+    },
+    {
+        "id": "U04_21",
+        "unitId": 4,
+        "word": "Quốc tịch",
+        "answers": [
+            "Nationality"
+        ],
+        "sentences": [
+            "My nationality is vietnamese"
+        ],
+        "phrases": [
+            "One's nationality"
+        ]
+    },
+    {
+        "id": "U04_22",
+        "unitId": 4,
+        "word": "Quê quán, quê nhà ",
+        "answers": [
+            "Hometown"
+        ],
+        "sentences": [
+            "My hometown is Binh Thuan province"
+        ],
+        "phrases": [
+            "One's hometown/quê của ai đó"
+        ]
+    },
+    {
+        "id": "U04_23",
+        "unitId": 4,
+        "word": "Lớn lên",
+        "answers": [
+            "Grow up"
+        ],
+        "sentences": [
+            "I grew up in Binh Thuan"
+        ],
+        "phrases": [
+            "Grow up in a city"
+        ]
+    },
+    {
+        "id": "U04_24",
+        "unitId": 4,
+        "word": "Phía bắc, phương bắc",
+        "answers": [
+            "Northern"
+        ],
+        "sentences": [
+            "Hanoi is in northern vietnam"
+        ],
+        "phrases": [
+            "Northern vietnam"
+        ]
+    },
+    {
+        "id": "U04_25",
+        "unitId": 4,
+        "word": "Tỉnh",
+        "answers": [
+            "Province"
+        ],
+        "sentences": [
+            "Lao cai is a mountainous province"
+        ],
+        "phrases": [
+            "A mountainous province"
+        ]
+    },
+    {
+        "id": "U04_26",
+        "unitId": 4,
+        "word": "Phía nam, phương nam",
+        "answers": [
+            "Southern"
+        ],
+        "sentences": [
+            "HCM city is in southern vietnam"
+        ],
+        "phrases": [
+            "Southern vietnam"
+        ]
+    },
+    {
+        "id": "U04_27",
+        "unitId": 4,
+        "word": "Gần đây",
+        "answers": [
+            "Recently"
+        ],
+        "sentences": [
+            "I recently bought a new tv"
+        ],
+        "phrases": [
+            "Recently did something"
+        ]
+    },
+    {
+        "id": "U04_28",
+        "unitId": 4,
+        "word": "Quận huyện",
+        "answers": [
+            "District"
+        ],
+        "sentences": [
+            "Hoan kiem is an urban district of hanoi"
+        ],
+        "phrases": [
+            "An urban district"
+        ]
+    },
+    {
+        "id": "U04_29",
+        "unitId": 4,
+        "word": "Ký tên",
+        "answers": [
+            "Sign"
+        ],
+        "sentences": [
+            "Please sign here to agree to this contract"
+        ],
+        "phrases": [
+            "Sign here"
+        ]
+    },
+    {
+        "id": "U04_30",
+        "unitId": 4,
+        "word": "Gõ ",
+        "answers": [
+            "Type"
+        ],
+        "sentences": [
+            "You should type your password in this box"
+        ],
+        "phrases": [
+            "Type one's password / nhập mật khẩu của một người"
+        ]
+    },
+    {
+        "id": "U05_01",
+        "unitId": 5,
+        "word": "Sự nghiệp",
+        "answers": [
+            "Career"
+        ],
+        "sentences": [
+            "I want to start my career as a youtube"
+        ],
+        "phrases": [
+            "Start one's career as / bắt đầu sự nghiệp bằng nghề"
+        ]
+    },
+    {
+        "id": "U05_02",
+        "unitId": 5,
+        "word": "Phù hợp",
+        "answers": [
+            "Suitable"
+        ],
+        "sentences": [
+            "This outfit is suitable for a  wedding"
+        ],
+        "phrases": [
+            "Suitable for"
+        ]
+    },
+    {
+        "id": "U05_03",
+        "unitId": 5,
+        "word": "Kinh nghiệm",
+        "answers": [
+            "Experience"
+        ],
+        "sentences": [
+            "Marketers haves lot of experiences in doing customer research"
+        ],
+        "phrases": [
+            "Experience in doing something"
+        ]
+    },
+    {
+        "id": "U05_04",
+        "unitId": 5,
+        "word": "Gắng sức",
+        "answers": [
+            "Struggle"
+        ],
+        "sentences": [
+            "She struggles to walk as fast as him"
+        ],
+        "phrases": [
+            "Struggle to do something"
+        ]
+    },
+    {
+        "id": "U05_05",
+        "unitId": 5,
+        "word": "Đam mê",
+        "answers": [
+            "Passion"
+        ],
+        "sentences": [
+            "I have a passion for fashion design"
+        ],
+        "phrases": [
+            "A passion for something"
+        ]
+    },
+    {
+        "id": "U05_06",
+        "unitId": 5,
+        "word": "Một vài ",
+        "answers": [
+            "Several"
+        ],
+        "sentences": [
+            "I have seen this movie several times"
+        ],
+        "phrases": [
+            "Several times"
+        ]
+    },
+    {
+        "id": "U05_07",
+        "unitId": 5,
+        "word": "Kỹ sư",
+        "answers": [
+            "Engineer"
+        ],
+        "sentences": [
+            "He works as a civil engineer"
+        ],
+        "phrases": [
+            "A civil engineer"
+        ]
+    },
+    {
+        "id": "U05_08",
+        "unitId": 5,
+        "word": "Bối cảnh, nền tảng",
+        "answers": [
+            "Background"
+        ],
+        "sentences": [
+            "Vietnamese are proud of their cultural background"
+        ],
+        "phrases": [
+            "Cultural background"
+        ]
+    },
+    {
+        "id": "U05_09",
+        "unitId": 5,
+        "word": "Quyết định",
+        "answers": [
+            "Decide"
+        ],
+        "sentences": [
+            "I decide to do nothing today"
+        ],
+        "phrases": [
+            "Decide to do something"
+        ]
+    },
+    {
+        "id": "U05_10",
+        "unitId": 5,
+        "word": "Cảm hứng",
+        "answers": [
+            "Inspiration"
+        ],
+        "sentences": [
+            "My inspiration to work harder comes from JackMa"
+        ],
+        "phrases": [
+            "Inspiration to do something"
+        ]
+    },
+    {
+        "id": "U05_11",
+        "unitId": 5,
+        "word": "Lập trình viên",
+        "answers": [
+            "Developer"
+        ],
+        "sentences": [
+            "Software developers are paid a lot"
+        ],
+        "phrases": [
+            "A software developer"
+        ]
+    },
+    {
+        "id": "U05_12",
+        "unitId": 5,
+        "word": "Ở nước ngoài",
+        "answers": [
+            "Abroad"
+        ],
+        "sentences": [
+            "Her goal is to study abroad in Singapore"
+        ],
+        "phrases": [
+            "Study abroad"
+        ]
+    },
+    {
+        "id": "U05_13",
+        "unitId": 5,
+        "word": "Hòa nhập",
+        "answers": [
+            "Fit in"
+        ],
+        "sentences": [
+            "She easily fits in with her new colleagues"
+        ],
+        "phrases": [
+            "Fit in with somebody"
+        ]
+    },
+    {
+        "id": "U05_14",
+        "unitId": 5,
+        "word": "Lao động tự do",
+        "answers": [
+            "Freelance"
+        ],
+        "sentences": [
+            "I enjoy freelance work more than office work"
+        ],
+        "phrases": [
+            "Freelance work"
+        ]
+    },
+    {
+        "id": "U05_15",
+        "unitId": 5,
+        "word": "Nghề nghiệp",
+        "answers": [
+            "Occupation"
+        ],
+        "sentences": [
+            "Data analyst is a professional occupation"
+        ],
+        "phrases": [
+            "A professional occupation"
+        ]
+    },
+    {
+        "id": "U05_16",
+        "unitId": 5,
+        "word": "Chi tiết",
+        "answers": [
+            "Detail"
+        ],
+        "sentences": [
+            "My teacher explains everything in detail"
+        ],
+        "phrases": [
+            "In detail"
+        ]
+    },
+    {
+        "id": "U05_17",
+        "unitId": 5,
+        "word": "Cụ thế",
+        "answers": [
+            "Specific"
+        ],
+        "sentences": [
+            "Please give me more specific instructions"
+        ],
+        "phrases": [
+            "Specific instruction"
+        ]
+    },
+    {
+        "id": "U05_18",
+        "unitId": 5,
+        "word": "Tương lai",
+        "answers": [
+            "Future"
+        ],
+        "sentences": [
+            "I will travel to Singapore in the Future"
+        ],
+        "phrases": [
+            "In the future"
+        ]
+    },
+    {
+        "id": "U05_19",
+        "unitId": 5,
+        "word": "Chuyên viên",
+        "answers": [
+            "Specialist"
+        ],
+        "sentences": [
+            "He is a specialist in market research"
+        ],
+        "phrases": [
+            "A specialist in something"
+        ]
+    },
+    {
+        "id": "U05_20",
+        "unitId": 5,
+        "word": "Thành tựu",
+        "answers": [
+            "Achievement"
+        ],
+        "sentences": [
+            "Our football team has made many outstanding achievement"
+        ],
+        "phrases": [
+            "An outstanding achievement"
+        ]
+    },
+    {
+        "id": "U05_21",
+        "unitId": 5,
+        "word": "Có được",
+        "answers": [
+            "Acquire"
+        ],
+        "sentences": [
+            "Working here helps me acquire negotiation skills"
+        ],
+        "phrases": [
+            "Acquire a skill"
+        ]
+    },
+    {
+        "id": "U05_22",
+        "unitId": 5,
+        "word": "Bằng cấp",
+        "answers": [
+            "Degree"
+        ],
+        "sentences": [
+            "A bachelor's degree is very common nowadays"
+        ],
+        "phrases": [
+            "A bachelor's degree"
+        ]
+    },
+    {
+        "id": "U05_23",
+        "unitId": 5,
+        "word": "Cho rằng",
+        "answers": [
+            "Suppose"
+        ],
+        "sentences": [
+            "I suppose that he did not finish his work"
+        ],
+        "phrases": [
+            "Suppose that"
+        ]
+    },
+    {
+        "id": "U05_24",
+        "unitId": 5,
+        "word": "Tham dự",
+        "answers": [
+            "Attend"
+        ],
+        "sentences": [
+            "Students must attend school on weekdays"
+        ],
+        "phrases": [
+            "Attend school"
+        ]
+    },
+    {
+        "id": "U05_25",
+        "unitId": 5,
+        "word": "Theo chuyên ngành",
+        "answers": [
+            "Major"
+        ],
+        "sentences": [
+            "She majors in mechanical engineering"
+        ],
+        "phrases": [
+            "Major in something / Theo học ngành gì đó"
+        ]
+    },
+    {
+        "id": "U05_26",
+        "unitId": 5,
+        "word": "Điểm",
+        "answers": [
+            "Grade"
+        ],
+        "sentences": [
+            "This exam makes up half of the final grade"
+        ],
+        "phrases": [
+            "The final grade"
+        ]
+    },
+    {
+        "id": "U05_27",
+        "unitId": 5,
+        "word": "(Thuộc cấp) Tiểu học",
+        "answers": [
+            "Primary"
+        ],
+        "sentences": [
+            "My nephew goes to Cau Giay primary school"
+        ],
+        "phrases": [
+            "A primary school"
+        ]
+    },
+    {
+        "id": "U05_28",
+        "unitId": 5,
+        "word": "Động lực",
+        "answers": [
+            "Motivation"
+        ],
+        "sentences": [
+            "She needs the motivation to study harder"
+        ],
+        "phrases": [
+            "Motivation to do something"
+        ]
+    },
+    {
+        "id": "U05_29",
+        "unitId": 5,
+        "word": "Đại học",
+        "answers": [
+            "University"
+        ],
+        "sentences": [
+            "All her children left their hometown to go to university"
+        ],
+        "phrases": [
+            "Go to university"
+        ]
+    },
+    {
+        "id": "U05_30",
+        "unitId": 5,
+        "word": "Mơ ước ",
+        "answers": [
+            "Dream"
+        ],
+        "sentences": [
+            "He dreams of being rich all the time"
+        ],
+        "phrases": [
+            "Dream of something"
+        ]
+    }
 ]
