@@ -26,6 +26,7 @@
     "firebase": "^9.19.1",
     "fuse.js": "^6.6.2",
     "lodash": "^4.17.21",
+    "moment": "^2.29.4",
     "next": "13.2.1",
     "phosphor-react": "^1.4.1",
     "pino": "^8.11.0",

@@ -1,0 +1,12 @@
+name: Send a mail with list of 10 words daily
+on:
+  schedule:
+    - cron: '0 5 * * *'
+jobs:
+  cron:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger API
+        run: |
+          curl --request POST \
+          --url 'https://english-app-sigma.vercel.app/api/v1/words/review/mail'

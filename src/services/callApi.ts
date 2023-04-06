@@ -29,7 +29,7 @@ async function callApi(endpoint: string, method: 'GET' | 'POST' | 'PUT' | 'DELET
       method,
       data,
     });
-    
+
     return {
       data: response.data,
     };
@@ -41,5 +41,27 @@ async function callApi(endpoint: string, method: 'GET' | 'POST' | 'PUT' | 'DELET
     };
   }
 }
+
+
+export const callApiExternal = (url: string, method: string, body: any) => {
+  return axios({
+    url,
+    method: method ? method : "GET",
+    headers: {
+      ...headers,
+      "origin": "http://localhost"
+      // "X-Client-Id": "JS-2NPRQuLtWo6TS1nHnet6ARJo2iO",
+      // "X-Client-Access-Token": "2NPRQwf19998zjeRusO3R1VLqt9",
+    },
+    data: body,
+  })
+    .then((res) => {
+      return res;
+    })
+    .catch((err) => {
+      return err.response;
+    });
+}
+
 
 export {callApi}
