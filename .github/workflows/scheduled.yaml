@@ -1,8 +1,8 @@
 name: Send a mail with list of 10 words daily
 on:
   schedule:
-#    - cron: '0 5 * * *'
-    - cron: '*/5 * * * *'
+    - cron: '0 1 * * *'
+#    - cron: '*/5 * * * *'
 jobs:
   cron:
     runs-on: ubuntu-latest
