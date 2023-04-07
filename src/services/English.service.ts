@@ -40,6 +40,21 @@ export const getListOfUnit = (): Unit[] => {
       value: 5,
     },
     {
+      label: "06. Job Interview",
+      description: "",
+      value: 6,
+    },
+    {
+      label: "07. Jobs And Workplace",
+      description: "",
+      value: 7,
+    },
+    {
+      label: "08. School And Education",
+      description: "",
+      value: 8,
+    },
+    {
       label: "26. ",
       description: "",
       value: 26,

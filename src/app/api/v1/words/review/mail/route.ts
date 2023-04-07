@@ -49,9 +49,10 @@ export async function POST(request: Request) {
     template[sentenceKey] = w.sentences[0]
 
   })
+
   const mailPayload = {
     "service_id": "service_luljs9w",
-    "template_id": "template_lmquy6e",
+    "template_id": "template_h7gi7hr" || "template_lmquy6e",
     "user_id": "jg1tOUpH_GKznJrGo",
     "template_params": template
   };
