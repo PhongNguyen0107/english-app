@@ -45,6 +45,9 @@ export async function POST(_request: Request) {
     const sentenceKey = "se_" + padWithZeros(i + 1, 2);
     template[sentenceKey] = w.sentences[0]
 
+    const verbKey = "ve_" + padWithZeros(i + 1, 2);
+    template[verbKey] = w.verb[0]
+
   })
 
   const mailPayload = {

@@ -11,6 +11,9 @@
         ],
         "phrases": [
             "Tend to do something"
+        ],
+        "verb": [
+            "V"
         ]
     },
     {
@@ -25,6 +28,9 @@
         ],
         "phrases": [
             "Arrive home"
+        ],
+        "verb": [
+            "V"
         ]
     },
     {
@@ -39,6 +45,9 @@
         ],
         "phrases": [
             "Get up in the morning"
+        ],
+        "verb": [
+            "V"
         ]
     },
     {
@@ -53,6 +62,9 @@
         ],
         "phrases": [
             "At noon"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -67,6 +79,9 @@
         ],
         "phrases": [
             "A night shift"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -81,6 +96,9 @@
         ],
         "phrases": [
             "Take a shower"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -95,6 +113,9 @@
         ],
         "phrases": [
             "A typical example"
+        ],
+        "verb": [
+            "Adj"
         ]
     },
     {
@@ -109,6 +130,9 @@
         ],
         "phrases": [
             "Flow down somewhere"
+        ],
+        "verb": [
+            "V"
         ]
     },
     {
@@ -123,6 +147,9 @@
         ],
         "phrases": [
             "A daily routine"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -137,6 +164,9 @@
         ],
         "phrases": [
             "Come back home"
+        ],
+        "verb": [
+            "V"
         ]
     },
     {
@@ -151,6 +181,9 @@
         ],
         "phrases": [
             "Keep the receipt"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -165,6 +198,9 @@
         ],
         "phrases": [
             "Count from 1 to 10"
+        ],
+        "verb": [
+            "V"
         ]
     },
     {
@@ -179,6 +215,9 @@
         ],
         "phrases": [
             "Hang the clothes"
+        ],
+        "verb": [
+            "V"
         ]
     },
     {
@@ -193,6 +232,9 @@
         ],
         "phrases": [
             "Do laundry"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -207,6 +249,9 @@
         ],
         "phrases": [
             "Put on clothes"
+        ],
+        "verb": [
+            "V"
         ]
     },
     {
@@ -222,6 +267,9 @@
         ],
         "phrases": [
             "Turn on the light"
+        ],
+        "verb": [
+            "V"
         ]
     },
     {
@@ -236,6 +284,9 @@
         ],
         "phrases": [
             "Press this button"
+        ],
+        "verb": [
+            "V"
         ]
     },
     {
@@ -251,6 +302,9 @@
         ],
         "phrases": [
             "Shut the door"
+        ],
+        "verb": [
+            "V"
         ]
     },
     {
@@ -265,6 +319,9 @@
         ],
         "phrases": [
             "Refill a glass with water"
+        ],
+        "verb": [
+            "V"
         ]
     },
     {
@@ -279,6 +336,9 @@
         ],
         "phrases": [
             "Play an important role"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -293,6 +353,9 @@
         ],
         "phrases": [
             "As usual"
+        ],
+        "verb": [
+            "Adj"
         ]
     },
     {
@@ -307,6 +370,9 @@
         ],
         "phrases": [
             "On a weekday"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -321,6 +387,9 @@
         ],
         "phrases": [
             "Fold clothes"
+        ],
+        "verb": [
+            "V"
         ]
     },
     {
@@ -335,6 +404,9 @@
         ],
         "phrases": [
             "Iron the clothes"
+        ],
+        "verb": [
+            "V"
         ]
     },
     {
@@ -349,6 +421,9 @@
         ],
         "phrases": [
             "Sweep the floor"
+        ],
+        "verb": [
+            "V"
         ]
     },
     {
@@ -363,6 +438,9 @@
         ],
         "phrases": [
             "Dust the bookshelf"
+        ],
+        "verb": [
+            "V"
         ]
     },
     {
@@ -377,6 +455,9 @@
         ],
         "phrases": [
             "Pull open"
+        ],
+        "verb": [
+            "V"
         ]
     },
     {
@@ -391,6 +472,9 @@
         ],
         "phrases": [
             "Reach for something"
+        ],
+        "verb": [
+            "V"
         ]
     },
     {
@@ -405,6 +489,9 @@
         ],
         "phrases": [
             "Go upstairs"
+        ],
+        "verb": [
+            "Adv"
         ]
     },
     {
@@ -420,6 +507,9 @@
         ],
         "phrases": [
             "Take the elevator"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -434,6 +524,9 @@
         ],
         "phrases": [
             "Don't bother somebody"
+        ],
+        "verb": [
+            "V"
         ]
     },
     {
@@ -448,6 +541,9 @@
         ],
         "phrases": [
             "At sunset"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -462,6 +558,9 @@
         ],
         "phrases": [
             "At mignight"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -476,6 +575,9 @@
         ],
         "phrases": [
             "Feel sleepy"
+        ],
+        "verb": [
+            "Adj"
         ]
     },
     {
@@ -490,6 +592,9 @@
         ],
         "phrases": [
             "Stay awake"
+        ],
+        "verb": [
+            "Adj"
         ]
     },
     {
@@ -504,6 +609,9 @@
         ],
         "phrases": [
             "Sit around watching TV"
+        ],
+        "verb": [
+            "V"
         ]
     },
     {
@@ -518,6 +626,9 @@
         ],
         "phrases": [
             "Take out the garbadge"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -532,6 +643,9 @@
         ],
         "phrases": [
             "A tough decision"
+        ],
+        "verb": [
+            "Adj"
         ]
     },
     {
@@ -546,6 +660,9 @@
         ],
         "phrases": [
             "Slightly taller"
+        ],
+        "verb": [
+            "Adv"
         ]
     },
     {
@@ -560,6 +677,9 @@
         ],
         "phrases": [
             "Slip on the floor"
+        ],
+        "verb": [
+            "V"
         ]
     },
     {
@@ -574,6 +694,9 @@
         ],
         "phrases": [
             "Leave me alone"
+        ],
+        "verb": [
+            "Adj"
         ]
     },
     {
@@ -588,6 +711,9 @@
         ],
         "phrases": [
             "Knock on the door"
+        ],
+        "verb": [
+            "V"
         ]
     },
     {
@@ -602,6 +728,9 @@
         ],
         "phrases": [
             "Next-door neighbors"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -616,6 +745,9 @@
         ],
         "phrases": [
             "Stretch one's body"
+        ],
+        "verb": [
+            "V"
         ]
     },
     {
@@ -630,6 +762,9 @@
         ],
         "phrases": [
             "Get some rest"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -644,6 +779,9 @@
         ],
         "phrases": [
             "Push something off somewhere"
+        ],
+        "verb": [
+            "V"
         ]
     },
     {
@@ -658,6 +796,9 @@
         ],
         "phrases": [
             "Break into pieces"
+        ],
+        "verb": [
+            "V"
         ]
     },
     {
@@ -672,6 +813,9 @@
         ],
         "phrases": [
             "Fill up something"
+        ],
+        "verb": [
+            "V"
         ]
     },
     {
@@ -686,6 +830,9 @@
         ],
         "phrases": [
             "Spill something all over"
+        ],
+        "verb": [
+            "V"
         ]
     },
     {
@@ -700,6 +847,9 @@
         ],
         "phrases": [
             "Run out of something"
+        ],
+        "verb": [
+            "V"
         ]
     },
     {
@@ -714,6 +864,9 @@
         ],
         "phrases": [
             "Flush the toilet"
+        ],
+        "verb": [
+            "V"
         ]
     },
     {
@@ -728,6 +881,9 @@
         ],
         "phrases": [
             "Bad breath"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -742,6 +898,9 @@
         ],
         "phrases": [
             "The final phase"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -756,6 +915,9 @@
         ],
         "phrases": [
             "A TV series"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -770,6 +932,9 @@
         ],
         "phrases": [
             "Spare time"
+        ],
+        "verb": [
+            "Adj"
         ]
     },
     {
@@ -784,6 +949,9 @@
         ],
         "phrases": [
             "Stay up late"
+        ],
+        "verb": [
+            "V"
         ]
     },
     {
@@ -798,6 +966,9 @@
         ],
         "phrases": [
             "At sunrise"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -812,6 +983,9 @@
         ],
         "phrases": [
             "A leisure activity"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -826,6 +1000,9 @@
         ],
         "phrases": [
             "Hit the snooze button"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -840,6 +1017,9 @@
         ],
         "phrases": [
             "Sleep in on weekends"
+        ],
+        "verb": [
+            "V"
         ]
     },
     {
@@ -2531,6 +2711,9 @@
         ],
         "phrases": [
             "Assist somebody in doing something"
+        ],
+        "verb": [
+            "V"
         ]
     },
     {
@@ -2545,6 +2728,9 @@
         ],
         "phrases": [
             "A heavy workload"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -2559,6 +2745,9 @@
         ],
         "phrases": [
             "Arrange an appointment "
+        ],
+        "verb": [
+            "V"
         ]
     },
     {
@@ -2573,6 +2762,9 @@
         ],
         "phrases": [
             "Have good discipline"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -2587,6 +2779,9 @@
         ],
         "phrases": [
             "Affect the outcome of"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -2601,6 +2796,9 @@
         ],
         "phrases": [
             "Productive worker"
+        ],
+        "verb": [
+            "Adj"
         ]
     },
     {
@@ -2615,6 +2813,9 @@
         ],
         "phrases": [
             "Good news"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -2629,6 +2830,9 @@
         ],
         "phrases": [
             "Follow up on something"
+        ],
+        "verb": [
+            "V"
         ]
     },
     {
@@ -2643,6 +2847,9 @@
         ],
         "phrases": [
             "Plan ahead for something"
+        ],
+        "verb": [
+            "V"
         ]
     },
     {
@@ -2657,6 +2864,9 @@
         ],
         "phrases": [
             "A period of time"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -2671,6 +2881,9 @@
         ],
         "phrases": [
             "Go jogging"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -2685,6 +2898,9 @@
         ],
         "phrases": [
             "A necessary skill"
+        ],
+        "verb": [
+            "Adj"
         ]
     },
     {
@@ -2699,6 +2915,9 @@
         ],
         "phrases": [
             "Estimate the cost"
+        ],
+        "verb": [
+            "V"
         ]
     },
     {
@@ -2713,6 +2932,9 @@
         ],
         "phrases": [
             "Wait a minute"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -2727,6 +2949,9 @@
         ],
         "phrases": [
             "Avoid burnout"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -2741,6 +2966,9 @@
         ],
         "phrases": [
             "A useful tip"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -2755,6 +2983,9 @@
         ],
         "phrases": [
             "Focus on something"
+        ],
+        "verb": [
+            "V"
         ]
     },
     {
@@ -2769,6 +3000,9 @@
         ],
         "phrases": [
             "Practice doing something"
+        ],
+        "verb": [
+            "V"
         ]
     },
     {
@@ -2783,6 +3017,9 @@
         ],
         "phrases": [
             "Highly efficient"
+        ],
+        "verb": [
+            "Adj"
         ]
     },
     {
@@ -2797,6 +3034,9 @@
         ],
         "phrases": [
             "On the agenda"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -2811,6 +3051,9 @@
         ],
         "phrases": [
             "Politely  decline"
+        ],
+        "verb": [
+            "V"
         ]
     },
     {
@@ -2825,6 +3068,9 @@
         ],
         "phrases": [
             "Hang out at night"
+        ],
+        "verb": [
+            "V"
         ]
     },
     {
@@ -2839,6 +3085,9 @@
         ],
         "phrases": [
             "Mark your calendar"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -2853,6 +3102,9 @@
         ],
         "phrases": [
             "Workplace safety/An toàn lao động"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -2867,6 +3119,9 @@
         ],
         "phrases": [
             "Almost all of"
+        ],
+        "verb": [
+            "Adv"
         ]
     },
     {
@@ -2881,6 +3136,9 @@
         ],
         "phrases": [
             "Quit one's job"
+        ],
+        "verb": [
+            "V"
         ]
     },
     {
@@ -2895,6 +3153,9 @@
         ],
         "phrases": [
             "Do exercise"
+        ],
+        "verb": [
+            "V"
         ]
     },
     {
@@ -2909,6 +3170,9 @@
         ],
         "phrases": [
             "Truly amazing"
+        ],
+        "verb": [
+            "Adj"
         ]
     },
     {
@@ -2923,6 +3187,9 @@
         ],
         "phrases": [
             "A patient person"
+        ],
+        "verb": [
+            "Adj"
         ]
     },
     {
@@ -2937,6 +3204,9 @@
         ],
         "phrases": [
             "Grateful to somebody"
+        ],
+        "verb": [
+            "Adj"
         ]
     },
     {
@@ -2951,6 +3221,9 @@
         ],
         "phrases": [
             "An Application form"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -2965,6 +3238,9 @@
         ],
         "phrases": [
             "Fill out the form"
+        ],
+        "verb": [
+            "V"
         ]
     },
     {
@@ -2979,6 +3255,9 @@
         ],
         "phrases": [
             "Personal information"
+        ],
+        "verb": [
+            "Adj"
         ]
     },
     {
@@ -2993,6 +3272,9 @@
         ],
         "phrases": [
             "Collect information"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -3007,6 +3289,9 @@
         ],
         "phrases": [
             "Gender equality"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -3021,6 +3306,9 @@
         ],
         "phrases": [
             "A male friend"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -3035,6 +3323,9 @@
         ],
         "phrases": [
             "A female friend"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -3049,6 +3340,9 @@
         ],
         "phrases": [
             "Date of birth"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -3063,6 +3357,9 @@
         ],
         "phrases": [
             "The middle child"
+        ],
+        "verb": [
+            "Adj"
         ]
     },
     {
@@ -3077,6 +3374,9 @@
         ],
         "phrases": [
             "Correct a mistake"
+        ],
+        "verb": [
+            "V"
         ]
     },
     {
@@ -3092,6 +3392,9 @@
         ],
         "phrases": [
             "Additional information"
+        ],
+        "verb": [
+            "Adj"
         ]
     },
     {
@@ -3106,6 +3409,9 @@
         ],
         "phrases": [
             "The previous year"
+        ],
+        "verb": [
+            "Adj"
         ]
     },
     {
@@ -3120,6 +3426,9 @@
         ],
         "phrases": [
             "Live with somebody"
+        ],
+        "verb": [
+            "V"
         ]
     },
     {
@@ -3134,6 +3443,9 @@
         ],
         "phrases": [
             "My favorite movie"
+        ],
+        "verb": [
+            "Adj"
         ]
     },
     {
@@ -3148,6 +3460,9 @@
         ],
         "phrases": [
             "Introduction by somebody"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -3162,6 +3477,9 @@
         ],
         "phrases": [
             "An identity card/CMND"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -3176,6 +3494,9 @@
         ],
         "phrases": [
             "Interview somebody"
+        ],
+        "verb": [
+            "V"
         ]
     },
     {
@@ -3190,6 +3511,9 @@
         ],
         "phrases": [
             "Take a photograph"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -3204,6 +3528,9 @@
         ],
         "phrases": [
             "A permanent resident / cư dân thường trú"
+        ],
+        "verb": [
+            "Adj"
         ]
     },
     {
@@ -3218,6 +3545,9 @@
         ],
         "phrases": [
             "Security code"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -3232,6 +3562,9 @@
         ],
         "phrases": [
             "One's nationality"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -3246,6 +3579,9 @@
         ],
         "phrases": [
             "One's hometown/quê của ai đó"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -3260,6 +3596,9 @@
         ],
         "phrases": [
             "Grow up in a city"
+        ],
+        "verb": [
+            "V"
         ]
     },
     {
@@ -3274,6 +3613,9 @@
         ],
         "phrases": [
             "Northern vietnam"
+        ],
+        "verb": [
+            "Adj"
         ]
     },
     {
@@ -3288,6 +3630,9 @@
         ],
         "phrases": [
             "A mountainous province"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -3302,6 +3647,9 @@
         ],
         "phrases": [
             "Southern vietnam"
+        ],
+        "verb": [
+            "Adj"
         ]
     },
     {
@@ -3316,6 +3664,9 @@
         ],
         "phrases": [
             "Recently did something"
+        ],
+        "verb": [
+            "Adv"
         ]
     },
     {
@@ -3330,6 +3681,9 @@
         ],
         "phrases": [
             "An urban district"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -3344,6 +3698,9 @@
         ],
         "phrases": [
             "Sign here"
+        ],
+        "verb": [
+            "V"
         ]
     },
     {
@@ -3358,6 +3715,9 @@
         ],
         "phrases": [
             "Type one's password / nhập mật khẩu của một người"
+        ],
+        "verb": [
+            "V"
         ]
     },
     {
@@ -3372,6 +3732,9 @@
         ],
         "phrases": [
             "Start one's career as / bắt đầu sự nghiệp bằng nghề"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -3386,6 +3749,9 @@
         ],
         "phrases": [
             "Suitable for"
+        ],
+        "verb": [
+            "Adj"
         ]
     },
     {
@@ -3400,6 +3766,9 @@
         ],
         "phrases": [
             "Experience in doing something"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -3414,6 +3783,9 @@
         ],
         "phrases": [
             "Struggle to do something"
+        ],
+        "verb": [
+            "V"
         ]
     },
     {
@@ -3428,6 +3800,9 @@
         ],
         "phrases": [
             "A passion for something"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -3442,6 +3817,9 @@
         ],
         "phrases": [
             "Several times"
+        ],
+        "verb": [
+            "Adj"
         ]
     },
     {
@@ -3456,6 +3834,9 @@
         ],
         "phrases": [
             "A civil engineer"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -3470,6 +3851,9 @@
         ],
         "phrases": [
             "Cultural background"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -3484,6 +3868,9 @@
         ],
         "phrases": [
             "Decide to do something"
+        ],
+        "verb": [
+            "V"
         ]
     },
     {
@@ -3498,6 +3885,9 @@
         ],
         "phrases": [
             "Inspiration to do something"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -3512,6 +3902,9 @@
         ],
         "phrases": [
             "A software developer"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -3526,6 +3919,9 @@
         ],
         "phrases": [
             "Study abroad"
+        ],
+        "verb": [
+            "Adv"
         ]
     },
     {
@@ -3540,6 +3936,9 @@
         ],
         "phrases": [
             "Fit in with somebody"
+        ],
+        "verb": [
+            "V"
         ]
     },
     {
@@ -3554,6 +3953,9 @@
         ],
         "phrases": [
             "Freelance work"
+        ],
+        "verb": [
+            "Adj"
         ]
     },
     {
@@ -3568,6 +3970,9 @@
         ],
         "phrases": [
             "A professional occupation"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -3582,6 +3987,9 @@
         ],
         "phrases": [
             "In detail"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -3596,6 +4004,9 @@
         ],
         "phrases": [
             "Specific instruction"
+        ],
+        "verb": [
+            "Adj"
         ]
     },
     {
@@ -3610,6 +4021,9 @@
         ],
         "phrases": [
             "In the future"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -3624,6 +4038,9 @@
         ],
         "phrases": [
             "A specialist in something"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -3638,6 +4055,9 @@
         ],
         "phrases": [
             "An outstanding achievement"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -3652,6 +4072,9 @@
         ],
         "phrases": [
             "Acquire a skill"
+        ],
+        "verb": [
+            "V"
         ]
     },
     {
@@ -3666,6 +4089,9 @@
         ],
         "phrases": [
             "A bachelor's degree"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -3680,6 +4106,9 @@
         ],
         "phrases": [
             "Suppose that"
+        ],
+        "verb": [
+            "V"
         ]
     },
     {
@@ -3694,6 +4123,9 @@
         ],
         "phrases": [
             "Attend school"
+        ],
+        "verb": [
+            "V"
         ]
     },
     {
@@ -3708,6 +4140,9 @@
         ],
         "phrases": [
             "Major in something / Theo học ngành gì đó"
+        ],
+        "verb": [
+            "V"
         ]
     },
     {
@@ -3722,6 +4157,9 @@
         ],
         "phrases": [
             "The final grade"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -3736,6 +4174,9 @@
         ],
         "phrases": [
             "A primary school"
+        ],
+        "verb": [
+            "Adj"
         ]
     },
     {
@@ -3750,6 +4191,9 @@
         ],
         "phrases": [
             "Motivation to do something"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -3764,6 +4208,9 @@
         ],
         "phrases": [
             "Go to university"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -3778,6 +4225,9 @@
         ],
         "phrases": [
             "Dream of something"
+        ],
+        "verb": [
+            "V"
         ]
     },
     {
@@ -3792,6 +4242,9 @@
         ],
         "phrases": [
             "Achieve one's goal"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -3806,6 +4259,9 @@
         ],
         "phrases": [
             "A large company"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -3820,6 +4276,9 @@
         ],
         "phrases": [
             "Prepare for something"
+        ],
+        "verb": [
+            "V"
         ]
     },
     {
@@ -3834,6 +4293,9 @@
         ],
         "phrases": [
             "Hire an excellent"
+        ],
+        "verb": [
+            "V"
         ]
     },
     {
@@ -3848,6 +4310,9 @@
         ],
         "phrases": [
             "Managerial position"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -3862,6 +4327,9 @@
         ],
         "phrases": [
             "The ability to do something"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -3876,6 +4344,9 @@
         ],
         "phrases": [
             "Offer somebody something"
+        ],
+        "verb": [
+            "V"
         ]
     },
     {
@@ -3890,6 +4361,9 @@
         ],
         "phrases": [
             "Working condition"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -3904,6 +4378,9 @@
         ],
         "phrases": [
             "A monthly salary"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -3918,6 +4395,9 @@
         ],
         "phrases": [
             "A year-end bonus"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -3932,6 +4412,9 @@
         ],
         "phrases": [
             "Health insurance"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -3946,6 +4429,9 @@
         ],
         "phrases": [
             "Relevant to somebody or something"
+        ],
+        "verb": [
+            "Adj"
         ]
     },
     {
@@ -3960,6 +4446,9 @@
         ],
         "phrases": [
             "Stand out as something or somebody"
+        ],
+        "verb": [
+            "V"
         ]
     },
     {
@@ -3974,6 +4463,9 @@
         ],
         "phrases": [
             "On duty / có ca trực"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -3988,6 +4480,9 @@
         ],
         "phrases": [
             "Process something"
+        ],
+        "verb": [
+            "V"
         ]
     },
     {
@@ -4002,6 +4497,9 @@
         ],
         "phrases": [
             "Assess something or somebody"
+        ],
+        "verb": [
+            "V"
         ]
     },
     {
@@ -4016,6 +4514,9 @@
         ],
         "phrases": [
             "Strengths and weaknesses"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -4030,6 +4531,9 @@
         ],
         "phrases": [
             "A training course"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -4044,6 +4548,9 @@
         ],
         "phrases": [
             "Evaluate something"
+        ],
+        "verb": [
+            "V"
         ]
     },
     {
@@ -4058,6 +4565,9 @@
         ],
         "phrases": [
             "Look forward to doing something"
+        ],
+        "verb": [
+            "V"
         ]
     },
     {
@@ -4072,6 +4582,9 @@
         ],
         "phrases": [
             "Follow a rule"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -4086,6 +4599,9 @@
         ],
         "phrases": [
             "Mission accomplished"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -4100,6 +4616,9 @@
         ],
         "phrases": [
             "Failure to do something"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -4114,6 +4633,9 @@
         ],
         "phrases": [
             "Learn a lesson"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -4128,6 +4650,9 @@
         ],
         "phrases": [
             "Qualify for something"
+        ],
+        "verb": [
+            "V"
         ]
     },
     {
@@ -4142,6 +4667,9 @@
         ],
         "phrases": [
             "The human resources department"
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -4156,6 +4684,9 @@
         ],
         "phrases": [
             "Temporary workers / Những người lao động tạm thời"
+        ],
+        "verb": [
+            "Adj"
         ]
     },
     {
@@ -4170,6 +4701,9 @@
         ],
         "phrases": [
             "Arrange an appointment "
+        ],
+        "verb": [
+            "N"
         ]
     },
     {
@@ -4184,6 +4718,9 @@
         ],
         "phrases": [
             "Official language"
+        ],
+        "verb": [
+            "Adj"
         ]
     },
     {
@@ -4198,6 +4735,690 @@
         ],
         "phrases": [
             "Have the potential to do something / có tiềm năng làm được gì"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U07_01",
+        "unitId": 7,
+        "word": "Hủy",
+        "answers": [
+            "Call off"
+        ],
+        "sentences": [
+            "He calls off the meeting all of a sudden"
+        ],
+        "phrases": [
+            "Call off something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U07_02",
+        "unitId": 7,
+        "word": "Con dấu, con tem",
+        "answers": [
+            "Stamp"
+        ],
+        "sentences": [
+            "She puts a stamp on the envelope"
+        ],
+        "phrases": [
+            "Put a stamp on "
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U07_03",
+        "unitId": 7,
+        "word": "Ý kiến phản hồi",
+        "answers": [
+            "Feedback"
+        ],
+        "sentences": [
+            "Customers are encouraged to provide feedbacks to us"
+        ],
+        "phrases": [
+            "Provide feedback"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U07_04",
+        "unitId": 7,
+        "word": "Thực hiện",
+        "answers": [
+            "Carry out"
+        ],
+        "sentences": [
+            "They carry out the research on customers' behaviors"
+        ],
+        "phrases": [
+            "Carry out something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U07_05",
+        "unitId": 7,
+        "word": "Chiến lược",
+        "answers": [
+            "Strategy"
+        ],
+        "sentences": [
+            "It is crucial to implement a new strategy"
+        ],
+        "phrases": [
+            "Implement a strategy"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U07_06",
+        "unitId": 7,
+        "word": "Trợ lý",
+        "answers": [
+            "Assistant"
+        ],
+        "sentences": [
+            "She applies to be a teaching assistant"
+        ],
+        "phrases": [
+            "A teaching assistant / trợ giảng"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U07_07",
+        "unitId": 7,
+        "word": "Nghỉ hưu",
+        "answers": [
+            "Retire"
+        ],
+        "sentences": [
+            "Aging forces him to retire from his job"
+        ],
+        "phrases": [
+            "Retire from something / nghỉ hưu khỏi việc gì đó"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U07_08",
+        "unitId": 7,
+        "word": "Mang tính chuyên gia",
+        "answers": [
+            "Expert"
+        ],
+        "sentences": [
+            "Whe should seek expert advice before deciding"
+        ],
+        "phrases": [
+            "Expert advice / tư vấn chuyên môn"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U07_09",
+        "unitId": 7,
+        "word": "Xử lý",
+        "answers": [
+            "Handle"
+        ],
+        "sentences": [
+            "He handles the situation gracefully"
+        ],
+        "phrases": [
+            "Handle a situation"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U07_10",
+        "unitId": 7,
+        "word": "Bao gồm",
+        "answers": [
+            "Involve"
+        ],
+        "sentences": [
+            "Banking involves a lot of measuring"
+        ],
+        "phrases": [
+            "Involve something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U07_11",
+        "unitId": 7,
+        "word": "Thư ký",
+        "answers": [
+            "Secretary"
+        ],
+        "sentences": [
+            "She works as a secretary for our manager"
+        ],
+        "phrases": [
+            "Work as a secretary"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U07_12",
+        "unitId": 7,
+        "word": "Tập tài liệu",
+        "answers": [
+            "Folder"
+        ],
+        "sentences": [
+            "She tells me to create a new folder on the computer"
+        ],
+        "phrases": [
+            "Create a new folder"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U07_13",
+        "unitId": 7,
+        "word": "In",
+        "answers": [
+            "Print"
+        ],
+        "sentences": [
+            "I print our photos on a cup"
+        ],
+        "phrases": [
+            "Print something on something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U07_14",
+        "unitId": 7,
+        "word": "Đồng nghiệp",
+        "answers": [
+            "Colleague"
+        ],
+        "sentences": [
+            "Our male colleagues prepare gifts for women's day"
+        ],
+        "phrases": [
+            "A male colleague"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U07_15",
+        "unitId": 7,
+        "word": "Báo cáo",
+        "answers": [
+            "Report"
+        ],
+        "sentences": [
+            "I stay up late to write a report"
+        ],
+        "phrases": [
+            "Write a report"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U07_16",
+        "unitId": 7,
+        "word": "Đến hạn",
+        "answers": [
+            "Due"
+        ],
+        "sentences": [
+            "The due date for the next payment is today"
+        ],
+        "phrases": [
+            "Due date"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U07_17",
+        "unitId": 7,
+        "word": "Kỳ thực tập",
+        "answers": [
+            "Internship"
+        ],
+        "sentences": [
+            "My friend gets an internship at EY"
+        ],
+        "phrases": [
+            "Get an internship / được nhận vào thực tập"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U07_18",
+        "unitId": 7,
+        "word": "Hoãn lại",
+        "answers": [
+            "Put off"
+        ],
+        "sentences": [
+            "She puts off going to the dentist until Sunday"
+        ],
+        "phrases": [
+            "Put off doing something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U07_19",
+        "unitId": 7,
+        "word": "Thiết bị",
+        "answers": [
+            "Equipment"
+        ],
+        "sentences": [
+            "His job is to install equipment for laboratories"
+        ],
+        "phrases": [
+            "Install equipment"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U07_20",
+        "unitId": 7,
+        "word": "Giải pháp",
+        "answers": [
+            "Solution"
+        ],
+        "sentences": [
+            "We cannot find a solution to the problem"
+        ],
+        "phrases": [
+            "Find a solution"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U07_21",
+        "unitId": 7,
+        "word": "Chức năng",
+        "answers": [
+            "Function"
+        ],
+        "sentences": [
+            "Video call is a useful function of FB"
+        ],
+        "phrases": [
+            "A useful function"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U07_22",
+        "unitId": 7,
+        "word": "Bàn giao",
+        "answers": [
+            "Hand over"
+        ],
+        "sentences": [
+            "He finally hands over the project to his boss"
+        ],
+        "phrases": [
+            "Hand over something to somebody"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U07_23",
+        "unitId": 7,
+        "word": "Hạn chót",
+        "answers": [
+            "Deadline"
+        ],
+        "sentences": [
+            "I work overtime to meet the deadline"
+        ],
+        "phrases": [
+            "Meet a deadline / kịp hạn chót"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U07_24",
+        "unitId": 7,
+        "word": "Cuộc họp",
+        "answers": [
+            "Meeting"
+        ],
+        "sentences": [
+            "We aare well-prepared to attend the meeting"
+        ],
+        "phrases": [
+            "Attend a meeting"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U07_25",
+        "unitId": 7,
+        "word": "Thành viên",
+        "answers": [
+            "Member"
+        ],
+        "sentences": [
+            "Our dog is considered a family member"
+        ],
+        "phrases": [
+            "A family member"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U07_26",
+        "unitId": 7,
+        "word": "Bài thuyết trình",
+        "answers": [
+            "Presentation"
+        ],
+        "sentences": [
+            "Candidates need to give a presentation on Monday"
+        ],
+        "phrases": [
+            "Give a presentation"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U07_27",
+        "unitId": 7,
+        "word": "Chấp nhận",
+        "answers": [
+            "Approve"
+        ],
+        "sentences": [
+            "His parents do not approve of his girlfriend"
+        ],
+        "phrases": [
+            "Approve of somebody or something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U07_28",
+        "unitId": 7,
+        "word": "Hội thảo",
+        "answers": [
+            "Conference"
+        ],
+        "sentences": [
+            "They organize a conference about technology every year"
+        ],
+        "phrases": [
+            "Organize a conference"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U07_29",
+        "unitId": 7,
+        "word": "Khách hàng",
+        "answers": [
+            "Client"
+        ],
+        "sentences": [
+            "We are all shopee's potential clients"
+        ],
+        "phrases": [
+            "A potential client / khách hàng tiềm năng"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U07_30",
+        "unitId": 7,
+        "word": "Lỗi ",
+        "answers": [
+            "Fault"
+        ],
+        "sentences": [
+            "It's not my fault"
+        ],
+        "phrases": [
+            "Not my fault"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U08_01",
+        "unitId": 8,
+        "word": "Bài thi",
+        "answers": [
+            "Exam"
+        ],
+        "sentences": [
+            "Seniors have to take an exam to graduate"
+        ],
+        "phrases": [
+            "Take an exam"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U08_02",
+        "unitId": 8,
+        "word": "Hướng dẫn",
+        "answers": [
+            "Instruction"
+        ],
+        "sentences": [
+            "Read and follow the instructions carefully"
+        ],
+        "phrases": [
+            "Follow the instructions"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U08_03",
+        "unitId": 8,
+        "word": "Hoàn thành",
+        "answers": [
+            "Complete"
+        ],
+        "sentences": [
+            "He struggles to complete the homework on time"
+        ],
+        "phrases": [
+            "Complete something on time"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U08_04",
+        "unitId": 8,
+        "word": "Nộp",
+        "answers": [
+            "Hand in"
+        ],
+        "sentences": [
+            "He finally hands in his paper"
+        ],
+        "phrases": [
+            "Hand in something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U08_05",
+        "unitId": 8,
+        "word": "Kết quả",
+        "answers": [
+            "Result"
+        ],
+        "sentences": [
+            "It was cancelled as a result of the rain"
+        ],
+        "phrases": [
+            "As a result / là kết quả"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U08_06",
+        "unitId": 8,
+        "word": "Dự án",
+        "answers": [
+            "Project"
+        ],
+        "sentences": [
+            "We do a project together on air pollution"
+        ],
+        "phrases": [
+            "Do a project"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U08_07",
+        "unitId": 8,
+        "word": "Giấy chứng nhận",
+        "answers": [
+            "Certificate"
+        ],
+        "sentences": [
+            "A birth certificate is crucial to everyone"
+        ],
+        "phrases": [
+            "A birth certificate"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U08_08",
+        "unitId": 8,
+        "word": "Bài tập",
+        "answers": [
+            "Assignment"
+        ],
+        "sentences": [
+            "My teacher gives a lots of homework assignments"
+        ],
+        "phrases": [
+            "A homework assignment"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U08_09",
+        "unitId": 8,
+        "word": "Ví dụ",
+        "answers": [
+            "Example"
+        ],
+        "sentences": [
+            "Lemons",
+            " for example are sour fruits"
+        ],
+        "phrases": [
+            "For example"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U08_10",
+        "unitId": 8,
+        "word": "Tóm tắt",
+        "answers": [
+            "Summary"
+        ],
+        "sentences": [
+            "Please write a summary for your report"
+        ],
+        "phrases": [
+            "Write a summary"
+        ],
+        "verb": [
+            "N"
         ]
     }
 ]
