@@ -14,4 +14,5 @@ export type WordReviewPropType = {
   answers: string[];
   phrases?: string[];
   sentences?: string[];
+  verb?: string[];
 }

@@ -1,7 +1,7 @@
 const path = require("path");
 const fs = require("fs");
 const {v4: uuidv4} = require("uuid");
-var XLSX = require("xlsx");
+const XLSX = require("xlsx");
 
 var {utils} = XLSX;
 const {sheet_to_json} = utils;
@@ -16,10 +16,10 @@ function getDataOfExcel() {
   /* Get first worksheet */
   const wsname = wb.SheetNames[0];
   const ws = wb.Sheets[wsname];
-  
+
   /* Convert array of arrays */
   const listOfRow = sheet_to_json(ws, {header: 1, blankrows: false});
-  
+
   const words = []
   listOfRow.forEach((listOfColumnByRow, rowInd) => {
     if(rowInd !== 0) {
@@ -31,6 +31,7 @@ function getDataOfExcel() {
         if (cellInd === 3) word.answers = cellData.split(",").map(s => capitalize(s)) || []
         if (cellInd === 4) word.sentences = cellData.split(",").map(s => capitalize(s)) || []
         if (cellInd === 5) word.phrases = cellData.split(",").map(s => capitalize(s)) || []
+        if (cellInd === 6) word.verb = cellData.split(",").map(s => capitalize(s)) || []
       })
       words.push(word);
     }
@@ -45,9 +46,9 @@ const saveDataToFile = (fileName, data) => {
   return fs.writeFileSync(jsonDirectory + fileName, JSON.stringify(data, null, 4));
 }
 
-function update() {
+function update(dataInput) {
   const vocabularies = require("../data/vocabularies.vi.json");
-  listOfWord.forEach(w => {
+  dataInput.forEach(w => {
     const wUpdateIndex = vocabularies.findIndex(x => x.id === w.id);
     if (wUpdateIndex >= 0) {
       vocabularies[wUpdateIndex] = {...w};
@@ -70,14 +71,14 @@ function reformatting(words) {
     })
   })
   const ws = utils.json_to_sheet(rows)
-  
+
   utils.book_append_sheet(wb, ws, "Update_" + uuidv4().substring(0, 4))
-  
+
   // Writing to our file
   XLSX.writeFile(wb, './data/WordStudy.xlsx')
 }
 
 const listOfWord = getDataOfExcel()
-reformatting(listOfWord)
-console.log(listOfWord)
+// reformatting(listOfWord)
+console.log("Size: ", listOfWord.length)
 update(listOfWord)
