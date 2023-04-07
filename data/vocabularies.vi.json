@@ -5420,5 +5420,345 @@
         "verb": [
             "N"
         ]
+    },
+    {
+        "id": "U08_11",
+        "unitId": 8,
+        "word": "Bài giảng",
+        "answers": [
+            "Lecture"
+        ],
+        "sentences": [
+            "A professor from harvard is giving a lecture"
+        ],
+        "phrases": [
+            "Give a lecture"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U08_12",
+        "unitId": 8,
+        "word": "Sách giáo khoa",
+        "answers": [
+            "Textbook"
+        ],
+        "sentences": [
+            "I love reading school textbooks"
+        ],
+        "phrases": [
+            "A school textbook"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U08_13",
+        "unitId": 8,
+        "word": "Hóa học",
+        "answers": [
+            "Chemistry"
+        ],
+        "sentences": [
+            "Why is organic chemistry so difficult?"
+        ],
+        "phrases": [
+            "Organic chemistry"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U08_14",
+        "unitId": 8,
+        "word": "Lịch sử",
+        "answers": [
+            "History"
+        ],
+        "sentences": [
+            "Electricity was an important invention in human history"
+        ],
+        "phrases": [
+            "In human history"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U08_15",
+        "unitId": 8,
+        "word": "Toán",
+        "answers": [
+            "Math"
+        ],
+        "sentences": [
+            "Our math teacher is quite young"
+        ],
+        "phrases": [
+            "A math teacher"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U08_16",
+        "unitId": 8,
+        "word": "Vật lý",
+        "answers": [
+            "Physics"
+        ],
+        "sentences": [
+            "The physics lesson really bores me"
+        ],
+        "phrases": [
+            "A physics lesson"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U08_17",
+        "unitId": 8,
+        "word": "Môn học",
+        "answers": [
+            "Subject"
+        ],
+        "sentences": [
+            "Math is my favorite subject at school"
+        ],
+        "phrases": [
+            "Subject at school"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U08_18",
+        "unitId": 8,
+        "word": "Văn học ",
+        "answers": [
+            "Literature"
+        ],
+        "sentences": [
+            "He is reading a piece of classical literature"
+        ],
+        "phrases": [
+            "A piece of literature"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U08_19",
+        "unitId": 8,
+        "word": "Chủ đề",
+        "answers": [
+            "Topic"
+        ],
+        "sentences": [
+            "The topic of our conversation is stress management"
+        ],
+        "phrases": [
+            "The topic of conversation"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U08_20",
+        "unitId": 8,
+        "word": "Cuối cùng",
+        "answers": [
+            "Final"
+        ],
+        "sentences": [
+            "He is in the final year of college"
+        ],
+        "phrases": [
+            "Final year"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U08_21",
+        "unitId": 8,
+        "word": "Vở, sổ",
+        "answers": [
+            "Notebook"
+        ],
+        "sentences": [
+            "I found a personal notebook in the trash"
+        ],
+        "phrases": [
+            "A personal notebook"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U08_22",
+        "unitId": 8,
+        "word": "Trống ",
+        "answers": [
+            "Blank"
+        ],
+        "sentences": [
+            "Please write your address on the blank page"
+        ],
+        "phrases": [
+            "A blank page"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U08_23",
+        "unitId": 8,
+        "word": "Bao gồm",
+        "answers": [
+            "Include"
+        ],
+        "sentences": [
+            "Please include your full name in the application"
+        ],
+        "phrases": [
+            "Include something in something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U08_24",
+        "unitId": 8,
+        "word": "Kỳ học",
+        "answers": [
+            "Semester"
+        ],
+        "sentences": [
+            "The spring semester usually starts in January"
+        ],
+        "phrases": [
+            "The spring semester"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U08_25",
+        "unitId": 8,
+        "word": "TÒ mò",
+        "answers": [
+            "Curious"
+        ],
+        "sentences": [
+            "Se is extremely curious about his background"
+        ],
+        "phrases": [
+            "Curious about something"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U08_26",
+        "unitId": 8,
+        "word": "Có thể",
+        "answers": [
+            "Possible"
+        ],
+        "sentences": [
+            "Is it possible to reschuedule my class?"
+        ],
+        "phrases": [
+            "Possible to do something"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U08_27",
+        "unitId": 8,
+        "word": "Kỳ vọng",
+        "answers": [
+            "Expect"
+        ],
+        "sentences": [
+            "She expects a present from her boyfriend"
+        ],
+        "phrases": [
+            "Expect something from somebody"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U08_28",
+        "unitId": 8,
+        "word": "Tụt lại phía sau",
+        "answers": [
+            "Fall behind"
+        ],
+        "sentences": [
+            "She always falls behind everyone in the class"
+        ],
+        "phrases": [
+            "Fall behind somebody or something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U08_29",
+        "unitId": 8,
+        "word": "Tìm tới",
+        "answers": [
+            "Turn to"
+        ],
+        "sentences": [
+            "I turn to my classmate for help"
+        ],
+        "phrases": [
+            "Turn to somebody to for help"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U08_30",
+        "unitId": 8,
+        "word": "Cải thiện",
+        "answers": [
+            "Improve"
+        ],
+        "sentences": [
+            "I try to improve my pronunciation"
+        ],
+        "phrases": [
+            "Try to improve something"
+        ],
+        "verb": [
+            "V"
+        ]
     }
 ]
