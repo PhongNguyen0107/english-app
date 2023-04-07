@@ -15,6 +15,8 @@ import AlgoliaAutocomplete from "@/components/AlgoliaAutocomplete";
 import Fuse from 'fuse.js'
 import {getListOfUnit} from "@/services/English.service";
 import "./Review.style.scss"
+import {auth} from "@/configuration/firebase.config";
+import {useAuthState} from "react-firebase-hooks/auth";
 
 const {Search} = Input;
 type IProps = {}
@@ -30,6 +32,8 @@ type IState = {
 }
 const ReviewPage = (props: IProps) => {
   const router = useRouter()
+  const [user] = useAuthState(auth)
+
   // @ts-ignore
   const {data: wordsResp, isLoading, error} = useQuery('words/review', getWordReview, QUERY_CONFIG);
   const words = wordsResp?.data?.data || []
@@ -49,18 +53,17 @@ const ReviewPage = (props: IProps) => {
     setReviewState({words: words})
   }, [words]);
 
-
   const onSearchInput = (v: string) => {
-    if(!v) setReviewState({search: v, words: words});
+    if (!v) setReviewState({search: v, words: words});
     else {
       const options = {
         includeScore: true,
         keys: [
-          { name: 'unitId', getFn: (w: WordReviewPropType) => w.unitId.toString() },
-          { name: 'word', getFn: (w: WordReviewPropType) => w.word },
-          { name: 'phrases', getFn: (w: WordReviewPropType) => w.phrases },
-          { name: 'answers', getFn: (w: WordReviewPropType) => w.answers },
-          { name: 'sentences', getFn: (w: WordReviewPropType) => w.sentences },
+          {name: 'unitId', getFn: (w: WordReviewPropType) => w.unitId.toString()},
+          {name: 'word', getFn: (w: WordReviewPropType) => w.word},
+          {name: 'phrases', getFn: (w: WordReviewPropType) => w.phrases},
+          {name: 'answers', getFn: (w: WordReviewPropType) => w.answers},
+          {name: 'sentences', getFn: (w: WordReviewPropType) => w.sentences},
         ],
         isCaseSensitive: false,
         shouldSort: true,
@@ -93,7 +96,7 @@ const ReviewPage = (props: IProps) => {
 
   const onChangeUnit = (v: number) => {
     let filter = [];
-    if(v === 0) filter = words;
+    if (v === 0) filter = words;
 
     else filter = words.filter((x: WordReviewPropType) => x.unitId === v)
 
@@ -140,7 +143,7 @@ const ReviewPage = (props: IProps) => {
 
                 <Select
                   defaultValue={reviewState.unit}
-                  style={{ width: 220 }}
+                  style={{width: 220}}
                   onChange={(v) => onChangeUnit(v)}
                   options={getListOfUnit()}
                 />
