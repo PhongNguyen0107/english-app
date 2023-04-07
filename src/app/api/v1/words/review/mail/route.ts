@@ -20,12 +20,9 @@ export const padWithZeros = (number: number, length: number) => {
   return str;
 }
 
-export async function POST(request: Request) {
+export async function POST(_request: Request) {
   const wordData = require("data/vocabularies.vi.json");
   const sortData = wordData.sort((a: WordReviewPropType, b: WordReviewPropType) => a.unitId - b.unitId)
-  const responseData = {
-    data: sortData
-  }
 
   const random = sampleSize(sortData, 10)
   const template: {[key: string]: string} = {
@@ -59,6 +56,8 @@ export async function POST(request: Request) {
 
   const endpoint = "https://api.emailjs.com/api/v1.0/email/send"
   const resp = await callApiExternal(endpoint, "POST", mailPayload)
-  console.log('log::25  status & mailPayload: ',resp.status ,  mailPayload)
-  return new Response(JSON.stringify(responseData))
+  console.log("Send mail status: ", resp.status)
+  console.log("List of words: ", random.map(w => w.answers[0]))
+  console.log("Mail payload: ", JSON.stringify(mailPayload))
+  return new Response(JSON.stringify(random))
 }
