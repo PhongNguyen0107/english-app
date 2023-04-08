@@ -5760,5 +5760,667 @@
         "verb": [
             "V"
         ]
+    },
+    {
+        "id": "U09_01",
+        "unitId": 9
+    },
+    {
+        "id": "U09_02",
+        "unitId": 9
+    },
+    {
+        "id": "U09_03",
+        "unitId": 9
+    },
+    {
+        "id": "U09_04",
+        "unitId": 9
+    },
+    {
+        "id": "U09_05",
+        "unitId": 9
+    },
+    {
+        "id": "U09_06",
+        "unitId": 9
+    },
+    {
+        "id": "U09_07",
+        "unitId": 9
+    },
+    {
+        "id": "U09_08",
+        "unitId": 9
+    },
+    {
+        "id": "U09_09",
+        "unitId": 9
+    },
+    {
+        "id": "U09_10",
+        "unitId": 9
+    },
+    {
+        "id": "U09_11",
+        "unitId": 9
+    },
+    {
+        "id": "U09_12",
+        "unitId": 9
+    },
+    {
+        "id": "U09_13",
+        "unitId": 9
+    },
+    {
+        "id": "U09_14",
+        "unitId": 9
+    },
+    {
+        "id": "U09_15",
+        "unitId": 9
+    },
+    {
+        "id": "U09_16",
+        "unitId": 9
+    },
+    {
+        "id": "U09_17",
+        "unitId": 9
+    },
+    {
+        "id": "U09_18",
+        "unitId": 9
+    },
+    {
+        "id": "U09_19",
+        "unitId": 9
+    },
+    {
+        "id": "U09_20",
+        "unitId": 9
+    },
+    {
+        "id": "U09_21",
+        "unitId": 9
+    },
+    {
+        "id": "U09_22",
+        "unitId": 9
+    },
+    {
+        "id": "U09_23",
+        "unitId": 9
+    },
+    {
+        "id": "U09_24",
+        "unitId": 9
+    },
+    {
+        "id": "U09_25",
+        "unitId": 9
+    },
+    {
+        "id": "U09_26",
+        "unitId": 9
+    },
+    {
+        "id": "U09_27",
+        "unitId": 9
+    },
+    {
+        "id": "U09_28",
+        "unitId": 9
+    },
+    {
+        "id": "U09_29",
+        "unitId": 9
+    },
+    {
+        "id": "U09_30",
+        "unitId": 9
+    },
+    {
+        "id": "U10_01",
+        "unitId": 10
+    },
+    {
+        "id": "U10_02",
+        "unitId": 10
+    },
+    {
+        "id": "U10_03",
+        "unitId": 10
+    },
+    {
+        "id": "U10_04",
+        "unitId": 10
+    },
+    {
+        "id": "U10_05",
+        "unitId": 10
+    },
+    {
+        "id": "U10_06",
+        "unitId": 10
+    },
+    {
+        "id": "U10_07",
+        "unitId": 10
+    },
+    {
+        "id": "U10_08",
+        "unitId": 10
+    },
+    {
+        "id": "U10_09",
+        "unitId": 10
+    },
+    {
+        "id": "U10_10",
+        "unitId": 10
+    },
+    {
+        "id": "U10_11",
+        "unitId": 10
+    },
+    {
+        "id": "U10_12",
+        "unitId": 10
+    },
+    {
+        "id": "U10_13",
+        "unitId": 10
+    },
+    {
+        "id": "U10_14",
+        "unitId": 10
+    },
+    {
+        "id": "U10_15",
+        "unitId": 10
+    },
+    {
+        "id": "U10_16",
+        "unitId": 10
+    },
+    {
+        "id": "U10_17",
+        "unitId": 10
+    },
+    {
+        "id": "U10_18",
+        "unitId": 10
+    },
+    {
+        "id": "U10_19",
+        "unitId": 10
+    },
+    {
+        "id": "U10_20",
+        "unitId": 10
+    },
+    {
+        "id": "U10_21",
+        "unitId": 10
+    },
+    {
+        "id": "U10_22",
+        "unitId": 10
+    },
+    {
+        "id": "U10_23",
+        "unitId": 10
+    },
+    {
+        "id": "U10_24",
+        "unitId": 10
+    },
+    {
+        "id": "U10_25",
+        "unitId": 10
+    },
+    {
+        "id": "U10_26",
+        "unitId": 10
+    },
+    {
+        "id": "U10_27",
+        "unitId": 10
+    },
+    {
+        "id": "U10_28",
+        "unitId": 10
+    },
+    {
+        "id": "U10_29",
+        "unitId": 10
+    },
+    {
+        "id": "U10_30",
+        "unitId": 10
+    },
+    {
+        "id": "U30_01",
+        "unitId": 30,
+        "word": "Phong cách",
+        "answers": [
+            "Style"
+        ],
+        "sentences": [
+            "Her personal style is fabulous"
+        ],
+        "phrases": [
+            "Personal style"
+        ]
+    },
+    {
+        "id": "U30_02",
+        "unitId": 30,
+        "word": "Sản phẩm",
+        "answers": [
+            "Product"
+        ],
+        "sentences": [
+            "Milk and butter are dairy products"
+        ],
+        "phrases": [
+            "A dairy product"
+        ]
+    },
+    {
+        "id": "U30_03",
+        "unitId": 30,
+        "word": "Phía dưới",
+        "answers": [
+            "Underneath"
+        ],
+        "sentences": [
+            "The cat is underneath the sofa"
+        ],
+        "phrases": [
+            "Underneath something or somebody"
+        ]
+    },
+    {
+        "id": "U30_04",
+        "unitId": 30,
+        "word": "Dầu gội",
+        "answers": [
+            "Shampoo"
+        ],
+        "sentences": [
+            "Can you buy another bottle of shampoo"
+        ],
+        "phrases": [
+            "A bottle of shampoo"
+        ]
+    },
+    {
+        "id": "U30_05",
+        "unitId": 30,
+        "word": "Máy sấy tóc",
+        "answers": [
+            "Hair dryer"
+        ],
+        "sentences": [
+            "Buying a salon hair dryer is too expensive"
+        ],
+        "phrases": [
+            "A salon hair dryer"
+        ]
+    },
+    {
+        "id": "U30_06",
+        "unitId": 30,
+        "word": "Lược(chải tóc)",
+        "answers": [
+            "Comb"
+        ],
+        "sentences": [
+            "My messy hair needs a hair comb"
+        ],
+        "phrases": [
+            "A hair comb"
+        ]
+    },
+    {
+        "id": "U30_07",
+        "unitId": 30,
+        "word": "Nhuộm",
+        "answers": [
+            "Dye"
+        ],
+        "sentences": [
+            "I want to dye my hair blue"
+        ],
+        "phrases": [
+            "Dye one's hair"
+        ]
+    },
+    {
+        "id": "U30_08",
+        "unitId": 30,
+        "word": "Nhẹ nhàng, sáng",
+        "answers": [
+            "Light"
+        ],
+        "sentences": [
+            "She uses light colors to have a natural makeup look"
+        ],
+        "phrases": [
+            "Light color"
+        ]
+    },
+    {
+        "id": "U30_09",
+        "unitId": 30,
+        "word": "Xịt",
+        "answers": [
+            "Spray"
+        ],
+        "sentences": [
+            "He sprays water on the plants"
+        ],
+        "phrases": [
+            "Spray something"
+        ]
+    },
+    {
+        "id": "U30_10",
+        "unitId": 30,
+        "word": "Bột, phấn",
+        "answers": [
+            "Powder"
+        ],
+        "sentences": [
+            "I need make-up powder to look nice"
+        ],
+        "phrases": [
+            "Make-up powder"
+        ]
+    },
+    {
+        "id": "U30_11",
+        "unitId": 30,
+        "word": "Cạnh",
+        "answers": [
+            "Edge"
+        ],
+        "sentences": [
+            "Don't stand on the edge of the mountain!"
+        ],
+        "phrases": [
+            "On the edge of something"
+        ]
+    },
+    {
+        "id": "U30_12",
+        "unitId": 30,
+        "word": "Cằm",
+        "answers": [
+            "Chin"
+        ],
+        "sentences": [
+            "Don't worry",
+            " keep your chin up!"
+        ],
+        "phrases": [
+            "Keep your chin up!"
+        ]
+    },
+    {
+        "id": "U30_13",
+        "unitId": 30,
+        "word": "Má",
+        "answers": [
+            "Cheek"
+        ],
+        "sentences": [
+            "I love children's chubby cheeks"
+        ],
+        "phrases": [
+            "Chubby cheeks"
+        ]
+    },
+    {
+        "id": "U30_14",
+        "unitId": 30,
+        "word": "Mụn",
+        "answers": [
+            "Acne"
+        ],
+        "sentences": [
+            "He has big",
+            " red acne on his face"
+        ],
+        "phrases": [
+            "Have ance"
+        ]
+    },
+    {
+        "id": "U30_15",
+        "unitId": 30,
+        "word": "Trán",
+        "answers": [
+            "Forehead"
+        ],
+        "sentences": [
+            "He has a big forehead"
+        ],
+        "phrases": [
+            "A big forehead"
+        ]
+    },
+    {
+        "id": "U30_16",
+        "unitId": 30,
+        "word": "Mịn, nhẵn ",
+        "answers": [
+            "Smooth"
+        ],
+        "sentences": [
+            "The car has a smooth surface"
+        ],
+        "phrases": [
+            "A smooth surface"
+        ]
+    },
+    {
+        "id": "U30_17",
+        "unitId": 30,
+        "word": "Cạo",
+        "answers": [
+            "Shave"
+        ],
+        "sentences": [
+            "I need to shave my beard"
+        ],
+        "phrases": [
+            "Shave something"
+        ]
+    },
+    {
+        "id": "U30_18",
+        "unitId": 30,
+        "word": "Kem chống nắng",
+        "answers": [
+            "Sunscreen"
+        ],
+        "sentences": [
+            "Let's put on some sunscreen and go to the beach"
+        ],
+        "phrases": [
+            "Put on sunscreen"
+        ]
+    },
+    {
+        "id": "U30_19",
+        "unitId": 30,
+        "word": "Nhạy cảm",
+        "answers": [
+            "Sensitive"
+        ],
+        "sentences": [
+            "My skin is sensitive to the sun"
+        ],
+        "phrases": [
+            "Sensitive to something"
+        ]
+    },
+    {
+        "id": "U30_20",
+        "unitId": 30,
+        "word": "Độ ẩm",
+        "answers": [
+            "Moisture"
+        ],
+        "sentences": [
+            "Skincare helps with my skin moisture"
+        ],
+        "phrases": [
+            "Skin moisture"
+        ]
+    },
+    {
+        "id": "U30_21",
+        "unitId": 30,
+        "word": "Sơn môi",
+        "answers": [
+            "Lipstick"
+        ],
+        "sentences": [
+            "I wear lipstick to look nice"
+        ],
+        "phrases": [
+            "Wear lipstick"
+        ]
+    },
+    {
+        "id": "U30_22",
+        "unitId": 30,
+        "word": "Nước hoa",
+        "answers": [
+            "Perfume"
+        ],
+        "sentences": [
+            "The perfume shop smells nice"
+        ],
+        "phrases": [
+            "A perfume shop"
+        ]
+    },
+    {
+        "id": "U30_23",
+        "unitId": 30,
+        "word": "Mỹ phẩm",
+        "answers": [
+            "Cosmetics"
+        ],
+        "sentences": [
+            "Women love buying cosmetic products"
+        ],
+        "phrases": [
+            "Cosmetic products"
+        ]
+    },
+    {
+        "id": "U30_24",
+        "unitId": 30,
+        "word": "Móng",
+        "answers": [
+            "Nail"
+        ],
+        "sentences": [
+            "His nails need nail clippers"
+        ],
+        "phrases": [
+            "Nail clippers"
+        ]
+    },
+    {
+        "id": "U30_25",
+        "unitId": 30,
+        "word": "Lớp",
+        "answers": [
+            "Layer"
+        ],
+        "sentences": [
+            "She likes wearing many layers of clothes"
+        ],
+        "phrases": [
+            "Layer of something"
+        ]
+    },
+    {
+        "id": "U30_26",
+        "unitId": 30,
+        "word": "Sự kết hợp",
+        "answers": [
+            "Combination"
+        ],
+        "sentences": [
+            "This job needs a combination of skills"
+        ],
+        "phrases": [
+            "Combination of something"
+        ]
+    },
+    {
+        "id": "U30_27",
+        "unitId": 30,
+        "word": "Nhìn thấy được",
+        "answers": [
+            "Visible"
+        ],
+        "sentences": [
+            "The huge ad is visible to everyone"
+        ],
+        "phrases": [
+            "Visible to everyone"
+        ]
+    },
+    {
+        "id": "U30_28",
+        "unitId": 30,
+        "word": "Gương",
+        "answers": [
+            "Mirror"
+        ],
+        "sentences": [
+            "Please clean the dirty bathroom mirror"
+        ],
+        "phrases": [
+            "A bathroom mirror"
+        ]
+    },
+    {
+        "id": "U30_29",
+        "unitId": 30,
+        "word": "Tuyệt đẹp",
+        "answers": [
+            "Gorgeous"
+        ],
+        "sentences": [
+            "The gallery has gorgeous paintings"
+        ],
+        "phrases": [
+            "A gorgeous painting"
+        ]
+    },
+    {
+        "id": "U30_30",
+        "unitId": 30,
+        "word": "Lau",
+        "answers": [
+            "Wipe"
+        ],
+        "sentences": [
+            "Please help me wipe my glasses"
+        ],
+        "phrases": [
+            "Wipe something"
+        ]
     }
 ]

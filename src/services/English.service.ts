@@ -55,27 +55,37 @@ export const getListOfUnit = (): Unit[] => {
       value: 8,
     },
     {
-      label: "26. ",
+      label: "09. School And Education",
+      description: "",
+      value: 8,
+    },
+    {
+      label: "10. Friendship",
+      description: "",
+      value: 8,
+    },
+    {
+      label: "26. Movies",
       description: "",
       value: 26,
     },
     {
-      label: "27. ",
+      label: "27. Fame And Celebrity",
       description: "",
       value: 27,
     },
     {
-      label: "28. ",
+      label: "28. Hobbies",
       description: "",
       value: 28,
     },
     {
-      label: "29. ",
+      label: "29. Sports",
       description: "",
       value: 29,
     },
     {
-      label: "30. ",
+      label: "30. Beauty",
       description: "",
       value: 30,
     }
