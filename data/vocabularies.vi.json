@@ -5763,243 +5763,1023 @@
     },
     {
         "id": "U09_01",
-        "unitId": 9
+        "unitId": 9,
+        "word": "Việc giáo dục",
+        "answers": [
+            "Education"
+        ],
+        "sentences": [
+            "The U.S education system is different from ours"
+        ],
+        "phrases": [
+            "An education system"
+        ],
+        "verb": [
+            "N"
+        ]
     },
     {
         "id": "U09_02",
-        "unitId": 9
+        "unitId": 9,
+        "word": "Giải thưởng",
+        "answers": [
+            "Prize"
+        ],
+        "sentences": [
+            "I win a prize for my academic achievements"
+        ],
+        "phrases": [
+            "Win a prize / giành được giải thưởng"
+        ],
+        "verb": [
+            "N"
+        ]
     },
     {
         "id": "U09_03",
-        "unitId": 9
+        "unitId": 9,
+        "word": "Sinh viên năm nhất",
+        "answers": [
+            "Freshman"
+        ],
+        "sentences": [
+            "The college freshmen are warmly welcomed"
+        ],
+        "phrases": [
+            "College freshman"
+        ],
+        "verb": [
+            "N"
+        ]
     },
     {
         "id": "U09_04",
-        "unitId": 9
+        "unitId": 9,
+        "word": "Khóa học",
+        "answers": [
+            "Course"
+        ],
+        "sentences": [
+            "He is taking an english beginner course"
+        ],
+        "phrases": [
+            "A beginner course"
+        ],
+        "verb": [
+            "N"
+        ]
     },
     {
         "id": "U09_05",
-        "unitId": 9
+        "unitId": 9,
+        "word": "Chương trình học",
+        "answers": [
+            "Curriculum"
+        ],
+        "sentences": [
+            "This subject is not in the curriculum"
+        ],
+        "phrases": [
+            "In the curriculum"
+        ],
+        "verb": [
+            "N"
+        ]
     },
     {
         "id": "U09_06",
-        "unitId": 9
+        "unitId": 9,
+        "word": "Khoa trong trường",
+        "answers": [
+            "Faculty"
+        ],
+        "sentences": [
+            "He is working in the Faculty of law"
+        ],
+        "phrases": [
+            "The faculty of law / khoa luật"
+        ],
+        "verb": [
+            "N"
+        ]
     },
     {
         "id": "U09_07",
-        "unitId": 9
+        "unitId": 9,
+        "word": "Giáo sư",
+        "answers": [
+            "Professor"
+        ],
+        "sentences": [
+            "My dream is to become a university professor"
+        ],
+        "phrases": [
+            "A university professor"
+        ],
+        "verb": [
+            "N"
+        ]
     },
     {
         "id": "U09_08",
-        "unitId": 9
+        "unitId": 9,
+        "word": "Hiệu trưởng",
+        "answers": [
+            "Principal"
+        ],
+        "sentences": [
+            "Students really respect our high school principal"
+        ],
+        "phrases": [
+            "A high school principal"
+        ],
+        "verb": [
+            "N"
+        ]
     },
     {
         "id": "U09_09",
-        "unitId": 9
+        "unitId": 9,
+        "word": "Bỏ học",
+        "answers": [
+            "Drop out"
+        ],
+        "sentences": [
+            "She drop out of school"
+        ],
+        "phrases": [
+            "Drop out of school"
+        ],
+        "verb": [
+            "V"
+        ]
     },
     {
         "id": "U09_10",
-        "unitId": 9
+        "unitId": 9,
+        "word": "Vào",
+        "answers": [
+            "Get into"
+        ],
+        "sentences": [
+            "My next goal is get into a university"
+        ],
+        "phrases": [
+            "Get into a university"
+        ],
+        "verb": [
+            "V"
+        ]
     },
     {
         "id": "U09_11",
-        "unitId": 9
+        "unitId": 9,
+        "word": "Phòng thí nghiệm",
+        "answers": [
+            "Laboratory"
+        ],
+        "sentences": [
+            "A research laboratory costs a lot"
+        ],
+        "phrases": [
+            "A research laboratory"
+        ],
+        "verb": [
+            "N"
+        ]
     },
     {
         "id": "U09_12",
-        "unitId": 9
+        "unitId": 9,
+        "word": "Bài nghiên cứu",
+        "answers": [
+            "Research"
+        ],
+        "sentences": [
+            "I want to do research on viruses"
+        ],
+        "phrases": [
+            "Do research on something"
+        ],
+        "verb": [
+            "N"
+        ]
     },
     {
         "id": "U09_13",
-        "unitId": 9
+        "unitId": 9,
+        "word": "Gạch bỏ",
+        "answers": [
+            "Cross out"
+        ],
+        "sentences": [
+            "Please cross out what you think is wrong"
+        ],
+        "phrases": [
+            "Cross out something"
+        ],
+        "verb": [
+            "V"
+        ]
     },
     {
         "id": "U09_14",
-        "unitId": 9
+        "unitId": 9,
+        "word": "Khuôn viên trường",
+        "answers": [
+            "Campus"
+        ],
+        "sentences": [
+            "I can only stay on campus"
+        ],
+        "phrases": [
+            "On campus / trong khuôn viên trường"
+        ],
+        "verb": [
+            "N"
+        ]
     },
     {
         "id": "U09_15",
-        "unitId": 9
+        "unitId": 9,
+        "word": "Hướng dẫn",
+        "answers": [
+            "Guide"
+        ],
+        "sentences": [
+            "Let me guide the way"
+        ],
+        "phrases": [
+            "Guide the way"
+        ],
+        "verb": [
+            "V"
+        ]
     },
     {
         "id": "U09_16",
-        "unitId": 9
+        "unitId": 9,
+        "word": "Dạy gia sư",
+        "answers": [
+            "Tutor"
+        ],
+        "sentences": [
+            "I tutor other students in math"
+        ],
+        "phrases": [
+            "Tutor somebody"
+        ],
+        "verb": [
+            "V"
+        ]
     },
     {
         "id": "U09_17",
-        "unitId": 9
+        "unitId": 9,
+        "word": "Luận văn",
+        "answers": [
+            "Thesis"
+        ],
+        "sentences": [
+            "Your thesis on Artificial Intelligence is highly praised"
+        ],
+        "phrases": [
+            "A thesis on something"
+        ],
+        "verb": [
+            "N"
+        ]
     },
     {
         "id": "U09_18",
-        "unitId": 9
+        "unitId": 9,
+        "word": "Tham gia",
+        "answers": [
+            "Join"
+        ],
+        "sentences": [
+            "She joins the music club"
+        ],
+        "phrases": [
+            "Join a club"
+        ],
+        "verb": [
+            "V"
+        ]
     },
     {
         "id": "U09_19",
-        "unitId": 9
+        "unitId": 9,
+        "word": "Xuất sắc",
+        "answers": [
+            "Excellent"
+        ],
+        "sentences": [
+            "She is excellent at drawing"
+        ],
+        "phrases": [
+            "Excellent at doing something"
+        ],
+        "verb": [
+            "Adj"
+        ]
     },
     {
         "id": "U09_20",
-        "unitId": 9
+        "unitId": 9,
+        "word": "Kiến thức",
+        "answers": [
+            "Knowledge"
+        ],
+        "sentences": [
+            "Education gives you a knowledge about a subject"
+        ],
+        "phrases": [
+            "Knowledge about something"
+        ],
+        "verb": [
+            "N"
+        ]
     },
     {
         "id": "U09_21",
-        "unitId": 9
+        "unitId": 9,
+        "word": "Vắng",
+        "answers": [
+            "Absent"
+        ],
+        "sentences": [
+            "She is absent from the class today"
+        ],
+        "phrases": [
+            "Absent from a class"
+        ],
+        "verb": [
+            "Adj"
+        ]
     },
     {
         "id": "U09_22",
-        "unitId": 9
+        "unitId": 9,
+        "word": "Câu lạc bộ",
+        "answers": [
+            "Club"
+        ],
+        "sentences": [
+            "I belong to the volunteer club at my university"
+        ],
+        "phrases": [
+            "Belong to a club"
+        ],
+        "verb": [
+            "N"
+        ]
     },
     {
         "id": "U09_23",
-        "unitId": 9
+        "unitId": 9,
+        "word": "Phí",
+        "answers": [
+            "Fee"
+        ],
+        "sentences": [
+            "Tution fee in Vietnam are rising"
+        ],
+        "phrases": [
+            "A tuition fee / học phí"
+        ],
+        "verb": [
+            "N"
+        ]
     },
     {
         "id": "U09_24",
-        "unitId": 9
+        "unitId": 9,
+        "word": "Đồng phục",
+        "answers": [
+            "Uniform"
+        ],
+        "sentences": [
+            "Students are required to wear a uniform"
+        ],
+        "phrases": [
+            "Wear a uniform"
+        ],
+        "verb": [
+            "N"
+        ]
     },
     {
         "id": "U09_25",
-        "unitId": 9
+        "unitId": 9,
+        "word": "Sự kiện",
+        "answers": [
+            "Event"
+        ],
+        "sentences": [
+            "He takes part in every event"
+        ],
+        "phrases": [
+            "Take part in an event / tham gia một sự kiện"
+        ],
+        "verb": [
+            "N"
+        ]
     },
     {
         "id": "U09_26",
-        "unitId": 9
+        "unitId": 9,
+        "word": "Bảng điểm",
+        "answers": [
+            "Transcript"
+        ],
+        "sentences": [
+            "An academic transcript is needed for your application"
+        ],
+        "phrases": [
+            "An academic transcript"
+        ],
+        "verb": [
+            "N"
+        ]
     },
     {
         "id": "U09_27",
-        "unitId": 9
+        "unitId": 9,
+        "word": "Học bổng",
+        "answers": [
+            "Scholarship"
+        ],
+        "sentences": [
+            "His achievements get him an academic scholarship"
+        ],
+        "phrases": [
+            "An academic scholarship"
+        ],
+        "verb": [
+            "N"
+        ]
     },
     {
         "id": "U09_28",
-        "unitId": 9
+        "unitId": 9,
+        "word": "Tốt nghiệp",
+        "answers": [
+            "Graduate"
+        ],
+        "sentences": [
+            "He graduates from an excellent university"
+        ],
+        "phrases": [
+            "Graduate from university"
+        ],
+        "verb": [
+            "V"
+        ]
     },
     {
         "id": "U09_29",
-        "unitId": 9
+        "unitId": 9,
+        "word": "Máy tính bỏ túi",
+        "answers": [
+            "Calculator"
+        ],
+        "sentences": [
+            "I always keep a pocket calculator nearby"
+        ],
+        "phrases": [
+            "A pocket calculator"
+        ],
+        "verb": [
+            "N"
+        ]
     },
     {
         "id": "U09_30",
-        "unitId": 9
+        "unitId": 9,
+        "word": "Công cụ",
+        "answers": [
+            "Tool"
+        ],
+        "sentences": [
+            "Every houldhold needs a set of tools"
+        ],
+        "phrases": [
+            "A set of tools"
+        ],
+        "verb": [
+            "N"
+        ]
     },
     {
         "id": "U10_01",
-        "unitId": 10
+        "unitId": 10,
+        "word": "Giữ nguyên",
+        "answers": [
+            "Remain"
+        ],
+        "sentences": [
+            "The doctor tells her to remain still"
+        ],
+        "phrases": [
+            "Remain still / giữ nguyên"
+        ],
+        "verb": [
+            "V"
+        ]
     },
     {
         "id": "U10_02",
-        "unitId": 10
+        "unitId": 10,
+        "word": "Lời khuyên",
+        "answers": [
+            "Advice"
+        ],
+        "sentences": [
+            "Take my advice and try it again"
+        ],
+        "phrases": [
+            "Take one's advice / nghe theo lời khuyên của một người"
+        ],
+        "verb": [
+            "N"
+        ]
     },
     {
         "id": "U10_03",
-        "unitId": 10
+        "unitId": 10,
+        "word": "Tin tưởng",
+        "answers": [
+            "Trust"
+        ],
+        "sentences": [
+            "She never trusts everyone"
+        ],
+        "phrases": [
+            "Trust somebody"
+        ],
+        "verb": [
+            "V"
+        ]
     },
     {
         "id": "U10_04",
-        "unitId": 10
+        "unitId": 10,
+        "word": "Nghi ngờ",
+        "answers": [
+            "Doubt"
+        ],
+        "sentences": [
+            "I really doubt his sudden kindness / Tôi thật sự nghi ngờ sự tử tế đột ngột của anh ấy lắm"
+        ],
+        "phrases": [
+            "Doubt something"
+        ],
+        "verb": [
+            "V"
+        ]
     },
     {
         "id": "U10_05",
-        "unitId": 10
+        "unitId": 10,
+        "word": "Bạn cùng phòng",
+        "answers": [
+            "Roommate"
+        ],
+        "sentences": [
+            "I share everything in life with my college roommate"
+        ],
+        "phrases": [
+            "A college roommate / bạn cùng phòng đại học"
+        ],
+        "verb": [
+            "N"
+        ]
     },
     {
         "id": "U10_06",
-        "unitId": 10
+        "unitId": 10,
+        "word": "Quý mến",
+        "answers": [
+            "Fond of"
+        ],
+        "sentences": [
+            "I am fond of rap music"
+        ],
+        "phrases": [
+            "Font of somebody or something"
+        ],
+        "verb": [
+            "V"
+        ]
     },
     {
         "id": "U10_07",
-        "unitId": 10
+        "unitId": 10,
+        "word": "Sự khác biệt ",
+        "answers": [
+            "Difference"
+        ],
+        "sentences": [
+            "She doesn't taste the difference between pepsi and coca cola"
+        ],
+        "phrases": [
+            "The difference between"
+        ],
+        "verb": [
+            "N"
+        ]
     },
     {
         "id": "U10_08",
-        "unitId": 10
+        "unitId": 10,
+        "word": "Người lạ",
+        "answers": [
+            "Stranger"
+        ],
+        "sentences": [
+            "Please don’t be a stranger to me"
+        ],
+        "phrases": [
+            "Be a stranger to somebody / trở nên xa lạ với ai"
+        ],
+        "verb": [
+            "N"
+        ]
     },
     {
         "id": "U10_09",
-        "unitId": 10
+        "unitId": 10,
+        "word": "Hòa đồng",
+        "answers": [
+            "Get along"
+        ],
+        "sentences": [
+            "I can get along with anyone I meet"
+        ],
+        "phrases": [
+            "Get along with somebody"
+        ],
+        "verb": [
+            "V"
+        ]
     },
     {
         "id": "U10_10",
-        "unitId": 10
+        "unitId": 10,
+        "word": "Mối quan hệ",
+        "answers": [
+            "Relationship"
+        ],
+        "sentences": [
+            "Vietnam establishes a strong relationship with japan"
+        ],
+        "phrases": [
+            "Establish a relationship"
+        ],
+        "verb": [
+            "N"
+        ]
     },
     {
         "id": "U10_11",
-        "unitId": 10
+        "unitId": 10,
+        "word": "Cách xa",
+        "answers": [
+            "Apart"
+        ],
+        "sentences": [
+            "I will have to stay apart from my family soon"
+        ],
+        "phrases": [
+            "Stay apart from somebody"
+        ],
+        "verb": [
+            "Adv"
+        ]
     },
     {
         "id": "U10_12",
-        "unitId": 10
+        "unitId": 10,
+        "word": "Trung thành, chung thủy",
+        "answers": [
+            "Loyal"
+        ],
+        "sentences": [
+            "A loyal friend never betrays you"
+        ],
+        "phrases": [
+            "A loyal friend"
+        ],
+        "verb": [
+            "Adj"
+        ]
     },
     {
         "id": "U10_13",
-        "unitId": 10
+        "unitId": 10,
+        "word": "Tin cậy",
+        "answers": [
+            "Count on"
+        ],
+        "sentences": [
+            "You can count on me"
+        ],
+        "phrases": [
+            "Count on somebody or something"
+        ],
+        "verb": [
+            "V"
+        ]
     },
     {
         "id": "U10_14",
-        "unitId": 10
+        "unitId": 10,
+        "word": "Sự hòa thuận",
+        "answers": [
+            "Harmony"
+        ],
+        "sentences": [
+            "Humans should live in harmony with nature"
+        ],
+        "phrases": [
+            "In harmony with something"
+        ],
+        "verb": [
+            "N"
+        ]
     },
     {
         "id": "U10_15",
-        "unitId": 10
+        "unitId": 10,
+        "word": "Tranh cãi, tranh luận",
+        "answers": [
+            "Argue"
+        ],
+        "sentences": [
+            "My parents always argue about what to eat"
+        ],
+        "phrases": [
+            "Argue about something"
+        ],
+        "verb": [
+            "V"
+        ]
     },
     {
         "id": "U10_16",
-        "unitId": 10
+        "unitId": 10,
+        "word": "Niềm vui",
+        "answers": [
+            "Joy"
+        ],
+        "sentences": [
+            "I usually do homework with joy"
+        ],
+        "phrases": [
+            "Do something with joy / làm cái gì đó với niềm vui"
+        ],
+        "verb": [
+            "N"
+        ]
     },
     {
         "id": "U10_17",
-        "unitId": 10
+        "unitId": 10,
+        "word": "Quen thuộc ",
+        "answers": [
+            "Familiar"
+        ],
+        "sentences": [
+            "She looks familiar to me / cô ấy nhin quen lắm"
+        ],
+        "phrases": [
+            "Look familiar"
+        ],
+        "verb": [
+            "Adj"
+        ]
     },
     {
         "id": "U10_18",
-        "unitId": 10
+        "unitId": 10,
+        "word": "Mãi mãi",
+        "answers": [
+            "Forever"
+        ],
+        "sentences": [
+            "She swears (thề nguyện) her love will last forever"
+        ],
+        "phrases": [
+            "Last forever"
+        ],
+        "verb": [
+            "Adv"
+        ]
     },
     {
         "id": "U10_19",
-        "unitId": 10
+        "unitId": 10,
+        "word": "Đáng tin cậy",
+        "answers": [
+            "Reliable"
+        ],
+        "sentences": [
+            "Vnexpress is a reliable source of news"
+        ],
+        "phrases": [
+            "A reliable source of something / nguồn đáng tin cậy của cái gì đó"
+        ],
+        "verb": [
+            "Adj"
+        ]
     },
     {
         "id": "U10_20",
-        "unitId": 10
+        "unitId": 10,
+        "word": "Tình bạn",
+        "answers": [
+            "Friendship"
+        ],
+        "sentences": [
+            "A lifelong friendship is such a valuable thing"
+        ],
+        "phrases": [
+            "A lifelong friendship"
+        ],
+        "verb": [
+            "N"
+        ]
     },
     {
         "id": "U10_21",
-        "unitId": 10
+        "unitId": 10,
+        "word": "Nhắc đến",
+        "answers": [
+            "Mention"
+        ],
+        "sentences": [
+            "He mentions his girlfriend every 10 seconds"
+        ],
+        "phrases": [
+            "Mention something or somebody"
+        ],
+        "verb": [
+            "V"
+        ]
     },
     {
         "id": "U10_22",
-        "unitId": 10
+        "unitId": 10,
+        "word": "Ngồi lê đôi mách",
+        "answers": [
+            "Gossip"
+        ],
+        "sentences": [
+            "They like to gossip about everyone at school"
+        ],
+        "phrases": [
+            "Gossip about somebody or something"
+        ],
+        "verb": [
+            "V"
+        ]
     },
     {
         "id": "U10_23",
-        "unitId": 10
+        "unitId": 10,
+        "word": "Cuộc hoại thoại",
+        "answers": [
+            "Conversation"
+        ],
+        "sentences": [
+            "I try to make conversation with my manager"
+        ],
+        "phrases": [
+            "Make conversation with somebody"
+        ],
+        "verb": [
+            "N"
+        ]
     },
     {
         "id": "U10_24",
-        "unitId": 10
+        "unitId": 10,
+        "word": "Lý do",
+        "answers": [
+            "Reason"
+        ],
+        "sentences": [
+            "He gives a reason for being absent"
+        ],
+        "phrases": [
+            "Give a reason"
+        ],
+        "verb": [
+            "N"
+        ]
     },
     {
         "id": "U10_25",
-        "unitId": 10
+        "unitId": 10,
+        "word": "Cười",
+        "answers": [
+            "Laugh"
+        ],
+        "sentences": [
+            "Her joke makes everyone laugh out loud"
+        ],
+        "phrases": [
+            "Laugh out loud / cười phá lên"
+        ],
+        "verb": [
+            "V"
+        ]
     },
     {
         "id": "U10_26",
-        "unitId": 10
+        "unitId": 10,
+        "word": "Dễ tính",
+        "answers": [
+            "Easy-going"
+        ],
+        "sentences": [
+            "My dad is an easy-going person"
+        ],
+        "phrases": [
+            "Easy-going person"
+        ],
+        "verb": [
+            "Adj"
+        ]
     },
     {
         "id": "U10_27",
-        "unitId": 10
+        "unitId": 10,
+        "word": "Nhắn tin",
+        "answers": [
+            "Text"
+        ],
+        "sentences": [
+            "She texts her best friend every 10 minutes"
+        ],
+        "phrases": [
+            "Text somebody"
+        ],
+        "verb": [
+            "V"
+        ]
     },
     {
         "id": "U10_28",
-        "unitId": 10
+        "unitId": 10,
+        "word": "Đáng mến",
+        "answers": [
+            "Dear"
+        ],
+        "sentences": [
+            "My old photos are very dear to me"
+        ],
+        "phrases": [
+            "Dear to somebody / đáng quý với ai đó"
+        ],
+        "verb": [
+            "Adj"
+        ]
     },
     {
         "id": "U10_29",
-        "unitId": 10
+        "unitId": 10,
+        "word": "Món quà",
+        "answers": [
+            "Gift"
+        ],
+        "sentences": [
+            "She is happy to receive his gift"
+        ],
+        "phrases": [
+            "Receive a gift"
+        ],
+        "verb": [
+            "N"
+        ]
     },
     {
         "id": "U10_30",
-        "unitId": 10
+        "unitId": 10,
+        "word": "Thoải mái",
+        "answers": [
+            "Comfortable"
+        ],
+        "sentences": [
+            "I feel comfortable talking to him"
+        ],
+        "phrases": [
+            "Comfortable doing something"
+        ],
+        "verb": [
+            "Adj"
+        ]
     },
     {
         "id": "U30_01",
