@@ -7202,5 +7202,1026 @@
         "phrases": [
             "Wipe something"
         ]
+    },
+    {
+        "id": "U11_01",
+        "unitId": 11,
+        "word": "Đồ ăn mang đi",
+        "answers": [
+            "Takeout"
+        ],
+        "sentences": [
+            "I will order some takeout from mcdonald's"
+        ],
+        "phrases": [
+            "Order takeout"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U11_02",
+        "unitId": 11,
+        "word": "Ăn ngoài",
+        "answers": [
+            "Eat out"
+        ],
+        "sentences": [
+            "Do you want to eat out tonight"
+        ],
+        "phrases": [
+            "Eat out tonight"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U11_03",
+        "unitId": 11,
+        "word": "Đặt trước",
+        "answers": [
+            "Reserve"
+        ],
+        "sentences": [
+            "I reserve a table at pizzal hut"
+        ],
+        "phrases": [
+            "Reserve a table"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U11_04",
+        "unitId": 11,
+        "word": "Sẵn có",
+        "answers": [
+            "Available"
+        ],
+        "sentences": [
+            "I am available tomorrow"
+        ],
+        "phrases": [
+            "Someone be available tomorrow"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U11_05",
+        "unitId": 11,
+        "word": "Tuyệt vời",
+        "answers": [
+            "Awesome"
+        ],
+        "sentences": [
+            "Congratulation! You did an awesome job"
+        ],
+        "phrases": [
+            "An awesome job / một việc được hoàn thành xuất sắc"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U11_06",
+        "unitId": 11,
+        "word": "Gợi ý",
+        "answers": [
+            "Subject"
+        ],
+        "sentences": [
+            "He suggests some nice restaurants to us"
+        ],
+        "phrases": [
+            "Suggest something to somebody"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U11_07",
+        "unitId": 11,
+        "word": "Thà, thích",
+        "answers": [
+            "Rather"
+        ],
+        "sentences": [
+            "Would you rather cook or eat out"
+        ],
+        "phrases": [
+            "Would you rather / liệu bạn muốn"
+        ],
+        "verb": [
+            "Adv"
+        ]
+    },
+    {
+        "id": "U11_08",
+        "unitId": 11,
+        "word": "Lên kế hoạch",
+        "answers": [
+            "Plan"
+        ],
+        "sentences": [
+            "We plan to visit grandparents this weekend"
+        ],
+        "phrases": [
+            "Plan to do something "
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U11_09",
+        "unitId": 11,
+        "word": "Đón",
+        "answers": [
+            "Pick up"
+        ],
+        "sentences": [
+            "She picks me up at the airport"
+        ],
+        "phrases": [
+            "Pick somebody up"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U11_10",
+        "unitId": 11,
+        "word": "Chia",
+        "answers": [
+            "Split"
+        ],
+        "sentences": [
+            "He splits the cake in half"
+        ],
+        "phrases": [
+            "Split something in half / chia đôi một cái gì đó"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U11_11",
+        "unitId": 11,
+        "word": "Tiện lợi",
+        "answers": [
+            "Convenient"
+        ],
+        "sentences": [
+            "Is that a convenient time for you?"
+        ],
+        "phrases": [
+            "A convenient time"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U11_12",
+        "unitId": 11,
+        "word": "Vừa túi tiền",
+        "answers": [
+            "Affordable"
+        ],
+        "sentences": [
+            "Tiki offers things at affordable prices"
+        ],
+        "phrases": [
+            "Affordable prices"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U11_13",
+        "unitId": 11,
+        "word": "Miễn phí",
+        "answers": [
+            "Free"
+        ],
+        "sentences": [
+            "You can use the printer free of charge"
+        ],
+        "phrases": [
+            "Free of charge / miễn phí"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U11_14",
+        "unitId": 11,
+        "word": "Gặp gỡ",
+        "answers": [
+            "Meet up"
+        ],
+        "sentences": [
+            "I often meet up with my friends"
+        ],
+        "phrases": [
+            "Meet up with somebody"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U11_15",
+        "unitId": 11,
+        "word": "Cập nhật tình hình",
+        "answers": [
+            "Catch up"
+        ],
+        "sentences": [
+            "We finally catch up with the team after a long time"
+        ],
+        "phrases": [
+            "Catch up with somebody"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U11_16",
+        "unitId": 11,
+        "word": "Ra ngoài chơi",
+        "answers": [
+            "Go out"
+        ],
+        "sentences": [
+            "Would you like to go out for a walk?"
+        ],
+        "phrases": [
+            "Go out for a walk / ra ngoài đi dạo"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U11_17",
+        "unitId": 11,
+        "word": "Tin nhắn, thông điệp",
+        "answers": [
+            "Message"
+        ],
+        "sentences": [
+            "Please send me a message",
+            " if you're interested"
+        ],
+        "phrases": [
+            "Send somebody a message"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U11_18",
+        "unitId": 11,
+        "word": "Nhầm lẫn",
+        "answers": [
+            "Mix up"
+        ],
+        "sentences": [
+            "I get confused and mix up the two appointments"
+        ],
+        "phrases": [
+            "Mix up something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U11_19",
+        "unitId": 11,
+        "word": "Gọi đồ, đặt hàng",
+        "answers": [
+            "Order"
+        ],
+        "sentences": [
+            "We order some KFC for dinner"
+        ],
+        "phrases": [
+            "Order something for dinner"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U11_20",
+        "unitId": 11,
+        "word": "No, đầy",
+        "answers": [
+            "Full"
+        ],
+        "sentences": [
+            "The box is full of chocolate"
+        ],
+        "phrases": [
+            "Full of something"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U11_21",
+        "unitId": 11,
+        "word": "Xin lỗi",
+        "answers": [
+            "Apologize"
+        ],
+        "sentences": [
+            "She apologize to me for being rude / … hành sử thô lỗ"
+        ],
+        "phrases": [
+            "Apologize to somebody"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U11_22",
+        "unitId": 11,
+        "word": "Hóa đơn",
+        "answers": [
+            "Bill"
+        ],
+        "sentences": [
+            "The electricity bill is surprisingly higher than before"
+        ],
+        "phrases": [
+            "An electricity bill / hóa đơn tiền điện"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U11_23",
+        "unitId": 11,
+        "word": "Dịch vụ",
+        "answers": [
+            "Service"
+        ],
+        "sentences": [
+            "The Highland has excellent customer service"
+        ],
+        "phrases": [
+            "Customer service"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U11_24",
+        "unitId": 11,
+        "word": "Lưạ chọn",
+        "answers": [
+            "Option"
+        ],
+        "sentences": [
+            "Taking a bus is the best option for now"
+        ],
+        "phrases": [
+            "The best option"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U11_25",
+        "unitId": 11,
+        "word": "Khách hàng",
+        "answers": [
+            "Customer"
+        ],
+        "sentences": [
+            "She is a loyal customer of Starbucks"
+        ],
+        "phrases": [
+            "A loyal customer"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U11_26",
+        "unitId": 11,
+        "word": "Đầu bếp",
+        "answers": [
+            "Chef"
+        ],
+        "sentences": [
+            "She is a head chef at a five-star hotel"
+        ],
+        "phrases": [
+            "A head cheft"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U11_27",
+        "unitId": 11,
+        "word": "Hiếm ",
+        "answers": [
+            "Rare"
+        ],
+        "sentences": [
+            "This is a rare occasion when he finished a book"
+        ],
+        "phrases": [
+            "A rare occasion"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U11_28",
+        "unitId": 11,
+        "word": "Người bán hàng",
+        "answers": [
+            "Vendor"
+        ],
+        "sentences": [
+            "I sometimes buy food from a street vendor"
+        ],
+        "phrases": [
+            "A street vendor / người bán hàng rong"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U11_29",
+        "unitId": 11,
+        "word": "Đặt chỗ",
+        "answers": [
+            "Book"
+        ],
+        "sentences": [
+            "He books a table at a sushi restaurant."
+        ],
+        "phrases": [
+            "Book a table"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U11_30",
+        "unitId": 11,
+        "word": "Kinh khủng",
+        "answers": [
+            "Terrible"
+        ],
+        "sentences": [
+            "Traveling alone is a terrible experience for me"
+        ],
+        "phrases": [
+            "A terrible experience"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U12_01",
+        "unitId": 12,
+        "word": "Nhắc nhở",
+        "answers": [
+            "Remind"
+        ],
+        "sentences": [
+            "My wife reminds me about our anniversary"
+        ],
+        "phrases": [
+            "Remind somebody about something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U12_02",
+        "unitId": 12,
+        "word": "Có trách nhiệm",
+        "answers": [
+            "Responsible"
+        ],
+        "sentences": [
+            "My father is responsible for our family's well-being"
+        ],
+        "phrases": [
+            "Responsible for sb or sth"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U12_03",
+        "unitId": 12,
+        "word": "Sự quan tâm",
+        "answers": [
+            "Care"
+        ],
+        "sentences": [
+            "He's good at taking care of his cat"
+        ],
+        "phrases": [
+            "Take care of somebody or something"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U12_04",
+        "unitId": 12,
+        "word": "Anh em sinh đôi",
+        "answers": [
+            "Twin"
+        ],
+        "sentences": [
+            "They are identical twins"
+        ],
+        "phrases": [
+            "Identical twins / cặp đôi sinh cùng trứng"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U12_05",
+        "unitId": 12,
+        "word": "Cho phép",
+        "answers": [
+            "Allow"
+        ],
+        "sentences": [
+            "She never allows me to touch her things"
+        ],
+        "phrases": [
+            "Allow somebody to do something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U12_06",
+        "unitId": 12,
+        "word": "Hành vi",
+        "answers": [
+            "Behavior"
+        ],
+        "sentences": [
+            "Bad behaviors are not accepted here"
+        ],
+        "phrases": [
+            "A bad behavior"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U12_07",
+        "unitId": 12,
+        "word": "Bố mẹ, phụ huynh",
+        "answers": [
+            "Parent"
+        ],
+        "sentences": [
+            "They are not his biological parents"
+        ],
+        "phrases": [
+            "One's biological parents / cha mẹ ruột của một người"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U12_08",
+        "unitId": 12,
+        "word": "Nuôi",
+        "answers": [
+            "Raise"
+        ],
+        "sentences": [
+            "My mom raised me to become a strong person"
+        ],
+        "phrases": [
+            "Raise somebody"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U12_09",
+        "unitId": 12,
+        "word": "Gần gũi, thân thiết",
+        "answers": [
+            "Close"
+        ],
+        "sentences": [
+            "I am very close to my sister"
+        ],
+        "phrases": [
+            "Close to somebody"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U12_10",
+        "unitId": 12,
+        "word": "Nghiêm khắc",
+        "answers": [
+            "Strict"
+        ],
+        "sentences": [
+            "A strict parent teaches children discipline"
+        ],
+        "phrases": [
+            "A strict parent"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U12_11",
+        "unitId": 12,
+        "word": "Ông",
+        "answers": [
+            "Grandfather"
+        ],
+        "sentences": [
+            "My grandfather is quite familiar with high-tech products"
+        ],
+        "phrases": [
+            "One's grandfather"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U12_12",
+        "unitId": 12,
+        "word": "Động viên",
+        "answers": [
+            "Encourage"
+        ],
+        "sentences": [
+            "I encourage her to join the contest"
+        ],
+        "phrases": [
+            "Encourage somebody to do something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U12_13",
+        "unitId": 12,
+        "word": "Trông giống, noi theo",
+        "answers": [
+            "Take after"
+        ],
+        "sentences": [
+            "All her children take after her"
+        ],
+        "phrases": [
+            "Take after somebody"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U12_14",
+        "unitId": 12,
+        "word": "Hộ gia đình",
+        "answers": [
+            "Household"
+        ],
+        "sentences": [
+            "They come from a middle-income household"
+        ],
+        "phrases": [
+            "A middle-income household / hộ gia đình có thu nhập trung bình"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U12_15",
+        "unitId": 12,
+        "word": "Nguyên tắc",
+        "answers": [
+            "Principle"
+        ],
+        "sentences": [
+            "He explains the principle behind his leadership style"
+        ],
+        "phrases": [
+            "The principle behind something"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U12_16",
+        "unitId": 12,
+        "word": "Họ hàng",
+        "answers": [
+            "Relative"
+        ],
+        "sentences": [
+            "Hoa is a close relative of me"
+        ],
+        "phrases": [
+            "A close relative"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U12_17",
+        "unitId": 12,
+        "word": "Tụ tập",
+        "answers": [
+            "Get together"
+        ],
+        "sentences": [
+            "I get together with my best friends to catch up every weekend"
+        ],
+        "phrases": [
+            "Get together with somebody"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U12_18",
+        "unitId": 12,
+        "word": "Cậu chú",
+        "answers": [
+            "Uncle"
+        ],
+        "sentences": [
+            "Her aunt and uncle live in Da nang city"
+        ],
+        "phrases": [
+            "One's aunt and uncle"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U12_19",
+        "unitId": 12,
+        "word": "Anh chị em họ",
+        "answers": [
+            "Cousin"
+        ],
+        "sentences": [
+            "We realize that she is my distant cousin"
+        ],
+        "phrases": [
+            "Distant cousin / anh chị em họ xa"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U12_20",
+        "unitId": 12,
+        "word": "Tuổi thơ ấu",
+        "answers": [
+            "Childhood"
+        ],
+        "sentences": [
+            "I still remember many childhood memories"
+        ],
+        "phrases": [
+            "Childhood memories"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U12_21",
+        "unitId": 12,
+        "word": "Giống nhau",
+        "answers": [
+            "Similar"
+        ],
+        "sentences": [
+            "All new smartphones look similar"
+        ],
+        "phrases": [
+            "Look similar"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U12_22",
+        "unitId": 12,
+        "word": "Giao tiếp",
+        "answers": [
+            "Communicate"
+        ],
+        "sentences": [
+            "Humans can communicate with dog through emotions"
+        ],
+        "phrases": [
+            "Communicate with somebody or something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U12_23",
+        "unitId": 12,
+        "word": "Chia sẻ",
+        "answers": [
+            "Share"
+        ],
+        "sentences": [
+            "I share my birthday cake with everyone"
+        ],
+        "phrases": [
+            "Share something with somebody"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U12_24",
+        "unitId": 12,
+        "word": "Thảo luận",
+        "answers": [
+            "Discuss"
+        ],
+        "sentences": [
+            "I discuss the job offer with them"
+        ],
+        "phrases": [
+            "Discuss something with somebody"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U12_25",
+        "unitId": 12,
+        "word": "Cung cấp",
+        "answers": [
+            "Provide"
+        ],
+        "sentences": [
+            "Her family provides her with lots of money"
+        ],
+        "phrases": [
+            "Provide somebody with something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U12_26",
+        "unitId": 12,
+        "word": "Thế hệ",
+        "answers": [
+            "Generation"
+        ],
+        "sentences": [
+            "He believes future generations will do better"
+        ],
+        "phrases": [
+            "Future generations / các thế hệ tương lai"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U12_27",
+        "unitId": 12,
+        "word": "Khoảng cách",
+        "answers": [
+            "Gap"
+        ],
+        "sentences": [
+            "The gap in income divides people"
+        ],
+        "phrases": [
+            "A gap in something"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U12_28",
+        "unitId": 12,
+        "word": "Lớn tuổi hơn",
+        "answers": [
+            "Senior"
+        ],
+        "sentences": [
+            "Senior citizens should receive carefull consideration"
+        ],
+        "phrases": [
+            "Senior citizens / người cao tuổi"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U12_29",
+        "unitId": 12,
+        "word": "Nuôi nấng",
+        "answers": [
+            "Bring up"
+        ],
+        "sentences": [
+            "His grandfather brought him up"
+        ],
+        "phrases": [
+            "Bring somebody up"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U12_30",
+        "unitId": 12,
+        "word": "Bình an",
+        "answers": [
+            "Peace"
+        ],
+        "sentences": [
+            "Please leave me in peace"
+        ],
+        "phrases": [
+            "Leave somebody in peace / để ai yên"
+        ],
+        "verb": [
+            "N"
+        ]
     }
 ]

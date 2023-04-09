@@ -65,6 +65,16 @@ export const getListOfUnit = (): Unit[] => {
       value: 10,
     },
     {
+      label: "11. Making an appointment",
+      description: "",
+      value: 11,
+    },
+    {
+      label: "12. Family",
+      description: "",
+      value: 12,
+    },
+    {
       label: "26. Movies",
       description: "",
       value: 26,
