@@ -8223,5 +8223,1025 @@
         "verb": [
             "N"
         ]
+    },
+    {
+        "id": "U13_01",
+        "unitId": 13,
+        "word": "Liên lạc, giúp đỡ",
+        "answers": [
+            "Reach out"
+        ],
+        "sentences": [
+            "He reaches out to me for help"
+        ],
+        "phrases": [
+            "Reach out to somebody"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U13_02",
+        "unitId": 13,
+        "word": "Bí mật",
+        "answers": [
+            "Secret"
+        ],
+        "sentences": [
+            "She cannot keep a secret"
+        ],
+        "phrases": [
+            "Keep a secret"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U13_03",
+        "unitId": 13,
+        "word": "Vấn đề",
+        "answers": [
+            "Issue"
+        ],
+        "sentences": [
+            "Cheating is a big issue in a marriage"
+        ],
+        "phrases": [
+            "A big issue"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U13_04",
+        "unitId": 13,
+        "word": "Bất ngờ",
+        "answers": [
+            "Surprised"
+        ],
+        "sentences": [
+            "I am surprised by my friends"
+        ],
+        "phrases": [
+            "Surprised by something or somebody"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U13_05",
+        "unitId": 13,
+        "word": "Phản ứng",
+        "answers": [
+            "Reaction"
+        ],
+        "sentences": [
+            "Surprise is her immediate reaction"
+        ],
+        "phrases": [
+            "An immediate reaction"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U13_06",
+        "unitId": 13,
+        "word": "Đáng sợ",
+        "answers": [
+            "Scary"
+        ],
+        "sentences": [
+            "She never watches scary movies"
+        ],
+        "phrases": [
+            "A scary movie"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U13_07",
+        "unitId": 13,
+        "word": "Mong ước",
+        "answers": [
+            "Wish"
+        ],
+        "sentences": [
+            "She wishes to travel around the world"
+        ],
+        "phrases": [
+            "Wish to do something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U13_08",
+        "unitId": 13,
+        "word": "Tiếc nuối, ân hận",
+        "answers": [
+            "Regret"
+        ],
+        "sentences": [
+            "I regret being rude to my brother"
+        ],
+        "phrases": [
+            "Regret doing something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U13_09",
+        "unitId": 13,
+        "word": "Dễ chịu",
+        "answers": [
+            "Pleasant"
+        ],
+        "sentences": [
+            "Her visit was such a pleasant surprise"
+        ],
+        "phrases": [
+            "A pleasant surprise"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U13_10",
+        "unitId": 13,
+        "word": "Động viên",
+        "answers": [
+            "Cheer up"
+        ],
+        "sentences": [
+            "Her friend tries to cheer her up after the breakup"
+        ],
+        "phrases": [
+            "Cheer somebody up"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U13_11",
+        "unitId": 13,
+        "word": "Giận dữ",
+        "answers": [
+            "Angry"
+        ],
+        "sentences": [
+            "I am really angry with my parents"
+        ],
+        "phrases": [
+            "Angry with somebody"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U13_12",
+        "unitId": 13,
+        "word": "Hiểu",
+        "answers": [
+            "Understand"
+        ],
+        "sentences": [
+            "My parents never fully understand me"
+        ],
+        "phrases": [
+            "Fully understand"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U13_13",
+        "unitId": 13,
+        "word": "Xấu hổ, nhút nhát",
+        "answers": [
+            "Shy"
+        ],
+        "sentences": [
+            "She is a shy person"
+        ],
+        "phrases": [
+            "A shy person / một người nhút nhát"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U13_14",
+        "unitId": 13,
+        "word": "Cá nhân",
+        "answers": [
+            "Individual"
+        ],
+        "sentences": [
+            "What can I do to make society better as an individual"
+        ],
+        "phrases": [
+            "As an individual"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U13_15",
+        "unitId": 13,
+        "word": "Sự lo lắng",
+        "answers": [
+            "Anxiety"
+        ],
+        "sentences": [
+            "I have anxiety about public speaking"
+        ],
+        "phrases": [
+            "Have anxiety about something"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U13_16",
+        "unitId": 13,
+        "word": "Sự chú ý",
+        "answers": [
+            "Attention"
+        ],
+        "sentences": [
+            "Please pay attention to the talk"
+        ],
+        "phrases": [
+            "Pay attention to / chú ý đến"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U13_17",
+        "unitId": 13,
+        "word": "Giải phóng",
+        "answers": [
+            "Release"
+        ],
+        "sentences": [
+            "Writing is a great way to release anger"
+        ],
+        "phrases": [
+            "Release anger"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U13_18",
+        "unitId": 13,
+        "word": "Độc hại",
+        "answers": [
+            "Toxic"
+        ],
+        "sentences": [
+            "Factories release so much toxic waste"
+        ],
+        "phrases": [
+            "Toxic waste / chất thải độc hại"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U13_19",
+        "unitId": 13,
+        "word": "Niềm hạnh phúc",
+        "answers": [
+            "Happiness"
+        ],
+        "sentences": [
+            "Eating is true happiness"
+        ],
+        "phrases": [
+            "True happiness"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U13_20",
+        "unitId": 13,
+        "word": "Tâm trạng ",
+        "answers": [
+            "Mood"
+        ],
+        "sentences": [
+            "Nice weather puts me in a good mood"
+        ],
+        "phrases": [
+            "A good mood"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U13_21",
+        "unitId": 13,
+        "word": "Phát hiện ra, tìm ra",
+        "answers": [
+            "Find out"
+        ],
+        "sentences": [
+            "Visit our website to find out more information"
+        ],
+        "phrases": [
+            "Find out more information"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U13_22",
+        "unitId": 13,
+        "word": "Lo lắng",
+        "answers": [
+            "Nervous"
+        ],
+        "sentences": [
+            "She is nervous about the interview tomorrow"
+        ],
+        "phrases": [
+            "Nervous about something"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U13_23",
+        "unitId": 13,
+        "word": "Nỗi sợ",
+        "answers": [
+            "Fear"
+        ],
+        "sentences": [
+            "He is hiding in fear from his mother"
+        ],
+        "phrases": [
+            "In fear"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U13_24",
+        "unitId": 13,
+        "word": "Vui mừng, phấn khởi",
+        "answers": [
+            "Excited"
+        ],
+        "sentences": [
+            "She is obviously excited about her new work"
+        ],
+        "phrases": [
+            "Excited about something"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U13_25",
+        "unitId": 13,
+        "word": "Gánh nặng",
+        "answers": [
+            "Burden"
+        ],
+        "sentences": [
+            "Don't be a burden to your family"
+        ],
+        "phrases": [
+            "A burden to somebody"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U13_26",
+        "unitId": 13,
+        "word": "Hi vọng",
+        "answers": [
+            "Hope"
+        ],
+        "sentences": [
+            "I hope to get 7 on the ielts test"
+        ],
+        "phrases": [
+            "Hope to do something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U13_27",
+        "unitId": 13,
+        "word": "Buồn bã",
+        "answers": [
+            "Upset"
+        ],
+        "sentences": [
+            "He is upset about his grades"
+        ],
+        "phrases": [
+            "Upset about something"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U13_28",
+        "unitId": 13,
+        "word": "Khao khát",
+        "answers": [
+            "Desire"
+        ],
+        "sentences": [
+            "She has a strong desire to eat something sour"
+        ],
+        "phrases": [
+            "Strong desire to do something"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U13_29",
+        "unitId": 13,
+        "word": "Cô đơn",
+        "answers": [
+            "Lonely"
+        ],
+        "sentences": [
+            "She feels lonely"
+        ],
+        "phrases": [
+            "Despite being surrounded by people"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U13_30",
+        "unitId": 13,
+        "word": "Áp lực",
+        "answers": [
+            "Stress"
+        ],
+        "sentences": [
+            "Working under stress is a necessary skill"
+        ],
+        "phrases": [
+            "Be under stress / Dưới áp lực"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U14_01",
+        "unitId": 14,
+        "word": "Từ bỏ",
+        "answers": [
+            "Give up"
+        ],
+        "sentences": [
+            "I will never give up learning english"
+        ],
+        "phrases": [
+            "Give up doing something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U14_02",
+        "unitId": 14,
+        "word": "Vượt qua",
+        "answers": [
+            "Overcome"
+        ],
+        "sentences": [
+            "She overcomes many obstacles in her life"
+        ],
+        "phrases": [
+            "Overcome an obstacle / vượt qua một trở ngại"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U14_03",
+        "unitId": 14,
+        "word": "Can đảm",
+        "answers": [
+            "Courage"
+        ],
+        "sentences": [
+            "He gives me courage to quit my job"
+        ],
+        "phrases": [
+            "Courage to do something"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U14_04",
+        "unitId": 14,
+        "word": "Đổ lỗi",
+        "answers": [
+            "Blame"
+        ],
+        "sentences": [
+            "He blames me for his broken bike"
+        ],
+        "phrases": [
+            "Blame somebody for something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U14_05",
+        "unitId": 14,
+        "word": "Sống sót",
+        "answers": [
+            "Survive"
+        ],
+        "sentences": [
+            "We will survive the pandemic"
+        ],
+        "phrases": [
+            "Survive something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U14_06",
+        "unitId": 14,
+        "word": "Tiếp cận",
+        "answers": [
+            "Approach"
+        ],
+        "sentences": [
+            "He has to approach this problem differently"
+        ],
+        "phrases": [
+            "Approach something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U14_07",
+        "unitId": 14,
+        "word": "Chống lại, cưỡng lại",
+        "answers": [
+            "Resist"
+        ],
+        "sentences": [
+            "I cannot resist the urge to buy new clothes"
+        ],
+        "phrases": [
+            "Resist the urge to do something / cưỡng lại sự thôi thúc làm điều gì đó"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U14_08",
+        "unitId": 14,
+        "word": "Phát triển",
+        "answers": [
+            "Develop"
+        ],
+        "sentences": [
+            "They are developing a vacine for the virus"
+        ],
+        "phrases": [
+            "Develop something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U14_09",
+        "unitId": 14,
+        "word": "Giai đoạn",
+        "answers": [
+            "Stage"
+        ],
+        "sentences": [
+            "Nothing really works at this stage"
+        ],
+        "phrases": [
+            "At this stage"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U14_10",
+        "unitId": 14,
+        "word": "Nghĩ ra",
+        "answers": [
+            "Come up with"
+        ],
+        "sentences": [
+            "She always comes up with a new idea"
+        ],
+        "phrases": [
+            "Come ưp with an idea"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U14_11",
+        "unitId": 14,
+        "word": "Sự lộn xộn",
+        "answers": [
+            "Mess"
+        ],
+        "sentences": [
+            "My brother cooked and made a mess of the kitchen"
+        ],
+        "phrases": [
+            "Make a mess"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U14_12",
+        "unitId": 14,
+        "word": "Sự dẫn dắt",
+        "answers": [
+            "Lead"
+        ],
+        "sentences": [
+            "She takes the lead of the group project"
+        ],
+        "phrases": [
+            "Take the lead"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U14_13",
+        "unitId": 14,
+        "word": "Phức tạp",
+        "answers": [
+            "Complicated"
+        ],
+        "sentences": [
+            "Relax! We don't have to make things complecated"
+        ],
+        "phrases": [
+            "Make things complicated"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U14_14",
+        "unitId": 14,
+        "word": "Bước",
+        "answers": [
+            "Step"
+        ],
+        "sentences": [
+            "Please take a step back and give me some space"
+        ],
+        "phrases": [
+            "Take a step back"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U14_15",
+        "unitId": 14,
+        "word": "Nhận ra",
+        "answers": [
+            "Realize"
+        ],
+        "sentences": [
+            "She realizes that he lied to her"
+        ],
+        "phrases": [
+            "Realize something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U14_16",
+        "unitId": 14,
+        "word": "Cay đắng, gay gắt",
+        "answers": [
+            "Bitter"
+        ],
+        "sentences": [
+            "She gave me a bitter look"
+        ],
+        "phrases": [
+            "A bitter look"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U14_17",
+        "unitId": 14,
+        "word": "Chắc chắn",
+        "answers": [
+            "Sure"
+        ],
+        "sentences": [
+            "He is sure of his decision"
+        ],
+        "phrases": [
+            "Sure of something"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U14_18",
+        "unitId": 14,
+        "word": "Đảm bảo",
+        "answers": [
+            "Guarantee"
+        ],
+        "sentences": [
+            "I cannot guarantee success for your plan"
+        ],
+        "phrases": [
+            "Guarantee something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U14_19",
+        "unitId": 14,
+        "word": "Tư duy",
+        "answers": [
+            "Mindset"
+        ],
+        "sentences": [
+            "He has a very different mindset"
+        ],
+        "phrases": [
+            "A different mindset"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U14_20",
+        "unitId": 14,
+        "word": "Cố gắng thử",
+        "answers": [
+            "Attempt"
+        ],
+        "sentences": [
+            "I attempt to reach out to her"
+        ],
+        "phrases": [
+            "Attempt to do something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U14_21",
+        "unitId": 14,
+        "word": "Thuộc về cảm xúc, dễ xúc động",
+        "answers": [
+            "Emotional"
+        ],
+        "sentences": [
+            "She becomes emotional about his situation"
+        ],
+        "phrases": [
+            "Emotional about something"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U14_22",
+        "unitId": 14,
+        "word": "Kinh khủng, tồi tệ",
+        "answers": [
+            "Horrible"
+        ],
+        "sentences": [
+            "A hangover is a horrible experience"
+        ],
+        "phrases": [
+            "A horrible experience"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U14_23",
+        "unitId": 14,
+        "word": "Rất lớn",
+        "answers": [
+            "Enormous"
+        ],
+        "sentences": [
+            "He eats an enormous amount of food"
+        ],
+        "phrases": [
+            "An enormous amount / một lượng cực lớn"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U14_24",
+        "unitId": 14,
+        "word": "Cực kỳ, quá mức ",
+        "answers": [
+            "Extreme"
+        ],
+        "sentences": [
+            "Many countries are suffering from extreme weather"
+        ],
+        "phrases": [
+            "Extreme weather"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U14_25",
+        "unitId": 14,
+        "word": "Đón nhận",
+        "answers": [
+            "Embrace"
+        ],
+        "sentences": [
+            "I will gladly embrace the opportunity"
+        ],
+        "phrases": [
+            "Embrace an opportunity"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U14_26",
+        "unitId": 14,
+        "word": "Trải qua",
+        "answers": [
+            "Go through"
+        ],
+        "sentences": [
+            "He goes through ups and downs"
+        ],
+        "phrases": [
+            "Go through ups and downs / đi qua những thăng trầm"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U14_27",
+        "unitId": 14,
+        "word": "Chịu đựng",
+        "answers": [
+            "Suffer"
+        ],
+        "sentences": [
+            "His grandfather suffers from high blood pressure / huyết áp cao"
+        ],
+        "phrases": [
+            "Suffer from something / bị một bệnh gì đó / Chịu đựng thứ gì đó"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U14_28",
+        "unitId": 14,
+        "word": "Sức mạnh, quyền lực",
+        "answers": [
+            "Power"
+        ],
+        "sentences": [
+            "You have the power to voice your opinion"
+        ],
+        "phrases": [
+            "Have power to do something | voice your opinion"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U14_29",
+        "unitId": 14,
+        "word": "Sự phát triển",
+        "answers": [
+            "Growth"
+        ],
+        "sentences": [
+            "Challenges in life can promote personal growth"
+        ],
+        "phrases": [
+            "Personal growth"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U14_30",
+        "unitId": 14,
+        "word": "Cam kết",
+        "answers": [
+            "Commit"
+        ],
+        "sentences": [
+            "He can never commit to a relationship"
+        ],
+        "phrases": [
+            "Commit to something"
+        ],
+        "verb": [
+            "V"
+        ]
     }
 ]
