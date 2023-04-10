@@ -1,0 +1,16 @@
+{
+  "crons": [
+    {
+      "path": "/api/v1/words/review/mail",
+      "schedule": "0 6 * * *"
+    },
+    {
+      "path": "/api/v1/words/review/mail",
+      "schedule": "0 12 * * *"
+    },
+    {
+      "path": "/api/v1/words/review/mail",
+      "schedule": "0 15 * * *"
+    }
+  ]
+}
