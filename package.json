@@ -26,6 +26,7 @@
     "firebase": "^9.19.1",
     "firebase-admin": "^11.6.0",
     "fuse.js": "^6.6.2",
+    "inngest": "^1.6.0",
     "lodash": "^4.17.21",
     "moment": "^2.29.4",
     "next": "13.2.1",
