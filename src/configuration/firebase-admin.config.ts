@@ -1,10 +1,11 @@
 import * as FirebaseAdmin from "firebase-admin";
+console.log('log::2 Anonymous process', process.env.NEXT_PUBLIC_FIREBASE_AD_PRIVATE_KEY)
 const credentialAuth = {
   "type": "service_account",
   "project_id": "english-app-notes",
   "private_key_id": process.env.NEXT_PUBLIC_FIREBASE_AD_PRIVATE_KEY_ID,
-  "private_key": process.env.NEXT_PUBLIC_FIREBASE_AD_PRIVATE_KEY,
-  "client_email": process.env.NEXT_PUBLIC_FIREBAE_AD_CLIENT_EMAIL,
+  "private_key": process.env.NEXT_PUBLIC_FIREBASE_AD_PRIVATE_KEY?.replace(/\\n/g, '\n'),
+  "client_email": process.env.NEXT_PUBLIC_FIREBASE_AD_CLIENT_EMAIL,
   "client_id": process.env.NEXT_PUBLIC_FIREBASE_AD_CLIENT_ID,
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
@@ -19,7 +20,7 @@ try {
   });
   console.log("Firebase admin initialized")
 } catch (err: any){
-  console.error("Firebase admin initialization error: ")
+  console.error("Firebase admin initialization error: ", err.message)
 }
 
 const firestoreAdmin = FirebaseAdmin.firestore();
