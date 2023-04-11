@@ -4,6 +4,7 @@ import {QueryClient, QueryClientProvider} from 'react-query';
 import {Analytics} from '@vercel/analytics/react';
 import './globals.css'
 import '@/shared/styles/navbar.style.scss'
+import "@/app/review/Review.style.scss"
 
 const queryClient = new QueryClient();
 

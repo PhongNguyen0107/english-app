@@ -9,6 +9,7 @@ export type QuestionType = {
 
 export type WordReviewPropType = {
   id: string;
+  docId?: string;
   unitId: number;
   word: string;
   answers: string[];

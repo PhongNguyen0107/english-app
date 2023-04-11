@@ -13,7 +13,6 @@ import {ALGOLIA_SEARCH_CONFIG, searchClient} from "@/configuration/algolia-searc
 import AlgoliaAutocomplete from "@/components/AlgoliaAutocomplete";
 import Fuse from 'fuse.js'
 import {getListOfUnit} from "@/services/English.service";
-import "./Review.style.scss"
 import {auth} from "@/configuration/firebase.config";
 import {useAuthState} from "react-firebase-hooks/auth";
 import MenuBar from "@/components/MenuBar";
@@ -108,7 +107,6 @@ const ReviewPage = (props: IProps) => {
   }
 
   const onSaveWord = (w: WordReviewPropType) => {
-    console.log('log::111 onSaveWord', w)
     if (!user?.email) return messageApi.open(nError('You need to sign-in before using this function!'));
 
     saveWordByUserId(user?.email, w).then((resp) => {
