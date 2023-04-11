@@ -30,23 +30,23 @@ export async function POST(_request: Request) {
     "message": "Content message",
     "from_name": "English Review App",
     "to_name": "My Boss",
-    "reply_to": "nlphong0107@gmail.com"
+    "reply_to": "nguyenlephong1997@gmail.com"
   }
   random.forEach((w, i) => {
     const enKey = "en_" + padWithZeros(i + 1, 2);
-    template[enKey] = w.answers[0]
+    template[enKey] = w.answers?.[0]
 
     const viKey = "vi_" + padWithZeros(i + 1, 2);
     template[viKey] = w.word
 
     const phraseKey = "ph_" + padWithZeros(i + 1, 2);
-    template[phraseKey] = w.phrases[0]
+    template[phraseKey] = w.phrases?.[0]
 
     const sentenceKey = "se_" + padWithZeros(i + 1, 2);
-    template[sentenceKey] = w.sentences[0]
+    template[sentenceKey] = w.sentences?.[0]
 
     const verbKey = "ve_" + padWithZeros(i + 1, 2);
-    template[verbKey] = w.verb[0]
+    template[verbKey] = w.verb?.[0]
 
   })
 
