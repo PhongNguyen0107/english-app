@@ -9243,5 +9243,1027 @@
         "verb": [
             "V"
         ]
+    },
+    {
+        "id": "U15_01",
+        "unitId": 15,
+        "word": "Tích cực",
+        "answers": [
+            "Positive"
+        ],
+        "sentences": [
+            "A positive attitude helps you stay strong"
+        ],
+        "phrases": [
+            "A positive attitude"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U15_02",
+        "unitId": 15,
+        "word": "Đơn giản",
+        "answers": [
+            "Simple"
+        ],
+        "sentences": [
+            "A simple solution is always the best"
+        ],
+        "phrases": [
+            "A simple solution"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U15_03",
+        "unitId": 15,
+        "word": "Tiêu cực",
+        "answers": [
+            "Negative"
+        ],
+        "sentences": [
+            "A negative attitude kills your energy"
+        ],
+        "phrases": [
+            "A negative attitude"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U15_04",
+        "unitId": 15,
+        "word": "Độc lập, tự lập",
+        "answers": [
+            "Independent"
+        ],
+        "sentences": [
+            "I try to become more financially independent from my parents"
+        ],
+        "phrases": [
+            "Financially independent"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U15_05",
+        "unitId": 15,
+        "word": "Chiều cao",
+        "answers": [
+            "Height"
+        ],
+        "sentences": [
+            "She is 1.52 meters in height"
+        ],
+        "phrases": [
+            "In height"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U15_06",
+        "unitId": 15,
+        "word": "Tóc mái",
+        "answers": [
+            "Bangs"
+        ],
+        "sentences": [
+            "She has short bangs"
+        ],
+        "phrases": [
+            "Short bangs"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U15_07",
+        "unitId": 15,
+        "word": "Đẹp trai",
+        "answers": [
+            "Handsome"
+        ],
+        "sentences": [
+            "He is a handsome man with a good heart"
+        ],
+        "phrases": [
+            "A handsome man"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U15_08",
+        "unitId": 15,
+        "word": "Vết sẹo",
+        "answers": [
+            "Scar"
+        ],
+        "sentences": [
+            "He has a scar on his cheek"
+        ],
+        "phrases": [
+            "A scar on somewhere"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U15_09",
+        "unitId": 15,
+        "word": "Cẩn thận",
+        "answers": [
+            "Careful"
+        ],
+        "sentences": [
+            "Be careful of the dogs"
+        ],
+        "phrases": [
+            "Be careful of something something or somebody"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U15_10",
+        "unitId": 15,
+        "word": "Hình dáng",
+        "answers": [
+            "Figure"
+        ],
+        "sentences": [
+            "She has an hour-glass figure"
+        ],
+        "phrases": [
+            "An hour-glass figure"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U15_11",
+        "unitId": 15,
+        "word": "Câu nói đùa",
+        "answers": [
+            "Joke"
+        ],
+        "sentences": [
+            "My friend tells me a joke each time we meet"
+        ],
+        "phrases": [
+            "Tell a joke"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U15_12",
+        "unitId": 15,
+        "word": "Bình thường",
+        "answers": [
+            "Ordinary"
+        ],
+        "sentences": [
+            "We are just ordinary people",
+            " not supermen. "
+        ],
+        "phrases": [
+            "Ordinary people"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U15_13",
+        "unitId": 15,
+        "word": "Thông minh",
+        "answers": [
+            "Smart"
+        ],
+        "sentences": [
+            "Buying this book is my smartest move ever/thông minh nhất từng làm"
+        ],
+        "phrases": [
+            "A smart move / một việc thông minh"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U15_14",
+        "unitId": 15,
+        "word": "Có ích",
+        "answers": [
+            "Helpful"
+        ],
+        "sentences": [
+            "I thank her for the helpful information"
+        ],
+        "phrases": [
+            "Helpful information "
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U15_15",
+        "unitId": 15,
+        "word": "So sánh",
+        "answers": [
+            "Compare"
+        ],
+        "sentences": [
+            "My mother always compares him to me"
+        ],
+        "phrases": [
+            "Compare somebody to somebody"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U15_16",
+        "unitId": 15,
+        "word": "Thiên tài",
+        "answers": [
+            "Genius"
+        ],
+        "sentences": [
+            "My brother is a math genius"
+        ],
+        "phrases": [
+            "A math genius"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U15_17",
+        "unitId": 15,
+        "word": "Sự thông thái",
+        "answers": [
+            "Wisdom"
+        ],
+        "sentences": [
+            "His grandmother gives him many words of wisdom"
+        ],
+        "phrases": [
+            "Words of wisdom / Lời khuyên sáng suốt"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U15_18",
+        "unitId": 15,
+        "word": "Mô tả",
+        "answers": [
+            "Describe"
+        ],
+        "sentences": [
+            "Please describe yourself in 3 words"
+        ],
+        "phrases": [
+            "Describe somebody or something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U15_19",
+        "unitId": 15,
+        "word": "Khôn khéo, thông minh",
+        "answers": [
+            "Clever"
+        ],
+        "sentences": [
+            "My sister is such a clever girl"
+        ],
+        "phrases": [
+            "A clever girl "
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U15_20",
+        "unitId": 15,
+        "word": "Sự hài hước",
+        "answers": [
+            "Humor"
+        ],
+        "sentences": [
+            "You have a good sense of humor"
+        ],
+        "phrases": [
+            "A sense of humor / khiếu hài hước"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U15_21",
+        "unitId": 15,
+        "word": "Thái độ",
+        "answers": [
+            "Attitude"
+        ],
+        "sentences": [
+            "He shows a bad attitude towards his father"
+        ],
+        "phrases": [
+            "An attitude towards sb or sth"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U15_22",
+        "unitId": 15,
+        "word": "Tự nhiên",
+        "answers": [
+            "Natural"
+        ],
+        "sentences": [
+            "It's perfectly natural to need help sometimes"
+        ],
+        "phrases": [
+            "Perfectly natural / hoàn toàn tự nhiên"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U15_23",
+        "unitId": 15,
+        "word": "Nghiêm túc",
+        "answers": [
+            "Serious"
+        ],
+        "sentences": [
+            "A serious person can hardly relax"
+        ],
+        "phrases": [
+            "A serious person"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U15_24",
+        "unitId": 15,
+        "word": "Thân thiện",
+        "answers": [
+            "Friendly"
+        ],
+        "sentences": [
+            "She is friendly to anyone she meets"
+        ],
+        "phrases": [
+            "Friendly to somebody"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U15_25",
+        "unitId": 15,
+        "word": "Đặc biệt là",
+        "answers": [
+            "Especially"
+        ],
+        "sentences": [
+            "Herbs are especially important in vietnamese food"
+        ],
+        "phrases": [
+            "Especially important"
+        ],
+        "verb": [
+            "Adv"
+        ]
+    },
+    {
+        "id": "U15_26",
+        "unitId": 15,
+        "word": "Xinh xắn",
+        "answers": [
+            "Pretty"
+        ],
+        "sentences": [
+            "She has a pretty face that everyone likes"
+        ],
+        "phrases": [
+            "A pretty face"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U15_27",
+        "unitId": 15,
+        "word": "May mắn",
+        "answers": [
+            "Lucky"
+        ],
+        "sentences": [
+            "I feel lucky to pass the exam easily"
+        ],
+        "phrases": [
+            "Feel lucky"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U15_28",
+        "unitId": 15,
+        "word": "Bất cứ khi nào",
+        "answers": [
+            "Whenever"
+        ],
+        "sentences": [
+            "I like to practice english with you whenever posible"
+        ],
+        "phrases": [
+            "Whenever possible"
+        ],
+        "verb": [
+            "Adv"
+        ]
+    },
+    {
+        "id": "U15_29",
+        "unitId": 15,
+        "word": "Chấp nhận",
+        "answers": [
+            "Accept"
+        ],
+        "sentences": [
+            "He accepts the offer from harvard university"
+        ],
+        "phrases": [
+            "Accept an offer"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U15_30",
+        "unitId": 15,
+        "word": "Hoàn hảo",
+        "answers": [
+            "Perfect"
+        ],
+        "sentences": [
+            "He is the perfect person for the job"
+        ],
+        "phrases": [
+            "A perfect sth or sb"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U16_01",
+        "unitId": 16,
+        "word": "Ăn vặt",
+        "answers": [
+            "Snack"
+        ],
+        "sentences": [
+            "I snack on dried fruits"
+        ],
+        "phrases": [
+            "Snack on something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U16_02",
+        "unitId": 16,
+        "word": "Hạt tiêu",
+        "answers": [
+            "Pepper"
+        ],
+        "sentences": [
+            "Add some black pepper to make it spicier"
+        ],
+        "phrases": [
+            "Black pepper"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U16_03",
+        "unitId": 16,
+        "word": "Bít tết",
+        "answers": [
+            "Steak"
+        ],
+        "sentences": [
+            "I want a medium-rare steak"
+        ],
+        "phrases": [
+            "A medium-rare steak"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U16_04",
+        "unitId": 16,
+        "word": "Thịt bò",
+        "answers": [
+            "Beef"
+        ],
+        "sentences": [
+            "Beef stew is always my favorite dish"
+        ],
+        "phrases": [
+            "Beef stew"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U16_05",
+        "unitId": 16,
+        "word": "Thịt lợn",
+        "answers": [
+            "Pork"
+        ],
+        "sentences": [
+            "Com tam is served with grilled port chops"
+        ],
+        "phrases": [
+            "Grilled pork chops"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U16_06",
+        "unitId": 16,
+        "word": "Sườn",
+        "answers": [
+            "Rib"
+        ],
+        "sentences": [
+            "Braised pork ribs are my go-to dish for parties"
+        ],
+        "phrases": [
+            "Pork ribs"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U16_07",
+        "unitId": 16,
+        "word": "Hải sản",
+        "answers": [
+            "Seafood"
+        ],
+        "sentences": [
+            "This restaurant has fresh seafood"
+        ],
+        "phrases": [
+            "Fresh seafood"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U16_08",
+        "unitId": 16,
+        "word": "Tôm",
+        "answers": [
+            "Shrimp"
+        ],
+        "sentences": [
+            "Many people cannot stand shrimp paste"
+        ],
+        "phrases": [
+            "Shrimp paste / mắm tôm"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U16_09",
+        "unitId": 16,
+        "word": "Xoài",
+        "answers": [
+            "Mango"
+        ],
+        "sentences": [
+            "Thai green mango is good to make a salad"
+        ],
+        "phrases": [
+            "A green mango"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U16_10",
+        "unitId": 16,
+        "word": "Lưỡi",
+        "answers": [
+            "Tongue"
+        ],
+        "sentences": [
+            "The boy stricks out his tongue to people on the street"
+        ],
+        "phrases": [
+            "Stick out one's tongue / lè lưỡi"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U16_11",
+        "unitId": 16,
+        "word": "Làm nóng",
+        "answers": [
+            "Heat"
+        ],
+        "sentences": [
+            "She heats up the leftovers / đồ ăn thừa"
+        ],
+        "phrases": [
+            "Heat up something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U16_12",
+        "unitId": 16,
+        "word": "Mau chóng",
+        "answers": [
+            "Quick"
+        ],
+        "sentences": [
+            "Be quick or the goods will run out"
+        ],
+        "phrases": [
+            "Be quick / nhanh lên"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U16_13",
+        "unitId": 16,
+        "word": "Rưới, đổ",
+        "answers": [
+            "Pour"
+        ],
+        "sentences": [
+            "Let's pour some honey into the tea"
+        ],
+        "phrases": [
+            "Pour something into something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U16_14",
+        "unitId": 16,
+        "word": "Cái bát",
+        "answers": [
+            "Bowl"
+        ],
+        "sentences": [
+            "A bowl of soup will warm you up"
+        ],
+        "phrases": [
+            "A bowl of soup"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U16_15",
+        "unitId": 16,
+        "word": "Nhạt",
+        "answers": [
+            "Bland"
+        ],
+        "sentences": [
+            "This bland sauce ruins the pasta"
+        ],
+        "phrases": [
+            "A bland sauce"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U16_16",
+        "unitId": 16,
+        "word": "Quả chanh ta",
+        "answers": [
+            "Lime"
+        ],
+        "sentences": [
+            "My mother squeezes the lime to make the sauce"
+        ],
+        "phrases": [
+            "Squeeze the lime / vắt chanh"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U16_17",
+        "unitId": 16,
+        "word": "Mọng nước",
+        "answers": [
+            "Juicy"
+        ],
+        "sentences": [
+            "Juicy fruits are so refreshing"
+        ],
+        "phrases": [
+            "Juicy fruits"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U16_18",
+        "unitId": 16,
+        "word": "Chua",
+        "answers": [
+            "Sour"
+        ],
+        "sentences": [
+            "The milk turns sour after 2 days"
+        ],
+        "phrases": [
+            "Turn sour / bị hỏng bị chua"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U16_19",
+        "unitId": 16,
+        "word": "Nuốt trọng",
+        "answers": [
+            "Swallow"
+        ],
+        "sentences": [
+            "The baby cannot swallow large pills"
+        ],
+        "phrases": [
+            "Swallow something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U16_20",
+        "unitId": 16,
+        "word": "Cay",
+        "answers": [
+            "Spicy"
+        ],
+        "sentences": [
+            "Spicy food burns my tongue"
+        ],
+        "phrases": [
+            "Spicy food"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U16_21",
+        "unitId": 16,
+        "word": "Hành",
+        "answers": [
+            "Onion"
+        ],
+        "sentences": [
+            "Chopping onions makes me cry"
+        ],
+        "phrases": [
+            "Chop onions / băm hành tây"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U16_22",
+        "unitId": 16,
+        "word": "Tỏi",
+        "answers": [
+            "Garlic"
+        ],
+        "sentences": [
+            "This steak needs a clove of garlic"
+        ],
+        "phrases": [
+            "A clove of garlic / một tép tỏi"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U16_23",
+        "unitId": 16,
+        "word": "Chiên",
+        "answers": [
+            "Fry"
+        ],
+        "sentences": [
+            "I fry some eggs for breakfast"
+        ],
+        "phrases": [
+            "Fry an egg"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U16_24",
+        "unitId": 16,
+        "word": "Ngô",
+        "answers": [
+            "Corn"
+        ],
+        "sentences": [
+            "In america",
+            " you see many fields of corn"
+        ],
+        "phrases": [
+            "Fields of corn"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U16_25",
+        "unitId": 16,
+        "word": "Tủ lạnh",
+        "answers": [
+            "Fridge"
+        ],
+        "sentences": [
+            "We store all our food in a household fridge"
+        ],
+        "phrases": [
+            "A household fridge / tủ lạnh gia dụng"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U16_26",
+        "unitId": 16,
+        "word": "Nồi",
+        "answers": [
+            "Pot"
+        ],
+        "sentences": [
+            "She makes a pot of braised pork"
+        ],
+        "phrases": [
+            "A pot ot something"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U16_27",
+        "unitId": 16,
+        "word": "Thái",
+        "answers": [
+            "Slice"
+        ],
+        "sentences": [
+            "He slices up the small cake"
+        ],
+        "phrases": [
+            "Slice up something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U16_28",
+        "unitId": 16,
+        "word": "Khoai tây",
+        "answers": [
+            "Potato"
+        ],
+        "sentences": [
+            "Could you help me peel some potatoes?"
+        ],
+        "phrases": [
+            "Peel potatoes / gọt vỏ khoai tây"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U16_29",
+        "unitId": 16,
+        "word": "Lò vi sóng",
+        "answers": [
+            "Microwave"
+        ],
+        "sentences": [
+            "He still uses an old microwave"
+        ],
+        "phrases": [
+            "An old microwave"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U16_30",
+        "unitId": 16,
+        "word": "Khuấy, đảo",
+        "answers": [
+            "Stir"
+        ],
+        "sentences": [
+            "Remember to stir the mixture before using"
+        ],
+        "phrases": [
+            "Stir the mixture"
+        ],
+        "verb": [
+            "V"
+        ]
     }
 ]
