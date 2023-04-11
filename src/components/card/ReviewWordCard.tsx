@@ -21,7 +21,7 @@ const WordCard = (props: IProps) => {
   const {
     word: wordProps, isShowAnswer,
     isShowPhrase, isShowSentence, onClick,
-    active, strategy
+    active, strategy, onSaveWord
   } = props;
   const {word, unitId, phrases, sentences, answers, id} = wordProps;
 
@@ -55,6 +55,7 @@ const WordCard = (props: IProps) => {
         <div className="controls">
           <Space size={4} direction={"vertical"}>
             <Button
+              onClick={() => onSaveWord(wordProps)}
               style={{background: AppColors.green60}}
               type="primary"
               shape="circle"

@@ -8,6 +8,7 @@ import {useQuery} from "react-query";
 import {getWords} from "@/services/Words.service";
 import {useRouter} from "next/navigation";
 import {WordType} from "@/services/AppInterface";
+import MenuBar from "@/components/MenuBar";
 
 export default function Page() {
   const router = useRouter()
@@ -15,6 +16,9 @@ export default function Page() {
   const words = wordsResp?.data?.data || []
   return (
     <div className="page">
+      <div className={"page-head"}>
+        <MenuBar />
+      </div>
       <div className={"page-body"}>
         <Row gutter={[12, 12]}>
           {words.map((w: WordType) => {
@@ -35,10 +39,10 @@ export default function Page() {
               </Col>
             )
           })}
-        
+
         </Row>
       </div>
-  
+
       <TabBar active={ROUTE_NAME.WORDS}/>
     </div>
   )

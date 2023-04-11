@@ -1,8 +1,9 @@
 'use client';
 import React from "react";
-import './globals.css'
 import {QueryClient, QueryClientProvider} from 'react-query';
 import {Analytics} from '@vercel/analytics/react';
+import './globals.css'
+import '@/shared/styles/navbar.style.scss'
 
 const queryClient = new QueryClient();
 

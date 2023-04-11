@@ -1,5 +1,5 @@
 import * as FirebaseAdmin from "firebase-admin";
-console.log('log::2 Anonymous process', process.env.NEXT_PUBLIC_FIREBASE_AD_PRIVATE_KEY)
+
 const credentialAuth = {
   "type": "service_account",
   "project_id": "english-app-notes",
@@ -16,7 +16,8 @@ const credentialAuth = {
 try {
   FirebaseAdmin.initializeApp({
     // @ts-ignore
-    credential: FirebaseAdmin.credential.cert(credentialAuth)
+    credential: FirebaseAdmin.credential.cert(credentialAuth),
+    databaseURL: 'https://english-app-notes.firebaseio.com'
   });
   console.log("Firebase admin initialized")
 } catch (err: any){

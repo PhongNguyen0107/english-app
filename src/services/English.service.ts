@@ -84,21 +84,21 @@ export const getListOfUnit = (): Unit[] => {
       description: "",
       value: 14,
     },
-    // {
-    //   label: "15. ",
-    //   description: "",
-    //   value: 15,
-    // },
-    // {
-    //   label: "16. ",
-    //   description: "",
-    //   value: 16,
-    // },
-    // {
-    //   label: "17. ",
-    //   description: "",
-    //   value: 17,
-    // },
+    {
+      label: "15. Describing & People",
+      description: "",
+      value: 15,
+    },
+    {
+      label: "16. Food & Drinks",
+      description: "",
+      value: 16,
+    },
+    {
+      label: "17. Food & Drinks",
+      description: "",
+      value: 17,
+    },
     // {
     //   label: "18. ",
     //   description: "",

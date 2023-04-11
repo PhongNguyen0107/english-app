@@ -6,6 +6,7 @@ import TabBar from "@/components/tab-bar/TabBar";
 import {ROUTE_NAME} from "@/configuration/Application.config";
 import {useQuery} from "react-query";
 import {getWordById} from "@/services/Words.service";
+import MenuBar from "@/components/MenuBar";
 
 type WordType = {
   [key: string]: any;
@@ -15,9 +16,12 @@ export default function Page({params}: any) {
   const word = dataWordDetail?.data?.data || []
   return (
     <div className="page">
+      <div className={"page-head"}>
+        <MenuBar />
+      </div>
       <div className={"page-body"}>
         <Row gutter={[12, 12]}>
-          
+
           <Col key={word.id} xs={24}>
             <WordCard
               word={word.word}
@@ -31,11 +35,11 @@ export default function Page({params}: any) {
               ]}
             />
           </Col>
-        
-        
+
+
         </Row>
       </div>
-      
+
       <TabBar active={ROUTE_NAME.WORDS}/>
     </div>
   )
