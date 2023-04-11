@@ -10265,5 +10265,515 @@
         "verb": [
             "V"
         ]
+    },
+    {
+        "id": "U17_01",
+        "unitId": 17,
+        "word": "Bữa nửa buổi",
+        "answers": [
+            "Brunch"
+        ],
+        "sentences": [
+            "I always enjoy a weekend brunch"
+        ],
+        "phrases": [
+            "A weekend brunch / bữa nữa buổi dịp cuối tuần"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U17_02",
+        "unitId": 17,
+        "word": "Thịt nguội",
+        "answers": [
+            "Bacon"
+        ],
+        "sentences": [
+            "I love having bacon and eggs for breakfast"
+        ],
+        "phrases": [
+            "Bacon and eggs"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U17_03",
+        "unitId": 17,
+        "word": "Phô mai",
+        "answers": [
+            "Cheese"
+        ],
+        "sentences": [
+            "She orders a cheese plate with a glass of wine"
+        ],
+        "phrases": [
+            "A cheese a plate / 1 đĩa phô mai tổng hợp"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U17_04",
+        "unitId": 17,
+        "word": "Món ăn, ẩm thực",
+        "answers": [
+            "Cuisine"
+        ],
+        "sentences": [
+            "Italian cuisine is popular globally"
+        ],
+        "phrases": [
+            "Italian cuisine / ẩm thực ý"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U17_05",
+        "unitId": 17,
+        "word": "Chai",
+        "answers": [
+            "Bottle"
+        ],
+        "sentences": [
+            "I always keep a water bottle at hand"
+        ],
+        "phrases": [
+            "A water bottle"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U17_06",
+        "unitId": 17,
+        "word": "Đồ uống có cồn",
+        "answers": [
+            "Alcohol"
+        ],
+        "sentences": [
+            "He never drinks alcohol"
+        ],
+        "phrases": [
+            "Drink alcohol"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U17_07",
+        "unitId": 17,
+        "word": "Sống",
+        "answers": [
+            "Raw"
+        ],
+        "sentences": [
+            "Raw meat is not safe to eat"
+        ],
+        "phrases": [
+            "Raw meat"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U17_08",
+        "unitId": 17,
+        "word": "Đồ muối chua",
+        "answers": [
+            "Pickle"
+        ],
+        "sentences": [
+            "My cousin sends me some homemade pickles"
+        ],
+        "phrases": [
+            "Homemade pickles"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U17_09",
+        "unitId": 17,
+        "word": "Sen",
+        "answers": [
+            "Lotus"
+        ],
+        "sentences": [
+            "A lotus flower blooms in the pond"
+        ],
+        "phrases": [
+            "A lotus flower"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U17_10",
+        "unitId": 17,
+        "word": "Mì",
+        "answers": [
+            "Noodle"
+        ],
+        "sentences": [
+            "I ordered some stir-fried noodles"
+        ],
+        "phrases": [
+            "Stir-fried noodles"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U17_11",
+        "unitId": 17,
+        "word": "Sốt",
+        "answers": [
+            "Sauce"
+        ],
+        "sentences": [
+            "Tomato sauce is essential to pizzas"
+        ],
+        "phrases": [
+            "Tomato sauce"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U17_12",
+        "unitId": 17,
+        "word": "Bột",
+        "answers": [
+            "Flour"
+        ],
+        "sentences": [
+            "Wheat flour is used in japanese ramen"
+        ],
+        "phrases": [
+            "Wheat flour / bột mì"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U17_13",
+        "unitId": 17,
+        "word": "Khay",
+        "answers": [
+            "Tray"
+        ],
+        "sentences": [
+            "The waiter carries a large tray of food"
+        ],
+        "phrases": [
+            "A tray of food"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U17_14",
+        "unitId": 17,
+        "word": "Cuốn ",
+        "answers": [
+            "Roll"
+        ],
+        "sentences": [
+            "She rolls the vegetables with rice paper"
+        ],
+        "phrases": [
+            "Roll something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U17_15",
+        "unitId": 17,
+        "word": "Gia vị",
+        "answers": [
+            "Spice"
+        ],
+        "sentences": [
+            "She puts a spice jar in the cupboard"
+        ],
+        "phrases": [
+            "A spice jar / một hũ gia vị"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U17_16",
+        "unitId": 17,
+        "word": "Mật ong",
+        "answers": [
+            "Honey"
+        ],
+        "sentences": [
+            "He gathers honey from the hive"
+        ],
+        "phrases": [
+            "Gather honey from the hive / gom mật từ tổ ong"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U17_17",
+        "unitId": 17,
+        "word": "Ngon",
+        "answers": [
+            "Delicious"
+        ],
+        "sentences": [
+            "That cake looks delicious"
+        ],
+        "phrases": [
+            "Look delicious"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U17_18",
+        "unitId": 17,
+        "word": "Món canh hầm",
+        "answers": [
+            "Stew"
+        ],
+        "sentences": [
+            "He puts some ribs in the pot of stew"
+        ],
+        "phrases": [
+            "A pot of stew"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U17_19",
+        "unitId": 17,
+        "word": "Đồ nướng",
+        "answers": [
+            "Barbecue"
+        ],
+        "sentences": [
+            "This restaurant has a great rooftop barbecue"
+        ],
+        "phrases": [
+            "Rooftop barbecue"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U17_20",
+        "unitId": 17,
+        "word": "Dính",
+        "answers": [
+            "Stick"
+        ],
+        "sentences": [
+            "I always eat sticky rice for breakfast"
+        ],
+        "phrases": [
+            "Sticky rice / xôi"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U17_21",
+        "unitId": 17,
+        "word": "Dĩa, nĩa",
+        "answers": [
+            "Fork"
+        ],
+        "sentences": [
+            "Eat your steak wit ha knife and fork"
+        ],
+        "phrases": [
+            "Eat with a knife and fork"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U17_22",
+        "unitId": 17,
+        "word": "Đũa",
+        "answers": [
+            "Chopstick"
+        ],
+        "sentences": [
+            "Please pass me a pair of chopsticks "
+        ],
+        "phrases": [
+            "A pair of chopsticks"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U17_23",
+        "unitId": 17,
+        "word": "Miếng",
+        "answers": [
+            "Bite"
+        ],
+        "sentences": [
+            "My dog wants to take a bite of my cookie"
+        ],
+        "phrases": [
+            "Take a bite of something"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U17_24",
+        "unitId": 17,
+        "word": "Sầu riêng",
+        "answers": [
+            "Durian "
+        ],
+        "sentences": [
+            "She hates the smell of durian"
+        ],
+        "phrases": [
+            "The smell of durian "
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U17_25",
+        "unitId": 17,
+        "word": "Món tráng miệng",
+        "answers": [
+            "Dessert"
+        ],
+        "sentences": [
+            "I would like a chocolate dessert"
+        ],
+        "phrases": [
+            "A chocolate dessert"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U17_26",
+        "unitId": 17,
+        "word": "Thuộc địa phương",
+        "answers": [
+            "Local"
+        ],
+        "sentences": [
+            "Her favorite place is a local restaurant"
+        ],
+        "phrases": [
+            "A local restaurant"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U17_27",
+        "unitId": 17,
+        "word": "Có vị",
+        "answers": [
+            "Taste"
+        ],
+        "sentences": [
+            "Blue cheese tastes like spoiled food"
+        ],
+        "phrases": [
+            "Taste like something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U17_28",
+        "unitId": 17,
+        "word": "Vị",
+        "answers": [
+            "Flavor"
+        ],
+        "sentences": [
+            "Pho has a unique flavor"
+        ],
+        "phrases": [
+            "Unique flavor / hương vị độc đáo"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U17_29",
+        "unitId": 17,
+        "word": "Độc đáo",
+        "answers": [
+            "Unique"
+        ],
+        "sentences": [
+            "Durian is unique to the tropical region"
+        ],
+        "phrases": [
+            "Unique to sb or sth"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U17_30",
+        "unitId": 17,
+        "word": "Khách",
+        "answers": [
+            "Guest"
+        ],
+        "sentences": [
+            "She is our special guest today"
+        ],
+        "phrases": [
+            "A special guest"
+        ],
+        "verb": [
+            "N"
+        ]
     }
 ]
