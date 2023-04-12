@@ -11285,5 +11285,522 @@
         "verb": [
             "Adj"
         ]
+    },
+    {
+        "id": "U19_01",
+        "unitId": 19,
+        "word": "Bị bệnh, bị mệt",
+        "answers": [
+            "Sick"
+        ],
+        "sentences": [
+            "The weather makes me feel sick today"
+        ],
+        "phrases": [
+            "Feel sick"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U19_02",
+        "unitId": 19,
+        "word": "Cơn đau đầu",
+        "answers": [
+            "Headache"
+        ],
+        "sentences": [
+            "She has a headache"
+        ],
+        "phrases": [
+            "Have a headache"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U19_03",
+        "unitId": 19,
+        "word": "Nha sĩ",
+        "answers": [
+            "Dentist"
+        ],
+        "sentences": [
+            "I am forced to go to the dentist"
+        ],
+        "phrases": [
+            "Go to the dentist"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U19_04",
+        "unitId": 19,
+        "word": "Cúm ",
+        "answers": [
+            "Flu"
+        ],
+        "sentences": [
+            "I got the flu",
+            " so I stay home"
+        ],
+        "phrases": [
+            "Get the flu"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U19_05",
+        "unitId": 19,
+        "word": "Cổ họng",
+        "answers": [
+            "Throat"
+        ],
+        "sentences": [
+            "She cannot talk baceuse of a sore throat"
+        ],
+        "phrases": [
+            "A sore throat"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U19_06",
+        "unitId": 19,
+        "word": "Mắc bệnh",
+        "answers": [
+            "Catch"
+        ],
+        "sentences": [
+            "I walked in the rain and caught a cold"
+        ],
+        "phrases": [
+            "Catch a cold"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U19_07",
+        "unitId": 19,
+        "word": "Dạ dày, bụng",
+        "answers": [
+            "Stomatch"
+        ],
+        "sentences": [
+            "Street food gives me an upset stomach"
+        ],
+        "phrases": [
+            "An upset stomach"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U19_08",
+        "unitId": 19,
+        "word": "Trường hợp cấp cứu",
+        "answers": [
+            "Emergency"
+        ],
+        "sentences": [
+            "In an emergency",
+            " please call 115"
+        ],
+        "phrases": [
+            "In an emergency"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U19_09",
+        "unitId": 19,
+        "word": "Nôn",
+        "answers": [
+            "Throw up"
+        ],
+        "sentences": [
+            "He throws up the food he just ate"
+        ],
+        "phrases": [
+            "Throw up something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U19_10",
+        "unitId": 19,
+        "word": "Phòng khám",
+        "answers": [
+            "Clinic"
+        ],
+        "sentences": [
+            "Some people do not trust their local clinic"
+        ],
+        "phrases": [
+            "Local clinic"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U19_11",
+        "unitId": 19,
+        "word": "Mang thai",
+        "answers": [
+            "Pregnant"
+        ],
+        "sentences": [
+            "She gets pregnant soon after the wedding"
+        ],
+        "phrases": [
+            "Get pregnant"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U19_12",
+        "unitId": 19,
+        "word": "Ca phẫu thuật",
+        "answers": [
+            "Surgenry"
+        ],
+        "sentences": [
+            "Don't worry",
+            " it is only a minor surgenry"
+        ],
+        "phrases": [
+            "Minor surgenry"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U19_13",
+        "unitId": 19,
+        "word": "Bị đau",
+        "answers": [
+            "Hurt"
+        ],
+        "sentences": [
+            "He gets hurt due to the fall"
+        ],
+        "phrases": [
+            "Get hurt"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U19_14",
+        "unitId": 19,
+        "word": "Xe lăn",
+        "answers": [
+            "Wheelchair"
+        ],
+        "sentences": [
+            "She has to move in a wheelchair now"
+        ],
+        "phrases": [
+            "In a wheelchair"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U19_15",
+        "unitId": 19,
+        "word": "Vết thương",
+        "answers": [
+            "Wound"
+        ],
+        "sentences": [
+            "He has an open wound from falling"
+        ],
+        "phrases": [
+            "An open wound"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U19_16",
+        "unitId": 19,
+        "word": "Máu",
+        "answers": [
+            "Blood"
+        ],
+        "sentences": [
+            "We must be in good health to donate blood"
+        ],
+        "phrases": [
+            "Donate blood"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U19_17",
+        "unitId": 19,
+        "word": "Nhiệt độ",
+        "answers": [
+            "Temperature"
+        ],
+        "sentences": [
+            "A high body temperature indicates a fever"
+        ],
+        "phrases": [
+            "High body temperature"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U19_18",
+        "unitId": 19,
+        "word": "Cơn đau",
+        "answers": [
+            "Pain"
+        ],
+        "sentences": [
+            "If you are in pain",
+            " don't move"
+        ],
+        "phrases": [
+            "In pain"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U19_19",
+        "unitId": 19,
+        "word": "Mức độ",
+        "answers": [
+            "Level"
+        ],
+        "sentences": [
+            "His fever is at a high level"
+        ],
+        "phrases": [
+            "At a high level"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U19_20",
+        "unitId": 19,
+        "word": "Chăm sóc",
+        "answers": [
+            "Look after"
+        ],
+        "sentences": [
+            "His mother always looks after him"
+        ],
+        "phrases": [
+            "Look after somebody"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U19_21",
+        "unitId": 19,
+        "word": "Hệ thống",
+        "answers": [
+            "System"
+        ],
+        "sentences": [
+            "Vietnam's healthcare system is quite good"
+        ],
+        "phrases": [
+            "Healthcare system"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U19_22",
+        "unitId": 19,
+        "word": "Một cách tồi tệ",
+        "answers": [
+            "Badly"
+        ],
+        "sentences": [
+            "Everyone thiknks she sings badly"
+        ],
+        "phrases": [
+            "Sing badly"
+        ],
+        "verb": [
+            "Adv"
+        ]
+    },
+    {
+        "id": "U19_23",
+        "unitId": 19,
+        "word": "Sự điều trị",
+        "answers": [
+            "Treatment"
+        ],
+        "sentences": [
+            "The hospital provides treatment for critically ill people"
+        ],
+        "phrases": [
+            "Provide treatment"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U19_24",
+        "unitId": 19,
+        "word": "Viên thuốc",
+        "answers": [
+            "Pill"
+        ],
+        "sentences": [
+            "Take a vitamin pill once a day"
+        ],
+        "phrases": [
+            "A vitamin pill"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U19_25",
+        "unitId": 19,
+        "word": "Dưỡng chất",
+        "answers": [
+            "Nutrient"
+        ],
+        "sentences": [
+            "Essential nutrients include proteins",
+            " fát",
+            " vitamins",
+            " etc"
+        ],
+        "phrases": [
+            "Essential nutrients"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U19_26",
+        "unitId": 19,
+        "word": "Đơn thuốc",
+        "answers": [
+            "Prescription"
+        ],
+        "sentences": [
+            "He is given a prescription for a sore throat"
+        ],
+        "phrases": [
+            "Prescription for something"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U19_27",
+        "unitId": 19,
+        "word": "Thuốc",
+        "answers": [
+            "Medicine"
+        ],
+        "sentences": [
+            "I have to take medicine for my flu"
+        ],
+        "phrases": [
+            "Take medicine"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U19_28",
+        "unitId": 19,
+        "word": "Hiệu thuốc",
+        "answers": [
+            "Pharmacy"
+        ],
+        "sentences": [
+            "I go to the pharmacy to buy some medicine"
+        ],
+        "phrases": [
+            "Go to pharmacy"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U19_29",
+        "unitId": 19,
+        "word": "Căn bệnh, bệnh tật",
+        "answers": [
+            "Disease"
+        ],
+        "sentences": [
+            "Vaccines can help prevent disease"
+        ],
+        "phrases": [
+            "Prevent disease / ngăn ngừa bệnh"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U19_30",
+        "unitId": 19,
+        "word": "Nguy hiểm",
+        "answers": [
+            "Dangerous"
+        ],
+        "sentences": [
+            "Infections are dangerous for pregnant women"
+        ],
+        "phrases": [
+            "Dangerous for somebody"
+        ],
+        "verb": [
+            "Adj"
+        ]
     }
 ]
