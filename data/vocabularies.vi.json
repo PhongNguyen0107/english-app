@@ -10775,5 +10775,515 @@
         "verb": [
             "N"
         ]
+    },
+    {
+        "id": "U18_01",
+        "unitId": 18,
+        "word": "Bỏ qua",
+        "answers": [
+            "Skip"
+        ],
+        "sentences": [
+            "I may skip breakfast"
+        ],
+        "phrases": [
+            "Skip breakfast"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U18_02",
+        "unitId": 18,
+        "word": "Tránh",
+        "answers": [
+            "Avoid"
+        ],
+        "sentences": [
+            "You should avoid losing this key at all costs"
+        ],
+        "phrases": [
+            "Avoid something at all costs / tránh bằng mọi giá"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U18_03",
+        "unitId": 18,
+        "word": "Lành mạnh",
+        "answers": [
+            "Healthy"
+        ],
+        "sentences": [
+            "He insists on having a healthy diet"
+        ],
+        "phrases": [
+            "A healthy diet"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U18_04",
+        "unitId": 18,
+        "word": "Nướng",
+        "answers": [
+            "Bake"
+        ],
+        "sentences": [
+            "I bake a cake for his birthday"
+        ],
+        "phrases": [
+            "Bake a cake"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U18_05",
+        "unitId": 18,
+        "word": "Lò nướng",
+        "answers": [
+            "Oven"
+        ],
+        "sentences": [
+            "I put the chicken into a wood-fired oven"
+        ],
+        "phrases": [
+            "A wood-fired oven"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U18_06",
+        "unitId": 18,
+        "word": "Hấp",
+        "answers": [
+            "Steam"
+        ],
+        "sentences": [
+            "He steams all the buns"
+        ],
+        "phrases": [
+            "Steam something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U18_07",
+        "unitId": 18,
+        "word": "Toàn bộ",
+        "answers": [
+            "Whole"
+        ],
+        "sentences": [
+            "The whole family is gathering for Tet"
+        ],
+        "phrases": [
+            "The whole family"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U18_08",
+        "unitId": 18,
+        "word": "Cá hồi",
+        "answers": [
+            "Salmon"
+        ],
+        "sentences": [
+            "I love grilled salmon"
+        ],
+        "phrases": [
+            "Grilled salmon"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U18_09",
+        "unitId": 18,
+        "word": "Khẩu phần",
+        "answers": [
+            "Portion"
+        ],
+        "sentences": [
+            "She gives me a generous portion of meat"
+        ],
+        "phrases": [
+            "A generous portion of / một phần đồ ăn lớn"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U18_10",
+        "unitId": 18,
+        "word": "Đủ",
+        "answers": [
+            "Enough"
+        ],
+        "sentences": [
+            "That cake is not good enough"
+        ],
+        "phrases": [
+            "Not good enough"
+        ],
+        "verb": [
+            "Adv"
+        ]
+    },
+    {
+        "id": "U18_11",
+        "unitId": 18,
+        "word": "Tổng cộng",
+        "answers": [
+            "Total"
+        ],
+        "sentences": [
+            "The total cost of the meal is acceptable"
+        ],
+        "phrases": [
+            "Total cost"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U18_12",
+        "unitId": 18,
+        "word": "Chứa",
+        "answers": [
+            "Contain"
+        ],
+        "sentences": [
+            "This dish contains a lot of sugar"
+        ],
+        "phrases": [
+            "Contain something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U18_13",
+        "unitId": 18,
+        "word": "Dầu",
+        "answers": [
+            "Oil"
+        ],
+        "sentences": [
+            "Use some cooking oil to prevent burning"
+        ],
+        "phrases": [
+            "Cooking oil"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U18_14",
+        "unitId": 18,
+        "word": "Rau củ",
+        "answers": [
+            "Vegetable"
+        ],
+        "sentences": [
+            "Carrot is a type of root vegetable"
+        ],
+        "phrases": [
+            "Root vegetable"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U18_15",
+        "unitId": 18,
+        "word": "Trộn",
+        "answers": [
+            "Mix"
+        ],
+        "sentences": [
+            "Mix the beef and spices together"
+        ],
+        "phrases": [
+            "Mix a and b together"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U18_16",
+        "unitId": 18,
+        "word": "Luộc, đun sôi",
+        "answers": [
+            "Boil"
+        ],
+        "sentences": [
+            "Please boil some water for 10 minutes"
+        ],
+        "phrases": [
+            "Boil some water"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U18_17",
+        "unitId": 18,
+        "word": "Công thức",
+        "answers": [
+            "Recipe"
+        ],
+        "sentences": [
+            "Pho Thin has secret family recipe"
+        ],
+        "phrases": [
+            "A secret family recipe / công thức gia truyền"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U18_18",
+        "unitId": 18,
+        "word": "Nguyên liệu, thành phần",
+        "answers": [
+            "Ingredient"
+        ],
+        "sentences": [
+            "Turmeric is a special ingredient in Asian cuisine"
+        ],
+        "phrases": [
+            "A special ingredient"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U18_19",
+        "unitId": 18,
+        "word": "Rau thơm",
+        "answers": [
+            "Herb"
+        ],
+        "sentences": [
+            "Many urban families have an herb garden"
+        ],
+        "phrases": [
+            "An herb garden"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U18_20",
+        "unitId": 18,
+        "word": "Nước hoa quả",
+        "answers": [
+            "Juice"
+        ],
+        "sentences": [
+            "Her lemon juice is too sour"
+        ],
+        "phrases": [
+            "Lemon juice"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U18_21",
+        "unitId": 18,
+        "word": "Tự làm tại nhà",
+        "answers": [
+            "Homemade"
+        ],
+        "sentences": [
+            "He sends me some homemade cookies"
+        ],
+        "phrases": [
+            "Homemade cookies"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U18_22",
+        "unitId": 18,
+        "word": "Bữa ăn",
+        "answers": [
+            "Meal"
+        ],
+        "sentences": [
+            "We often go out for a meal"
+        ],
+        "phrases": [
+            "Go out for a meal"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U18_23",
+        "unitId": 18,
+        "word": "Hữu cơ",
+        "answers": [
+            "Organic"
+        ],
+        "sentences": [
+            "Food from organic farming is more expensive"
+        ],
+        "phrases": [
+            "Organic farming"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U18_24",
+        "unitId": 18,
+        "word": "Nạc",
+        "answers": [
+            "Lean"
+        ],
+        "sentences": [
+            "She prefers eating lean meat"
+        ],
+        "phrases": [
+            "Lean meat"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U18_25",
+        "unitId": 18,
+        "word": "Sữa chua",
+        "answers": [
+            "Yogurt"
+        ],
+        "sentences": [
+            "Greek yogurt is a healthy choice"
+        ],
+        "phrases": [
+            "Greek yogurt"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U18_26",
+        "unitId": 18,
+        "word": "Ngũ cốc",
+        "answers": [
+            "Cereal"
+        ],
+        "sentences": [
+            "My breakfast is a bowl of cereal"
+        ],
+        "phrases": [
+            "A bowl of cereal"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U18_27",
+        "unitId": 18,
+        "word": "Khoa học",
+        "answers": [
+            "Science"
+        ],
+        "sentences": [
+            "Modern science is evolving every day"
+        ],
+        "phrases": [
+            "Modern science"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U18_28",
+        "unitId": 18,
+        "word": "Giảm bớt",
+        "answers": [
+            "Cut down on"
+        ],
+        "sentences": [
+            "You should cut down on smoking"
+        ],
+        "phrases": [
+            "Cut down on doing something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U18_29",
+        "unitId": 18,
+        "word": "Lượng",
+        "answers": [
+            "Amount"
+        ],
+        "sentences": [
+            "He cooks a huge amount of food"
+        ],
+        "phrases": [
+            "A huge amount of something"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U18_30",
+        "unitId": 18,
+        "word": "Thiết yếu",
+        "answers": [
+            "Essential"
+        ],
+        "sentences": [
+            "Protein is essential to our body"
+        ],
+        "phrases": [
+            "Eessential to something"
+        ],
+        "verb": [
+            "Adj"
+        ]
     }
 ]
