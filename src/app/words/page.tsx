@@ -16,9 +16,7 @@ export default function Page() {
   const words = wordsResp?.data?.data || []
   return (
     <div className="page">
-      <div className={"page-head"}>
-        <MenuBar />
-      </div>
+      <MenuBar/>
       <div className={"page-body"}>
         <Row gutter={[12, 12]}>
           {words.map((w: WordType) => {

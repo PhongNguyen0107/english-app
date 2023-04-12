@@ -44,9 +44,7 @@ export default function Home() {
 
   return (
     <main className="page">
-      <div className={"page-head"}>
-        <MenuBar/>
-      </div>
+      <MenuBar/>
       <div className={"page-body"}>
         <Row gutter={[12, 12]}>
           <Col xs={24} md={12} lg={10} xl={8} xxl={6}>
@@ -75,7 +73,6 @@ export default function Home() {
               ]}
             />
           </Col>
-
 
           {state.listOfWordSaved?.map((w: WordReviewPropType, ind: number) => {
             return (

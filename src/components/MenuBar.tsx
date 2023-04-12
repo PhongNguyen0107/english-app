@@ -9,25 +9,26 @@ type IProps = {}
 const MenuBar = (props: IProps) => {
   const [user] = useAuthState(auth);
 
+  if (!user?.email) return <React.Fragment/>
   return (
-    <div className={"en-nav-bar"}>
-      <div></div>
+    <div className={"page-head"}>
+      <div className={"en-nav-bar"}>
+        <div></div>
 
+        <Popover
+          content={(
+            <div className={"profile-wrapper"}>
+              Sign-out
+            </div>
+          )}
+          title={get(user, "displayName", user?.email || "")}
+        >
 
-      <Popover
-        content={(
-          <div className={"profile-wrapper"}>
-            Sign-out
-          </div>
-        )}
-        title={get(user, "displayName", user?.email || "")}
-      >
+          {/*@ts-ignore*/}
+          <Avatar src={<img src={get(user, "photoURL", "")} alt="avatar"/>}/>
+        </Popover>
 
-        {/*@ts-ignore*/}
-        <Avatar src={<img src={get(user, "photoURL", "")} alt="avatar"/>}/>
-      </Popover>
-
-
+      </div>
     </div>
   );
 };

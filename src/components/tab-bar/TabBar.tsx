@@ -46,15 +46,15 @@ const TabBarCustomization = (props: TabBarPropType) => {
       icon: <Gear size={32}/>,
     },
   ]
-  
+
   const [activeKey, setActiveKey] = useState(props.active)
-  
+
   useEffect(() => {
     setActiveKey(activeKey)
   }, [props.active])
-  
+
   return (
-    <div>
+    <div className={"en-tab-bar"}>
       <TabBar activeKey={activeKey} onChange={(keyActive) => {
         setActiveKey(keyActive)
         const menu = tabs.find(x => x.key === keyActive);

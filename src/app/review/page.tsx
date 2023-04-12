@@ -31,11 +31,10 @@ type IState = {
   words: any[];
   isShowSentence: boolean;
 }
-const ReviewPage = (props: IProps) => {
+const ReviewPage = (_: IProps) => {
   const [user] = useAuthState(auth)
   const [messageApi, contextHolder] = message.useMessage();
-  // @ts-ignore
-  const {data: wordsResp, isLoading, error} = useQuery('words/review', getWordReview, QUERY_CONFIG);
+  const {data: wordsResp, isLoading} = useQuery('words/review', getWordReview, QUERY_CONFIG);
   const words = wordsResp?.data?.data || []
 
   const [reviewState, setReviewState] = useSetState<IState>({
@@ -119,100 +118,97 @@ const ReviewPage = (props: IProps) => {
   return (
     <div className="page">
       {contextHolder}
-      <div className={"page-head"}>
-        <MenuBar/>
-      </div>
+      <MenuBar/>
       <div className={"page-body"}>
-        <Spin spinning={isLoading}>
-
-          <Row gutter={[36, 36]}>
-            <Affix offsetTop={24} className={"fw"}>
-              <Col xs={24} className={"fw"}>
-                <Space size={12} wrap={true}>
-                  <div className={"fw"}>
-                    <Search
-                      placeholder={"Search for whatever you want..."}
-                      id={"search-word"}
-                      value={reviewState.search}
-                      //@ts-ignore
-                      onChange={(e) => onSearchInput(e.target.value)}
-                    />
-
-                    {1 < 0 && (
-                      <InstantSearch
-                        indexName={ALGOLIA_SEARCH_CONFIG.REVIEW_INDEX_NAME}
-                        searchClient={searchClient}
-                      >
-                        <AlgoliaAutocomplete
-                          searchClient={searchClient}
-                          placeholder="Search for whatever you want..."
-                          detachedMediaQuery="none"
-                          openOnFocus
-                          className={"auto-complete-tools"}
-                        />
-                      </InstantSearch>)}
-                  </div>
-
-                  <Select
-                    defaultValue={reviewState.unit}
-                    style={{width: 220}}
-                    onChange={(v) => onChangeUnit(v)}
-                    options={getListOfUnit()}
+        <Row gutter={[36, 36]}>
+          <Affix offsetTop={24} className={"fw"}>
+            <Col xs={24} className={"fw"}>
+              <Space size={12} wrap={true}>
+                <div className={"fw"}>
+                  <Search
+                    placeholder={"Search for whatever you want..."}
+                    id={"search-word"}
+                    value={reviewState.search}
+                    //@ts-ignore
+                    onChange={(e) => onSearchInput(e.target.value)}
                   />
 
-                  <Button
-                    type={"dashed"}
-                    onClick={() => setReviewState({isShowAnswer: !reviewState.isShowAnswer})}>
-                    {reviewState.isShowAnswer ? `Hide` : `Show`} Word
-                  </Button>
+                  {1 < 0 && (
+                    <InstantSearch
+                      indexName={ALGOLIA_SEARCH_CONFIG.REVIEW_INDEX_NAME}
+                      searchClient={searchClient}
+                    >
+                      <AlgoliaAutocomplete
+                        searchClient={searchClient}
+                        placeholder="Search for whatever you want..."
+                        detachedMediaQuery="none"
+                        openOnFocus
+                        className={"auto-complete-tools"}
+                      />
+                    </InstantSearch>)}
+                </div>
 
-                  <Button
-                    type={"dashed"}
-                    onClick={() => setReviewState({isShowPhrase: !reviewState.isShowPhrase})}>
-                    {reviewState.isShowPhrase ? `Hide` : `Show`} Phrase
-                  </Button>
+                <Select
+                  defaultValue={reviewState.unit}
+                  style={{width: 220}}
+                  onChange={(v) => onChangeUnit(v)}
+                  options={getListOfUnit()}
+                />
 
-                  <Button
-                    type={"dashed"}
-                    onClick={() => setReviewState({isShowSentence: !reviewState.isShowSentence})}>
-                    {reviewState.isShowSentence ? `Hide` : `Show`} Sentence
-                  </Button>
+                <Button
+                  type={"dashed"}
+                  onClick={() => setReviewState({isShowAnswer: !reviewState.isShowAnswer})}>
+                  {reviewState.isShowAnswer ? `Hide` : `Show`} Word
+                </Button>
 
-                  <Button
-                    type={"primary"}
-                    onClick={() => {
-                      setReviewState({
-                        strategy: reviewState.strategy === "ENGLISH" ? "VIETNAMESE" : "ENGLISH"
-                      })
-                    }}>
-                    {reviewState.strategy === "ENGLISH" ? "VIETNAMESE" : "ENGLISH"}
-                  </Button>
-                </Space>
+                <Button
+                  type={"dashed"}
+                  onClick={() => setReviewState({isShowPhrase: !reviewState.isShowPhrase})}>
+                  {reviewState.isShowPhrase ? `Hide` : `Show`} Phrase
+                </Button>
+
+                <Button
+                  type={"dashed"}
+                  onClick={() => setReviewState({isShowSentence: !reviewState.isShowSentence})}>
+                  {reviewState.isShowSentence ? `Hide` : `Show`} Sentence
+                </Button>
+
+                <Button
+                  type={"primary"}
+                  onClick={() => {
+                    setReviewState({
+                      strategy: reviewState.strategy === "ENGLISH" ? "VIETNAMESE" : "ENGLISH"
+                    })
+                  }}>
+                  {reviewState.strategy === "ENGLISH" ? "VIETNAMESE" : "ENGLISH"}
+                </Button>
+              </Space>
+            </Col>
+
+          </Affix>
+
+          {isLoading && <Col xs={24} className={"f-center"}><Spin/></Col>}
+          {reviewState.words.map((w: WordReviewPropType, ind: number) => {
+            return (
+              <Col key={`${w.id}_${ind}`} xs={24} md={12} lg={10} xl={8} xxl={6}>
+                <ReviewWordCard
+                  strategy={reviewState.strategy}
+                  onClick={() => setReviewState({active: w})}
+                  active={reviewState.active}
+                  isShowSentence={reviewState.isShowSentence}
+                  isShowPhrase={reviewState.isShowPhrase}
+                  onSaveWord={onSaveWord}
+                  isShowAnswer={reviewState.isShowAnswer} word={w}/>
               </Col>
-
-            </Affix>
-
-            {reviewState.words.map((w: WordReviewPropType, ind: number) => {
-              return (
-                <Col key={`${w.id}_${ind}`} xs={24} md={12} lg={10} xl={8} xxl={6}>
-                  <ReviewWordCard
-                    strategy={reviewState.strategy}
-                    onClick={() => setReviewState({active: w})}
-                    active={reviewState.active}
-                    isShowSentence={reviewState.isShowSentence}
-                    isShowPhrase={reviewState.isShowPhrase}
-                    onSaveWord={onSaveWord}
-                    isShowAnswer={reviewState.isShowAnswer} word={w}/>
-                </Col>
-              )
-            })}
-          </Row>
-        </Spin>
+            )
+          })}
+        </Row>
 
       </div>
 
       <TabBar active={ROUTE_NAME.REVIEW}/>
     </div>
+
   );
 };
 
