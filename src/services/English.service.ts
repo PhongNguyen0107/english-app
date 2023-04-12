@@ -99,21 +99,21 @@ export const getListOfUnit = (): Unit[] => {
       description: "",
       value: 17,
     },
-    // {
-    //   label: "18. ",
-    //   description: "",
-    //   value: 18,
-    // },
-    // {
-    //   label: "19. ",
-    //   description: "",
-    //   value: 19,
-    // },
-    // {
-    //   label: "20. ",
-    //   description: "",
-    //   value: 20,
-    // },
+    {
+      label: "18. Healthy Diet",
+      description: "",
+      value: 18,
+    },
+    {
+      label: "19. Body Health",
+      description: "",
+      value: 19,
+    },
+    {
+      label: "20. Body Health",
+      description: "",
+      value: 20,
+    },
     // {
     //   label: "21. ",
     //   description: "",

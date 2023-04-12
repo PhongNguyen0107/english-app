@@ -13,6 +13,7 @@
     "@algolia/autocomplete-js": "^1.8.3",
     "@algolia/autocomplete-plugin-recent-searches": "^1.8.3",
     "@algolia/autocomplete-theme-classic": "^1.8.3",
+    "@next/font": "^13.3.0",
     "@phosphor-icons/react": "^2.0.8",
     "@types/node": "18.14.1",
     "@types/react": "18.0.28",
