@@ -11802,5 +11802,516 @@
         "verb": [
             "Adj"
         ]
+    },
+    {
+        "id": "U20_01",
+        "unitId": 20,
+        "word": "Trạng thái khỏe khắn",
+        "answers": [
+            "Fitness"
+        ],
+        "sentences": [
+            "My fitness instructor has a nice body"
+        ],
+        "phrases": [
+            "Fitness instructor / huấn luyện viên thể dục"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U20_02",
+        "unitId": 20,
+        "word": "Tập thể dục",
+        "answers": [
+            "Work out"
+        ],
+        "sentences": [
+            "I work out at the gym"
+        ],
+        "phrases": [
+            "Work out at the gym"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U20_03",
+        "unitId": 20,
+        "word": "Khởi động",
+        "answers": [
+            "Warm up"
+        ],
+        "sentences": [
+            "I need to warm up before playing sports"
+        ],
+        "phrases": [
+            "Warm up before doing something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U20_04",
+        "unitId": 20,
+        "word": "Sự xóa bóp",
+        "answers": [
+            "Message"
+        ],
+        "sentences": [
+            "He gives me a massage when my body is sore"
+        ],
+        "phrases": [
+            "Give me somebody a massge"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U20_05",
+        "unitId": 20,
+        "word": "Bảo vệ",
+        "answers": [
+            "Protect"
+        ],
+        "sentences": [
+            "Face mask protect us from many diseases "
+        ],
+        "phrases": [
+            "Protect somebody from something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U20_06",
+        "unitId": 20,
+        "word": "Chấn thương",
+        "answers": [
+            "Injury"
+        ],
+        "sentences": [
+            "The footballer suffers serious injuries"
+        ],
+        "phrases": [
+            "A serious injury"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U20_07",
+        "unitId": 20,
+        "word": "Sự an toàn",
+        "answers": [
+            "Safety"
+        ],
+        "sentences": [
+            "Safety first is hung at every construction site"
+        ],
+        "phrases": [
+            "Safety first"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U20_08",
+        "unitId": 20,
+        "word": "Cổ",
+        "answers": [
+            "Neck"
+        ],
+        "sentences": [
+            "Giraffes can eat leaves of tall trees thanks to their long necks"
+        ],
+        "phrases": [
+            "Long neck"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U20_09",
+        "unitId": 20,
+        "word": "Đầu gối",
+        "answers": [
+            "Knee"
+        ],
+        "sentences": [
+            "She cannot bend her knee after the surgery"
+        ],
+        "phrases": [
+            "Bend one's knee / khụy đầu gối"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U20_10",
+        "unitId": 20,
+        "word": "Giảm nhiệt",
+        "answers": [
+            "Cool down"
+        ],
+        "sentences": [
+            "Some iced tea can cool you down"
+        ],
+        "phrases": [
+            "Cool down something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U20_11",
+        "unitId": 20,
+        "word": "Cơn ho",
+        "answers": [
+            "Cough"
+        ],
+        "sentences": [
+            "He seems to have a bad cough"
+        ],
+        "phrases": [
+            "Have a bad cough"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U20_12",
+        "unitId": 20,
+        "word": "Mắc cá chân",
+        "answers": [
+            "Ankle"
+        ],
+        "sentences": [
+            "She has an ankle injury from playing soccer"
+        ],
+        "phrases": [
+            "Ankle injury"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U20_13",
+        "unitId": 20,
+        "word": "Vai",
+        "answers": [
+            "Shoulder"
+        ],
+        "sentences": [
+            "He injures his shoulder when playing basketball "
+        ],
+        "phrases": [
+            "Injure one's shoulder"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U20_14",
+        "unitId": 20,
+        "word": "Cứng",
+        "answers": [
+            "Stiff"
+        ],
+        "sentences": [
+            "I've got a stiff neck"
+        ],
+        "phrases": [
+            "A stiff neck"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U20_15",
+        "unitId": 20,
+        "word": "Cổ tay",
+        "answers": [
+            "Wrist"
+        ],
+        "sentences": [
+            "I twist my wrist",
+            " and it hurts"
+        ],
+        "phrases": [
+            "Twist one's wrist / trật cổ tay"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U20_16",
+        "unitId": 20,
+        "word": "Xương",
+        "answers": [
+            "Bone"
+        ],
+        "sentences": [
+            "Any bone in your body can break"
+        ],
+        "phrases": [
+            "Bone in your body"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U20_17",
+        "unitId": 20,
+        "word": "Bệnh ung thư",
+        "answers": [
+            "Cancer"
+        ],
+        "sentences": [
+            "Lung cancer kills so many people each year"
+        ],
+        "phrases": [
+            "Lung cancer / bệnh ung thư phổi"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U20_18",
+        "unitId": 20,
+        "word": "Sức khỏe",
+        "answers": [
+            "Health"
+        ],
+        "sentences": [
+            "My grandparents are still in good health"
+        ],
+        "phrases": [
+            "In good health"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U20_19",
+        "unitId": 20,
+        "word": "Hồi phục",
+        "answers": [
+            "Recover"
+        ],
+        "sentences": [
+            "He finally recovers from the stroke"
+        ],
+        "phrases": [
+            "Recover from something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U20_20",
+        "unitId": 20,
+        "word": "Cách chữa bệnh",
+        "answers": [
+            "Cure"
+        ],
+        "sentences": [
+            "There's no cure for this disease"
+        ],
+        "phrases": [
+            "A cure for something"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U20_21",
+        "unitId": 20,
+        "word": "Uống cong, gập",
+        "answers": [
+            "Bend"
+        ],
+        "sentences": [
+            "The wind bends the flagpole"
+        ],
+        "phrases": [
+            "Bend something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U20_22",
+        "unitId": 20,
+        "word": "Nắm lấy, cầm lấy",
+        "answers": [
+            "Grab"
+        ],
+        "sentences": [
+            "He grabs the phone and throws it away"
+        ],
+        "phrases": [
+            "Grab something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U20_23",
+        "unitId": 20,
+        "word": "Nâng",
+        "answers": [
+            "Lift"
+        ],
+        "sentences": [
+            "She lifts her dog up for examination"
+        ],
+        "phrases": [
+            "Lift somebody or something up"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U20_24",
+        "unitId": 20,
+        "word": "Rèn luyện",
+        "answers": [
+            "Train"
+        ],
+        "sentences": [
+            "I train my dog to stand up"
+        ],
+        "phrases": [
+            "Train somebody or something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U20_25",
+        "unitId": 20,
+        "word": "Thường xuyên",
+        "answers": [
+            "Frequent"
+        ],
+        "sentences": [
+            "He is a frequent visitor of our library"
+        ],
+        "phrases": [
+            "A frequent visitor"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U20_26",
+        "unitId": 20,
+        "word": "Duy trì",
+        "answers": [
+            "Maintain"
+        ],
+        "sentences": [
+            "It is hard to maintain a healthy diet"
+        ],
+        "phrases": [
+            "Maintain something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U20_27",
+        "unitId": 20,
+        "word": "Phương pháp",
+        "answers": [
+            "Method"
+        ],
+        "sentences": [
+            "Some people prefer traditional methods of treatment"
+        ],
+        "phrases": [
+            "Traditional methods"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U20_28",
+        "unitId": 20,
+        "word": "Khuỷu tay",
+        "answers": [
+            "Elbow"
+        ],
+        "sentences": [
+            "Straighten your elbow when hitting a ball"
+        ],
+        "phrases": [
+            "Straighten one's elbow"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U20_29",
+        "unitId": 20,
+        "word": "Não bộ",
+        "answers": [
+            "Brain"
+        ],
+        "sentences": [
+            "The human brian is very complex"
+        ],
+        "phrases": [
+            "Human brian"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U20_30",
+        "unitId": 20,
+        "word": "Tăng lên",
+        "answers": [
+            "Gain"
+        ],
+        "sentences": [
+            "She gains weight during winter"
+        ],
+        "phrases": [
+            "Gain something"
+        ],
+        "verb": [
+            "V"
+        ]
     }
 ]
