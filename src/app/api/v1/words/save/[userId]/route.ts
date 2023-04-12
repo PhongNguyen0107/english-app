@@ -3,7 +3,7 @@ import {firestorePostSaveAWordForUser, getWordsSavedByUID} from "@/services/Fire
 import logger from "@/services/Logger.service";
 
 export async function POST(request: Request, {params}: any) {
-  const {userId} = params
+  const {userId} = params;
   const body = await request.json();
   const word = get(body, "word", null)
   if(!word) return new Response(JSON.stringify({message: "Not found this word!"}))

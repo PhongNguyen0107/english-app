@@ -1,7 +1,7 @@
 'use client';
 import React from 'react';
 import WordCard from "@/components/card/WordCard";
-import {Col, Row} from "antd";
+import {Col, Row, Spin} from "antd";
 import TabBar from "@/components/tab-bar/TabBar";
 import {ROUTE_NAME} from "@/configuration/Application.config";
 import {useQuery} from "react-query";
@@ -12,13 +12,15 @@ import MenuBar from "@/components/MenuBar";
 
 export default function Page() {
   const router = useRouter()
-  const {data: wordsResp, isLoading, error} = useQuery('words', getWords);
-  const words = wordsResp?.data?.data || []
+  const {data: wordsResp, isLoading} = useQuery('words', getWords);
+  const words = wordsResp?.data?.data || [];
+
   return (
     <div className="page">
       <MenuBar/>
       <div className={"page-body"}>
         <Row gutter={[12, 12]}>
+          {isLoading && <Col xs={24}><Spin/></Col>}
           {words.map((w: WordType) => {
             return (
               <Col key={w.id} xs={24} md={12} xl={10} xxl={8}>

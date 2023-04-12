@@ -40,8 +40,8 @@ from the creators of Next.js.
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 > https://english-app-sigma.vercel.app/
+> 
 > https://vercel.com/phongnguyen0107/english-app
 
 ### TabBar beautiful
-
 - https://codepen.io/chrisbautista/pen/NWXjqLN
