@@ -2,6 +2,7 @@ import {WordReviewPropType} from "@/services/AppInterface";
 import {callApiExternal} from "@/services/callApi";
 import moment from "moment";
 import {sampleSize} from "lodash";
+import logger from "@/services/Logger.service";
 
 /**
  * - input 46 then result is: "00046"
@@ -60,7 +61,16 @@ export async function POST(_request: Request) {
   const endpoint = "https://api.emailjs.com/api/v1.0/email/send"
   const resp = await callApiExternal(endpoint, "POST", mailPayload)
   console.log("Send mail status: ", resp.status)
-  console.log("List of words: ", random.map(w => w.answers[0]))
-  console.log("Mail payload: ", JSON.stringify(mailPayload))
+  logger.info("List of words: %o", random.map(w => w.answers[0]))
+  logger.info("Mail payload: %o", JSON.stringify(mailPayload))
+  return new Response(JSON.stringify(random))
+}
+
+export async function GET(req: Request, {params}: any) {
+  const wordData = require("data/vocabularies.vi.json");
+  const sortData = wordData.sort((a: WordReviewPropType, b: WordReviewPropType) => a.unitId - b.unitId)
+
+  const random = sampleSize(sortData, 10)
+  logger.info("List of words: %o", random.map(w => w.answers[0]))
   return new Response(JSON.stringify(random))
 }

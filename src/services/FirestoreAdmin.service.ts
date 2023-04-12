@@ -25,10 +25,15 @@ export const getWordsSavedByUID = async (uId: string) => {
   // refs: https://firebase.google.com/docs/firestore/query-data/get-data
   const querySnapshot = await firestoreAdmin.collection(DB_NAME.WORD_SAVE).where("userId" , "==", uId).get()
   querySnapshot.forEach((doc: any) => {
-    words.push({
-      id: doc.id,
-      ...doc.data()
-    })
+    const wordData  = doc.data();
+
+    // filter distinct word
+    if(!wordData.find((x: WordReviewPropType) => x.id === wordData.id)) {
+      words.push({
+        docId: doc.id,
+        ...doc.data()
+      })
+    }
   })
   return words;
 }
