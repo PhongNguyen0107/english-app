@@ -114,31 +114,31 @@ export const getListOfUnit = (): Unit[] => {
       description: "",
       value: 20,
     },
-    // {
-    //   label: "21. ",
-    //   description: "",
-    //   value: 21,
-    // },
-    // {
-    //   label: "22. ",
-    //   description: "",
-    //   value: 22,
-    // },
-    // {
-    //   label: "23. ",
-    //   description: "",
-    //   value: 23,
-    // },
-    // {
-    //   label: "24. ",
-    //   description: "",
-    //   value: 24,
-    // },
-    // {
-    //   label: "25. ",
-    //   description: "",
-    //   value: 25,
-    // },
+    {
+      label: "21. Traveling",
+      description: "",
+      value: 21,
+    },
+    {
+      label: "22. Traveling",
+      description: "",
+      value: 22,
+    },
+    {
+      label: "23. Describing Events",
+      description: "",
+      value: 23,
+    },
+    {
+      label: "24. Money & Spending",
+      description: "",
+      value: 24,
+    },
+    {
+      label: "25. Describing Objects",
+      description: "",
+      value: 25,
+    },
     {
       label: "26. Movies",
       description: "",

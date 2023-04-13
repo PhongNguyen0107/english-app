@@ -12313,5 +12313,516 @@
         "verb": [
             "V"
         ]
+    },
+    {
+        "id": "U21_01",
+        "unitId": 21,
+        "word": "Cái bẫy",
+        "answers": [
+            "Trap"
+        ],
+        "sentences": [
+            "The street market has become such a tourist trap"
+        ],
+        "phrases": [
+            "Tourist trap / bẫy du khách"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U21_02",
+        "unitId": 21,
+        "word": "Thoát khỏi",
+        "answers": [
+            "Get away"
+        ],
+        "sentences": [
+            "She tries to get away from the city"
+        ],
+        "phrases": [
+            "Get away from sb or sth"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U21_03",
+        "unitId": 21,
+        "word": "Chuyến đi",
+        "answers": [
+            "Trip"
+        ],
+        "sentences": [
+            "We go on a trip to sapa"
+        ],
+        "phrases": [
+            "Go on a trip"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U21_04",
+        "unitId": 21,
+        "word": "Làm hài lòng",
+        "answers": [
+            "Satisfy"
+        ],
+        "sentences": [
+            "She can never satisfy him"
+        ],
+        "phrases": [
+            "Satisfy somebody"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U21_05",
+        "unitId": 21,
+        "word": "Chuyến du ngoạn trên biển",
+        "answers": [
+            "Cruise"
+        ],
+        "sentences": [
+            "A luxury"
+        ],
+        "phrases": [
+            "Cruise costs a lot"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U21_06",
+        "unitId": 21,
+        "word": "Khu nghỉ dưỡng",
+        "answers": [
+            "Resort"
+        ],
+        "sentences": [
+            "Phu Quoc has many tourist resorts"
+        ],
+        "phrases": [
+            "A tourist resort"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U21_07",
+        "unitId": 21,
+        "word": "Sảnh",
+        "answers": [
+            "Lobby"
+        ],
+        "sentences": [
+            "Wait for me at the hotel lobby"
+        ],
+        "phrases": [
+            "A hotel lobby"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U21_08",
+        "unitId": 21,
+        "word": "Trả phòng",
+        "answers": [
+            "Check out"
+        ],
+        "sentences": [
+            "We check out of our room before noon"
+        ],
+        "phrases": [
+            "Check out of one's room"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U21_09",
+        "unitId": 21,
+        "word": "Việc đặt trước chỗ",
+        "answers": [
+            "Reservation"
+        ],
+        "sentences": [
+            "She makes a reservation at Sen Ho Tay"
+        ],
+        "phrases": [
+            "Make a reservation"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U21_10",
+        "unitId": 21,
+        "word": "Đặt cọc tiền",
+        "answers": [
+            "Deposit"
+        ],
+        "sentences": [
+            "We deposit some money for the house"
+        ],
+        "phrases": [
+            "Deposit some money"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U21_11",
+        "unitId": 21,
+        "word": "Qua đêm",
+        "answers": [
+            "Overnight"
+        ],
+        "sentences": [
+            "Her mother never lets us stay overnight"
+        ],
+        "phrases": [
+            "Stay overnight"
+        ],
+        "verb": [
+            "Adv"
+        ]
+    },
+    {
+        "id": "U21_12",
+        "unitId": 21,
+        "word": "Du lịch",
+        "answers": [
+            "Travel"
+        ],
+        "sentences": [
+            "She wishes to travel around the world"
+        ],
+        "phrases": [
+            "Travel around the world"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U21_13",
+        "unitId": 21,
+        "word": "Hộ chiếu",
+        "answers": [
+            "Passport"
+        ],
+        "sentences": [
+            "You need a valid passport to travel"
+        ],
+        "phrases": [
+            "A valid passport"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U21_14",
+        "unitId": 21,
+        "word": "Kính râm",
+        "answers": [
+            "Sunglasses"
+        ],
+        "sentences": [
+            "She buys a pair of sunglasses"
+        ],
+        "phrases": [
+            "A pair of sunglasses"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U21_15",
+        "unitId": 21,
+        "word": "Gối ",
+        "answers": [
+            "Pillow"
+        ],
+        "sentences": [
+            "A comfortable pillow will fix your stiff neck"
+        ],
+        "phrases": [
+            "A comfortable pillow"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U21_16",
+        "unitId": 21,
+        "word": "Việc khởi hành",
+        "answers": [
+            "Departure"
+        ],
+        "sentences": [
+            "Departure from HN is at 11 am"
+        ],
+        "phrases": [
+            "Departure from"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U21_17",
+        "unitId": 21,
+        "word": "Điểm đến",
+        "answers": [
+            "Destination"
+        ],
+        "sentences": [
+            "You will arrive at your destination at 2 PM"
+        ],
+        "phrases": [
+            "Arrive at your destination"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U21_18",
+        "unitId": 21,
+        "word": "Điểm du lịch",
+        "answers": [
+            "Attraction"
+        ],
+        "sentences": [
+            "Hạ Long Bay is a popular tourist attraction"
+        ],
+        "phrases": [
+            "Tourist attraction"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U21_19",
+        "unitId": 21,
+        "word": "Đỉnh",
+        "answers": [
+            "Top"
+        ],
+        "sentences": [
+            "He lives on top of the mountain"
+        ],
+        "phrases": [
+            "On top of something"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U21_20",
+        "unitId": 21,
+        "word": "Bản đồ",
+        "answers": [
+            "Map"
+        ],
+        "sentences": [
+            "Please follow the map to reach our hourse"
+        ],
+        "phrases": [
+            "Follow the map"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U21_21",
+        "unitId": 21,
+        "word": "Bằng gỗ",
+        "answers": [
+            "Wooden"
+        ],
+        "sentences": [
+            "This house has a wooden door"
+        ],
+        "phrases": [
+            "A wooden door"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U21_22",
+        "unitId": 21,
+        "word": "Hang",
+        "answers": [
+            "Cave"
+        ],
+        "sentences": [
+            "Quanh Binh Has many underground caves"
+        ],
+        "phrases": [
+            "An underground cave / một hang động dưới lòng đất"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U21_23",
+        "unitId": 21,
+        "word": "Thiên nhiên",
+        "answers": [
+            "Nature"
+        ],
+        "sentences": [
+            "The beauty of nature really amazes us"
+        ],
+        "phrases": [
+            "The beauty of nature"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U21_24",
+        "unitId": 21,
+        "word": "Cầu",
+        "answers": [
+            "Bridge"
+        ],
+        "sentences": [
+            "It takes 20 minutes to cross the bridge"
+        ],
+        "phrases": [
+            "Cross the bridge"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U21_25",
+        "unitId": 21,
+        "word": "Sân bay",
+        "answers": [
+            "Airport"
+        ],
+        "sentences": [
+            "Noi Bai is an internation airport"
+        ],
+        "phrases": [
+            "An international airport"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U21_26",
+        "unitId": 21,
+        "word": "Đoàn, đội, tổ",
+        "answers": [
+            "Crew"
+        ],
+        "sentences": [
+            "Crew members treat the passengers nicely"
+        ],
+        "phrases": [
+            "Crew members / thuyền viên",
+            " nhân viên phi hành đoàn"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U21_27",
+        "unitId": 21,
+        "word": "Sự trì hoãn",
+        "answers": [
+            "Delay"
+        ],
+        "sentences": [
+            "The storm causes a delay in delivery"
+        ],
+        "phrases": [
+            "A delay in something"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U21_28",
+        "unitId": 21,
+        "word": "Quá trình vận chuyển",
+        "answers": [
+            "Transit "
+        ],
+        "sentences": [
+            "Some goods are lost in transit"
+        ],
+        "phrases": [
+            "In transit"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U21_29",
+        "unitId": 21,
+        "word": "Thăm thú",
+        "answers": [
+            "Look around"
+        ],
+        "sentences": [
+            "I just want to look around the store"
+        ],
+        "phrases": [
+            "Look around a place"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U21_30",
+        "unitId": 21,
+        "word": "Cổ đại",
+        "answers": [
+            "Axient"
+        ],
+        "sentences": [
+            "The maya civilization is a famous ancient culture"
+        ],
+        "phrases": [
+            "Ancient culture"
+        ],
+        "verb": [
+            "Adj"
+        ]
     }
 ]
