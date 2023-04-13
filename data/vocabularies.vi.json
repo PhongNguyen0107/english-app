@@ -12824,5 +12824,175 @@
         "verb": [
             "Adj"
         ]
+    },
+    {
+        "id": "U22_01",
+        "unitId": 22,
+        "word": "Biên giới ",
+        "answers": [
+            "Border"
+        ],
+        "sentences": [
+            "This train crosses the border between Austria and Germany"
+        ],
+        "phrases": [
+            "Cross the border"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U22_02",
+        "unitId": 22,
+        "word": "Dây an toàn",
+        "answers": [
+            "Belt"
+        ],
+        "sentences": [
+            "Please fasten the seat belt whenever you sit down"
+        ],
+        "phrases": [
+            "Fasten the seat belt / thắt dây an toàn"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U22_03",
+        "unitId": 22,
+        "word": "Dự định",
+        "answers": [
+            "Intend"
+        ],
+        "sentences": [
+            "He intends to travel after graduation"
+        ],
+        "phrases": [
+            "Intend to do something / có dự định làm gì đó"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U22_04",
+        "unitId": 22,
+        "word": "Thông báo",
+        "answers": [
+            "Announce"
+        ],
+        "sentences": [
+            "She announces her marriage to the whole family"
+        ],
+        "phrases": [
+            "Announce something to somebody"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U22_05",
+        "unitId": 22,
+        "word": "Miễn thuế",
+        "answers": [
+            "Duty-free"
+        ],
+        "sentences": [
+            "That cologne is from a duty-free shop"
+        ],
+        "phrases": [
+            "Duty-free shop"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U22_06",
+        "unitId": 22,
+        "word": "Gây ấn tượng",
+        "answers": [
+            "Impressive"
+        ],
+        "sentences": [
+            "She has an impressive performance"
+        ],
+        "phrases": [
+            "An impressive performance"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U22_07",
+        "unitId": 22,
+        "word": "Việc đặt trưuocws",
+        "answers": [
+            "Booking"
+        ],
+        "sentences": [
+            "She calls to make a booking"
+        ],
+        "phrases": [
+            "Make a booking"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U22_08",
+        "unitId": 22,
+        "word": "Người lớn",
+        "answers": [
+            "Adult"
+        ],
+        "sentences": [
+            "I would like to book an adult ticket for this flight "
+        ],
+        "phrases": [
+            "An adult ticket"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U22_09",
+        "unitId": 22,
+        "word": "Hãng hàng không",
+        "answers": [
+            "Airline"
+        ],
+        "sentences": [
+            "Jetstar is a low-cost airline"
+        ],
+        "phrases": [
+            "A low-cost airline"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U22_10",
+        "unitId": 22,
+        "word": "Hủy",
+        "answers": [
+            "Cancel"
+        ],
+        "sentences": [
+            "We cancel the show due to th rain"
+        ],
+        "phrases": [
+            "Cancel something"
+        ],
+        "verb": [
+            "V"
+        ]
     }
 ]
