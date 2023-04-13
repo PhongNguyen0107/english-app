@@ -4,6 +4,8 @@ const nextConfig = {
   },
   experimental: {
     appDir: true,
+    nftTracing: true,
+    outputFileTracing: true
   },
 }
 

@@ -6,8 +6,13 @@
  */
 export const convertUrlParamToEndpoint = (url: string, ...params: string[]): string => {
   if (!url) return "";
-  
+
   let i = 0;
   const pattern = /:(\w+)/gm;
   return url.replace(pattern, (matched) => matched.replace(matched, params[i++]));
 };
+
+
+export const capitalize = (s: string) => {
+  return s.charAt(0).toUpperCase() + s.slice(1);
+}
