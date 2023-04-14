@@ -12994,5 +12994,1366 @@
         "verb": [
             "V"
         ]
+    },
+    {
+        "id": "U22_11",
+        "unitId": 22,
+        "word": "Tuần trăng mật",
+        "answers": [
+            "Honeymoon"
+        ],
+        "sentences": [
+            "Newlyweds often go on honeymoon"
+        ],
+        "phrases": [
+            "Go on honeymoon"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U22_12",
+        "unitId": 22,
+        "word": "Đảo",
+        "answers": [
+            "Island"
+        ],
+        "sentences": [
+            "The lonely guy lives on a remote island"
+        ],
+        "phrases": [
+            "A remote island"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U22_13",
+        "unitId": 22,
+        "word": "Sách giới thiệu",
+        "answers": [
+            "Brochure"
+        ],
+        "sentences": [
+            "A travel brochure gives us so much information"
+        ],
+        "phrases": [
+            "A travel brochure"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U22_14",
+        "unitId": 22,
+        "word": "Du khách",
+        "answers": [
+            "Tourist"
+        ],
+        "sentences": [
+            "A foreign tourist asks me the direction to the airport"
+        ],
+        "phrases": [
+            "A foreign tourist"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U22_15",
+        "unitId": 22,
+        "word": "Hình thức du lịch bụi",
+        "answers": [
+            "Backpacking"
+        ],
+        "sentences": [
+            "Many foreigners go backpacking in vietnam"
+        ],
+        "phrases": [
+            "Go backpacking"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U22_16",
+        "unitId": 22,
+        "word": "Đi dã ngoại đường dài",
+        "answers": [
+            "Hiking"
+        ],
+        "sentences": [
+            "I only used my hiking boots once"
+        ],
+        "phrases": [
+            "Hiking boots"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U22_17",
+        "unitId": 22,
+        "word": "Trung tâm",
+        "answers": [
+            "Center"
+        ],
+        "sentences": [
+            "We booked a hotel in the city center"
+        ],
+        "phrases": [
+            "City center"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U22_18",
+        "unitId": 22,
+        "word": "Khám phá",
+        "answers": [
+            "Discover"
+        ],
+        "sentences": [
+            "She discovers a new sightseeing spot"
+        ],
+        "phrases": [
+            "Discover something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U22_19",
+        "unitId": 22,
+        "word": "Cát",
+        "answers": [
+            "Sand"
+        ],
+        "sentences": [
+            "We put our toes in the sand"
+        ],
+        "phrases": [
+            "In the sand"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U22_20",
+        "unitId": 22,
+        "word": "Chuyến du lịch",
+        "answers": [
+            "Tour"
+        ],
+        "sentences": [
+            "A walking tour is offered at west lake"
+        ],
+        "phrases": [
+            "A walking tour"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U22_21",
+        "unitId": 22,
+        "word": "Lý tưởng",
+        "answers": [
+            "Ideal"
+        ],
+        "sentences": [
+            "This house is ideal for our family"
+        ],
+        "phrases": [
+            "I deal for sb or sth"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U22_22",
+        "unitId": 22,
+        "word": "Việc vào cửa",
+        "answers": [
+            "Admission"
+        ],
+        "sentences": [
+            "The admission price for this museum is so high"
+        ],
+        "phrases": [
+            "Admission price"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U22_23",
+        "unitId": 22,
+        "word": "Gấp đôi",
+        "answers": [
+            "Double"
+        ],
+        "sentences": [
+            "I have to sleep on a double bed"
+        ],
+        "phrases": [
+            "Double bed"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U22_24",
+        "unitId": 22,
+        "word": "Chi phí",
+        "answers": [
+            "Expense"
+        ],
+        "sentences": [
+            "Our travel expenses are shared equally"
+        ],
+        "phrases": [
+            "Travel expense"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U22_25",
+        "unitId": 22,
+        "word": "Thủ công mỹ nghệ",
+        "answers": [
+            "Craft"
+        ],
+        "sentences": [
+            "I like joining a craft workshop"
+        ],
+        "phrases": [
+            "A craft workshop"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U22_26",
+        "unitId": 22,
+        "word": "Lợi thế",
+        "answers": [
+            "Advantage"
+        ],
+        "sentences": [
+            "She takes advantage of his kindness"
+        ],
+        "phrases": [
+            "Take advantage of sb or sth / lợi dụng ai đó hoặc cái gì đó"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U22_27",
+        "unitId": 22,
+        "word": "Linh hoạt",
+        "answers": [
+            "Flexible"
+        ],
+        "sentences": [
+            "I am flexible about what to eat"
+        ],
+        "phrases": [
+            "Flexible about something"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U22_28",
+        "unitId": 22,
+        "word": "Nghỉ ngơi, thư giãn",
+        "answers": [
+            "Relax"
+        ],
+        "sentences": [
+            "She relaxes by watching netflix"
+        ],
+        "phrases": [
+            "Relax by doing something / thư giãn bằng cách làm cái gì đó"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U22_29",
+        "unitId": 22,
+        "word": "Bạn thân",
+        "answers": [
+            "Buddy"
+        ],
+        "sentences": [
+            "He is a close buddy of mine"
+        ],
+        "phrases": [
+            "A close buddy / một người bạn thân"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U22_30",
+        "unitId": 22,
+        "word": "Cơ sở ",
+        "answers": [
+            "Facility"
+        ],
+        "sentences": [
+            "A swimming pool is a leisure facility"
+        ],
+        "phrases": [
+            "Leisure facility / nơi để giải trí"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U23_01",
+        "unitId": 23,
+        "word": "Cả đời",
+        "answers": [
+            "Lifetime"
+        ],
+        "sentences": [
+            "I hope to visit israel once in my lifetime"
+        ],
+        "phrases": [
+            "In one's lifetime / trong cuộc đời của một người"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U23_02",
+        "unitId": 23,
+        "word": "Thật ra",
+        "answers": [
+            "Actually"
+        ],
+        "sentences": [
+            "The food was actually not expensive"
+        ],
+        "phrases": [
+            "Actually not / thật ra là không"
+        ],
+        "verb": [
+            "Adv"
+        ]
+    },
+    {
+        "id": "U23_03",
+        "unitId": 23,
+        "word": "Nghĩ lại",
+        "answers": [
+            "Reflect"
+        ],
+        "sentences": [
+            "I often reflect on our days in high school together"
+        ],
+        "phrases": [
+            "Reflect on something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U23_04",
+        "unitId": 23,
+        "word": "Phép màu",
+        "answers": [
+            "Miracle"
+        ],
+        "sentences": [
+            "His survival is a miracle"
+        ],
+        "phrases": [
+            "Something is a miracle"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U23_05",
+        "unitId": 23,
+        "word": "Nhớ lại",
+        "answers": [
+            "Recall"
+        ],
+        "sentences": [
+            "I recall the last meeting with her"
+        ],
+        "phrases": [
+            "Recall something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U23_06",
+        "unitId": 23,
+        "word": "Trước đây",
+        "answers": [
+            "Ago"
+        ],
+        "sentences": [
+            "The Le Dynasty callapsed a long time ago"
+        ],
+        "phrases": [
+            "A long time ago"
+        ],
+        "verb": [
+            "Adv"
+        ]
+    },
+    {
+        "id": "U23_07",
+        "unitId": 23,
+        "word": "Băn khoăn, tự hỏi",
+        "answers": [
+            "Wonder"
+        ],
+        "sentences": [
+            "I wonder about the reason behind her action"
+        ],
+        "phrases": [
+            "Wonder about something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U23_08",
+        "unitId": 23,
+        "word": "Chính xác",
+        "answers": [
+            "Exact"
+        ],
+        "sentences": [
+            "Your GPA is 3.8 to be exact"
+        ],
+        "phrases": [
+            "To be exact / chính xác là"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U23_09",
+        "unitId": 23,
+        "word": "Chính",
+        "answers": [
+            "Main"
+        ],
+        "sentences": [
+            "Please drive until you reach the main road"
+        ],
+        "phrases": [
+            "Main road"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U23_10",
+        "unitId": 23,
+        "word": "Quý giá",
+        "answers": [
+            "Precious "
+        ],
+        "sentences": [
+            "I remember all the precious memories"
+        ],
+        "phrases": [
+            "Precious memories / những kỷ niệm quý giá"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U23_11",
+        "unitId": 23,
+        "word": "Hoảng sợ",
+        "answers": [
+            "Panic"
+        ],
+        "sentences": [
+            "I always panic about the bills every month"
+        ],
+        "phrases": [
+            "Panic about something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U23_12",
+        "unitId": 23,
+        "word": "Cơn ác mộng",
+        "answers": [
+            "Nightmare"
+        ],
+        "sentences": [
+            "I had a horrible nightmare yesterday"
+        ],
+        "phrases": [
+            "A horrible nightmare"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U23_13",
+        "unitId": 23,
+        "word": "Sự việc, sự cố",
+        "answers": [
+            "Incident"
+        ],
+        "sentences": [
+            "A serious incident stops the festival"
+        ],
+        "phrases": [
+            "A serious incident"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U23_14",
+        "unitId": 23,
+        "word": "Biến mất",
+        "answers": [
+            "Disappear"
+        ],
+        "sentences": [
+            "The book disappears from the shelf"
+        ],
+        "phrases": [
+            "Disappear from something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U23_15",
+        "unitId": 23,
+        "word": "Lời phàn nàn, lời khiếu nại",
+        "answers": [
+            "Complaint"
+        ],
+        "sentences": [
+            "She files a complaint about workplace safety"
+        ],
+        "phrases": [
+            "A complaint about sb or sth / lời khiếu nại …"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U23_16",
+        "unitId": 23,
+        "word": "Khủng hoảng",
+        "answers": [
+            "Crisis"
+        ],
+        "sentences": [
+            "Our company is facing a financial crisis"
+        ],
+        "phrases": [
+            "A financial crisis"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U23_17",
+        "unitId": 23,
+        "word": "Khó xử",
+        "answers": [
+            "Awkward"
+        ],
+        "sentences": [
+            "We all feel an awkward silence"
+        ],
+        "phrases": [
+            "An awkward silence"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U23_18",
+        "unitId": 23,
+        "word": "Xảy ra",
+        "answers": [
+            "Happen"
+        ],
+        "sentences": [
+            "Whatever happens",
+            " I will stay beside you"
+        ],
+        "phrases": [
+            "Whatever happen / dù thế nào đi nữa"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U23_19",
+        "unitId": 23,
+        "word": "Không đồng ý",
+        "answers": [
+            "Disagree"
+        ],
+        "sentences": [
+            "She completely disagrees with me"
+        ],
+        "phrases": [
+            "Disagree with somebody/ không đồng ý với ai đó"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U23_20",
+        "unitId": 23,
+        "word": "Tưởng tượng",
+        "answers": [
+            "Imagine"
+        ],
+        "sentences": [
+            "She always imagines her ideal boyfriend"
+        ],
+        "phrases": [
+            "Imagine something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U23_21",
+        "unitId": 23,
+        "word": "Ngay lập tức",
+        "answers": [
+            "Immediate"
+        ],
+        "sentences": [
+            "Please take immediate action to secure your account"
+        ],
+        "phrases": [
+            "Take immediate action / hành động ngay lập tức"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U23_22",
+        "unitId": 23,
+        "word": "Dần dần, chậm rãi",
+        "answers": [
+            "Slowly"
+        ],
+        "sentences": [
+            "Older people should walk slowly"
+        ],
+        "phrases": [
+            "Walk slowly"
+        ],
+        "verb": [
+            "Adv"
+        ]
+    },
+    {
+        "id": "U23_23",
+        "unitId": 23,
+        "word": "Thừa nhận",
+        "answers": [
+            "Admit"
+        ],
+        "sentences": [
+            "He admits to lying to me"
+        ],
+        "phrases": [
+            "Admit to doing something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U23_24",
+        "unitId": 23,
+        "word": "Định mệnh, số phận",
+        "answers": [
+            "Fate"
+        ],
+        "sentences": [
+            "No one can control his or her fate"
+        ],
+        "phrases": [
+            "Control one's fate / kiểm soát số phận của ai đó"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U23_25",
+        "unitId": 23,
+        "word": "Tuyệt vời",
+        "answers": [
+            "Fantastic"
+        ],
+        "sentences": [
+            "Travelling to japan is a fantastic experience"
+        ],
+        "phrases": [
+            "A fantastic experience"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U23_26",
+        "unitId": 23,
+        "word": "Thành công",
+        "answers": [
+            "Successful"
+        ],
+        "sentences": [
+            "He is successful in his career"
+        ],
+        "phrases": [
+            "Successful in something"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U23_27",
+        "unitId": 23,
+        "word": "Gây ra, tạo ra",
+        "answers": [
+            "Cause"
+        ],
+        "sentences": [
+            "I don't want to cause trouble for anyone"
+        ],
+        "phrases": [
+            "Cause trouble for somebody / gây rắc rối cho ai đó"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U23_28",
+        "unitId": 23,
+        "word": "Cơ hội",
+        "answers": [
+            "Opportunity"
+        ],
+        "sentences": [
+            "Don't miss this rare opportunity"
+        ],
+        "phrases": [
+            "A rare opportunity"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U23_29",
+        "unitId": 23,
+        "word": "Bình tĩnh",
+        "answers": [
+            "Calm"
+        ],
+        "sentences": [
+            "Please stay calm and do not move"
+        ],
+        "phrases": [
+            "Stay calm / giữ bình tĩnh"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U23_30",
+        "unitId": 23,
+        "word": "Hóa ra là",
+        "answers": [
+            "Turn out"
+        ],
+        "sentences": [
+            "It turns out to be the last meeting with her"
+        ],
+        "phrases": [
+            "Turn out to be something / hóa ra là một thứ gì đó"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U24_01",
+        "unitId": 24,
+        "word": "Đủ khả năng chi trả",
+        "answers": [
+            "Afford"
+        ],
+        "sentences": [
+            "I cannot afford a new phone"
+        ],
+        "phrases": [
+            "Afford something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U24_02",
+        "unitId": 24,
+        "word": "Giúp đỡ",
+        "answers": [
+            "Help out"
+        ],
+        "sentences": [
+            "Please help me out I am stuck"
+        ],
+        "phrases": [
+            "Help someone out"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U24_03",
+        "unitId": 24,
+        "word": "Mượn",
+        "answers": [
+            "Borrow"
+        ],
+        "sentences": [
+            "She borrows the car from her father"
+        ],
+        "phrases": [
+            "Borrow something from somebody"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U24_04",
+        "unitId": 24,
+        "word": "Trả",
+        "answers": [
+            "Pay"
+        ],
+        "sentences": [
+            "We paid off our debt after fifteen years"
+        ],
+        "phrases": [
+            "Pay off a debt / trả hết nợ"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U24_05",
+        "unitId": 24,
+        "word": "Sở hữu",
+        "answers": [
+            "Own"
+        ],
+        "sentences": [
+            "I do not own my house"
+        ],
+        "phrases": [
+            "Own my house"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U24_06",
+        "unitId": 24,
+        "word": "Giá",
+        "answers": [
+            "Price"
+        ],
+        "sentences": [
+            "Retail proces are different between stores"
+        ],
+        "phrases": [
+            "Retail price / giá bán lẻ"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U24_07",
+        "unitId": 24,
+        "word": "Hợp lý",
+        "answers": [
+            "Reasonable"
+        ],
+        "sentences": [
+            "She has a reasonable offer for me"
+        ],
+        "phrases": [
+            "A reasonable offer / một lời đề nghị hợp lý"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U24_08",
+        "unitId": 24,
+        "word": "Tiêu",
+        "answers": [
+            "Spend"
+        ],
+        "sentences": [
+            "I spend so much time on exercising"
+        ],
+        "phrases": [
+            "Spend something on something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U24_09",
+        "unitId": 24,
+        "word": "Trị giá, tốn",
+        "answers": [
+            "Cost"
+        ],
+        "sentences": [
+            "That villa costs a fortune"
+        ],
+        "phrases": [
+            "Cost a fortune / tốn cả gia tài"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U24_10",
+        "unitId": 24,
+        "word": "Hàng tháng",
+        "answers": [
+            "Monthly"
+        ],
+        "sentences": [
+            "I have to join a monthly meeting"
+        ],
+        "phrases": [
+            "A monthly meeting / một cuộc họp hàng tháng"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U24_11",
+        "unitId": 24,
+        "word": "Giảm giá",
+        "answers": [
+            "Discount"
+        ],
+        "sentences": [
+            "She gets a discount for her car"
+        ],
+        "phrases": [
+            "Get a discount"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U24_12",
+        "unitId": 24,
+        "word": "Tín dụng",
+        "answers": [
+            "Credit"
+        ],
+        "sentences": [
+            "He bought the car on credit"
+        ],
+        "phrases": [
+            "On credit / bằng tín dụng"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U24_13",
+        "unitId": 24,
+        "word": "Đáng giá",
+        "answers": [
+            "Worth"
+        ],
+        "sentences": [
+            "The ring is worth 1 milion dollars"
+        ],
+        "phrases": [
+            "Worth something"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U24_14",
+        "unitId": 24,
+        "word": "Chuyển",
+        "answers": [
+            "Transfer"
+        ],
+        "sentences": [
+            "I transfer the money to her via the internet"
+        ],
+        "phrases": [
+            "Transfer something to somebody"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U24_15",
+        "unitId": 24,
+        "word": "Giá trị",
+        "answers": [
+            "Value"
+        ],
+        "sentences": [
+            "This phone has an excellent value for money"
+        ],
+        "phrases": [
+            "Value for money / xứng đáng với mức giá"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U24_16",
+        "unitId": 24,
+        "word": "Khoảng",
+        "answers": [
+            "Range"
+        ],
+        "sentences": [
+            "VinMart offers a wide range of consumer goods"
+        ],
+        "phrases": [
+            "A wide range of something / một loạt các thứ gì đó"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U24_17",
+        "unitId": 24,
+        "word": "Rút khỏi",
+        "answers": [
+            "Withdraw"
+        ],
+        "sentences": [
+            "I withdraw some money from the ATM"
+        ],
+        "phrases": [
+            "Withdraw something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U24_18",
+        "unitId": 24,
+        "word": "Giảm",
+        "answers": [
+            "Decrease"
+        ],
+        "sentences": [
+            "Please decrease the temperature. It is hot"
+        ],
+        "phrases": [
+            "Decrease something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U24_19",
+        "unitId": 24,
+        "word": "Thêm",
+        "answers": [
+            "Add"
+        ],
+        "sentences": [
+            "Please add sugar to the mixture"
+        ],
+        "phrases": [
+            "Add something to something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U24_20",
+        "unitId": 24,
+        "word": "Tăng",
+        "answers": [
+            "Increase"
+        ],
+        "sentences": [
+            "Please increase the temperature. It is cold"
+        ],
+        "phrases": [
+            "Increase something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U24_21",
+        "unitId": 24,
+        "word": "Tiết kiệm",
+        "answers": [
+            "Save up"
+        ],
+        "sentences": [
+            "She saves up money to buy a car"
+        ],
+        "phrases": [
+            "Save up money"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U24_22",
+        "unitId": 24,
+        "word": "Dành dụm",
+        "answers": [
+            "Set aside"
+        ],
+        "sentences": [
+            "She sets aside some money every month"
+        ],
+        "phrases": [
+            "Set aside something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U24_23",
+        "unitId": 24,
+        "word": "Giảm",
+        "answers": [
+            "Drop"
+        ],
+        "sentences": [
+            "The price of port meat has dropped significantly"
+        ],
+        "phrases": [
+            "The price drops"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U24_24",
+        "unitId": 24,
+        "word": "Thêm",
+        "answers": [
+            "Extra"
+        ],
+        "sentences": [
+            "She earns some extra money from selling clothes"
+        ],
+        "phrases": [
+            "Extra money / tiền có thêm"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U24_25",
+        "unitId": 24,
+        "word": "Vé",
+        "answers": [
+            "Ticket"
+        ],
+        "sentences": [
+            "She works at a ticket office"
+        ],
+        "phrases": [
+            "A ticket office"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U24_26",
+        "unitId": 24,
+        "word": "Tặng miễn phí, cho đi",
+        "answers": [
+            "Give away"
+        ],
+        "sentences": [
+            "He gives away lots of money"
+        ],
+        "phrases": [
+            "Give away something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U24_27",
+        "unitId": 24,
+        "word": "Giá trị",
+        "answers": [
+            "Valuable"
+        ],
+        "sentences": [
+            "This motorbike is a valuable asset to me"
+        ],
+        "phrases": [
+            "Valuable asset"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U24_28",
+        "unitId": 24,
+        "word": "Trung bình",
+        "answers": [
+            "Average"
+        ],
+        "sentences": [
+            "Hanoi's average cost of housing is high"
+        ],
+        "phrases": [
+            "An average cost/ chi phí trung bình"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U24_29",
+        "unitId": 24,
+        "word": "Thích hợp, tử tế",
+        "answers": [
+            "Proper"
+        ],
+        "sentences": [
+            "I never have a proper meal"
+        ],
+        "phrases": [
+            "A proper meal / một bữa ăn tử tế"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U24_30",
+        "unitId": 24,
+        "word": "Sự giàu có",
+        "answers": [
+            "Wealth"
+        ],
+        "sentences": [
+            "She destroys a large amount of wealth"
+        ],
+        "phrases": [
+            "A large amount of wealth / một lượng lớn của cải"
+        ],
+        "verb": [
+            "N"
+        ]
     }
 ]
