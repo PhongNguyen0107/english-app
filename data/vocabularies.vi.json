@@ -14355,5 +14355,516 @@
         "verb": [
             "N"
         ]
+    },
+    {
+        "id": "U25_01",
+        "unitId": 25,
+        "word": "Hướng dẫn sử dụng",
+        "answers": [
+            "Manual"
+        ],
+        "sentences": [
+            "Read the computer manual before use"
+        ],
+        "phrases": [
+            "A computer manual"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U25_02",
+        "unitId": 25,
+        "word": "Sửa",
+        "answers": [
+            "Repair"
+        ],
+        "sentences": [
+            "My father can repair any electronic device"
+        ],
+        "phrases": [
+            "Repair something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U25_03",
+        "unitId": 25,
+        "word": "Sự đa dạng",
+        "answers": [
+            "Variety"
+        ],
+        "sentences": [
+            "He can cook a wide variety of food"
+        ],
+        "phrases": [
+            "A wide variety of something"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U25_04",
+        "unitId": 25,
+        "word": "Kích cỡ",
+        "answers": [
+            "Size"
+        ],
+        "sentences": [
+            "He wants a large size studio"
+        ],
+        "phrases": [
+            "Large size / cỡ lớn"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U25_05",
+        "unitId": 25,
+        "word": "Trung bình",
+        "answers": [
+            "Medium"
+        ],
+        "sentences": [
+            "I can only fit in medium-sized shirts"
+        ],
+        "phrases": [
+            "Medium-sized"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U25_06",
+        "unitId": 25,
+        "word": "Lớn",
+        "answers": [
+            "Huge"
+        ],
+        "sentences": [
+            "A huge amount of sugar is added"
+        ],
+        "phrases": [
+            "A huge amount of something"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U25_07",
+        "unitId": 25,
+        "word": "Độ dài",
+        "answers": [
+            "Length"
+        ],
+        "sentences": [
+            "This table is two meters in length"
+        ],
+        "phrases": [
+            "In length"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U25_08",
+        "unitId": 25,
+        "word": "Độ sâu",
+        "answers": [
+            "Depth"
+        ],
+        "sentences": [
+            "The depth of the atlantic ocean is over 8000m"
+        ],
+        "phrases": [
+            "The depth of something"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U25_09",
+        "unitId": 25,
+        "word": "Rộng",
+        "answers": [
+            "Wide"
+        ],
+        "sentences": [
+            "The supermarket sells a wide selection of goods"
+        ],
+        "phrases": [
+            "A wide selection of goods / nhiều lựa chọn các loại hàng hóa"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U25_10",
+        "unitId": 25,
+        "word": "Hẹp",
+        "answers": [
+            "Narrow"
+        ],
+        "sentences": [
+            "We cannot both fit in a narrow bed"
+        ],
+        "phrases": [
+            "A narrow bed"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U25_11",
+        "unitId": 25,
+        "word": "Trọng lượng",
+        "answers": [
+            "Weight"
+        ],
+        "sentences": [
+            "My body weight increases and decreases randomly"
+        ],
+        "phrases": [
+            "Body weight"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U25_12",
+        "unitId": 25,
+        "word": "Nặng",
+        "answers": [
+            "Heavy"
+        ],
+        "sentences": [
+            "She cannot carry a heavy box"
+        ],
+        "phrases": [
+            "A heavy box"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U25_13",
+        "unitId": 25,
+        "word": "Mang vác",
+        "answers": [
+            "Carry"
+        ],
+        "sentences": [
+            "I can carry this chair with one hand"
+        ],
+        "phrases": [
+            "Carry something / mang vác thứ gì đó"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U25_14",
+        "unitId": 25,
+        "word": "Loại bỏ",
+        "answers": [
+            "Remove"
+        ],
+        "sentences": [
+            "She removes him from the group for inactivity"
+        ],
+        "phrases": [
+            "Remove sb or sth"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U25_15",
+        "unitId": 25,
+        "word": "Phân chia, tách ra",
+        "answers": [
+            "Separate"
+        ],
+        "sentences": [
+            "Boy",
+            " please separate from the girls"
+        ],
+        "phrases": [
+            "Separate from sb or sth"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U25_16",
+        "unitId": 25,
+        "word": "Kim loại",
+        "answers": [
+            "Metal"
+        ],
+        "sentences": [
+            "Please hand me a metal tool to crush this"
+        ],
+        "phrases": [
+            "A metal tool"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U25_17",
+        "unitId": 25,
+        "word": "Nhựa",
+        "answers": [
+            "Plastic"
+        ],
+        "sentences": [
+            "The leftovers are in a plastic container"
+        ],
+        "phrases": [
+            "A plastic container"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U25_18",
+        "unitId": 25,
+        "word": "Mất",
+        "answers": [
+            "Lose"
+        ],
+        "sentences": [
+            "I want to lose some weight after Tet"
+        ],
+        "phrases": [
+            "Lose weight / giảm cân"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U25_19",
+        "unitId": 25,
+        "word": "Sắc",
+        "answers": [
+            "Sharp"
+        ],
+        "sentences": [
+            "A sharp knife can cut through bones"
+        ],
+        "phrases": [
+            "A sharp knife"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U25_20",
+        "unitId": 25,
+        "word": "Số lượng",
+        "answers": [
+            "Quantity"
+        ],
+        "sentences": [
+            "She only eats a small quantity of food"
+        ],
+        "phrases": [
+            "A large or small quantity of something"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U25_21",
+        "unitId": 25,
+        "word": "Cái que",
+        "answers": [
+            "Stick"
+        ],
+        "sentences": [
+            "My sister uses popsicle sticks to build toy houses"
+        ],
+        "phrases": [
+            "Popsicle stick / que kem"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U25_22",
+        "unitId": 25,
+        "word": "Trống",
+        "answers": [
+            "Empty"
+        ],
+        "sentences": [
+            "An empty box is a playground to cats"
+        ],
+        "phrases": [
+            "An empty box"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U25_23",
+        "unitId": 25,
+        "word": "Sâu ",
+        "answers": [
+            "Deep"
+        ],
+        "sentences": [
+            "I am scared of deep water"
+        ],
+        "phrases": [
+            "Deep water"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U25_24",
+        "unitId": 25,
+        "word": "Lượng",
+        "answers": [
+            "Volume"
+        ],
+        "sentences": [
+            "The volume of demand is huge"
+        ],
+        "phrases": [
+            "Volume of something"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U25_25",
+        "unitId": 25,
+        "word": "Chất lỏng",
+        "answers": [
+            "Liquid"
+        ],
+        "sentences": [
+            "A hot liquid is inside the cup"
+        ],
+        "phrases": [
+            "A hot or cold liquid"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U25_26",
+        "unitId": 25,
+        "word": "Vết nức",
+        "answers": [
+            "Crack"
+        ],
+        "sentences": [
+            "There are cracks in the wall"
+        ],
+        "phrases": [
+            "A crack in something"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U25_27",
+        "unitId": 25,
+        "word": "Bề mặt",
+        "answers": [
+            "Surface"
+        ],
+        "sentences": [
+            "We sit on a flat surface"
+        ],
+        "phrases": [
+            "A flat surface / một bề mặt phẳng"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U25_28",
+        "unitId": 25,
+        "word": "Chất liệu",
+        "answers": [
+            "Material"
+        ],
+        "sentences": [
+            "My mother always likes items of natural materials"
+        ],
+        "phrases": [
+            "Natural materials"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U25_29",
+        "unitId": 25,
+        "word": "Thẳng",
+        "answers": [
+            "Straight"
+        ],
+        "sentences": [
+            "Go straight ahead and you will find the bus stop"
+        ],
+        "phrases": [
+            "Straight ahead / thẳng phía trước"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U25_30",
+        "unitId": 25,
+        "word": "Một cách rõ ràng",
+        "answers": [
+            "Clearly"
+        ],
+        "sentences": [
+            "Please speak clearly so I can understand"
+        ],
+        "phrases": [
+            "Speak clearly"
+        ],
+        "verb": [
+            "Adv"
+        ]
     }
 ]
