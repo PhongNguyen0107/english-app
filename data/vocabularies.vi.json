@@ -14866,5 +14866,515 @@
         "verb": [
             "Adv"
         ]
+    },
+    {
+        "id": "U31_01",
+        "unitId": 31,
+        "word": "Ví",
+        "answers": [
+            "Purse"
+        ],
+        "sentences": [
+            "You can carry your purse in the store"
+        ],
+        "phrases": [
+            "Carry a purse / mang theo ví"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U31_02",
+        "unitId": 31,
+        "word": "Cắt giảm",
+        "answers": [
+            "Cut back on"
+        ],
+        "sentences": [
+            "The company has cut back on employees"
+        ],
+        "phrases": [
+            "Cut back on something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U31_03",
+        "unitId": 31,
+        "word": "Quà lưu niệm",
+        "answers": [
+            "Souvenir"
+        ],
+        "sentences": [
+            "Let's buy a gift at the souvenir shop"
+        ],
+        "phrases": [
+            "A souvenir shop"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U31_04",
+        "unitId": 31,
+        "word": "Món đồ",
+        "answers": [
+            "Item"
+        ],
+        "sentences": [
+            "I'm missing an item in my order"
+        ],
+        "phrases": [
+            "Missing an item / thiếu một món đồ"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U31_05",
+        "unitId": 31,
+        "word": "Trao đổi",
+        "answers": [
+            "Exchange"
+        ],
+        "sentences": [
+            "Can you exchange US dollars for Vietnamese dong?"
+        ],
+        "phrases": [
+            "Exchange something for something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U31_06",
+        "unitId": 31,
+        "word": "Lấy lại, nhận lại",
+        "answers": [
+            "Take back"
+        ],
+        "sentences": [
+            "The shop can take back faulty products"
+        ],
+        "phrases": [
+            "Take back something / nhận lại cái gì đó"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U31_07",
+        "unitId": 31,
+        "word": "Hoàn tiền",
+        "answers": [
+            "Refund"
+        ],
+        "sentences": [
+            "I will get a refund for the canceled flight"
+        ],
+        "phrases": [
+            "Get a refund / được hoàn lại tiền"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U31_08",
+        "unitId": 31,
+        "word": "Nhập khẩu",
+        "answers": [
+            "Import"
+        ],
+        "sentences": [
+            "Our restaurant imports meat from overseas"
+        ],
+        "phrases": [
+            "Import something from somewhere"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U31_09",
+        "unitId": 31,
+        "word": "Việc giao hàng",
+        "answers": [
+            "Delivery"
+        ],
+        "sentences": [
+            "Will you accept cash on delivery?"
+        ],
+        "phrases": [
+            "Cash on delivery / thanh toán khi giao hàng"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U31_10",
+        "unitId": 31,
+        "word": "Nhận",
+        "answers": [
+            "Receive"
+        ],
+        "sentences": [
+            "They will receive the letter by tomorrow"
+        ],
+        "phrases": [
+            "Receive something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U31_11",
+        "unitId": 31,
+        "word": "Trung tâm thương mại",
+        "answers": [
+            "Mall"
+        ],
+        "sentences": [
+            "The countryside only has one shopping mall"
+        ],
+        "phrases": [
+            "A shopping mall / một trung tâm mua sắm"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U31_12",
+        "unitId": 31,
+        "word": "Khuyến mãi, thỏa thuận",
+        "answers": [
+            "Deal"
+        ],
+        "sentences": [
+            "Business people make deals every day"
+        ],
+        "phrases": [
+            "Make a deal / đàm phán thỏa thuận"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U31_13",
+        "unitId": 31,
+        "word": "Đi khảo giá",
+        "answers": [
+            "Shop around"
+        ],
+        "sentences": [
+            "He takes his time shopping around for the best price"
+        ],
+        "phrases": [
+            "Shop around for the best price / đi khảo giá để tìm mức giá tốt nhất"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U31_14",
+        "unitId": 31,
+        "word": "Chương trình khuyến mãi",
+        "answers": [
+            "Promotion"
+        ],
+        "sentences": [
+            "We are doing a special promotion"
+        ],
+        "phrases": [
+            "A special promotion"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U31_15",
+        "unitId": 31,
+        "word": "Chất lượng",
+        "answers": [
+            "Quality"
+        ],
+        "sentences": [
+            "My old shoes are of poor quality"
+        ],
+        "phrases": [
+            "Poor quality / chất lượng kém"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U31_16",
+        "unitId": 31,
+        "word": "Giả",
+        "answers": [
+            "Fake"
+        ],
+        "sentences": [
+            "I accidentally bought a fake bag / tôi vô tình…"
+        ],
+        "phrases": [
+            "A fake bag"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U31_17",
+        "unitId": 31,
+        "word": "Mua",
+        "answers": [
+            "Purchase"
+        ],
+        "sentences": [
+            "They have enough money to purchase a car"
+        ],
+        "phrases": [
+            "Purchase something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U31_18",
+        "unitId": 31,
+        "word": "Khoản thanh toán",
+        "answers": [
+            "Payment"
+        ],
+        "sentences": [
+            "Which payment method do you prefer?"
+        ],
+        "phrases": [
+            "Payment method"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U31_19",
+        "unitId": 31,
+        "word": "Phiếu giảm giá",
+        "answers": [
+            "Coupon"
+        ],
+        "sentences": [
+            "You can get discount coupons in the newspapers"
+        ],
+        "phrases": [
+            "A discount coupon"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U31_20",
+        "unitId": 31,
+        "word": "Bán hết sạch",
+        "answers": [
+            "Sell out"
+        ],
+        "sentences": [
+            "The theater quickly sold out of tickets"
+        ],
+        "phrases": [
+            "Sell out of tickets"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U31_21",
+        "unitId": 31,
+        "word": "Nhãn hàng",
+        "answers": [
+            "Brand"
+        ],
+        "sentences": [
+            "Nike is a well-known brand for shoes"
+        ],
+        "phrases": [
+            "A well-known brand / một thương hiệu nổi tiếng"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U31_22",
+        "unitId": 31,
+        "word": "Gói hàng",
+        "answers": [
+            "Package"
+        ],
+        "sentences": [
+            "A large package has arrived for you"
+        ],
+        "phrases": [
+            "A large package"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U31_23",
+        "unitId": 31,
+        "word": "Nhãn hiệu",
+        "answers": [
+            "Label"
+        ],
+        "sentences": [
+            "Always read the label carefully!"
+        ],
+        "phrases": [
+            "Read the label / đọc nhãn hiệu"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U31_24",
+        "unitId": 31,
+        "word": "Lượng lớn, bó",
+        "answers": [
+            "Bunch"
+        ],
+        "sentences": [
+            "She bought a bunch of flowers for her mom"
+        ],
+        "phrases": [
+            "A bunch of something"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U31_25",
+        "unitId": 31,
+        "word": "Quầy thanh toán",
+        "answers": [
+            "Checkout"
+        ],
+        "sentences": [
+            "We pay for the items at the checkout"
+        ],
+        "phrases": [
+            "At the checkout / tại quầy thanh toán"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U31_26",
+        "unitId": 31,
+        "word": "Yêu cầu",
+        "answers": [
+            "Request"
+        ],
+        "sentences": [
+            "I requested some information from the office"
+        ],
+        "phrases": [
+            "Request something from somebody"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U31_27",
+        "unitId": 31,
+        "word": "Xếp hàng",
+        "answers": [
+            "Line up"
+        ],
+        "sentences": [
+            "The captain lined up the soldiers for the training"
+        ],
+        "phrases": [
+            "Line up something or somebody"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U31_28",
+        "unitId": 31,
+        "word": "Giỏ hàng",
+        "answers": [
+            "Cart"
+        ],
+        "sentences": [
+            "My shopping cart is full of food"
+        ],
+        "phrases": [
+            "A shopping cart"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U31_29",
+        "unitId": 31,
+        "word": "Nhân viên thu ngân",
+        "answers": [
+            "Cashier"
+        ],
+        "sentences": [
+            "You can checkout with the supermarket cashier"
+        ],
+        "phrases": [
+            "A supermarket cashier"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U31_30",
+        "unitId": 31,
+        "word": "Bán",
+        "answers": [
+            "Sell"
+        ],
+        "sentences": [
+            "He sells ice cream for children in our neighborhood"
+        ],
+        "phrases": [
+            "Sell something "
+        ],
+        "verb": [
+            "V"
+        ]
     }
 ]
