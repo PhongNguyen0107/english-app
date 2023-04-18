@@ -163,6 +163,16 @@ export const getListOfUnit = (): Unit[] => {
       label: "30. Beauty",
       description: "",
       value: 30,
+    },
+    {
+      label: "31. ",
+      description: "",
+      value: 31,
+    },
+    {
+      label: "32. ",
+      description: "",
+      value: 32,
     }
   ]
 }
