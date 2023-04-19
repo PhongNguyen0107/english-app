@@ -15376,5 +15376,1031 @@
         "verb": [
             "V"
         ]
+    },
+    {
+        "id": "U32_01",
+        "unitId": 32,
+        "word": "Hình dáng",
+        "answers": [
+            "Shape"
+        ],
+        "sentences": [
+            "The ruler has a rectangular shape"
+        ],
+        "phrases": [
+            "A rectangular shape / hình chữ nhật"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U32_02",
+        "unitId": 32,
+        "word": "Cổ áo",
+        "answers": [
+            "Collar"
+        ],
+        "sentences": [
+            "My shirt collar is stained / … bị ố"
+        ],
+        "phrases": [
+            "A shirt collar"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U32_03",
+        "unitId": 32,
+        "word": "Đường cong",
+        "answers": [
+            "Curve"
+        ],
+        "sentences": [
+            "The fast car took a sharp curve"
+        ],
+        "phrases": [
+            "A sharp curve / khúc cua gấp"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U32_04",
+        "unitId": 32,
+        "word": "Khuy áo",
+        "answers": [
+            "Button"
+        ],
+        "sentences": [
+            "One of your shirt buttons is missing"
+        ],
+        "phrases": [
+            "A shirt button / một cái khuy áo"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U32_05",
+        "unitId": 32,
+        "word": "Túi",
+        "answers": [
+            "Pocket"
+        ],
+        "sentences": [
+            "The keys are in my pocket"
+        ],
+        "phrases": [
+            "In one's pocket"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U32_06",
+        "unitId": 32,
+        "word": "Tay áo",
+        "answers": [
+            "Sleeve"
+        ],
+        "sentences": [
+            "His shirt has short sleeves"
+        ],
+        "phrases": [
+            "A short sleeve / áo cộc tay"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U32_07",
+        "unitId": 32,
+        "word": "Tủ quần áo",
+        "answers": [
+            "Closet"
+        ],
+        "sentences": [
+            "The child is hiding in the closet"
+        ],
+        "phrases": [
+            "In the closet"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U32_08",
+        "unitId": 32,
+        "word": "Tất",
+        "answers": [
+            "Sock"
+        ],
+        "sentences": [
+            "Your christmas gift is a pair of socks"
+        ],
+        "phrases": [
+            "A pair of socks"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U32_09",
+        "unitId": 32,
+        "word": "Trang sức",
+        "answers": [
+            "Juwelry"
+        ],
+        "sentences": [
+            "Gold jewelry is expensive"
+        ],
+        "phrases": [
+            "Gold jewelry"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U32_10",
+        "unitId": 32,
+        "word": "Vòng tay",
+        "answers": [
+            "Bracelet"
+        ],
+        "sentences": [
+            "She wears a diamond bracelet on her wrist"
+        ],
+        "phrases": [
+            "A diamond bracelet"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U32_11",
+        "unitId": 32,
+        "word": "Cửa hàng",
+        "answers": [
+            "Store"
+        ],
+        "sentences": [
+            "Apple now has retail stores in vietnam"
+        ],
+        "phrases": [
+            "A retail store / cửa hàng bán lẻ"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U32_12",
+        "unitId": 32,
+        "word": "Thắt",
+        "answers": [
+            "Tie"
+        ],
+        "sentences": [
+            "I don’t know how to tie a tie"
+        ],
+        "phrases": [
+            "Tie a tie / thắt cà vạt"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U32_13",
+        "unitId": 32,
+        "word": "Da",
+        "answers": [
+            "Leather"
+        ],
+        "sentences": [
+            "Bikers usually wear leather jackets"
+        ],
+        "phrases": [
+            "A leather jacket / áo khoác da"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U32_14",
+        "unitId": 32,
+        "word": "Vẻ đẹp",
+        "answers": [
+            "Beauty"
+        ],
+        "sentences": [
+            "The beauty of this view amazes me"
+        ],
+        "phrases": [
+            "Beauty of something or somebody"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U32_15",
+        "unitId": 32,
+        "word": "Hợp",
+        "answers": [
+            "Suit"
+        ],
+        "sentences": [
+            "This hat suits you well"
+        ],
+        "phrases": [
+            "Suit somebody well"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U32_16",
+        "unitId": 32,
+        "word": "Thử đồ",
+        "answers": [
+            "Try on"
+        ],
+        "sentences": [
+            "Why don’t you try on the dress?"
+        ],
+        "phrases": [
+            "Try on something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U32_17",
+        "unitId": 32,
+        "word": "Lỏng",
+        "answers": [
+            "Loose"
+        ],
+        "sentences": [
+            "Can you fix my shirt's loose button?"
+        ],
+        "phrases": [
+            "A loose button"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U32_18",
+        "unitId": 32,
+        "word": "Quần",
+        "answers": [
+            "Pants"
+        ],
+        "sentences": [
+            "You need a new pair of pants"
+        ],
+        "phrases": [
+            "A pair of pants / một chiếc quần dài"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U32_19",
+        "unitId": 32,
+        "word": "Chật",
+        "answers": [
+            "Tight"
+        ],
+        "sentences": [
+            "These pants are too tight for me"
+        ],
+        "phrases": [
+            "Too tight for somebody"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U32_20",
+        "unitId": 32,
+        "word": "Phần eo",
+        "answers": [
+            "Waist"
+        ],
+        "sentences": [
+            "His clothes are wet from the waist down"
+        ],
+        "phrases": [
+            "From the waist down / từ thắt lưng trở xuống"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U32_21",
+        "unitId": 32,
+        "word": "Kim cương",
+        "answers": [
+            "Diamond"
+        ],
+        "sentences": [
+            "The diamond rind he gave her was huge"
+        ],
+        "phrases": [
+            "A diamond ring"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U32_22",
+        "unitId": 32,
+        "word": "Mẫu họa tiết",
+        "answers": [
+            "Pattern"
+        ],
+        "sentences": [
+            "I like the pattern on your shirt"
+        ],
+        "phrases": [
+            "The pattern on something"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U32_23",
+        "unitId": 32,
+        "word": "Hợp với",
+        "answers": [
+            "Go with"
+        ],
+        "sentences": [
+            "My new shirt goes with my favorite watch"
+        ],
+        "phrases": [
+            "Go with something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U32_24",
+        "unitId": 32,
+        "word": "Mảnh",
+        "answers": [
+            "Piece"
+        ],
+        "sentences": [
+            "This purse can go with any piece of clothing"
+        ],
+        "phrases": [
+            "A piece of clothing / món đồ thời trang"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U32_25",
+        "unitId": 32,
+        "word": "Khoe mẽ",
+        "answers": [
+            "Show off"
+        ],
+        "sentences": [
+            "He is showing off his new watch"
+        ],
+        "phrases": [
+            "Show off something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U32_26",
+        "unitId": 32,
+        "word": "Ngầu",
+        "answers": [
+            "Cool"
+        ],
+        "sentences": [
+            "The new poster design looks cool"
+        ],
+        "phrases": [
+            "To look cool / trong thật ngầu"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U32_27",
+        "unitId": 32,
+        "word": "Nhiều màu sắc",
+        "answers": [
+            "Colorful"
+        ],
+        "sentences": [
+            "Children always make the most colorful paintings"
+        ],
+        "phrases": [
+            "A colorful painting / một bức tranh sặc sỡ"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U32_28",
+        "unitId": 32,
+        "word": "Thời trang",
+        "answers": [
+            "Fashion"
+        ],
+        "sentences": [
+            "She writes about the latest fashion trends"
+        ],
+        "phrases": [
+            "A fashion trend"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U32_29",
+        "unitId": 32,
+        "word": "Thanh lịch",
+        "answers": [
+            "Chic"
+        ],
+        "sentences": [
+            "The fashionista has a chic style"
+        ],
+        "phrases": [
+            "A chic style / phong cách thanh lịch"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U32_30",
+        "unitId": 32,
+        "word": "Gói lại",
+        "answers": [
+            "Wrap up"
+        ],
+        "sentences": [
+            "The cashier wrapped up the shirt for me"
+        ],
+        "phrases": [
+            "Wrap up something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U33_01",
+        "unitId": 33,
+        "word": "Bất lịch sự, thô lỗ",
+        "answers": [
+            "Rude"
+        ],
+        "sentences": [
+            "I am sorry I was rude to you"
+        ],
+        "phrases": [
+            "To be rude to somebody"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U33_02",
+        "unitId": 33,
+        "word": "Mục đích",
+        "answers": [
+            "Purpose"
+        ],
+        "sentences": [
+            "What is the purpose of this meeting?"
+        ],
+        "phrases": [
+            "Purpose of something"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U33_03",
+        "unitId": 33,
+        "word": "Lịch sự",
+        "answers": [
+            "Polite"
+        ],
+        "sentences": [
+            "You should be polite to our guests"
+        ],
+        "phrases": [
+            "To be polite to somebody"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U33_04",
+        "unitId": 33,
+        "word": "Người chồng",
+        "answers": [
+            "Husband"
+        ],
+        "sentences": [
+            "Her husband is a loving man"
+        ],
+        "phrases": [
+            "Somebody's husband"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U33_05",
+        "unitId": 33,
+        "word": "Đám đông",
+        "answers": [
+            "Crowd"
+        ],
+        "sentences": [
+            "The concert drew a large crowd tonight"
+        ],
+        "phrases": [
+            "A large crowd"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U33_06",
+        "unitId": 33,
+        "word": "Tự hào",
+        "answers": [
+            "Proud"
+        ],
+        "sentences": [
+            "You did it! I am proud of you"
+        ],
+        "phrases": [
+            "To be proud of something or someone"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U33_07",
+        "unitId": 33,
+        "word": "Cách cư xử",
+        "answers": [
+            "Manner"
+        ],
+        "sentences": [
+            "When eating",
+            " he has good manners"
+        ],
+        "phrases": [
+            "Good manners / hành xử tốt"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U33_08",
+        "unitId": 33,
+        "word": "Chất giọng",
+        "answers": [
+            "Accent"
+        ],
+        "sentences": [
+            "She has an american accent because she lived there for 10 years"
+        ],
+        "phrases": [
+            "American accent / giọng mỹ"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U33_09",
+        "unitId": 33,
+        "word": "Giải thích",
+        "answers": [
+            "Explain"
+        ],
+        "sentences": [
+            "Our teacher is explaining math to us"
+        ],
+        "phrases": [
+            "Explain something to someone"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U33_10",
+        "unitId": 33,
+        "word": "Lễ hội",
+        "answers": [
+            "Festival"
+        ],
+        "sentences": [
+            "The music festival will have lots of performances"
+        ],
+        "phrases": [
+            "A music festival / lễ hội âm nhạc"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U33_11",
+        "unitId": 33,
+        "word": "Gợi ý",
+        "answers": [
+            "Recommend"
+        ],
+        "sentences": [
+            "I would recommend trying the steak here"
+        ],
+        "phrases": [
+            "Recommend doing something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U33_12",
+        "unitId": 33,
+        "word": "Mời",
+        "answers": [
+            "Invite"
+        ],
+        "sentences": [
+            "We should invite my mom to dinner"
+        ],
+        "phrases": [
+            "Invite somebody"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U33_13",
+        "unitId": 33,
+        "word": "Truyền thống",
+        "answers": [
+            "Traditional"
+        ],
+        "sentences": [
+            "Our country's traditional dress is ao dai"
+        ],
+        "phrases": [
+            "Traditional dress / trang phụ truyền thống"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U33_14",
+        "unitId": 33,
+        "word": "Thuộc phương tây",
+        "answers": [
+            "Western"
+        ],
+        "sentences": [
+            "Western people live in Tay Ho's area"
+        ],
+        "phrases": [
+            "Western people / người phương tây"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U33_15",
+        "unitId": 33,
+        "word": "Trân trọng",
+        "answers": [
+            "Treasure"
+        ],
+        "sentences": [
+            "I will always treasure the memories I had with my family"
+        ],
+        "phrases": [
+            "Treasure something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U33_16",
+        "unitId": 33,
+        "word": "Hỗn hợp",
+        "answers": [
+            "Mixture"
+        ],
+        "sentences": [
+            "Next",
+            " we add a mixture of eggs and milk"
+        ],
+        "phrases": [
+            "Mixture of a and b"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U33_17",
+        "unitId": 33,
+        "word": "Hiện đại",
+        "answers": [
+            "Modern"
+        ],
+        "sentences": [
+            "People read newspapers online in modern times"
+        ],
+        "phrases": [
+            "In modern times"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U33_18",
+        "unitId": 33,
+        "word": "Văn hóa",
+        "answers": [
+            "Culture"
+        ],
+        "sentences": [
+            "Vietnam's language and culture are beautiful"
+        ],
+        "phrases": [
+            "Language and culture"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U33_19",
+        "unitId": 33,
+        "word": "Thuộc về",
+        "answers": [
+            "Belong to"
+        ],
+        "sentences": [
+            "Does this bag belong to you?"
+        ],
+        "phrases": [
+            "Belong to somebody"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U33_20",
+        "unitId": 33,
+        "word": "Bảo tàng",
+        "answers": [
+            "Museum"
+        ],
+        "sentences": [
+            "Art museums help us learn about culture"
+        ],
+        "phrases": [
+            "An art museum"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U33_21",
+        "unitId": 33,
+        "word": "Khắp thế giới",
+        "answers": [
+            "Worldwide"
+        ],
+        "sentences": [
+            "Our company has a worldwide network of branches"
+        ],
+        "phrases": [
+            "A worldwide network"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U33_22",
+        "unitId": 33,
+        "word": "Đền",
+        "answers": [
+            "Temple"
+        ],
+        "sentences": [
+            "The family went to Buddhist temple today"
+        ],
+        "phrases": [
+            "A buddhist temple / chùa"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U33_23",
+        "unitId": 33,
+        "word": "Tôn giáo",
+        "answers": [
+            "Religion"
+        ],
+        "sentences": [
+            "The state religion of England is Christianity"
+        ],
+        "phrases": [
+            "State religion / quốc giáo"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U33_24",
+        "unitId": 33,
+        "word": "Toàn quốc, quốc gia",
+        "answers": [
+            "National"
+        ],
+        "sentences": [
+            "My son received the national award for swimming."
+        ],
+        "phrases": [
+            "A national award"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U33_25",
+        "unitId": 33,
+        "word": "Cầu nguyện",
+        "answers": [
+            "Pray"
+        ],
+        "sentences": [
+            "We will pray for the survivors"
+        ],
+        "phrases": [
+            "Pray for something or someone"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U33_26",
+        "unitId": 33,
+        "word": "May mắn",
+        "answers": [
+            "Luck"
+        ],
+        "sentences": [
+            "How do I avoid bad luck?"
+        ],
+        "phrases": [
+            "Bad luck / xui xẻo"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U33_27",
+        "unitId": 33,
+        "word": "Số đông",
+        "answers": [
+            "Majority"
+        ],
+        "sentences": [
+            "The majority of people here are over 10"
+        ],
+        "phrases": [
+            "The majority of somebody or something"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U33_28",
+        "unitId": 33,
+        "word": "Câu chuyện",
+        "answers": [
+            "Story"
+        ],
+        "sentences": [
+            "Can you read me a bedtime story?"
+        ],
+        "phrases": [
+            "A bedtime story / một câu chuyện trước giờ đi ngủ"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U33_29",
+        "unitId": 33,
+        "word": "Tinh thần, linh hồn",
+        "answers": [
+            "Spirit"
+        ],
+        "sentences": [
+            "Do you think our body",
+            " mind",
+            " and spirit connect together?"
+        ],
+        "phrases": [
+            "Body",
+            " mind and spirit / cơ thể",
+            " tâm trí và tinh thần"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U33_30",
+        "unitId": 33,
+        "word": "Truyền thuyết",
+        "answers": [
+            "Legend"
+        ],
+        "sentences": [
+            "Legend has it that there was a great flood that destroyed everything"
+        ],
+        "phrases": [
+            "Legend has it that / truyền thuyết kể lại rằng"
+        ],
+        "verb": [
+            "N"
+        ]
     }
 ]
