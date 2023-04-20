@@ -16402,5 +16402,516 @@
         "verb": [
             "N"
         ]
+    },
+    {
+        "id": "U34_01",
+        "unitId": 34,
+        "word": "Pháo hoa",
+        "answers": [
+            "Firework"
+        ],
+        "sentences": [
+            "We watch fireworks displays together every year"
+        ],
+        "phrases": [
+            "A fireworks display / màn trình diễn pháo hoa"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U34_02",
+        "unitId": 34,
+        "word": "Ăn mừng, tán dương",
+        "answers": [
+            "Celebrate"
+        ],
+        "sentences": [
+            "Let's celebrate your promotion this Friday!"
+        ],
+        "phrases": [
+            "Celebrate somebody or something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U34_03",
+        "unitId": 34,
+        "word": "Phần lớn, chủ yếu",
+        "answers": [
+            "Mostly"
+        ],
+        "sentences": [
+            "The sauce is mostly cream."
+        ],
+        "phrases": [
+            "To be mostly something / chủ yếu là thứ gì đó"
+        ],
+        "verb": [
+            "Adv"
+        ]
+    },
+    {
+        "id": "U34_04",
+        "unitId": 34,
+        "word": "Phong bì",
+        "answers": [
+            "Envelope"
+        ],
+        "sentences": [
+            "\"Li xi\" is a red envelope of money"
+        ],
+        "phrases": [
+            "An envelope of something"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U34_05",
+        "unitId": 34,
+        "word": "Kỳ lạ",
+        "answers": [
+            "Strange"
+        ],
+        "sentences": [
+            "There is a strange object in the sky"
+        ],
+        "phrases": [
+            "A strange object / một vật thể kỳ lạ"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U34_06",
+        "unitId": 34,
+        "word": "Hào phóng",
+        "answers": [
+            "Generous"
+        ],
+        "sentences": [
+            "My dad is generous with giving gifts."
+        ],
+        "phrases": [
+            "To be generous with something / hào phóng trong chuyện gì đó"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U34_07",
+        "unitId": 34,
+        "word": "Thay vì",
+        "answers": [
+            "Instead"
+        ],
+        "sentences": [
+            "Instead of doing homework",
+            " she watched TV"
+        ],
+        "phrases": [
+            "Instead of doing something"
+        ],
+        "verb": [
+            "Adv"
+        ]
+    },
+    {
+        "id": "U34_08",
+        "unitId": 34,
+        "word": "Quần áo, trang phục",
+        "answers": [
+            "Clothing"
+        ],
+        "sentences": [
+            "We can wear casual clothing to work"
+        ],
+        "phrases": [
+            "Casual clothing / trang phục đời thường"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U34_09",
+        "unitId": 34,
+        "word": "Trưng bày",
+        "answers": [
+            "Display"
+        ],
+        "sentences": [
+            "We display furniture (đồ nội thất) in our store."
+        ],
+        "phrases": [
+            "Display something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U34_10",
+        "unitId": 34,
+        "word": "Hoàng gia",
+        "answers": [
+            "Royal"
+        ],
+        "sentences": [
+            "The royal family in Britain is well-known"
+        ],
+        "phrases": [
+            "The royal family / gia đình hoàng gia"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U34_11",
+        "unitId": 34,
+        "word": "Vấn đề",
+        "answers": [
+            "Problem"
+        ],
+        "sentences": [
+            "The team came across a serious problem"
+        ],
+        "phrases": [
+            "A serious problem"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U34_12",
+        "unitId": 34,
+        "word": "Phản cảm",
+        "answers": [
+            "Offensive"
+        ],
+        "sentences": [
+            "The show was offensive to certain people"
+        ],
+        "phrases": [
+            "To be offensive to someone / gây phản cảm cho ai đó"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U34_13",
+        "unitId": 34,
+        "word": "Quốc ca",
+        "answers": [
+            "Anthem"
+        ],
+        "sentences": [
+            "Can you sing our country's national anthem?"
+        ],
+        "phrases": [
+            "The national anthem"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U34_14",
+        "unitId": 34,
+        "word": "Điểm nổi bật",
+        "answers": [
+            "Highlight"
+        ],
+        "sentences": [
+            "The highlight of the trip was seeing the Taj Mahal."
+        ],
+        "phrases": [
+            "The highlight of something / điểm nhấn của cái gì đó"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U34_15",
+        "unitId": 34,
+        "word": "Mất dần đi, mai một",
+        "answers": [
+            "Die out"
+        ],
+        "sentences": [
+            "Many family traditions are dying out."
+        ],
+        "phrases": [
+            "Traditions die out  / truyền thống mai một dần"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U34_16",
+        "unitId": 34,
+        "word": "Cưới",
+        "answers": [
+            "Marry"
+        ],
+        "sentences": [
+            "I want to marry her because I love her"
+        ],
+        "phrases": [
+            "Marry somebody"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U34_17",
+        "unitId": 34,
+        "word": "Truyền lại",
+        "answers": [
+            "Pass down"
+        ],
+        "sentences": [
+            "My grandparents passes down family stories to us"
+        ],
+        "phrases": [
+            "Pass down something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U34_18",
+        "unitId": 34,
+        "word": "Tiệc",
+        "answers": [
+            "Party"
+        ],
+        "sentences": [
+            "You are invited to my birthday party."
+        ],
+        "phrases": [
+            "A birthday party"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U34_19",
+        "unitId": 34,
+        "word": "Nhẫn",
+        "answers": [
+            "Ring"
+        ],
+        "sentences": [
+            "He bought an expensive wedding ring."
+        ],
+        "phrases": [
+            "A wedding ring"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U34_20",
+        "unitId": 34,
+        "word": "Mặt nạ",
+        "answers": [
+            "Mask"
+        ],
+        "sentences": [
+            "You must breathe through the gas mask."
+        ],
+        "phrases": [
+            "A gas mask / mặt nạ phòng độc"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U34_21",
+        "unitId": 34,
+        "word": "Xã hội",
+        "answers": [
+            "Society"
+        ],
+        "sentences": [
+            "There are many problems in modern society"
+        ],
+        "phrases": [
+            "A modern society"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U34_22",
+        "unitId": 34,
+        "word": "Nghi lễ, buổi lễ",
+        "answers": [
+            "Ceremony"
+        ],
+        "sentences": [
+            "Our daughter's graduation ceremony is this Sunday"
+        ],
+        "phrases": [
+            "A graduation ceremony / buổi lể tốt nghiệp"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U34_23",
+        "unitId": 34,
+        "word": "Sự để tâm, sự kính trọng",
+        "answers": [
+            "Regard"
+        ],
+        "sentences": [
+            "He has no regard for my feelings. / Anh ta không để tâm cảm xúc của tôi chút nào"
+        ],
+        "phrases": [
+            "Has regard for somebody or something"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U34_24",
+        "unitId": 34,
+        "word": "Nến",
+        "answers": [
+            "Candle"
+        ],
+        "sentences": [
+            "Make a wish on the burning candle"
+        ],
+        "phrases": [
+            "A buring candle / ngon nến đang cháy"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U34_25",
+        "unitId": 34,
+        "word": "Cái chết",
+        "answers": [
+            "Death"
+        ],
+        "sentences": [
+            "The anniversary of our grandmother's death was yesterday"
+        ],
+        "phrases": [
+            "The anniversary of somebody's death"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U34_26",
+        "unitId": 34,
+        "word": "Nhiều",
+        "answers": [
+            "Various"
+        ],
+        "sentences": [
+            "Cakes come in various shapes and sizes"
+        ],
+        "phrases": [
+            "Various shapes and sizes"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U34_27",
+        "unitId": 34,
+        "word": "Cờ",
+        "answers": [
+            "Flag"
+        ],
+        "sentences": [
+            "Vietnam's flag has a big yellow star"
+        ],
+        "phrases": [
+            "A country's flag / lá cờ của một quốc gia"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U34_28",
+        "unitId": 34,
+        "word": "Sự khó khăn",
+        "answers": [
+            "Difficulty"
+        ],
+        "sentences": [
+            "Old people have difficulty in reading small work"
+        ],
+        "phrases": [
+            "Have difficulty in doing something"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U34_29",
+        "unitId": 34,
+        "word": "Nhỏ",
+        "answers": [
+            "Minor"
+        ],
+        "sentences": [
+            "The minor incident didn't hurt me."
+        ],
+        "phrases": [
+            "A minor incident"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U34_30",
+        "unitId": 34,
+        "word": "Đạo đức",
+        "answers": [
+            "Moral"
+        ],
+        "sentences": [
+            "To steal or not is a moral issue."
+        ],
+        "phrases": [
+            "A moral issues / vấn đề đạo đức"
+        ],
+        "verb": [
+            "Adj"
+        ]
     }
 ]
