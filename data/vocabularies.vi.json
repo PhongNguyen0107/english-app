@@ -16913,5 +16913,516 @@
         "verb": [
             "Adj"
         ]
+    },
+    {
+        "id": "U35_01",
+        "unitId": 35,
+        "word": "Kỷ niệm",
+        "answers": [
+            "Anniversary"
+        ],
+        "sentences": [
+            "We are celebrating our wedding anniversary"
+        ],
+        "phrases": [
+            "A wedding anniversary"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U35_02",
+        "unitId": 35,
+        "word": "Cuộc hôn nhân",
+        "answers": [
+            "Marriage"
+        ],
+        "sentences": [
+            "There are arranged marriages in india"
+        ],
+        "phrases": [
+            "An arranged marriage / hôn nhân sắp đặt"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U35_03",
+        "unitId": 35,
+        "word": "Lãng mạn",
+        "answers": [
+            "Romantic"
+        ],
+        "sentences": [
+            "The couple has a beautiful romantic story"
+        ],
+        "phrases": [
+            "A romantic story"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U35_04",
+        "unitId": 35,
+        "word": "Đỏ mặt",
+        "answers": [
+            "Blush"
+        ],
+        "sentences": [
+            "His action made me blush with embarrassment"
+        ],
+        "phrases": [
+            "Blush with embarrassment / đỏ mặt ngượng ngùng"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U35_05",
+        "unitId": 35,
+        "word": "Sự kết nối",
+        "answers": [
+            "Connection"
+        ],
+        "sentences": [
+            "The connection between them is strong"
+        ],
+        "phrases": [
+            "A connection between something or somebody"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U35_06",
+        "unitId": 35,
+        "word": "Ngay lập tức",
+        "answers": [
+            "Instantly"
+        ],
+        "sentences": [
+            "Her voice is instantly recognizable."
+        ],
+        "phrases": [
+            "Instantly recognizable."
+        ],
+        "verb": [
+            "Adv"
+        ]
+    },
+    {
+        "id": "U35_07",
+        "unitId": 35,
+        "word": "Rủ đi chơi",
+        "answers": [
+            "Ask out"
+        ],
+        "sentences": [
+            "Can I ask you out on a date?"
+        ],
+        "phrases": [
+            "Ask somebody out on a date / mời ai một buổi hẹn"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U35_08",
+        "unitId": 35,
+        "word": "Vững chắc",
+        "answers": [
+            "Steady"
+        ],
+        "sentences": [
+            "They try to maintain a steady relationship"
+        ],
+        "phrases": [
+            "Steady relationship / mối quan hệ vững chắc"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U35_09",
+        "unitId": 35,
+        "word": "Phải lòng",
+        "answers": [
+            "Fall for"
+        ],
+        "sentences": [
+            "Don't make me fall for you."
+        ],
+        "phrases": [
+            "Fall for somebody"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U35_10",
+        "unitId": 35,
+        "word": "Hấp dẫn, quyến rũ",
+        "answers": [
+            "Attractive"
+        ],
+        "sentences": [
+            "She is an attractive person."
+        ],
+        "phrases": [
+            "An attractive person / một người hấp dẫn"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U35_11",
+        "unitId": 35,
+        "word": "Rõ ràng",
+        "answers": [
+            "Obviously"
+        ],
+        "sentences": [
+            "Diet and exercise are obviously important."
+        ],
+        "phrases": [
+            "To be obviously important"
+        ],
+        "verb": [
+            "Adv"
+        ]
+    },
+    {
+        "id": "U35_12",
+        "unitId": 35,
+        "word": "Chia tay",
+        "answers": [
+            "Break up"
+        ],
+        "sentences": [
+            "She cries when the actor breaks up with his girlfriend"
+        ],
+        "phrases": [
+            "Break up with somebody"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U35_13",
+        "unitId": 35,
+        "word": "Liên hệ",
+        "answers": [
+            "Contact"
+        ],
+        "sentences": [
+            "We will contact you about the decision."
+        ],
+        "phrases": [
+            "Contact someone"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U35_14",
+        "unitId": 35,
+        "word": "Dịu dàng, nhẹ nhàng",
+        "answers": [
+            "Gentle"
+        ],
+        "sentences": [
+            "The singer has such a gentle voice."
+        ],
+        "phrases": [
+            "A gentle voice / một chất giọng nhẹ nhàng"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U35_15",
+        "unitId": 35,
+        "word": "Lời nối dối",
+        "answers": [
+            "Lie"
+        ],
+        "sentences": [
+            "I don't think it's okay to tell a white lie."
+        ],
+        "phrases": [
+            "A white lie / lời nói dối vô hại"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U35_16",
+        "unitId": 35,
+        "word": "Tình huống",
+        "answers": [
+            "Situation"
+        ],
+        "sentences": [
+            "I am facing a difficult situation now"
+        ],
+        "phrases": [
+            "A difficult situation"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U35_17",
+        "unitId": 35,
+        "word": "Lời bào chữa",
+        "answers": [
+            "Excuse"
+        ],
+        "sentences": [
+            "There is no excuse for arriving late."
+        ],
+        "phrases": [
+            "An excuse for doing something / một cái cớ để làm một cái gì đó"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U35_18",
+        "unitId": 35,
+        "word": "Thư",
+        "answers": [
+            "Letter"
+        ],
+        "sentences": [
+            "I am sending a letter of complaint soon."
+        ],
+        "phrases": [
+            "A letter of complaint / thư khiếu nại"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U35_19",
+        "unitId": 35,
+        "word": "Ý định",
+        "answers": [
+            "Intention"
+        ],
+        "sentences": [
+            "My intention of borrowing your car is to impress her"
+        ],
+        "phrases": [
+            "Intention of doing something"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U35_20",
+        "unitId": 35,
+        "word": "Tha thứ",
+        "answers": [
+            "Forgive"
+        ],
+        "sentences": [
+            "Would you ever forgive me?"
+        ],
+        "phrases": [
+            "Forgive somebody / tha thứ cho ai đó"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U35_21",
+        "unitId": 35,
+        "word": "Cô dâu",
+        "answers": [
+            "Bride"
+        ],
+        "sentences": [
+            "He introduces his new bride."
+        ],
+        "phrases": [
+            "A new bride / vợ mới cưới"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U35_22",
+        "unitId": 35,
+        "word": "Chú rể",
+        "answers": [
+            "Groom"
+        ],
+        "sentences": [
+            "Let us toast to the (nâng ly chúc mừng) bride and groom."
+        ],
+        "phrases": [
+            "The bride and groom / cô dâu chú rể"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U35_23",
+        "unitId": 35,
+        "word": "Hôn lễ",
+        "answers": [
+            "Wedding"
+        ],
+        "sentences": [
+            "Here is a wedding present for the bride."
+        ],
+        "phrases": [
+            "A wedding present / một món quà cưới"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U35_24",
+        "unitId": 35,
+        "word": "Cặp đôi",
+        "answers": [
+            "Couple"
+        ],
+        "sentences": [
+            "We are officially a married couple."
+        ],
+        "phrases": [
+            "A married couple / một cặp vợ chồng"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U35_25",
+        "unitId": 35,
+        "word": "Cảm xúc",
+        "answers": [
+            "Feeling"
+        ],
+        "sentences": [
+            "Losing (thất bại) gives me a feeling of sadness"
+        ],
+        "phrases": [
+            "A feeling of sadness / cảm giác buồn bã"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U35_26",
+        "unitId": 35,
+        "word": "Ấm áp, nồng nhiệt",
+        "answers": [
+            "Warm"
+        ],
+        "sentences": [
+            "The host extends a warm welcome to us."
+        ],
+        "phrases": [
+            "A warm welcome / một sự chào đón nồng nhiệt"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U35_27",
+        "unitId": 35,
+        "word": "Đối diện",
+        "answers": [
+            "Opposite"
+        ],
+        "sentences": [
+            "He sits opposite you in class."
+        ],
+        "phrases": [
+            "To be opposite something or someone"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U35_28",
+        "unitId": 35,
+        "word": "Kỳ cục",
+        "answers": [
+            "Weird"
+        ],
+        "sentences": [
+            "After lunch",
+            " my stomach had a weird feeling."
+        ],
+        "phrases": [
+            "A weird feeling / một cảm giác kỳ lạ"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U35_29",
+        "unitId": 35,
+        "word": "Sẵn sàng",
+        "answers": [
+            "Willing"
+        ],
+        "sentences": [
+            "Would you be willing to help me?"
+        ],
+        "phrases": [
+            "To be willing to do something"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U35_30",
+        "unitId": 35,
+        "word": "Khoảnh khắc",
+        "answers": [
+            "Moment"
+        ],
+        "sentences": [
+            "She glanced at me for a brief moment"
+        ],
+        "phrases": [
+            "A brief moment / một khoảnh khắc ngắn ngủi"
+        ],
+        "verb": [
+            "N"
+        ]
     }
 ]
