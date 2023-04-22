@@ -3,6 +3,7 @@ const fs = require("fs");
 const {v4: uuidv4} = require("uuid");
 const XLSX = require("xlsx");
 
+const SEPARATE_CHAR = "|"
 var {utils} = XLSX;
 const {sheet_to_json} = utils;
 
@@ -28,10 +29,10 @@ function getDataOfExcel() {
         if (cellInd === 0) word.id = cellData
         if (cellInd === 1) word.unitId = cellData
         if (cellInd === 2) word.word = capitalize(cellData);
-        if (cellInd === 3) word.answers = cellData.split(",").map(s => capitalize(s)) || []
-        if (cellInd === 4) word.sentences = cellData.split(",").map(s => capitalize(s)) || []
-        if (cellInd === 5) word.phrases = cellData.split(",").map(s => capitalize(s)) || []
-        if (cellInd === 6) word.verb = cellData.split(",").map(s => capitalize(s)) || []
+        if (cellInd === 3) word.answers = cellData.split(SEPARATE_CHAR).map(s => capitalize(s)) || []
+        if (cellInd === 4) word.sentences = cellData.split(SEPARATE_CHAR).map(s => capitalize(s)) || []
+        if (cellInd === 5) word.phrases = cellData.split(SEPARATE_CHAR).map(s => capitalize(s)) || []
+        if (cellInd === 6) word.verb = cellData.split(SEPARATE_CHAR).map(s => capitalize(s)) || []
       })
       words.push(word);
     }
@@ -65,9 +66,9 @@ function reformatting(words) {
   words.forEach(w => {
     rows.push({
       ...w,
-      answers: w.answers ? w.answers.join(",") : "",
-      sentences: w.sentences ? w.sentences.join(",") : "",
-      phrases: w.phrases ? w.phrases.join(",") : "",
+      answers: w.answers ? w.answers.join(SEPARATE_CHAR) : "",
+      sentences: w.sentences ? w.sentences.join(SEPARATE_CHAR) : "",
+      phrases: w.phrases ? w.phrases.join(SEPARATE_CHAR) : "",
     })
   })
   const ws = utils.json_to_sheet(rows)

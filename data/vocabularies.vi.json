@@ -262,8 +262,7 @@
             "Turn on"
         ],
         "sentences": [
-            "Could you turn on the light",
-            " please"
+            "Could you turn on the light, please"
         ],
         "phrases": [
             "Turn on the light"
@@ -297,8 +296,7 @@
             "Shut"
         ],
         "sentences": [
-            "Shut the door",
-            " please!"
+            "Shut the door, please!"
         ],
         "phrases": [
             "Shut the door"
@@ -502,8 +500,7 @@
             "Elevator"
         ],
         "sentences": [
-            "I always take the elevator",
-            " not the stairs"
+            "I always take the elevator, not the stairs"
         ],
         "phrases": [
             "Take the elevator"
@@ -1744,8 +1741,7 @@
             "Honor"
         ],
         "sentences": [
-            "Welcome",
-            " you are my guest of honor"
+            "Welcome, you are my guest of honor"
         ],
         "phrases": [
             "The guest of honor"
@@ -2422,9 +2418,7 @@
             "Athletics"
         ],
         "sentences": [
-            "Football",
-            " soccer",
-            " and baseball are types of atheletics"
+            "Football, soccer, and baseball are types of atheletics"
         ],
         "phrases": [
             "Types of athletics"
@@ -2662,8 +2656,7 @@
             "Surf"
         ],
         "sentences": [
-            "In hawaii",
-            " you must surf the waves"
+            "In hawaii, you must surf the waves"
         ],
         "phrases": [
             "Surf the wave"
@@ -2677,12 +2670,10 @@
             "Unfortunately"
         ],
         "sentences": [
-            "Unfortunately",
-            " I won't be able to attend the meeting"
+            "Unfortunately, I won't be able to attend the meeting"
         ],
         "phrases": [
-            "Unfortunately",
-            " I won't"
+            "Unfortunately, I won't"
         ]
     },
     {
@@ -3387,8 +3378,7 @@
             "Additional"
         ],
         "sentences": [
-            "If you need additional information",
-            " please contact me"
+            "If you need additional information, please contact me"
         ],
         "phrases": [
             "Additional information"
@@ -5394,8 +5384,7 @@
             "Example"
         ],
         "sentences": [
-            "Lemons",
-            " for example are sour fruits"
+            "Lemons, for example are sour fruits"
         ],
         "phrases": [
             "For example"
@@ -6943,8 +6932,7 @@
             "Chin"
         ],
         "sentences": [
-            "Don't worry",
-            " keep your chin up!"
+            "Don't worry, keep your chin up!"
         ],
         "phrases": [
             "Keep your chin up!"
@@ -6972,8 +6960,7 @@
             "Acne"
         ],
         "sentences": [
-            "He has big",
-            " red acne on his face"
+            "He has big, red acne on his face"
         ],
         "phrases": [
             "Have ance"
@@ -7483,8 +7470,7 @@
             "Message"
         ],
         "sentences": [
-            "Please send me a message",
-            " if you're interested"
+            "Please send me a message, if you're interested"
         ],
         "phrases": [
             "Send somebody a message"
@@ -9204,7 +9190,8 @@
             "You have the power to voice your opinion"
         ],
         "phrases": [
-            "Have power to do something | voice your opinion"
+            "Have power to do something ",
+            " voice your opinion"
         ],
         "verb": [
             "N"
@@ -9439,8 +9426,7 @@
             "Ordinary"
         ],
         "sentences": [
-            "We are just ordinary people",
-            " not supermen. "
+            "We are just ordinary people, not supermen. "
         ],
         "phrases": [
             "Ordinary people"
@@ -10154,8 +10140,7 @@
             "Corn"
         ],
         "sentences": [
-            "In america",
-            " you see many fields of corn"
+            "In america, you see many fields of corn"
         ],
         "phrases": [
             "Fields of corn"
@@ -11345,8 +11330,7 @@
             "Flu"
         ],
         "sentences": [
-            "I got the flu",
-            " so I stay home"
+            "I got the flu, so I stay home"
         ],
         "phrases": [
             "Get the flu"
@@ -11414,8 +11398,7 @@
             "Emergency"
         ],
         "sentences": [
-            "In an emergency",
-            " please call 115"
+            "In an emergency, please call 115"
         ],
         "phrases": [
             "In an emergency"
@@ -11483,8 +11466,7 @@
             "Surgenry"
         ],
         "sentences": [
-            "Don't worry",
-            " it is only a minor surgenry"
+            "Don't worry, it is only a minor surgenry"
         ],
         "phrases": [
             "Minor surgenry"
@@ -11586,8 +11568,7 @@
             "Pain"
         ],
         "sentences": [
-            "If you are in pain",
-            " don't move"
+            "If you are in pain, don't move"
         ],
         "phrases": [
             "In pain"
@@ -11706,10 +11687,7 @@
             "Nutrient"
         ],
         "sentences": [
-            "Essential nutrients include proteins",
-            " fát",
-            " vitamins",
-            " etc"
+            "Essential nutrients include proteins, fát, vitamins, etc"
         ],
         "phrases": [
             "Essential nutrients"
@@ -12049,8 +12027,7 @@
             "Wrist"
         ],
         "sentences": [
-            "I twist my wrist",
-            " and it hurts"
+            "I twist my wrist, and it hurts"
         ],
         "phrases": [
             "Twist one's wrist / trật cổ tay"
@@ -12750,8 +12727,7 @@
             "Crew members treat the passengers nicely"
         ],
         "phrases": [
-            "Crew members / thuyền viên",
-            " nhân viên phi hành đoàn"
+            "Crew members / thuyền viên, nhân viên phi hành đoàn"
         ],
         "verb": [
             "N"
@@ -13632,8 +13608,7 @@
             "Happen"
         ],
         "sentences": [
-            "Whatever happens",
-            " I will stay beside you"
+            "Whatever happens, I will stay beside you"
         ],
         "phrases": [
             "Whatever happen / dù thế nào đi nữa"
@@ -14602,8 +14577,7 @@
             "Separate"
         ],
         "sentences": [
-            "Boy",
-            " please separate from the girls"
+            "Boy, please separate from the girls"
         ],
         "phrases": [
             "Separate from sb or sth"
@@ -15997,8 +15971,7 @@
             "Manner"
         ],
         "sentences": [
-            "When eating",
-            " he has good manners"
+            "When eating, he has good manners"
         ],
         "phrases": [
             "Good manners / hành xử tốt"
@@ -16151,8 +16124,7 @@
             "Mixture"
         ],
         "sentences": [
-            "Next",
-            " we add a mixture of eggs and milk"
+            "Next, we add a mixture of eggs and milk"
         ],
         "phrases": [
             "Mixture of a and b"
@@ -16373,14 +16345,10 @@
             "Spirit"
         ],
         "sentences": [
-            "Do you think our body",
-            " mind",
-            " and spirit connect together?"
+            "Do you think our body, mind, and spirit connect together?"
         ],
         "phrases": [
-            "Body",
-            " mind and spirit / cơ thể",
-            " tâm trí và tinh thần"
+            "Body, mind and spirit / cơ thể, tâm trí và tinh thần"
         ],
         "verb": [
             "N"
@@ -16513,8 +16481,7 @@
             "Instead"
         ],
         "sentences": [
-            "Instead of doing homework",
-            " she watched TV"
+            "Instead of doing homework, she watched TV"
         ],
         "phrases": [
             "Instead of doing something"
@@ -17381,8 +17348,7 @@
             "Weird"
         ],
         "sentences": [
-            "After lunch",
-            " my stomach had a weird feeling."
+            "After lunch, my stomach had a weird feeling."
         ],
         "phrases": [
             "A weird feeling / một cảm giác kỳ lạ"
@@ -17420,6 +17386,516 @@
         ],
         "phrases": [
             "A brief moment / một khoảnh khắc ngắn ngủi"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U36_01",
+        "unitId": 36,
+        "word": "Chuyến bay",
+        "answers": [
+            "Flight"
+        ],
+        "sentences": [
+            "International flights are currently delayed."
+        ],
+        "phrases": [
+            "An international flight"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U36_02",
+        "unitId": 36,
+        "word": "Trả lại",
+        "answers": [
+            "Return"
+        ],
+        "sentences": [
+            "Please return the book to the library"
+        ],
+        "phrases": [
+            "Return something to somewhere"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U36_03",
+        "unitId": 36,
+        "word": "Cất cánh",
+        "answers": [
+            "Take off"
+        ],
+        "sentences": [
+            "The plane will take off soon"
+        ],
+        "phrases": [
+            "A plane takes off"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U36_04",
+        "unitId": 36,
+        "word": "Cổng",
+        "answers": [
+            "Gate"
+        ],
+        "sentences": [
+            "Please open the gate for my car."
+        ],
+        "phrases": [
+            "Open the gate"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U36_05",
+        "unitId": 36,
+        "word": "Nhập",
+        "answers": [
+            "Enter"
+        ],
+        "sentences": [
+            "Enter your password to log in."
+        ],
+        "phrases": [
+            "Enter a password"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U36_06",
+        "unitId": 36,
+        "word": "Xách tay",
+        "answers": [
+            "Carry-on"
+        ],
+        "sentences": [
+            "Carry-on luggage can be stored under the seat."
+        ],
+        "phrases": [
+            "Carry-on luggage / hành lý xách tay"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U36_07",
+        "unitId": 36,
+        "word": "Hành lý",
+        "answers": [
+            "Luggage"
+        ],
+        "sentences": [
+            "You can only bring 2 pieces of luggage."
+        ],
+        "phrases": [
+            "A piece of luggage / món hành lý"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U36_08",
+        "unitId": 36,
+        "word": "Khoảng cách",
+        "answers": [
+            "Distance"
+        ],
+        "sentences": [
+            "The long distance will make me tired."
+        ],
+        "phrases": [
+            "Long distance / khoảng cách xa"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U36_09",
+        "unitId": 36,
+        "word": "Sự đến",
+        "answers": [
+            "Arrival"
+        ],
+        "sentences": [
+            "Upon arrival, they checked in at the reception."
+        ],
+        "phrases": [
+            "On or upon arrival / khi đến nơi"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U36_10",
+        "unitId": 36,
+        "word": "Hành khách",
+        "answers": [
+            "Passenger"
+        ],
+        "sentences": [
+            "All passenger trains are currently full."
+        ],
+        "phrases": [
+            "A passenger train / tàu chở khách"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U36_11",
+        "unitId": 36,
+        "word": "Cảng",
+        "answers": [
+            "Port"
+        ],
+        "sentences": [
+            "We examine the goods (kiểm tra hàng hóa) at the port of entry."
+        ],
+        "phrases": [
+            "Port of entry / cảng nhập cảnh"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U36_12",
+        "unitId": 36,
+        "word": "Phà",
+        "answers": [
+            "Ferry"
+        ],
+        "sentences": [
+            "We take the ferry across the river every day."
+        ],
+        "phrases": [
+            "Take the ferry / đi phà"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U36_13",
+        "unitId": 36,
+        "word": "Tuyến đường",
+        "answers": [
+            "Route"
+        ],
+        "sentences": [
+            "The route to the hotel is dangerous."
+        ],
+        "phrases": [
+            "The route to somewhere"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U36_14",
+        "unitId": 36,
+        "word": "Thẳng",
+        "answers": [
+            "Direct"
+        ],
+        "sentences": [
+            "Flying from Hanoi to HCM city is a direct flight."
+        ],
+        "phrases": [
+            "A direct flight / chuyến bay thẳng"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U36_15",
+        "unitId": 36,
+        "word": "Tai nạn",
+        "answers": [
+            "Accident"
+        ],
+        "sentences": [
+            "That family had a tragic accidient last month."
+        ],
+        "phrases": [
+            "A tragic accident / tai nạn bi thảm"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U36_16",
+        "unitId": 36,
+        "word": "Tiếp tục",
+        "answers": [
+            "Continue"
+        ],
+        "sentences": [
+            "Continue reading on the next chapter"
+        ],
+        "phrases": [
+            "Continue doing something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U36_17",
+        "unitId": 36,
+        "word": "Dạo quanh",
+        "answers": [
+            "Get around"
+        ],
+        "sentences": [
+            "I need a car to get around town"
+        ],
+        "phrases": [
+            "Get around town / dạo quanh thị trấn"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U36_18",
+        "unitId": 36,
+        "word": "Nhà ga",
+        "answers": [
+            "Station"
+        ],
+        "sentences": [
+            "Please take me to the train station"
+        ],
+        "phrases": [
+            "The train station / nhà ga tàu hỏa"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U36_19",
+        "unitId": 36,
+        "word": "Động cơ",
+        "answers": [
+            "Engine"
+        ],
+        "sentences": [
+            "We cannot move because the car engine is broken."
+        ],
+        "phrases": [
+            "A car engine"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U36_20",
+        "unitId": 36,
+        "word": "Bánh xe",
+        "answers": [
+            "Wheel"
+        ],
+        "sentences": [
+            "Please have a spare wheel for your car"
+        ],
+        "phrases": [
+            "A spare wheel / một cái bánh xe dự phòng"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U36_21",
+        "unitId": 36,
+        "word": "Tốc độ",
+        "answers": [
+            "Speed"
+        ],
+        "sentences": [
+            "The athlete ran at the speed of light."
+        ],
+        "phrases": [
+            "The speed of light / tốc độ ánh sáng"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U36_22",
+        "unitId": 36,
+        "word": "Mũ bảo hiểm",
+        "answers": [
+            "Helmet"
+        ],
+        "sentences": [
+            "Wear a safety helmet to prevent accidents"
+        ],
+        "phrases": [
+            "A safety helmet / mũ bảo hiểm"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U36_23",
+        "unitId": 36,
+        "word": "Băng qua",
+        "answers": [
+            "Cross"
+        ],
+        "sentences": [
+            "I helped an elderly woman cross the street"
+        ],
+        "phrases": [
+            "Cross a street / sang đường"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U36_24",
+        "unitId": 36,
+        "word": "Nút giao thông",
+        "answers": [
+            "Intersection"
+        ],
+        "sentences": [
+            "There is traffic at the major intersection"
+        ],
+        "phrases": [
+            "A major intersection / Nút giao thông trọng yếu"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U36_25",
+        "unitId": 36,
+        "word": "Việc đỗ xe",
+        "answers": [
+            "Parking"
+        ],
+        "sentences": [
+            "She found a parking space for my car."
+        ],
+        "phrases": [
+            "A parking space / một chổ đậu xe"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U36_26",
+        "unitId": 36,
+        "word": "Đường quốc lộ",
+        "answers": [
+            "Highway"
+        ],
+        "sentences": [
+            "We are driving on the highway to Vinh"
+        ],
+        "phrases": [
+            "On the highway / trên đường quốc lộ"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U36_27",
+        "unitId": 36,
+        "word": "Hướng",
+        "answers": [
+            "Direction"
+        ],
+        "sentences": [
+            "The car is coming from the opposite direction"
+        ],
+        "phrases": [
+            "The opposite direction / hướng đối diện"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U36_28",
+        "unitId": 36,
+        "word": "Một chiều",
+        "answers": [
+            "One-way"
+        ],
+        "sentences": [
+            "The one-way traffic prevents us from turning around"
+        ],
+        "phrases": [
+            "One-way traffic / giao thông một chiều"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U36_29",
+        "unitId": 36,
+        "word": "Xe tải",
+        "answers": [
+            "Truck"
+        ],
+        "sentences": [
+            "Truck drivers need a special license"
+        ],
+        "phrases": [
+            "A truck driver / tài xế xe tải"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U36_30",
+        "unitId": 36,
+        "word": "Cái phanh",
+        "answers": [
+            "Brake"
+        ],
+        "sentences": [
+            "The brake pedal is broken"
+        ],
+        "phrases": [
+            "The brake pedal / bàn đạp phanh"
         ],
         "verb": [
             "N"
