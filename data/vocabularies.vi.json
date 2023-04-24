@@ -18410,5 +18410,515 @@
         "verb": [
             "Adj"
         ]
+    },
+    {
+        "id": "U38_01",
+        "unitId": 38,
+        "word": "Chuyển ra ngoài",
+        "answers": [
+            "Move out"
+        ],
+        "sentences": [
+            "My daughter is moving out of the house"
+        ],
+        "phrases": [
+            "Move out of somewhere / chuyển khỏi đâu ra ngoài sống"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U38_02",
+        "unitId": 38,
+        "word": "Sáng",
+        "answers": [
+            "Bright"
+        ],
+        "sentences": [
+            "She walked into a bright room."
+        ],
+        "phrases": [
+            "A bright room / một căn phòng sáng"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U38_03",
+        "unitId": 38,
+        "word": "Trần nhà",
+        "answers": [
+            "Ceiling"
+        ],
+        "sentences": [
+            "Your room has such a high ceiling"
+        ],
+        "phrases": [
+            "A high ceiling / trần nhà cao"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U38_04",
+        "unitId": 38,
+        "word": "Trong suốt",
+        "answers": [
+            "Transparent"
+        ],
+        "sentences": [
+            "That box is made of transparent plastic."
+        ],
+        "phrases": [
+            "Transparent plastic / nhựa trong suốt"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U38_05",
+        "unitId": 38,
+        "word": "Sân sau",
+        "answers": [
+            "Backyard"
+        ],
+        "sentences": [
+            "You are invited to our backyard barbecue."
+        ],
+        "phrases": [
+            "A backyard barbecue / một bữa tiệc nướng ở sân sau nhà"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U38_06",
+        "unitId": 38,
+        "word": "Bể, vũng",
+        "answers": [
+            "Pool"
+        ],
+        "sentences": [
+            "Our neighbor has a large swimming pool"
+        ],
+        "phrases": [
+            "Swimming pool / bể bơi"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U38_07",
+        "unitId": 38,
+        "word": "Sang trọng",
+        "answers": [
+            "Luxury"
+        ],
+        "sentences": [
+            "The billionaire lives a life of luxury"
+        ],
+        "phrases": [
+            "A life of luxury / một cuộc sống xa xỉ"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U38_08",
+        "unitId": 38,
+        "word": "Người chủ",
+        "answers": [
+            "Owner"
+        ],
+        "sentences": [
+            "Are you the rightful owner of this vehicle"
+        ],
+        "phrases": [
+            "A rightful owner / chủ sở hữu hợp pháp"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U38_09",
+        "unitId": 38,
+        "word": "Tắt đi",
+        "answers": [
+            "Turn off"
+        ],
+        "sentences": [
+            "Turn off the TV before going to bed"
+        ],
+        "phrases": [
+            "Turn off the TV"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U38_10",
+        "unitId": 38,
+        "word": "Khóa",
+        "answers": [
+            "Lock"
+        ],
+        "sentences": [
+            "Don't forget to lock the door"
+        ],
+        "phrases": [
+            "Lock the door"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U38_11",
+        "unitId": 38,
+        "word": "Căn hộ",
+        "answers": [
+            "Apartment"
+        ],
+        "sentences": [
+            "My parents live in a two-bedroom apartment."
+        ],
+        "phrases": [
+            "Two-bedroom apartment"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U38_12",
+        "unitId": 38,
+        "word": "Cổng vào",
+        "answers": [
+            "Entrance"
+        ],
+        "sentences": [
+            "Where is the entrance to your house?"
+        ],
+        "phrases": [
+            "An entrance to something"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U38_13",
+        "unitId": 38,
+        "word": "Đệm / Nệm",
+        "answers": [
+            "Mattress"
+        ],
+        "sentences": [
+            "I am used to sleeping on a hard mattress"
+        ],
+        "phrases": [
+            "A hard mattress / một tấm đệm cứng"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U38_14",
+        "unitId": 38,
+        "word": "Góc",
+        "answers": [
+            "Corner"
+        ],
+        "sentences": [
+            "The mouse is hiding in the corner"
+        ],
+        "phrases": [
+            "In the corner / trong góc"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U38_15",
+        "unitId": 38,
+        "word": "Nội thất",
+        "answers": [
+            "Furniture"
+        ],
+        "sentences": [
+            "We need new pieces of furniture."
+        ],
+        "phrases": [
+            "A piece of furniture / một món đồ nội thất"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U38_16",
+        "unitId": 38,
+        "word": "Kệ",
+        "answers": [
+            "Shelf"
+        ],
+        "sentences": [
+            "What can we store (đặt) on the empty shelf?"
+        ],
+        "phrases": [
+            "An empty shelf / cái kệ trống"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U38_17",
+        "unitId": 38,
+        "word": "Điện",
+        "answers": [
+            "Electricity"
+        ],
+        "sentences": [
+            "Leaving the lights on (cứ bật đèn để đó) is a waste of electricity."
+        ],
+        "phrases": [
+            "A waste of electricity / một sự lãng phí điện"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U38_18",
+        "unitId": 38,
+        "word": "Ống nước",
+        "answers": [
+            "Pipe"
+        ],
+        "sentences": [
+            "The repairman can fix the water pipe. "
+        ],
+        "phrases": [
+            "A water pipe / ống nước"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U38_19",
+        "unitId": 38,
+        "word": "Lỗ",
+        "answers": [
+            "Hole"
+        ],
+        "sentences": [
+            "The golf ball falls into a small hole"
+        ],
+        "phrases": [
+            "A small hole"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U38_20",
+        "unitId": 38,
+        "word": "Chuột",
+        "answers": [
+            "Mouse"
+        ],
+        "sentences": [
+            "There is a field mouse in the basket (rỗ)"
+        ],
+        "phrases": [
+            "A field mouse / một con chuột đồng"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U38_21",
+        "unitId": 38,
+        "word": "Chổ ngồi",
+        "answers": [
+            "Seat"
+        ],
+        "sentences": [
+            "You're here! Please take a seat"
+        ],
+        "phrases": [
+            "Take a seat / ngồi xuống"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U38_22",
+        "unitId": 38,
+        "word": "Cất đi",
+        "answers": [
+            "Put away"
+        ],
+        "sentences": [
+            "When you're done, put away the jar (cái lọ)"
+        ],
+        "phrases": [
+            "Put away something / cất một cái gì đó đi"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U38_23",
+        "unitId": 38,
+        "word": "Gọn gàng",
+        "answers": [
+            "Neat"
+        ],
+        "sentences": [
+            "Employees should keep a neat desk"
+        ],
+        "phrases": [
+            "A neat desk / bàn gọn gàng"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U38_24",
+        "unitId": 38,
+        "word": "Xà phòng",
+        "answers": [
+            "Soap"
+        ],
+        "sentences": [
+            "Kids love to blow soap bubbles"
+        ],
+        "phrases": [
+            "Soap bubles / bong bóng xà phòng"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U38_25",
+        "unitId": 38,
+        "word": "Giấy ăn",
+        "answers": [
+            "Tissue"
+        ],
+        "sentences": [
+            "I am sick. I need a box of tissue."
+        ],
+        "phrases": [
+            "A box of tissues"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U38_26",
+        "unitId": 38,
+        "word": "Trượt",
+        "answers": [
+            "Slide"
+        ],
+        "sentences": [
+            "It's fun to slide down the sand dunes (đồi cát)"
+        ],
+        "phrases": [
+            "Slide down something / trượt xuống từ một cái gì đó"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U38_27",
+        "unitId": 38,
+        "word": "Cất lại",
+        "answers": [
+            "Put back"
+        ],
+        "sentences": [
+            "Put it back to where it belongs (về đúng chỗ)"
+        ],
+        "phrases": [
+            "Put something back"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U38_28",
+        "unitId": 38,
+        "word": "Chảo",
+        "answers": [
+            "Pan"
+        ],
+        "sentences": [
+            "Use the frying pan to scramble eggs"
+        ],
+        "phrases": [
+            "Frying pan / chảo rán"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U38_29",
+        "unitId": 38,
+        "word": "Thùng rác",
+        "answers": [
+            "Bin"
+        ],
+        "sentences": [
+            "Please put the trash in the recycling bin"
+        ],
+        "phrases": [
+            "A recycling bin / thùng rác tái chế"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U38_30",
+        "unitId": 38,
+        "word": "Vứt đi",
+        "answers": [
+            "Throw away"
+        ],
+        "sentences": [
+            "Please don't throw away the leftovers (thức ăn thừa)"
+        ],
+        "phrases": [
+            "Throw away something"
+        ],
+        "verb": [
+            "V"
+        ]
     }
 ]
