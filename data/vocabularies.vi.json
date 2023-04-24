@@ -17900,5 +17900,515 @@
         "verb": [
             "N"
         ]
+    },
+    {
+        "id": "U37_01",
+        "unitId": 37,
+        "word": "Khu dân cư",
+        "answers": [
+            "Neighborhood"
+        ],
+        "sentences": [
+            "There are no burglars in the neighborhood"
+        ],
+        "phrases": [
+            "In the neighborhood / trong khu phố"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U37_02",
+        "unitId": 37,
+        "word": "Đi lang thang",
+        "answers": [
+            "Wander"
+        ],
+        "sentences": [
+            "I enjoy wandering around the city center"
+        ],
+        "phrases": [
+            "Wander around / đi lang thang xung quanh"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U37_03",
+        "unitId": 37,
+        "word": "Sân chơi",
+        "answers": [
+            "Playground"
+        ],
+        "sentences": [
+            "Students can play at the school playground"
+        ],
+        "phrases": [
+            "A school playground / sân trường"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U37_04",
+        "unitId": 37,
+        "word": "Nhịp",
+        "answers": [
+            "Pace"
+        ],
+        "sentences": [
+            "She is learning at a steady pace"
+        ],
+        "phrases": [
+            "At a steady pace / ở một nhịp độ ổn định"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U37_05",
+        "unitId": 37,
+        "word": "Người đi đường",
+        "answers": [
+            "Pedestrian"
+        ],
+        "sentences": [
+            "We can walk on the pedestrian crossing"
+        ],
+        "phrases": [
+            "A pedestrian crossing / vạch kẻ đường cho người đi bộ"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U37_06",
+        "unitId": 37,
+        "word": "Vỉa hè",
+        "answers": [
+            "Sidewalk"
+        ],
+        "sentences": [
+            "At night, the city has busy sidewalks"
+        ],
+        "phrases": [
+            "A busy sidewalk"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U37_07",
+        "unitId": 37,
+        "word": "Làn đường",
+        "answers": [
+            "Lane"
+        ],
+        "sentences": [
+            "We drove in the right traffic lane."
+        ],
+        "phrases": [
+            "A traffic lane / làn đường giao thông"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U37_08",
+        "unitId": 37,
+        "word": "Giao thông",
+        "answers": [
+            "Traffic"
+        ],
+        "sentences": [
+            "I want to avoid the rush-hour traffic"
+        ],
+        "phrases": [
+            "Rush-hour traffic / giao thông giờ cao điểm"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U37_09",
+        "unitId": 37,
+        "word": "Rạp chiếu",
+        "answers": [
+            "Theater"
+        ],
+        "sentences": [
+            "There is a movie theater around the corner"
+        ],
+        "phrases": [
+            "A movie theater"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U37_10",
+        "unitId": 37,
+        "word": "Cửa hàng sách",
+        "answers": [
+            "Bookstore"
+        ],
+        "sentences": [
+            "Nowadays, we buy from online bookstores."
+        ],
+        "phrases": [
+            "An online bookstore / hiệu sách trực tuyến"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U37_11",
+        "unitId": 37,
+        "word": "Tạp hóa",
+        "answers": [
+            "Grocery"
+        ],
+        "sentences": [
+            "Our grocery bill is too high"
+        ],
+        "phrases": [
+            "The grocery bill"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U37_12",
+        "unitId": 37,
+        "word": "Ngõ",
+        "answers": [
+            "Alley"
+        ],
+        "sentences": [
+            "My car cannot fit in the narrow alley"
+        ],
+        "phrases": [
+            "A narrow alley"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U37_13",
+        "unitId": 37,
+        "word": "Tòa nhà",
+        "answers": [
+            "Building"
+        ],
+        "sentences": [
+            "The mausoleum is a historic building"
+        ],
+        "phrases": [
+            "A historic building / công trình lịch sử"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U37_14",
+        "unitId": 37,
+        "word": "Xuống cấp",
+        "answers": [
+            "Run-down"
+        ],
+        "sentences": [
+            "We can fix this run-down building"
+        ],
+        "phrases": [
+            "A run-down building"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U37_15",
+        "unitId": 37,
+        "word": "Tượng trưng cho",
+        "answers": [
+            "Represent"
+        ],
+        "sentences": [
+            "Roses represent remance and love"
+        ],
+        "phrases": [
+            "Represent somebody or something / tượng trưng cho ai đó hoặc cái gì đó"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U37_16",
+        "unitId": 37,
+        "word": "Tháp",
+        "answers": [
+            "Tower"
+        ],
+        "sentences": [
+            "The eiffel tower is in Paris, France"
+        ],
+        "phrases": [
+            "The eiffel tower"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U37_17",
+        "unitId": 37,
+        "word": "Giao thông vận tải",
+        "answers": [
+            "Transportation"
+        ],
+        "sentences": [
+            "What is your means of transportation to work every day"
+        ],
+        "phrases": [
+            "Means of transportation / phương tiện giao thông"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U37_18",
+        "unitId": 37,
+        "word": "Dễ tiếp cận",
+        "answers": [
+            "Accessible"
+        ],
+        "sentences": [
+            "The library is accessible to everyone"
+        ],
+        "phrases": [
+            "Accessible to somebody / Ai đó có thể tiếp cận được"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U37_19",
+        "unitId": 37,
+        "word": "Cảnh sát",
+        "answers": [
+            "Police"
+        ],
+        "sentences": [
+            "There is a police car outside"
+        ],
+        "phrases": [
+            "A police car "
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U37_20",
+        "unitId": 37,
+        "word": "Dắt đi tham quan",
+        "answers": [
+            "Show around"
+        ],
+        "sentences": [
+            "I can show you around town sometime"
+        ],
+        "phrases": [
+            "Show somebody around town / dắt ai đi tham quan thị trấn"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U37_21",
+        "unitId": 37,
+        "word": "Tài sản",
+        "answers": [
+            "Property"
+        ],
+        "sentences": [
+            "This painting is government property"
+        ],
+        "phrases": [
+            "Government property / tài sản chính phủ"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U37_22",
+        "unitId": 37,
+        "word": "Đông đúc",
+        "answers": [
+            "Crowded"
+        ],
+        "sentences": [
+            "We avoid going to crowded areas on the weekend"
+        ],
+        "phrases": [
+            "Crowded areas"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U37_23",
+        "unitId": 37,
+        "word": "Tiếng ồn",
+        "answers": [
+            "Noise"
+        ],
+        "sentences": [
+            "Children tend to make noises"
+        ],
+        "phrases": [
+            "Make a noise"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U37_24",
+        "unitId": 37,
+        "word": "Chuyển vào",
+        "answers": [
+            "Move in"
+        ],
+        "sentences": [
+            "The family moved in a new apartment "
+        ],
+        "phrases": [
+            "Move in an apartment "
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U37_25",
+        "unitId": 37,
+        "word": "Trung tâm",
+        "answers": [
+            "Central"
+        ],
+        "sentences": [
+            "Let's meet at a central location"
+        ],
+        "phrases": [
+            "A central location"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U37_26",
+        "unitId": 37,
+        "word": "Chuỗi",
+        "answers": [
+            "Chain"
+        ],
+        "sentences": [
+            "A chain of events happened throughout tonight"
+        ],
+        "phrases": [
+            "A chain of events"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U37_27",
+        "unitId": 37,
+        "word": "Đa dạng",
+        "answers": [
+            "Diverse"
+        ],
+        "sentences": [
+            "Our country has a diverse culture"
+        ],
+        "phrases": [
+            "A diverse culture"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U37_28",
+        "unitId": 37,
+        "word": "Ngẫu nhiên",
+        "answers": [
+            "Random"
+        ],
+        "sentences": [
+            "We met on such a random occasion"
+        ],
+        "phrases": [
+            "A random accasion / một dịp ngẫu nhiên"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U37_29",
+        "unitId": 37,
+        "word": "Dày đặc",
+        "answers": [
+            "Dense"
+        ],
+        "sentences": [
+            "She can't pass through the dense crowd"
+        ],
+        "phrases": [
+            "A dense crowd"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U37_30",
+        "unitId": 37,
+        "word": "Dưới mặt đất",
+        "answers": [
+            "Underground"
+        ],
+        "sentences": [
+            "There is an underground basement here"
+        ],
+        "phrases": [
+            "An underground basement / một tầng hầm dưới mặt đất"
+        ],
+        "verb": [
+            "Adj"
+        ]
     }
 ]
