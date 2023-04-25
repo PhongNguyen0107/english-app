@@ -18920,5 +18920,515 @@
         "verb": [
             "V"
         ]
+    },
+    {
+        "id": "U39_01",
+        "unitId": 39,
+        "word": "Đáng yêu",
+        "answers": [
+            "Lovely"
+        ],
+        "sentences": [
+            "The singer has a lovely voice!"
+        ],
+        "phrases": [
+            "A lovely voice"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U39_02",
+        "unitId": 39,
+        "word": "Rực rỡ, sôi động",
+        "answers": [
+            "Vibrant"
+        ],
+        "sentences": [
+            "HCM City is a vibrant city in VN"
+        ],
+        "phrases": [
+            "A vibrant city / một thành phố sôi động"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U39_03",
+        "unitId": 39,
+        "word": "Hạt",
+        "answers": [
+            "Seed"
+        ],
+        "sentences": [
+            "Plant a seed to grow a tree"
+        ],
+        "phrases": [
+            "Plant a seed / gieo hạt giống"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U39_04",
+        "unitId": 39,
+        "word": "Đất",
+        "answers": [
+            "Soil"
+        ],
+        "sentences": [
+            "Flowers need fertile soil to grow well"
+        ],
+        "phrases": [
+            "Fertile soil / đất đai màu mỡ"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U39_05",
+        "unitId": 39,
+        "word": "Tài nguyên",
+        "answers": [
+            "Resource"
+        ],
+        "sentences": [
+            "Water is a natural resource to use"
+        ],
+        "phrases": [
+            "Natural resource / tài nguyên thiên nhiên"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U39_06",
+        "unitId": 39,
+        "word": "Môi trường",
+        "answers": [
+            "Environment"
+        ],
+        "sentences": [
+            "Animals need to live in a natural environment"
+        ],
+        "phrases": [
+            "A natural environment"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U39_07",
+        "unitId": 39,
+        "word": "Không khí",
+        "answers": [
+            "Atmosphere"
+        ],
+        "sentences": [
+            "The atmosphere of the room makes it hard to breathe"
+        ],
+        "phrases": [
+            "The atmosphere of / bầu không khí của"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U39_08",
+        "unitId": 39,
+        "word": "Cánh đồng",
+        "answers": [
+            "Field"
+        ],
+        "sentences": [
+            "Dalat has many fields of strawberries (dâu)"
+        ],
+        "phrases": [
+            "A field of something / cánh đồng trồng cái gì đó"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U39_09",
+        "unitId": 39,
+        "word": "Nhánh, cành",
+        "answers": [
+            "Branch"
+        ],
+        "sentences": [
+            "There is a bird on the tree branch"
+        ],
+        "phrases": [
+            "A tree branch / cành cây"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U39_10",
+        "unitId": 39,
+        "word": "Thu hoạch",
+        "answers": [
+            "Harvest"
+        ],
+        "sentences": [
+            "It's time to harvest the crops"
+        ],
+        "phrases": [
+            "Harvest the crops / thu hoạch cây trồng"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U39_11",
+        "unitId": 39,
+        "word": "Nông dân",
+        "answers": [
+            "Farmer"
+        ],
+        "sentences": [
+            "Local farmers in VN are hard workers"
+        ],
+        "phrases": [
+            "A local farmer / nông dân địa phương"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U39_12",
+        "unitId": 39,
+        "word": "Vùng thôn quê",
+        "answers": [
+            "Countryside"
+        ],
+        "sentences": [
+            "My grandparents live in the countryside"
+        ],
+        "phrases": [
+            "In the countryside / ở vùng nông thôn"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U39_13",
+        "unitId": 39,
+        "word": "Bùn",
+        "answers": [
+            "Mud"
+        ],
+        "sentences": [
+            "After playing, the boys are covered in mud"
+        ],
+        "phrases": [
+            "Covered in mud / dính đầy bùn"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U39_14",
+        "unitId": 39,
+        "word": "Gia súc",
+        "answers": [
+            "Livestock"
+        ],
+        "sentences": [
+            "Cows (Bò) are considered domestic livestock."
+        ],
+        "phrases": [
+            "Domestic livestock / gia súc chăn nuôi"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U39_15",
+        "unitId": 39,
+        "word": "Gia súc",
+        "answers": [
+            "Cattle"
+        ],
+        "sentences": [
+            "Herds of cattle are found in the countryside"
+        ],
+        "phrases": [
+            "A herd of cattle / đàn gia súc"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U39_16",
+        "unitId": 39,
+        "word": "Trâu",
+        "answers": [
+            "Buffalo"
+        ],
+        "sentences": [
+            "Buffalo meat is hard to chew on (rất dai)"
+        ],
+        "phrases": [
+            "Buffalo meat "
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U39_17",
+        "unitId": 39,
+        "word": "Đi tới",
+        "answers": [
+            "Head to"
+        ],
+        "sentences": [
+            "I will head to the bank tomorrow."
+        ],
+        "phrases": [
+            "Head to somewhere"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U39_18",
+        "unitId": 39,
+        "word": "Đồi",
+        "answers": [
+            "Hill"
+        ],
+        "sentences": [
+            "The house is on a hill"
+        ],
+        "phrases": [
+            "On a hill"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U39_19",
+        "unitId": 39,
+        "word": "Thung lũng",
+        "answers": [
+            "Valley"
+        ],
+        "sentences": [
+            "You can find many types of flowers in the valley."
+        ],
+        "phrases": [
+            "In the valley"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U39_20",
+        "unitId": 39,
+        "word": "Dòng nước",
+        "answers": [
+            "Stream"
+        ],
+        "sentences": [
+            "The waterfall is a strong stream of water"
+        ],
+        "phrases": [
+            "Stream of water / dòng nước"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U39_21",
+        "unitId": 39,
+        "word": "Thuộc nông thôn",
+        "answers": [
+            "Rural"
+        ],
+        "sentences": [
+            "Rural areas have fewer shopping malls"
+        ],
+        "phrases": [
+            "A rural area"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U39_22",
+        "unitId": 39,
+        "word": "Lối nhỏ, con đường",
+        "answers": [
+            "Path"
+        ],
+        "sentences": [
+            "Keep following the path until you reach the destination"
+        ],
+        "phrases": [
+            "Follow the path / lần theo con đường"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U39_23",
+        "unitId": 39,
+        "word": "Nhà ở vùng thôn quê",
+        "answers": [
+            "Cottage"
+        ],
+        "sentences": [
+            "She lives a peaceful life in a cozy cottage"
+        ],
+        "phrases": [
+            "A cozy cottage / một ngôi nhà nhỏ ấm cúng ở miền quê"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U39_24",
+        "unitId": 39,
+        "word": "Rừng",
+        "answers": [
+            "Forest"
+        ],
+        "sentences": [
+            "There are not many dense forests left."
+        ],
+        "phrases": [
+            "A dense forest / khu rừng rậm rạp"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U39_25",
+        "unitId": 39,
+        "word": "Vùng, khu vực",
+        "answers": [
+            "Zone"
+        ],
+        "sentences": [
+            "You cannot enter the danger zone"
+        ],
+        "phrases": [
+            "A danger zone"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U39_26",
+        "unitId": 39,
+        "word": "Thuộc nhiệt đới",
+        "answers": [
+            "Tropical"
+        ],
+        "sentences": [
+            "The mekong delta has many tropical fish"
+        ],
+        "phrases": [
+            "A tropical fish / loài cá vùng nhiệt đới"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U39_27",
+        "unitId": 39,
+        "word": "Nông nghiệp",
+        "answers": [
+            "Agriculture"
+        ],
+        "sentences": [
+            "Our country's strength is sustainable agriculture"
+        ],
+        "phrases": [
+            "Sustainable agriculture/ nông nghiệp bền vững"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U39_28",
+        "unitId": 39,
+        "word": "Bình yên",
+        "answers": [
+            "Peaceful"
+        ],
+        "sentences": [
+            "The garden is quiet and peaceful"
+        ],
+        "phrases": [
+            "Quiet and peaceful / yên tĩnh và bình yên"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U39_29",
+        "unitId": 39,
+        "word": "Kỳ Nghĩ",
+        "answers": [
+            "Vacation"
+        ],
+        "sentences": [
+            "I need to take a vacation to relax"
+        ],
+        "phrases": [
+            "Take a vacation / đi nghỉ mát"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U39_30",
+        "unitId": 39,
+        "word": "Côn trùng",
+        "answers": [
+            "Insect"
+        ],
+        "sentences": [
+            "Ants are an insect species"
+        ],
+        "phrases": [
+            "Insect species / loài côn trùng"
+        ],
+        "verb": [
+            "N"
+        ]
     }
 ]
