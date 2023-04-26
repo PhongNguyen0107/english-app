@@ -19430,5 +19430,515 @@
         "verb": [
             "N"
         ]
+    },
+    {
+        "id": "U40_01",
+        "unitId": 40,
+        "word": "Cánh",
+        "answers": [
+            "Wing"
+        ],
+        "sentences": [
+            "KFC is known for its (nổi tiếng với) chicken wings"
+        ],
+        "phrases": [
+            "Chicken wing"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U40_02",
+        "unitId": 40,
+        "word": "Chạm trán, gặp phải",
+        "answers": [
+            "Encounter"
+        ],
+        "sentences": [
+            "The detective(thám tử) encountered a hard case"
+        ],
+        "phrases": [
+            "Encounter somebody or something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U40_03",
+        "unitId": 40,
+        "word": "Sư tử",
+        "answers": [
+            "Lion"
+        ],
+        "sentences": [
+            "The lion cub follows its mother to learn hunting"
+        ],
+        "phrases": [
+            "Lion cub / sư tử con"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U40_04",
+        "unitId": 40,
+        "word": "Vương quốc",
+        "answers": [
+            "Kingdom"
+        ],
+        "sentences": [
+            "The kingdom of Portugal(Bồ Đào Nha) does not exist anymore"
+        ],
+        "phrases": [
+            "The kingdom of "
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U40_05",
+        "unitId": 40,
+        "word": "Khổng lồ",
+        "answers": [
+            "Giant"
+        ],
+        "sentences": [
+            "The aquarium(thủy cung) has a giant squid"
+        ],
+        "phrases": [
+            "A giant squid / một con mực khổng lồ"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U40_06",
+        "unitId": 40,
+        "word": "Hoang dã, hoang dại",
+        "answers": [
+            "Wild"
+        ],
+        "sentences": [
+            "Wild animals are hard to tame (thuần hóa)"
+        ],
+        "phrases": [
+            "Wild animals / động vật hoang dã"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U40_07",
+        "unitId": 40,
+        "word": "Kẻ thù",
+        "answers": [
+            "Enemy"
+        ],
+        "sentences": [
+            "She is my sworn enemy"
+        ],
+        "phrases": [
+            "Somebody's sworn enemy / kẻ thù không đội trời chung"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U40_08",
+        "unitId": 40,
+        "word": "Săn",
+        "answers": [
+            "Hunt"
+        ],
+        "sentences": [
+            "People in that tribe(bộ tộc) hunt for deer (hươu)"
+        ],
+        "phrases": [
+            "Hunt for something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U40_09",
+        "unitId": 40,
+        "word": "Lồng, chuồng",
+        "answers": [
+            "Cage"
+        ],
+        "sentences": [
+            "He doesn't want to keep the dog in a cage."
+        ],
+        "phrases": [
+            "Keep something in a cage"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U40_10",
+        "unitId": 40,
+        "word": "Rộng rãi",
+        "answers": [
+            "Spacious"
+        ],
+        "sentences": [
+            "The spacious room allowed us to dance"
+        ],
+        "phrases": [
+            "A spacious room"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U40_11",
+        "unitId": 40,
+        "word": "Con dê",
+        "answers": [
+            "Goat"
+        ],
+        "sentences": [
+            "There are no mountain goats here"
+        ],
+        "phrases": [
+            "A mountain goat / dê núi"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U40_12",
+        "unitId": 40,
+        "word": "Gãi, cào",
+        "answers": [
+            "Scratch"
+        ],
+        "sentences": [
+            "The cat scratched my face"
+        ],
+        "phrases": [
+            "Scratch something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U40_13",
+        "unitId": 40,
+        "word": "Chủng, giống",
+        "answers": [
+            "Breed"
+        ],
+        "sentences": [
+            "The farm has many breeds of sheep"
+        ],
+        "phrases": [
+            "A breed of sheep / giống cừu"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U40_14",
+        "unitId": 40,
+        "word": "Lông",
+        "answers": [
+            "Fur"
+        ],
+        "sentences": [
+            "I wear a fur coat because the weather is cold"
+        ],
+        "phrases": [
+            "A fur coat / áo khoác lông thú"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U40_15",
+        "unitId": 40,
+        "word": "Thô cứng",
+        "answers": [
+            "Rough"
+        ],
+        "sentences": [
+            "My father is used (đã quen) to driving on rough roads"
+        ],
+        "phrases": [
+            "Rough roads / những con đường gồ ghề"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U40_16",
+        "unitId": 40,
+        "word": "Thông minh",
+        "answers": [
+            "Intelligent"
+        ],
+        "sentences": [
+            "He student are highly intelligent"
+        ],
+        "phrases": [
+            "Highly intelligent / cực kỳ thông minh"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U40_17",
+        "unitId": 40,
+        "word": "Môi trường sống",
+        "answers": [
+            "Habitat"
+        ],
+        "sentences": [
+            "The jungle (rừng già) is the monkey's natural habitat"
+        ],
+        "phrases": [
+            "Natural habitat / môi trường sống tự  nhiên"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U40_18",
+        "unitId": 40,
+        "word": "Cỏ",
+        "answers": [
+            "Grass"
+        ],
+        "sentences": [
+            "Laying on (nằm trên) a field of grass is nice"
+        ],
+        "phrases": [
+            "A field of grass"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U40_19",
+        "unitId": 40,
+        "word": "Bẩn",
+        "answers": [
+            "Dirty"
+        ],
+        "sentences": [
+            "I have dirty hands after painting"
+        ],
+        "phrases": [
+            "Dirty hands / tay bẩn"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U40_20",
+        "unitId": 40,
+        "word": "Dọn dẹp",
+        "answers": [
+            "Clean up"
+        ],
+        "sentences": [
+            "Clean this place up before he arrives"
+        ],
+        "phrases": [
+            "Clean something up"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U40_21",
+        "unitId": 40,
+        "word": "Nhận nuôi",
+        "answers": [
+            "Adopt"
+        ],
+        "sentences": [
+            "They are going to adopt a child"
+        ],
+        "phrases": [
+            "Adopt somebody / nhận nuôi một ai đó"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U40_22",
+        "unitId": 40,
+        "word": "Thú nuôi",
+        "answers": [
+            "Pet"
+        ],
+        "sentences": [
+            "Our family pet is a parrot (con vẹt)"
+        ],
+        "phrases": [
+            "A family pet / thú nuôi trong gia đình"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U40_23",
+        "unitId": 40,
+        "word": "Sinh học",
+        "answers": [
+            "Biology"
+        ],
+        "sentences": [
+            "I graduated with a degree in biology"
+        ],
+        "phrases": [
+            "A degree in biology / một tấm bằng ngành sinh học"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U40_24",
+        "unitId": 40,
+        "word": "Tận hưởng, yêu thích",
+        "answers": [
+            "Enjoy"
+        ],
+        "sentences": [
+            "Hope you enjoy the movie"
+        ],
+        "phrases": [
+            "Enjoy something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U40_25",
+        "unitId": 40,
+        "word": "Đua",
+        "answers": [
+            "Race"
+        ],
+        "sentences": [
+            "Five horses will race against each other in the Grand Finale (vòng chung kết)"
+        ],
+        "phrases": [
+            "Race against / đua với"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U40_26",
+        "unitId": 40,
+        "word": "Yên lặng, trật tự",
+        "answers": [
+            "Silent"
+        ],
+        "sentences": [
+            "You must keep silent as everyone is asleep (đang ngủ)"
+        ],
+        "phrases": [
+            "Keep silent"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U40_27",
+        "unitId": 40,
+        "word": "Điều chỉnh",
+        "answers": [
+            "Adjust"
+        ],
+        "sentences": [
+            "Can you adjust the seat belt for me?"
+        ],
+        "phrases": [
+            "Adjust something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U40_28",
+        "unitId": 40,
+        "word": "Đói",
+        "answers": [
+            "Hungry"
+        ],
+        "sentences": [
+            "He gives the hungry crowd enough bread and fish"
+        ],
+        "phrases": [
+            "A hungry crowd / một đám người đang đói"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U40_29",
+        "unitId": 40,
+        "word": "Cho ăn",
+        "answers": [
+            "Feed"
+        ],
+        "sentences": [
+            "My mother is feeding the baby"
+        ],
+        "phrases": [
+            "Feed somebody"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U40_30",
+        "unitId": 40,
+        "word": "Hết sạch",
+        "answers": [
+            "Run out of"
+        ],
+        "sentences": [
+            "We ran out of milk"
+        ],
+        "phrases": [
+            "Run out of something"
+        ],
+        "verb": [
+            "V"
+        ]
     }
 ]
