@@ -19940,5 +19940,515 @@
         "verb": [
             "V"
         ]
+    },
+    {
+        "id": "U41_01",
+        "unitId": 41,
+        "word": "Nhiều mây",
+        "answers": [
+            "Cloudy"
+        ],
+        "sentences": [
+            "We are having a cloudy day today."
+        ],
+        "phrases": [
+            "Cloudy day / ngày nhiều mây"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U41_02",
+        "unitId": 41,
+        "word": "Làm bừng sáng",
+        "answers": [
+            "Brighten up"
+        ],
+        "sentences": [
+            "Your smile brightens up my day"
+        ],
+        "phrases": [
+            "Brighten up somebody's day / làm bừng sáng một ngày của ai đó"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U41_03",
+        "unitId": 41,
+        "word": "Dự báo",
+        "answers": [
+            "Predict"
+        ],
+        "sentences": [
+            "No one can predict the future"
+        ],
+        "phrases": [
+            "Predict the future / dự đoán trước tương lai"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U41_04",
+        "unitId": 41,
+        "word": "Chính xác",
+        "answers": [
+            "Accurate"
+        ],
+        "sentences": [
+            "Was what you said accurate information?"
+        ],
+        "phrases": [
+            "Accurate information"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U41_05",
+        "unitId": 41,
+        "word": "Ôn hòa",
+        "answers": [
+            "Mild"
+        ],
+        "sentences": [
+            "Dalat has such as mild climate"
+        ],
+        "phrases": [
+            "A mild climate / khí hậu ôn hòa"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U41_06",
+        "unitId": 41,
+        "word": "Bão",
+        "answers": [
+            "Storm"
+        ],
+        "sentences": [
+            "A tropical storm swept through the village."
+        ],
+        "phrases": [
+            "A tropical storm "
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U41_07",
+        "unitId": 41,
+        "word": "Mưa nặng hạt",
+        "answers": [
+            "Pour down"
+        ],
+        "sentences": [
+            "Suddenly, the rain pours down"
+        ],
+        "phrases": [
+            "Rain pours down / mưa rơi tầm tã"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U41_08",
+        "unitId": 41,
+        "word": "Chớp",
+        "answers": [
+            "Lightning"
+        ],
+        "sentences": [
+            "A bolt of lightning struck down the house"
+        ],
+        "phrases": [
+            "A bolt of lightning / một tia sét"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U41_09",
+        "unitId": 41,
+        "word": "Sấm",
+        "answers": [
+            "Thunder"
+        ],
+        "sentences": [
+            "They suddenly heard a clap of thunder"
+        ],
+        "phrases": [
+            "A clap of thunder / một tiếng sấm"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U41_10",
+        "unitId": 41,
+        "word": "Sườn, dốc",
+        "answers": [
+            "Slope"
+        ],
+        "sentences": [
+            "We slid down the hill on a slope / Chúng tôi trượt xuống sườn đồi trên một con dốc"
+        ],
+        "phrases": [
+            "On a slope / trên một dốc"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U41_11",
+        "unitId": 41,
+        "word": "Nhiều nắng",
+        "answers": [
+            "Sunny"
+        ],
+        "sentences": [
+            "Let's not waste this sunny day / đừng lãng phí một ngày đầy nắng như thế này."
+        ],
+        "phrases": [
+            "A sunny day"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U41_12",
+        "unitId": 41,
+        "word": "Mùa xuân",
+        "answers": [
+            "Spring"
+        ],
+        "sentences": [
+            "Families do spring cleaning before Te holiday."
+        ],
+        "phrases": [
+            "Spring cleaning / tổng vệ sinh đầu xuân"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U41_13",
+        "unitId": 41,
+        "word": "Bất thường",
+        "answers": [
+            "Unusual"
+        ],
+        "sentences": [
+            "She behaved in a highly unusual manner"
+        ],
+        "phrases": [
+            "Highly unusual / rất bất thường"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U41_14",
+        "unitId": 41,
+        "word": "Nơi trú ẩn",
+        "answers": [
+            "Shelter"
+        ],
+        "sentences": [
+            "You can volunteer at the homeless shelter"
+        ],
+        "phrases": [
+            "A homeless shelter / chỗ ở cho người vô gia cư"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U41_15",
+        "unitId": 41,
+        "word": "Mùa",
+        "answers": [
+            "Season"
+        ],
+        "sentences": [
+            "It's growing season for berries (quả mọng)"
+        ],
+        "phrases": [
+            "Growing season / mùa gieo trồng"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U41_16",
+        "unitId": 41,
+        "word": "Sa mạc",
+        "answers": [
+            "Desert"
+        ],
+        "sentences": [
+            "It is hot like the sahara desert"
+        ],
+        "phrases": [
+            "The Sahara Desert / sa mạc Sahara"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U41_17",
+        "unitId": 41,
+        "word": "Mùa thu",
+        "answers": [
+            "Fall"
+        ],
+        "sentences": [
+            "Fall weather feels cooler than summer weather"
+        ],
+        "phrases": [
+            "Fall weather"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U41_18",
+        "unitId": 41,
+        "word": "Cảnh",
+        "answers": [
+            "Sight"
+        ],
+        "sentences": [
+            "A traffic jam is a common sight in big cities"
+        ],
+        "phrases": [
+            "Common sight / cảnh thường thấy"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U41_19",
+        "unitId": 41,
+        "word": "Địa lý",
+        "answers": [
+            "Geography"
+        ],
+        "sentences": [
+            "A degree in geography helps you understand the Earth"
+        ],
+        "phrases": [
+            "A degree in geography / một tấm bằng ngành địa lý"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U41_20",
+        "unitId": 41,
+        "word": "Nghiêm trọng, dữ dội",
+        "answers": [
+            "Severe"
+        ],
+        "sentences": [
+            "I took a pull for my severe headache"
+        ],
+        "phrases": [
+            "A severe headache / một cơn đau đầu dữ dội"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U41_21",
+        "unitId": 41,
+        "word": "Động đất",
+        "answers": [
+            "Earthquake"
+        ],
+        "sentences": [
+            "Volcanoes can cause a powerful earthquake."
+        ],
+        "phrases": [
+            "Powerful earthquake / trận động đất mạnh"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U41_22",
+        "unitId": 41,
+        "word": "Mặt đất",
+        "answers": [
+            "Ground"
+        ],
+        "sentences": [
+            "The ball is on the ground"
+        ],
+        "phrases": [
+            "On the ground"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U41_23",
+        "unitId": 41,
+        "word": "Trái đất",
+        "answers": [
+            "Earth"
+        ],
+        "sentences": [
+            "The earth is round"
+        ],
+        "phrases": [
+            "The earth"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U41_24",
+        "unitId": 41,
+        "word": "Tai họa",
+        "answers": [
+            "Disaster"
+        ],
+        "sentences": [
+            "The flood was a natural disaster"
+        ],
+        "phrases": [
+            "A natural disaster / thiên tai"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U41_25",
+        "unitId": 41,
+        "word": "Sóng",
+        "answers": [
+            "Wave"
+        ],
+        "sentences": [
+            "Surfers love to ride the wave"
+        ],
+        "phrases": [
+            "Ride the wave / cưỡi sóng"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U41_26",
+        "unitId": 41,
+        "word": "Bờ biển",
+        "answers": [
+            "Coast"
+        ],
+        "sentences": [
+            "I have a house on the coast"
+        ],
+        "phrases": [
+            "On the coast / trên bờ biển"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U41_27",
+        "unitId": 41,
+        "word": "Đóng băng",
+        "answers": [
+            "Freeze"
+        ],
+        "sentences": [
+            "You can freeze fruits to make smoothies later"
+        ],
+        "phrases": [
+            "Freeze something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U41_28",
+        "unitId": 41,
+        "word": "Hồ",
+        "answers": [
+            "Lake"
+        ],
+        "sentences": [
+            "The campfire is by the lake"
+        ],
+        "phrases": [
+            "By the lake / Bên hồ"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U41_29",
+        "unitId": 41,
+        "word": "Phá hủy",
+        "answers": [
+            "Destroy"
+        ],
+        "sentences": [
+            "My niece (cháu gái) destroyed my toys"
+        ],
+        "phrases": [
+            "Destroy something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U41_30",
+        "unitId": 41,
+        "word": "Vụ mùa",
+        "answers": [
+            "Crop"
+        ],
+        "sentences": [
+            "We are short of food crops"
+        ],
+        "phrases": [
+            "Food crop / cây lương thực"
+        ],
+        "verb": [
+            "N"
+        ]
     }
 ]
