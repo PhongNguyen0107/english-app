@@ -17,3 +17,11 @@ export type WordReviewPropType = {
   sentences?: string[];
   verb?: string[];
 }
+
+export type SentenceType = {
+  id: string | number;
+  en: string;
+  vi: string;
+  origin?: string;
+  image?: string;
+}

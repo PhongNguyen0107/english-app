@@ -7,7 +7,9 @@ export const ROUTE_NAME = {
   HOME: 'home',
   WORDS: 'words',
   LEARNING: 'learning',
+  SIGN_IN: 'sign-in',
   REVIEW: 'review',
+  SENTENCES: 'sentences',
   SETTINGS: 'settings'
 }
 
