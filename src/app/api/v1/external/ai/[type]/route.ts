@@ -31,6 +31,15 @@ export async function POST(request: Request, {params}: any) {
       endpoint = OPEN_AI_ENDPOINT_API.IMAGES_GENERATIONS
       break;
 
+    case "grammar":
+      endpoint = OPEN_AI_ENDPOINT_API.CHAT_COMPLETIONS
+      const grammarPrompt = `Please provide me with common sentence patterns (add a Vietnamese translation below each sentence), the grammars that exist in the following passage: "${body.en}".`
+      const respGrammar = await callApiOpenAI(openAIHost + endpoint, "POST", getPayloadGenerate(grammarPrompt))
+      logger.info("OpenAI Grammar response: with status %s", respGrammar.status)
+      response.grammar = get(respGrammar, "data.choices[0].message.content", null)
+      response.status = 200;
+      break
+
     case "practices":
       endpoint = OPEN_AI_ENDPOINT_API.CHAT_COMPLETIONS
       const respEn = await callApiOpenAI(openAIHost + endpoint, "POST", getPayloadGenerate(getPromptByConfigs(body)))
@@ -41,12 +50,6 @@ export async function POST(request: Request, {params}: any) {
       const respVi = await callApiOpenAI(openAIHost + endpoint, "POST", getPayloadGenerate(viPrompt))
       logger.info("OpenAI VI response: with status %s", respVi.status)
       response.vi = get(respVi, "data.choices[0].message.content", null)
-
-      const grammarPrompt = `Please provide me with common sentence patterns (add a Vietnamese translation below each sentence), the grammars that exist in the following passage: "${response.en}".`
-      const respGrammar = await callApiOpenAI(openAIHost + endpoint, "POST", getPayloadGenerate(grammarPrompt))
-      logger.info("OpenAI Grammar response: with status %s", respGrammar.status)
-      response.grammar = get(respGrammar, "data.choices[0].message.content", null)
-
 
       response.status = 200;
 

@@ -5,7 +5,11 @@ import {useQuery} from "react-query";
 import MenuBar from "@/components/MenuBar";
 import {WordReviewPropType, WordType} from "@/services/AppInterface";
 import {useSetState} from "ahooks";
-import {getListOfWordRandomBySize, getOutcomesToPractice} from "@/services/Practices.service";
+import {
+  getListOfWordRandomBySize,
+  getOutcomesGrammarToPractice,
+  getOutcomesToPractice
+} from "@/services/Practices.service";
 import {getWordReview} from "@/services/Review.service";
 import {QUERY_CONFIG} from "@/configuration/Application.config";
 import type {CustomTagProps} from 'rc-select/lib/BaseSelect';
@@ -82,7 +86,17 @@ const PracticesPage = () => {
       words: state.listOfWords.map((x) => x.answers[0])
     })
       .then(resp => {
-        if (resp.status === 200) return setState({outcomes: resp.data})
+        if (resp.status === 200) {
+          setState({isLoad: true})
+          getOutcomesGrammarToPractice({
+            genreOfOutput: state.genreOfOutput,
+            words: state.listOfWords.map((x) => x.answers[0]),
+            en: resp.data.en
+          }).then(r => {
+            if (r.status === 200) return setState({outcomes: {...state.outcomes, grammar: r.data.grammar}})
+          }).finally(() => setState({isLoad: false}))
+          return setState({outcomes: resp.data})
+        }
       })
       .finally(() => setState({isLoad: false}))
   }
@@ -200,7 +214,7 @@ const PracticesPage = () => {
             </Col>
           )}
 
-          {state.outcomes && (
+          {state.outcomes?.en && (
             <Col xs={24} xl={12}>
               <Card style={{height: "100%"}}>
                 {/*@ts-ignore*/}
@@ -215,7 +229,7 @@ const PracticesPage = () => {
             </Col>
           )}
 
-          {state.outcomes && (
+          {state.outcomes?.vi && (
             <Col xs={24} xl={12}>
               <Card style={{height: "100%"}}>
                 {/*@ts-ignore*/}
@@ -230,7 +244,7 @@ const PracticesPage = () => {
             </Col>
           )}
 
-          {state.outcomes && (
+          {state.outcomes?.grammar && (
             <Col xs={24}>
               <Card>
                 {/*@ts-ignore*/}

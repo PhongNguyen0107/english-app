@@ -29,6 +29,9 @@ export type SentenceType = {
 
 export type PracticeConfigPayloadType = {
   prompt?: string;
+  en?: string;
+  vi?: string;
+  grammar?: string;
   words: string[];
   genreOfOutput: string;
 }

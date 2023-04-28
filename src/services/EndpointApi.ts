@@ -7,7 +7,8 @@ export const ENDPOINT_API = {
   WORD_BY_ID: "words/:id",
   SAVE_WORD_BY_UID: "words/save/:userId",
 
-  OUTCOME_PRACTICES: "external/ai/practices"
+  OUTCOME_PRACTICES: "external/ai/practices",
+  GET_GRAMMAR_PRACTICES_BY_EN: "external/ai/grammar"
 }
 
 
