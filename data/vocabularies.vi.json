@@ -20450,5 +20450,515 @@
         "verb": [
             "N"
         ]
+    },
+    {
+        "id": "U42_01",
+        "unitId": 42,
+        "word": "Tai nghe",
+        "answers": [
+            "Headphones"
+        ],
+        "sentences": [
+            "Use a set of headphones to listen clearly"
+        ],
+        "phrases": [
+            "Set of headphones / bộ tai nghe"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U42_02",
+        "unitId": 42,
+        "word": "Cổ điển",
+        "answers": [
+            "Classical"
+        ],
+        "sentences": [
+            "The classical concert is at the HaNoi Opera House"
+        ],
+        "phrases": [
+            "A classical concert / buổi hòa nhạc cổ điển"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U42_03",
+        "unitId": 42,
+        "word": "Nhạc cụ",
+        "answers": [
+            "Instrument"
+        ],
+        "sentences": [
+            "Can you play any instrument?"
+        ],
+        "phrases": [
+            "Play an instrument"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U42_04",
+        "unitId": 42,
+        "word": "Cuộc thi",
+        "answers": [
+            "Contest"
+        ],
+        "sentences": [
+            "The contest between Jack and Jill is exciting."
+        ],
+        "phrases": [
+            "Contest between A and B"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U42_05",
+        "unitId": 42,
+        "word": "Sáo",
+        "answers": [
+            "Flute"
+        ],
+        "sentences": [
+            "I am learning to play the flute"
+        ],
+        "phrases": [
+            "Play the flute"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U42_06",
+        "unitId": 42,
+        "word": "Nhạc sĩ, nhạc công",
+        "answers": [
+            "Musicican"
+        ],
+        "sentences": [
+            "Professional musicians have to train very hard."
+        ],
+        "phrases": [
+            "A professional musician / nhạc công chuyên nghiệp"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U42_07",
+        "unitId": 42,
+        "word": "Thu âm",
+        "answers": [
+            "Record"
+        ],
+        "sentences": [
+            "Come to the studio to record music"
+        ],
+        "phrases": [
+            "Record something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U42_08",
+        "unitId": 42,
+        "word": "Hát theo",
+        "answers": [
+            "Sing along"
+        ],
+        "sentences": [
+            "If you know this song, please sing along with us"
+        ],
+        "phrases": [
+            "Sing along with somebody"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U42_09",
+        "unitId": 42,
+        "word": "Bảng sếp hạng, bảng biểu",
+        "answers": [
+            "Chart"
+        ],
+        "sentences": [
+            "This song is number one in music charts these days"
+        ],
+        "phrases": [
+            "The music charts / bảng sếp hạng âm nhạc"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U42_10",
+        "unitId": 42,
+        "word": "Tông giọng",
+        "answers": [
+            "Tone"
+        ],
+        "sentences": [
+            "You can guess her feelings through the tone of her voice"
+        ],
+        "phrases": [
+            "Tone of one's voice / tông giọng của một người"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U42_11",
+        "unitId": 42,
+        "word": "Giai điệu",
+        "answers": [
+            "Tune"
+        ],
+        "sentences": [
+            "I can dance to the tune of any song."
+        ],
+        "phrases": [
+            "To the tune of something / theo giai điệu của một cái gì đó"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U42_12",
+        "unitId": 42,
+        "word": "Buổi triển lãm",
+        "answers": [
+            "Exhibition"
+        ],
+        "sentences": [
+            "This is an exhibition of children's paintings."
+        ],
+        "phrases": [
+            "An exhibition of something"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U42_13",
+        "unitId": 42,
+        "word": "Nghệ sĩ",
+        "answers": [
+            "Artist"
+        ],
+        "sentences": [
+            "She works as a solo artist"
+        ],
+        "phrases": [
+            "A solo artist / nghệ sĩ độc tấu"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U42_14",
+        "unitId": 42,
+        "word": "Họa sĩ",
+        "answers": [
+            "Painter"
+        ],
+        "sentences": [
+            "Landscape painters paint natural scenery (vẽ cảnh quan thiên nhiên)"
+        ],
+        "phrases": [
+            "A landscape painter / họa sĩ tranh phong cảnh"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U42_15",
+        "unitId": 42,
+        "word": "Tác phẩm điêu khắc",
+        "answers": [
+            "Sculpture"
+        ],
+        "sentences": [
+            "The museum is full of marble sculpture"
+        ],
+        "phrases": [
+            "A marble sculpture / một tác phẩm điêu khắc bằng đá cẩm thạch"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U42_16",
+        "unitId": 42,
+        "word": "Tượng",
+        "answers": [
+            "Statue"
+        ],
+        "sentences": [
+            "The bronze statues need polishing ( lau chùi)"
+        ],
+        "phrases": [
+            "A bronze statue / bức tượng đồng"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U42_17",
+        "unitId": 42,
+        "word": "Trống",
+        "answers": [
+            "Drum"
+        ],
+        "sentences": [
+            "Can the musician play the drum? "
+        ],
+        "phrases": [
+            "Play the drum"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U42_18",
+        "unitId": 42,
+        "word": "Hòa trộn",
+        "answers": [
+            "Blend"
+        ],
+        "sentences": [
+            "This song is a great blend of modern and traditional music."
+        ],
+        "phrases": [
+            "A blend of / một sự pha trộn của"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U42_19",
+        "unitId": 42,
+        "word": "Thuộc dân gian",
+        "answers": [
+            "Folk"
+        ],
+        "sentences": [
+            "We learned many folk songs in kindergarten (trường mẫu giáo)"
+        ],
+        "phrases": [
+            "Folk song / bài dân ca"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U42_20",
+        "unitId": 42,
+        "word": "Nhịp điệu",
+        "answers": [
+            "Rhythm"
+        ],
+        "sentences": [
+            "Please dance in rhythm with the music"
+        ],
+        "phrases": [
+            "In rhythm with something / đúng nhịp với cái gì"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U42_21",
+        "unitId": 42,
+        "word": "Hoàn toàn",
+        "answers": [
+            "Absolutely"
+        ],
+        "sentences": [
+            "Absolutely nothing can go wrong now (có thể sai sót được nữa)"
+        ],
+        "phrases": [
+            "Absolutely nothing / hoàn toàn không có gì"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U42_22",
+        "unitId": 42,
+        "word": "Thơ ca",
+        "answers": [
+            "Poetry"
+        ],
+        "sentences": [
+            "Some artists write poetry"
+        ],
+        "phrases": [
+            "Write poetry / sáng tác thơ"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U42_23",
+        "unitId": 42,
+        "word": "Phi thường",
+        "answers": [
+            "Extraordinary"
+        ],
+        "sentences": [
+            "My hero is an extraordinary person"
+        ],
+        "phrases": [
+            "An extraordinary person / một người phi thường"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U42_24",
+        "unitId": 42,
+        "word": "Thế kỷ",
+        "answers": [
+            "Century"
+        ],
+        "sentences": [
+            "This device was invented a century ago"
+        ],
+        "phrases": [
+            "A century ago / một thế kỷ trước"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U42_25",
+        "unitId": 42,
+        "word": "Chủ đề",
+        "answers": [
+            "Theme"
+        ],
+        "sentences": [
+            "The theme of the party is halloween"
+        ],
+        "phrases": [
+            "Theme of something / chủ đề của một cái gì đó"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U42_26",
+        "unitId": 42,
+        "word": "Thiết kế",
+        "answers": [
+            "Design"
+        ],
+        "sentences": [
+            "It costs money to design a logo"
+        ],
+        "phrases": [
+            "Design something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U42_27",
+        "unitId": 42,
+        "word": "Biểu tượng",
+        "answers": [
+            "Symbol"
+        ],
+        "sentences": [
+            "Green is the symbol of nature"
+        ],
+        "phrases": [
+            "Symbol of something"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U42_28",
+        "unitId": 42,
+        "word": "Con rối",
+        "answers": [
+            "Puppet"
+        ],
+        "sentences": [
+            "The party will have a puppet show"
+        ],
+        "phrases": [
+            "A puppet show / một mà biểu diễn múa rối"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U42_29",
+        "unitId": 42,
+        "word": "Tài năng",
+        "answers": [
+            "Talented"
+        ],
+        "sentences": [
+            "In basketball, he is a talented player"
+        ],
+        "phrases": [
+            "A talented player"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U42_30",
+        "unitId": 42,
+        "word": "Tâm hồn",
+        "answers": [
+            "Soul"
+        ],
+        "sentences": [
+            "You have a heart of gold (trái tim nhân hậu) and a beautiful soul"
+        ],
+        "phrases": [
+            "A beautiful soul / tâm hồn đẹp"
+        ],
+        "verb": [
+            "N"
+        ]
     }
 ]

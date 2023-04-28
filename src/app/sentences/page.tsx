@@ -85,7 +85,7 @@ const Sentences = () => {
     <main className="page">
       <MenuBar/>
       <div className="page-body">
-        <Row gutter={[12, 12]}>
+        <Row gutter={[24, 24]}>
           {isLoading && <Col xs={24}><Spin/></Col>}
 
           <Affix offsetTop={24} className={"fw"}>
@@ -137,10 +137,12 @@ const Sentences = () => {
 
           {sentences.map((s: SentenceType) => {
             return (
-              <Card key={s.id}>
-
-                <div>{s.en}</div>
-              </Card>
+              <Col key={s.id} xs={24} lg={12} xxl={8}>
+                <Card>
+                  <div>{s.en}</div>
+                  <div>{s.vi}</div>
+                </Card>
+              </Col>
             )
           })}
         </Row>
