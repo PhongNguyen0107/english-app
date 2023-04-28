@@ -4,7 +4,7 @@
  * @param params: value list to replace for param name
  * @returns {string}: the endpoint api
  */
-export const convertUrlParamToEndpoint = (url: string, ...params: string[]): string => {
+export const convertUrlParamToEndpoint = (url: string, ...params: string[]) : string => {
   if (!url) return "";
 
   let i = 0;

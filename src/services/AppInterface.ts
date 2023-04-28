@@ -25,3 +25,10 @@ export type SentenceType = {
   origin?: string;
   image?: string;
 }
+
+
+export type PracticeConfigPayloadType = {
+  prompt?: string;
+  words: string[];
+  genreOfOutput: string;
+}

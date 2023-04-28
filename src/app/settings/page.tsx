@@ -23,6 +23,11 @@ const menu = [
     title: "Review"
   },
   {
+    id: 'practices',
+    path: ROUTE_NAME.PRACTICES,
+    title: "Practices"
+  },
+  {
     id: 'sentences',
     path: ROUTE_NAME.SENTENCES,
     title: "Sentences"

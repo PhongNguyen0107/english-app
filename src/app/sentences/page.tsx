@@ -10,7 +10,6 @@ import MenuBar from "@/components/MenuBar";
 import {SentenceType} from "@/services/AppInterface";
 import {useSetState} from "ahooks";
 import Fuse from "fuse.js";
-
 const {Search} = Input
 type IState = {
   isShowAnswer: boolean;

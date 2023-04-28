@@ -11,6 +11,7 @@ export const headers = {
 };
 
 type ApiResponse<T> = {
+  status: number;
   data: T;
   error?: string;
 };
@@ -31,11 +32,13 @@ async function callApi(endpoint: string, method: 'GET' | 'POST' | 'PUT' | 'DELET
     });
 
     return {
+      status: response.status,
       data: response.data,
     };
   } catch (error) {
     const axiosError = error as AxiosError;
     return {
+      status: 500,
       data: null,
       error: get(axiosError, "response.data.message") || axiosError.message,
     };
@@ -52,6 +55,26 @@ export const callApiExternal = (url: string, method: string, body: any) => {
       "origin": "http://localhost"
       // "X-Client-Id": "JS-2NPRQuLtWo6TS1nHnet6ARJo2iO",
       // "X-Client-Access-Token": "2NPRQwf19998zjeRusO3R1VLqt9",
+    },
+    data: body,
+  })
+    .then((res) => {
+      return res;
+    })
+    .catch((err) => {
+      return err.response;
+    });
+}
+
+
+
+export const callApiOpenAI = (url: string, method: string, body: any) => {
+  return axios({
+    url,
+    method: method ? method : "GET",
+    headers: {
+      ...headers,
+      Authorization: "Bearer " + process.env.NEXT_PUBLIC_AI_KEY
     },
     data: body,
   })

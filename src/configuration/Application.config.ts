@@ -1,6 +1,7 @@
 export const APP = {
   NOTION_KEY: "secret_UTOnwttGQduIYMUi0beQwJi0NsPFPmIICrSfgkVlodQ",
-  HOST_API: "/api"
+  HOST_API: "/api",
+  OPEN_AI_HOST: "https://api.openai.com"
 }
 
 export const ROUTE_NAME = {
@@ -9,6 +10,7 @@ export const ROUTE_NAME = {
   LEARNING: 'learning',
   SIGN_IN: 'sign-in',
   REVIEW: 'review',
+  PRACTICES: 'review/practices',
   SENTENCES: 'sentences',
   SETTINGS: 'settings'
 }
