@@ -8,11 +8,13 @@ import {useSetState} from "ahooks";
 import {
   getListOfWordRandomBySize,
   getOutcomesGrammarToPractice,
-  getOutcomesToPractice
+  getOutcomesEnToPractice,
+  getOutcomesViToPractice,
 } from "@/services/Practices.service";
 import {getWordReview} from "@/services/Review.service";
 import {QUERY_CONFIG} from "@/configuration/Application.config";
 import type {CustomTagProps} from 'rc-select/lib/BaseSelect';
+import {get} from "lodash";
 
 type IState = {
   listOfWords: WordType[],
@@ -81,24 +83,54 @@ const PracticesPage = () => {
 
   const onGetOutComes = () => {
     setState({isLoad: true})
-    getOutcomesToPractice({
+    getOutcomesEnToPractice({
       genreOfOutput: state.genreOfOutput,
       words: state.listOfWords.map((x) => x.answers[0])
     })
       .then(resp => {
         if (resp.status === 200) {
-          setState({isLoad: true})
-          getOutcomesGrammarToPractice({
+          const en = get(resp, "data.en")
+          setState({outcomes: resp.data})
+
+          getOutcomesViToPractice({
             genreOfOutput: state.genreOfOutput,
             words: state.listOfWords.map((x) => x.answers[0]),
-            en: resp.data.en
+            en: en
           }).then(r => {
-            if (r.status === 200) return setState({outcomes: {...state.outcomes, grammar: r.data.grammar}})
-          }).finally(() => setState({isLoad: false}))
-          return setState({outcomes: resp.data})
-        }
+
+            if (r.status === 200) {
+              const vi = get(r, "data.vi")
+              setState({
+                outcomes: {
+                  ...state.outcomes,
+                  en: en,
+                  vi: vi
+                }
+              })
+
+              getOutcomesGrammarToPractice({
+                genreOfOutput: state.genreOfOutput,
+                words: state.listOfWords.map((x) => x.answers[0]),
+                en: resp.data.en
+              }).then(rGrammar => {
+
+                if (rGrammar.status === 200) return setState({
+                  outcomes: {
+                    ...state.outcomes,
+                    en: en,
+                    vi: vi,
+                    grammar: rGrammar.data.grammar
+                  }
+                })
+                else setState({isLoad: false})
+              }).finally(() => setState({isLoad: false}))
+
+
+            } else setState({isLoad: false})
+          })
+        } else setState({isLoad: false})
+
       })
-      .finally(() => setState({isLoad: false}))
   }
 
   const getOutcomesRender = (type: string) => {

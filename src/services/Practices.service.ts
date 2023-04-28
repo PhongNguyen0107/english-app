@@ -8,8 +8,12 @@ export const getListOfWordRandomBySize = (size: number) => {
   return callApi(endpoint, 'GET', null);
 }
 
-export const getOutcomesToPractice = (payload: PracticeConfigPayloadType) => {
-  return callApi(ENDPOINT_API.OUTCOME_PRACTICES, 'POST', payload);
+export const getOutcomesEnToPractice = (payload: PracticeConfigPayloadType) => {
+  return callApi(ENDPOINT_API.OUTCOME_EN_PRACTICES, 'POST', payload);
+}
+
+export const getOutcomesViToPractice = (payload: PracticeConfigPayloadType) => {
+  return callApi(ENDPOINT_API.OUTCOME_VI_PRACTICES, 'POST', payload);
 }
 
 

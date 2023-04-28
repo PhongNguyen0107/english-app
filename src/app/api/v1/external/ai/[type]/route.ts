@@ -40,11 +40,18 @@ export async function POST(request: Request, {params}: any) {
       response.status = 200;
       break
 
-    case "practices":
+    case "practices_en":
       endpoint = OPEN_AI_ENDPOINT_API.CHAT_COMPLETIONS
       const respEn = await callApiOpenAI(openAIHost + endpoint, "POST", getPayloadGenerate(getPromptByConfigs(body)))
       logger.info("OpenAI EN response: with status %s", respEn.status)
       response.en = get(respEn, "data.choices[0].message.content", null)
+
+      response.status = 200;
+
+      break;
+
+    case "practices_vi":
+      endpoint = OPEN_AI_ENDPOINT_API.CHAT_COMPLETIONS
 
       const viPrompt = `Vui lòng tạo dịch nội dung sau sang tiếng Việt Nam: "${response.en}"`
       const respVi = await callApiOpenAI(openAIHost + endpoint, "POST", getPayloadGenerate(viPrompt))
