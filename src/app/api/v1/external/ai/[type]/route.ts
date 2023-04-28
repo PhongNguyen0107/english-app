@@ -5,16 +5,12 @@ import logger from "@/services/Logger.service";
 import {PracticeConfigPayloadType} from "@/services/AppInterface";
 import {get} from "lodash";
 
-export async function GET(request: Request) {
-}
-
 export async function POST(request: Request, {params}: any) {
   const type = params.type
   const body = await request.json();
 
   const openAIHost = APP.OPEN_AI_HOST + "/v1/"
   let endpoint = ""
-  let payload = {}
 
   const response = {
     status: 500,
@@ -60,8 +56,7 @@ export async function POST(request: Request, {params}: any) {
 
   }
 
-
-  logger.info("Content: %s", response.en)
+  // logger.info("Content: %s", response.en)
   return new Response(
     response.status === 200 ?
       JSON.stringify(response) :
@@ -69,23 +64,6 @@ export async function POST(request: Request, {params}: any) {
         code: response.status,
         message: response.message
       }))
-}
-
-export async function PUT(request: Request) {
-}
-
-export async function DELETE(request: Request) {
-}
-
-export async function PATCH(request: Request) {
-}
-
-// If `OPTIONS` is not defined, Next.js will automatically implement `OPTIONS` and  set the appropriate Response `Allow` header depending on the other methods defined in the route handler.
-export async function OPTIONS(request: Request) {
-}
-
-
-export async function HEAD(request: Request) {
 }
 
 export const getPayloadGenerate = (prompt: string) => {
