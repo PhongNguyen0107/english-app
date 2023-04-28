@@ -73,7 +73,7 @@ const PracticesPage = () => {
         value: x.answers[0]
       }
     })
-  }, words)
+  }, [words])
 
   const onGetOutComes = () => {
     setState({isLoad: true})
