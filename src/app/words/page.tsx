@@ -17,6 +17,7 @@ export default function Page() {
 
   return (
     <div className="page">
+      <title>List of words to learning | Study english</title>
       <MenuBar/>
       <div className={"page-body"}>
         <Row gutter={[12, 12]}>

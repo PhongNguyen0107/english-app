@@ -20,3 +20,8 @@ export const getOutcomesViToPractice = (payload: PracticeConfigPayloadType) => {
 export const getOutcomesGrammarToPractice = (payload: PracticeConfigPayloadType) => {
   return callApi(ENDPOINT_API.GET_GRAMMAR_PRACTICES_BY_EN, 'POST', payload);
 }
+
+
+export const sendAnEmailReportOutcomes = (payload: PracticeConfigPayloadType) => {
+  return callApi(ENDPOINT_API.SEND_AN_EMAIL_OUTCOME_PRACTICES, 'POST', payload);
+}

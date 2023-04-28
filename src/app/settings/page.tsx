@@ -38,6 +38,7 @@ const Settings = () => {
 
   return (
     <main className="page">
+      <title>List of features | Study english</title>
       <MenuBar/>
       <div className="page-body">
         <Row gutter={[12, 24]}>

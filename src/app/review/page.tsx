@@ -118,6 +118,7 @@ const ReviewPage = (_: IProps) => {
   return (
     <div className="page">
       {contextHolder}
+      <title>Review English via words group by unit every days | Study english</title>
       <MenuBar/>
       <div className={"page-body"}>
         <Row gutter={[36, 36]}>

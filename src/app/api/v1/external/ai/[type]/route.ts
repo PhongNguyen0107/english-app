@@ -1,9 +1,10 @@
-import {callApiOpenAI} from "@/services/callApi";
+import {callApiExternal, callApiOpenAI} from "@/services/callApi";
 import {APP} from "@/configuration/Application.config";
 import {OPEN_AI_ENDPOINT_API} from "@/services/EndpointApi";
 import logger from "@/services/Logger.service";
 import {PracticeConfigPayloadType} from "@/services/AppInterface";
 import {get} from "lodash";
+import moment from "moment";
 
 export async function POST(request: Request, {params}: any) {
   const type = params.type
@@ -59,6 +60,32 @@ export async function POST(request: Request, {params}: any) {
       response.vi = get(respVi, "data.choices[0].message.content", null)
 
       response.status = 200;
+
+      break;
+
+
+    case "send_email":
+      const mailPayload = {
+        "service_id": "service_luljs9w",
+        "template_id": "template_lmquy6e",
+        "user_id": "jg1tOUpH_GKznJrGo",
+        "template_params": {
+          "today": moment().format("DD.MM.YYYY hh:mm"),
+          "prompt": getPromptByConfigs(body),
+          "subject": `Please generate a ${body.genreOfOutput} using the following list of words: [${body.words.join(", ")}]`,
+          "en": body.en,
+          "vi": body.vi,
+          "grammar": body.grammar,
+          "from_name": "English Review App",
+          "to_name": "My Friend",
+          "reply_to": "nguyenlephong1997@gmail.com"
+        }
+      };
+
+      const endpointEmail = "https://api.emailjs.com/api/v1.0/email/send"
+      const respEmail = await callApiExternal(endpointEmail, "POST", mailPayload)
+      console.log("Send mail status: ", respEmail.status)
+      response.status = respEmail.status;
 
       break;
     default:

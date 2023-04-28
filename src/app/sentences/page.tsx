@@ -82,6 +82,7 @@ const Sentences = () => {
 
   return (
     <main className="page">
+      <title>Review list of sentences popular in life | Study english</title>
       <MenuBar/>
       <div className="page-body">
         <Row gutter={[24, 24]}>

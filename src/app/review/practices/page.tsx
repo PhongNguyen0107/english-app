@@ -9,7 +9,7 @@ import {
   getListOfWordRandomBySize,
   getOutcomesGrammarToPractice,
   getOutcomesEnToPractice,
-  getOutcomesViToPractice,
+  getOutcomesViToPractice, sendAnEmailReportOutcomes,
 } from "@/services/Practices.service";
 import {getWordReview} from "@/services/Review.service";
 import {QUERY_CONFIG} from "@/configuration/Application.config";
@@ -114,14 +114,25 @@ const PracticesPage = () => {
                 en: resp.data.en
               }).then(rGrammar => {
 
-                if (rGrammar.status === 200) return setState({
-                  outcomes: {
-                    ...state.outcomes,
+                if (rGrammar.status === 200) {
+                  const grammar = get(rGrammar, "data.grammar")
+                  sendAnEmailReportOutcomes({
+                    genreOfOutput: state.genreOfOutput,
+                    words: state.listOfWords.map((x) => x.answers[0]),
                     en: en,
                     vi: vi,
-                    grammar: rGrammar.data.grammar
-                  }
-                })
+                    grammar: grammar
+                  }).then();
+
+                  return setState({
+                    outcomes: {
+                      ...state.outcomes,
+                      en: en,
+                      vi: vi,
+                      grammar: grammar
+                    }
+                  })
+                }
                 else setState({isLoad: false})
               }).finally(() => setState({isLoad: false}))
 
@@ -148,6 +159,7 @@ const PracticesPage = () => {
 
   return (
     <main className="page">
+      <title>Practices English via paragraph generation by your words | Study english | chatGPT</title>
       <MenuBar/>
       <div className="page-body">
         <Row gutter={[24, 24]}>

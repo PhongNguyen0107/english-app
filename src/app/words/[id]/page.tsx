@@ -16,6 +16,7 @@ export default function Page({params}: any) {
   const word = dataWordDetail?.data?.data || []
   return (
     <div className="page">
+      <title>Detail of {word.word} | Study english</title>
       <MenuBar/>
       <div className={"page-body"}>
         <Row gutter={[12, 12]}>

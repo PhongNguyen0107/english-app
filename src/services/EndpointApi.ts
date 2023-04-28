@@ -9,7 +9,8 @@ export const ENDPOINT_API = {
 
   OUTCOME_EN_PRACTICES: "external/ai/practices_en",
   OUTCOME_VI_PRACTICES: "external/ai/practices_vi",
-  GET_GRAMMAR_PRACTICES_BY_EN: "external/ai/grammar"
+  GET_GRAMMAR_PRACTICES_BY_EN: "external/ai/grammar",
+  SEND_AN_EMAIL_OUTCOME_PRACTICES: "external/ai/send_email",
 }
 
 
