@@ -20960,5 +20960,515 @@
         "verb": [
             "N"
         ]
+    },
+    {
+        "id": "U43_01",
+        "unitId": 43,
+        "word": "Bối rối",
+        "answers": [
+            "Frustrated"
+        ],
+        "sentences": [
+            "He is frustrated at this math question."
+        ],
+        "phrases": [
+            "Frustrated at something"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U43_02",
+        "unitId": 43,
+        "word": "Giả định",
+        "answers": [
+            "Assumption"
+        ],
+        "sentences": [
+            "They make assumptions about me being rude(rằng tôi là người thô lỗ)"
+        ],
+        "phrases": [
+            "Make an assumption / đưa ra giả định"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U43_03",
+        "unitId": 43,
+        "word": "Phép thuật",
+        "answers": [
+            "Magic"
+        ],
+        "sentences": [
+            "She made it disappeer like magic"
+        ],
+        "phrases": [
+            "Like magic / như phép màu"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U43_04",
+        "unitId": 43,
+        "word": "Cơ hội",
+        "answers": [
+            "Chance"
+        ],
+        "sentences": [
+            "We met each other by chance / chúng tôi tình cờ gặp nhau"
+        ],
+        "phrases": [
+            "By chance / tình cờ"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U43_05",
+        "unitId": 43,
+        "word": "Yếu tố",
+        "answers": [
+            "Factor"
+        ],
+        "sentences": [
+            "Have you considered all the important factors"
+        ],
+        "phrases": [
+            "An important factor / một yếu tố quan trọng"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U43_06",
+        "unitId": 43,
+        "word": "Bên trong",
+        "answers": [
+            "Inside"
+        ],
+        "sentences": [
+            "Your shirt is inside out"
+        ],
+        "phrases": [
+            "Inside out / lộn ngược phần trong ra ngoài"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U43_07",
+        "unitId": 43,
+        "word": "Sự lo ngại",
+        "answers": [
+            "Concern"
+        ],
+        "sentences": [
+            "I have lots of concerns about my son"
+        ],
+        "phrases": [
+            "Concern about something or somebody"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U43_08",
+        "unitId": 43,
+        "word": "Đánh giá",
+        "answers": [
+            "Rate"
+        ],
+        "sentences": [
+            "Please rate 5 star for that book on App Store"
+        ],
+        "phrases": [
+            "Rate something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U43_09",
+        "unitId": 43,
+        "word": "Hoàn toàn",
+        "answers": [
+            "Completely"
+        ],
+        "sentences": [
+            "He was a completely different person"
+        ],
+        "phrases": [
+            "Completely different / hoàn toàn khác"
+        ],
+        "verb": [
+            "Adv"
+        ]
+    },
+    {
+        "id": "U43_10",
+        "unitId": 43,
+        "word": "Sự tồn tại",
+        "answers": [
+            "Existence"
+        ],
+        "sentences": [
+            "Dinosaurs are no longer in existence"
+        ],
+        "phrases": [
+            "In existence / tồn tại"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U43_11",
+        "unitId": 43,
+        "word": "Nghiên cứu, xem xét",
+        "answers": [
+            "Look into"
+        ],
+        "sentences": [
+            "The police will look into the files"
+        ],
+        "phrases": [
+            "Look into something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U43_12",
+        "unitId": 43,
+        "word": "Kiểm soát",
+        "answers": [
+            "Control"
+        ],
+        "sentences": [
+            "My father always tries to control me"
+        ],
+        "phrases": [
+            "Control somebody or something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U43_13",
+        "unitId": 43,
+        "word": "Bài viết",
+        "answers": [
+            "Article"
+        ],
+        "sentences": [
+            "Have you read the news article today?"
+        ],
+        "phrases": [
+            "A news article / bài báo"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U43_14",
+        "unitId": 43,
+        "word": "Tác giả",
+        "answers": [
+            "Author"
+        ],
+        "sentences": [
+            "Best-selling authors are skilled in writing"
+        ],
+        "phrases": [
+            "A best-selling author / tác giả bán chạy nhất"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U43_15",
+        "unitId": 43,
+        "word": "Đoạn",
+        "answers": [
+            "Passage"
+        ],
+        "sentences": [
+            "Please read the message on page 24."
+        ],
+        "phrases": [
+            "Read a passage / đọc một đoạn"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U43_16",
+        "unitId": 43,
+        "word": "Thuyết phục",
+        "answers": [
+            "Convince"
+        ],
+        "sentences": [
+            "Please convince her to help me"
+        ],
+        "phrases": [
+            "Convince somebody"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U43_17",
+        "unitId": 43,
+        "word": "Phần",
+        "answers": [
+            "Part"
+        ],
+        "sentences": [
+            "I am a part of the team"
+        ],
+        "phrases": [
+            "Part of something"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U43_18",
+        "unitId": 43,
+        "word": "Vừa đủ",
+        "answers": [
+            "Adequate"
+        ],
+        "sentences": [
+            "She show an adequate amout of skill."
+        ],
+        "phrases": [
+            "An adequate amount / một lượng vừa đủ"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U43_19",
+        "unitId": 43,
+        "word": "Chọn",
+        "answers": [
+            "Pick"
+        ],
+        "sentences": [
+            "The team pucked him to be the leader"
+        ],
+        "phrases": [
+            "Pick somebody or something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U43_20",
+        "unitId": 43,
+        "word": "Thành thật, trung thực",
+        "answers": [
+            "Honest"
+        ],
+        "sentences": [
+            "Please be honest about your past."
+        ],
+        "phrases": [
+            "Honest about something / thành thật về một điều gì đó"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U43_21",
+        "unitId": 43,
+        "word": "Thất vọng",
+        "answers": [
+            "Disappointed"
+        ],
+        "sentences": [
+            "I am disappointed with what you did"
+        ],
+        "phrases": [
+            "Disappointed with"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U43_22",
+        "unitId": 43,
+        "word": "Kết cấu",
+        "answers": [
+            "Structure"
+        ],
+        "sentences": [
+            "The structure of the company is complex"
+        ],
+        "phrases": [
+            "A structure of something"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U43_23",
+        "unitId": 43,
+        "word": "Tập phim",
+        "answers": [
+            "Episode"
+        ],
+        "sentences": [
+            "They broke up in the last episode"
+        ],
+        "phrases": [
+            "In an episode / trong tập phim"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U43_24",
+        "unitId": 43,
+        "word": "Thay thế",
+        "answers": [
+            "Replace"
+        ],
+        "sentences": [
+            "The school replaced the old building"
+        ],
+        "phrases": [
+            "Replace somebody or something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U43_25",
+        "unitId": 43,
+        "word": "Nguyên bản, độc đáo",
+        "answers": [
+            "Original"
+        ],
+        "sentences": [
+            "He came up with an original idea."
+        ],
+        "phrases": [
+            "An original idea / ý tưởng độc đáo"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U43_26",
+        "unitId": 43,
+        "word": "Sự phân tích",
+        "answers": [
+            "Analysis"
+        ],
+        "sentences": [
+            "We need an expert in data analysis"
+        ],
+        "phrases": [
+            "Data analysis / việc phân tích dữ liệu"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U43_27",
+        "unitId": 43,
+        "word": "Công lý",
+        "answers": [
+            "Justice"
+        ],
+        "sentences": [
+            "Justice will be served when he receives punishment(hình phạt)"
+        ],
+        "phrases": [
+            "Justice is served / công lý được thực thi"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U43_28",
+        "unitId": 43,
+        "word": "Đại diện cho, ủng hộ cho",
+        "answers": [
+            "Stand for"
+        ],
+        "sentences": [
+            "We stand for equality"
+        ],
+        "phrases": [
+            "Stand for something / ủng hộ cho một cái gì đó"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U43_29",
+        "unitId": 43,
+        "word": "Kết luận",
+        "answers": [
+            "Conclusion"
+        ],
+        "sentences": [
+            "In conclusion, this book is good"
+        ],
+        "phrases": [
+            "In conclusion / kết luận là"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U43_30",
+        "unitId": 43,
+        "word": "Khắp, suốt",
+        "answers": [
+            "Throughout"
+        ],
+        "sentences": [
+            "The school opens throughout the year"
+        ],
+        "phrases": [
+            "Throughout the year / suốt cả năm"
+        ],
+        "verb": [
+            "Adv"
+        ]
     }
 ]
