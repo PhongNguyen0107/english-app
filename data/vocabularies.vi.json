@@ -21470,5 +21470,1025 @@
         "verb": [
             "Adv"
         ]
+    },
+    {
+        "id": "U44_01",
+        "unitId": 44,
+        "word": "Thuộc kinh tế",
+        "answers": [
+            "Economic"
+        ],
+        "sentences": [
+            "Economic growth is projected to be high (dự báo tăng trưởng kinh tế cao)"
+        ],
+        "phrases": [
+            "Economic growth"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U44_02",
+        "unitId": 44,
+        "word": "Tài chính",
+        "answers": [
+            "Financial"
+        ],
+        "sentences": [
+            "I need financial support from you"
+        ],
+        "phrases": [
+            "Financial support"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U44_03",
+        "unitId": 44,
+        "word": "Tiền mặt",
+        "answers": [
+            "Cash"
+        ],
+        "sentences": [
+            "Can I pay in cash"
+        ],
+        "phrases": [
+            "In cash / bằng tiền mặt"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U44_04",
+        "unitId": 44,
+        "word": "Cổ phiếu",
+        "answers": [
+            "Stock"
+        ],
+        "sentences": [
+            "You need to research before investing in stock"
+        ],
+        "phrases": [
+            "Invest in stocks / đầu tư vào cổ phiếu"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U44_05",
+        "unitId": 44,
+        "word": "Sự đầu tư",
+        "answers": [
+            "Investment"
+        ],
+        "sentences": [
+            "My parents made a large investment in me"
+        ],
+        "phrases": [
+            "Make an investment / đầu tư"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U44_06",
+        "unitId": 44,
+        "word": "Ngành công nghiệp",
+        "answers": [
+            "Industry"
+        ],
+        "sentences": [
+            "We should network more within the industry"
+        ],
+        "phrases": [
+            "Within an industry / trong ngành"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U44_07",
+        "unitId": 44,
+        "word": "Thành lập, thiết lập",
+        "answers": [
+            "Set up"
+        ],
+        "sentences": [
+            "How do I set up an account on this site?"
+        ],
+        "phrases": [
+            "Set up an account "
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U44_08",
+        "unitId": 44,
+        "word": "Giao dịch",
+        "answers": [
+            "Trade"
+        ],
+        "sentences": [
+            "They refuse (từ chối) to trade stock with our company"
+        ],
+        "phrases": [
+            "Trade stock / giao dịch chứng khoán"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U44_09",
+        "unitId": 44,
+        "word": "Kiếm tiền",
+        "answers": [
+            "Earn"
+        ],
+        "sentences": [
+            "He earns a living as a dentist"
+        ],
+        "phrases": [
+            "Earn a living / kiếm sống"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U44_10",
+        "unitId": 44,
+        "word": "Lợi nhuận",
+        "answers": [
+            "Profit"
+        ],
+        "sentences": [
+            "The business made a huge profit last year"
+        ],
+        "phrases": [
+            "Make a profit / tạo ra lợi nhuận"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U44_11",
+        "unitId": 44,
+        "word": "Nhà cung cấp",
+        "answers": [
+            "Supplier"
+        ],
+        "sentences": [
+            "Japan is a leading supplier of salmon"
+        ],
+        "phrases": [
+            "A leading supplier / nhà cung cấp hàng đầu"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U44_12",
+        "unitId": 44,
+        "word": "Đạt được, có được",
+        "answers": [
+            "Obtain"
+        ],
+        "sentences": [
+            "After paying the fee, I will obtain a new tourist visa."
+        ],
+        "phrases": [
+            "Obtain something / có được một cái gì đó"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U44_13",
+        "unitId": 44,
+        "word": "Dự định, mục tiêu",
+        "answers": [
+            "Aim"
+        ],
+        "sentences": [
+            "I exercise a lot with the aim to lose weight."
+        ],
+        "phrases": [
+            "With the aim / với mục tiêu"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U44_14",
+        "unitId": 44,
+        "word": "Phần trăm",
+        "answers": [
+            "Percentage"
+        ],
+        "sentences": [
+            "The percentage of your grade is 20%"
+        ],
+        "phrases": [
+            "Percentage of something / tỷ lệ phần trăm của something"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U44_15",
+        "unitId": 44,
+        "word": "Giấy phép",
+        "answers": [
+            "License"
+        ],
+        "sentences": [
+            "You need a license to drive cars"
+        ],
+        "phrases": [
+            "License to do something "
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U44_16",
+        "unitId": 44,
+        "word": "Sự thiếu hụt",
+        "answers": [
+            "Shortage"
+        ],
+        "sentences": [
+            "There is no shortage of food during Tet."
+        ],
+        "phrases": [
+            "A shortage of food / tình trạng thiếu lương thực"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U44_17",
+        "unitId": 44,
+        "word": "Đóng góp",
+        "answers": [
+            "Contribute"
+        ],
+        "sentences": [
+            "We all contribute towards economic growth."
+        ],
+        "phrases": [
+            "Contribute to/towards something (đóng góp vào một cái gì đó)"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U44_18",
+        "unitId": 44,
+        "word": "Thử nghiệm",
+        "answers": [
+            "Experiment"
+        ],
+        "sentences": [
+            "Scientists conduct experiments regularly"
+        ],
+        "phrases": [
+            "Conduct an experiment / tiến hành thí nghiệm"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U44_19",
+        "unitId": 44,
+        "word": "Trận chiến, trận đấu",
+        "answers": [
+            "Battle"
+        ],
+        "sentences": [
+            "The battle between the fighters(võ sĩ) is on tonight"
+        ],
+        "phrases": [
+            "Battle between A and B / trận đấu giữa A và B"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U44_20",
+        "unitId": 44,
+        "word": "Điều khoản",
+        "answers": [
+            "Terms"
+        ],
+        "sentences": [
+            "Read the terms and conditions carefully"
+        ],
+        "phrases": [
+            "Terms and conditions / các điều khoản và điều kiện"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U44_21",
+        "unitId": 44,
+        "word": "Hàng hóa",
+        "answers": [
+            "Goods"
+        ],
+        "sentences": [
+            "The store sells luxury goods "
+        ],
+        "phrases": [
+            "Luxury goods / hàng hóa cao cấp"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U44_22",
+        "unitId": 44,
+        "word": "Hiếm",
+        "answers": [
+            "Scarce"
+        ],
+        "sentences": [
+            "Scarce resources prevent us from continuing"
+        ],
+        "phrases": [
+            "Scarce resources / Tài nguyên khan hiếm"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U44_23",
+        "unitId": 44,
+        "word": "Mở rộng",
+        "answers": [
+            "Extend"
+        ],
+        "sentences": [
+            "Can you extend the deadline?"
+        ],
+        "phrases": [
+            "Extend the deadline / gia hạn hạn chót"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U44_24",
+        "unitId": 44,
+        "word": "Khu vực",
+        "answers": [
+            "Region"
+        ],
+        "sentences": [
+            "Here is the latest news from the Southeast Asian region"
+        ],
+        "phrases": [
+            "From the region / từ khu vực"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U44_25",
+        "unitId": 44,
+        "word": "Lãnh đạo",
+        "answers": [
+            "Leader"
+        ],
+        "sentences": [
+            "World leaders will discuss this in the upcoming conference. / Các nhà lãnh đạo thế giới sẽ thảo luận vấn đề này trong hội nghị sắp tới"
+        ],
+        "phrases": [
+            "A world leader / nhà lãnh đạo thế giới"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U44_26",
+        "unitId": 44,
+        "word": "Trả hết nợ",
+        "answers": [
+            "Pay off"
+        ],
+        "sentences": [
+            "Can you pay off the debt?"
+        ],
+        "phrases": [
+            "Pay of the debt / trả hết nợ"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U44_27",
+        "unitId": 44,
+        "word": "Quy mô",
+        "answers": [
+            "Scale"
+        ],
+        "sentences": [
+            "We are distributing(đang phân phối) on a large scale"
+        ],
+        "phrases": [
+            "On a large scale / trên một quy mô lớn"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U44_28",
+        "unitId": 44,
+        "word": "Tiền tệ",
+        "answers": [
+            "Currency"
+        ],
+        "sentences": [
+            "In VN, US dollar is a foreign currency."
+        ],
+        "phrases": [
+            "Foreign currency / ngoại tệ"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U44_29",
+        "unitId": 44,
+        "word": "Thuế",
+        "answers": [
+            "Tax"
+        ],
+        "sentences": [
+            "There is a tax on buying products"
+        ],
+        "phrases": [
+            "Tax on something / thuế cho một thứ gì đó"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U44_30",
+        "unitId": 44,
+        "word": "Nhấn mạnh",
+        "answers": [
+            "Emphasize"
+        ],
+        "sentences": [
+            "The writer emphasized the bravery (quả cảm) of his characters"
+        ],
+        "phrases": [
+            "Emphasize something / nhấn mạnh một cái gì đó"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U45_01",
+        "unitId": 45,
+        "word": "Cảm nhận, cảm giác",
+        "answers": [
+            "Sense"
+        ],
+        "sentences": [
+            "Success gave me a sense of happiness"
+        ],
+        "phrases": [
+            "A sense of something"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U45_02",
+        "unitId": 45,
+        "word": "Quan điểm",
+        "answers": [
+            "Opinion"
+        ],
+        "sentences": [
+            "He has opinions about everything"
+        ],
+        "phrases": [
+            "Have an opinion about something"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U45_03",
+        "unitId": 45,
+        "word": "Hữu ích",
+        "answers": [
+            "Useful"
+        ],
+        "sentences": [
+            "Your insight (hiểu biết của cậu) was useful for my research"
+        ],
+        "phrases": [
+            "Useful for somebody or something"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U45_04",
+        "unitId": 45,
+        "word": "Có lẽ",
+        "answers": [
+            "Perhaps"
+        ],
+        "sentences": [
+            "Perhaps we should tell him the truth"
+        ],
+        "phrases": [
+            "Perhaps somebody should do something"
+        ],
+        "verb": [
+            "Adv"
+        ]
+    },
+    {
+        "id": "U45_05",
+        "unitId": 45,
+        "word": "Chắc chắn",
+        "answers": [
+            "Definitely"
+        ],
+        "sentences": [
+            "This is definitely not her first time lying."
+        ],
+        "phrases": [
+            "Definitely not / chắc chắn không phải"
+        ],
+        "verb": [
+            "Adv"
+        ]
+    },
+    {
+        "id": "U45_06",
+        "unitId": 45,
+        "word": "Sự thật",
+        "answers": [
+            "Truth"
+        ],
+        "sentences": [
+            "The truth is, I lied to you"
+        ],
+        "phrases": [
+            "The truth is / sự thật là"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U45_07",
+        "unitId": 45,
+        "word": "Bình luận",
+        "answers": [
+            "Comment"
+        ],
+        "sentences": [
+            "Please leave a comment if you have any questions"
+        ],
+        "phrases": [
+            "Leave a comment / để lại bình luận"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U45_08",
+        "unitId": 45,
+        "word": "Tin",
+        "answers": [
+            "Believe"
+        ],
+        "sentences": [
+            "Do you believe in me"
+        ],
+        "phrases": [
+            "Believe in somebody / tin vào ai đó"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U45_09",
+        "unitId": 45,
+        "word": "Hoàn toàn",
+        "answers": [
+            "Totally"
+        ],
+        "sentences": [
+            "What you said was totally unacceptable"
+        ],
+        "phrases": [
+            "Totally unacceptable / hoàn toàn không thể chấp nhận được"
+        ],
+        "verb": [
+            "Adv"
+        ]
+    },
+    {
+        "id": "U45_10",
+        "unitId": 45,
+        "word": "Thấy phiền",
+        "answers": [
+            "Mind"
+        ],
+        "sentences": [
+            "Would you mind if I ask you something?"
+        ],
+        "phrases": [
+            "Would you mind / bạn có phiền"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U45_11",
+        "unitId": 45,
+        "word": "Sự tự do",
+        "answers": [
+            "Freedom"
+        ],
+        "sentences": [
+            "Children need the freedom to make mistakes."
+        ],
+        "phrases": [
+            "Freedom to do something "
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U45_12",
+        "unitId": 45,
+        "word": "Lý lẽ, cuộc tranh cãi",
+        "answers": [
+            "Argument"
+        ],
+        "sentences": [
+            "I had an argument with her yesterday"
+        ],
+        "phrases": [
+            "An argument with somebody / một cuộc tranh luận với ai đó"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U45_13",
+        "unitId": 45,
+        "word": "Cuộc tranh biện",
+        "answers": [
+            "Debate"
+        ],
+        "sentences": [
+            "We were having a debate on justice (công lý)"
+        ],
+        "phrases": [
+            "A debate on something"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U45_14",
+        "unitId": 45,
+        "word": "Dường như",
+        "answers": [
+            "Seem"
+        ],
+        "sentences": [
+            "They seem to be scared at first (lúc đầu họ dường như là bị sợ sệt)"
+        ],
+        "phrases": [
+            "Seem to be / dường như là"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U45_15",
+        "unitId": 45,
+        "word": "Sự lựa chọn",
+        "answers": [
+            "Choice"
+        ],
+        "sentences": [
+            "Make a choice between apples and oranges"
+        ],
+        "phrases": [
+            "Choice between A and B"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U45_16",
+        "unitId": 45,
+        "word": "Đồng ý",
+        "answers": [
+            "Agree"
+        ],
+        "sentences": [
+            "I agree with her on moving forward (tiếp tục triển khai)"
+        ],
+        "phrases": [
+            "Agree with somebody"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U45_17",
+        "unitId": 45,
+        "word": "Thực tế",
+        "answers": [
+            "Realistic"
+        ],
+        "sentences": [
+            "Be realistic about your expectations / Hãy thực tế về những sự kỳ vọng của mình"
+        ],
+        "phrases": [
+            "To be realistic about something"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U45_18",
+        "unitId": 45,
+        "word": "Chia",
+        "answers": [
+            "Divide"
+        ],
+        "sentences": [
+            "Divide the apples into 4 servings (phần)"
+        ],
+        "phrases": [
+            "Divide into something / chia thành cái gì đó"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U45_19",
+        "unitId": 45,
+        "word": "Công bằng",
+        "answers": [
+            "Fair"
+        ],
+        "sentences": [
+            "My teacher is fair to all students"
+        ],
+        "phrases": [
+            "To be fair to somebody / công bằng với ai đó"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U45_20",
+        "unitId": 45,
+        "word": "Nhân chứng",
+        "answers": [
+            "Witness"
+        ],
+        "sentences": [
+            "I was a witness to his crime"
+        ],
+        "phrases": [
+            "A witness to something"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U45_21",
+        "unitId": 45,
+        "word": "Phiên bản",
+        "answers": [
+            "Version"
+        ],
+        "sentences": [
+            "Here is the latest version of the iPhone."
+        ],
+        "phrases": [
+            "Version of something"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U45_22",
+        "unitId": 45,
+        "word": "Lời tuyên bố",
+        "answers": [
+            "Statement"
+        ],
+        "sentences": [
+            "The film was a statement about fairness."
+        ],
+        "phrases": [
+            "Statement about something"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U45_23",
+        "unitId": 45,
+        "word": "Về mặt cá nhân",
+        "answers": [
+            "Personally"
+        ],
+        "sentences": [
+            "Personally speaking, I feel offended by the question (câu hỏi có phần xúc phạm)"
+        ],
+        "phrases": [
+            "Personally speaking / về mặt cá nhân mà nói"
+        ],
+        "verb": [
+            "Adv"
+        ]
+    },
+    {
+        "id": "U45_24",
+        "unitId": 45,
+        "word": "Quan điểm",
+        "answers": [
+            "View"
+        ],
+        "sentences": [
+            "From my point of view, you seem nice"
+        ],
+        "phrases": [
+            "From my point of view / theo quan điểm của tôi"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U45_25",
+        "unitId": 45,
+        "word": "Lý thuyết",
+        "answers": [
+            "Theory"
+        ],
+        "sentences": [
+            "Hawking discovered the theory of black holes"
+        ],
+        "phrases": [
+            "Theory of something"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U45_26",
+        "unitId": 45,
+        "word": "Cho là, tự nhận là",
+        "answers": [
+            "Claim"
+        ],
+        "sentences": [
+            "He claims to be an honest man"
+        ],
+        "phrases": [
+            "Claim to be something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U45_27",
+        "unitId": 45,
+        "word": "Lạc quan",
+        "answers": [
+            "Optimistic"
+        ],
+        "sentences": [
+            "We are optimistic about the future"
+        ],
+        "phrases": [
+            "Optimistic about something"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U45_28",
+        "unitId": 45,
+        "word": "Khá",
+        "answers": [
+            "Quite"
+        ],
+        "sentences": [
+            "The meal was quired good"
+        ],
+        "phrases": [
+            "Quite good/ khá tốt, khá ngon"
+        ],
+        "verb": [
+            "Adv"
+        ]
+    },
+    {
+        "id": "U45_29",
+        "unitId": 45,
+        "word": "Đáng kinh ngạc, khó tin",
+        "answers": [
+            "Incredible"
+        ],
+        "sentences": [
+            "He told us an incredible story"
+        ],
+        "phrases": [
+            "An incredible story"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U45_30",
+        "unitId": 45,
+        "word": "Sự đồng cảm",
+        "answers": [
+            "Sympathy"
+        ],
+        "sentences": [
+            "Have sympathy for her loss (sự mất mát của cô ấy)"
+        ],
+        "phrases": [
+            "Have sympathy for somebody"
+        ],
+        "verb": [
+            "N"
+        ]
     }
 ]
