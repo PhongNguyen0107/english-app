@@ -21,7 +21,8 @@ export async function POST(request: Request, {params}: any) {
     words: null,
     meta: null,
     type: type,
-    message: null
+    message: null,
+    images: []
   }
 
   switch (type) {
@@ -31,6 +32,10 @@ export async function POST(request: Request, {params}: any) {
 
     case "images":
       endpoint = OPEN_AI_ENDPOINT_API.IMAGES_GENERATIONS
+      const respImages = await callApiOpenAI(openAIHost + endpoint, "POST", getPayloadImageGenerate(body.prompt, body.number, body.size))
+      logger.info("OpenAI Images response for prompt: %s - with status %s", body.prompt, respImages.status)
+      response.images = get(respImages, "data.data", [])
+      response.status = respImages.status
       break;
 
     case "homonyms":
@@ -132,6 +137,14 @@ export const getPayloadGenerate = (prompt: string) => {
         "content": prompt
       }
     ]
+  }
+}
+
+export const getPayloadImageGenerate = (prompt: string, n: number = 2, size: string = "1024x1024") => {
+  return {
+    prompt,
+    n,
+    size,
   }
 }
 

@@ -37,3 +37,9 @@ export type PracticeConfigPayloadType = {
   words?: string[];
   genreOfOutput?: string;
 }
+
+export type ImageGenerateConfigType = {
+  prompt?: string;
+  number?: number;
+  size?: string;
+}

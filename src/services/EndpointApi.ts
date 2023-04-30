@@ -12,6 +12,8 @@ export const ENDPOINT_API = {
   GET_GRAMMAR_PRACTICES_BY_EN: "external/ai/grammar",
   GET_HOMONYMS_PRACTICES_BY_EN: "external/ai/homonyms",
   SEND_AN_EMAIL_OUTCOME_PRACTICES: "external/ai/send_email",
+
+  IMAGES_GENERATIONS: "external/ai/images",
 }
 
 

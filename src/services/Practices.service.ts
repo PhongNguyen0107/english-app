@@ -1,7 +1,7 @@
 import {callApi} from "@/services/callApi";
 import {convertUrlParamToEndpoint} from "@/shared/utils";
 import {ENDPOINT_API} from "@/services/EndpointApi";
-import {PracticeConfigPayloadType} from "@/services/AppInterface";
+import {ImageGenerateConfigType, PracticeConfigPayloadType} from "@/services/AppInterface";
 
 export const getListOfWordRandomBySize = (size: number) => {
   let endpoint = convertUrlParamToEndpoint(ENDPOINT_API.WORDS_RANDOM_BY_SIZE, `${size}`);
@@ -28,4 +28,8 @@ export const getOutcomesHomonymsToPractice = (payload: PracticeConfigPayloadType
 
 export const sendAnEmailReportOutcomes = (payload: PracticeConfigPayloadType) => {
   return callApi(ENDPOINT_API.SEND_AN_EMAIL_OUTCOME_PRACTICES, 'POST', payload);
+}
+
+export const getImageCreationByConfig = (payload: ImageGenerateConfigType) => {
+  return callApi(ENDPOINT_API.IMAGES_GENERATIONS, 'POST', payload);
 }
