@@ -32,6 +32,8 @@ export type PracticeConfigPayloadType = {
   en?: string;
   vi?: string;
   grammar?: string;
-  words: string[];
-  genreOfOutput: string;
+  word?: string;
+  character?: string;
+  words?: string[];
+  genreOfOutput?: string;
 }

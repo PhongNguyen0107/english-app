@@ -18,6 +18,7 @@ export async function POST(request: Request, {params}: any) {
     en: null,
     vi: null,
     grammar: null,
+    words: null,
     meta: null,
     type: type,
     message: null
@@ -30,6 +31,25 @@ export async function POST(request: Request, {params}: any) {
 
     case "images":
       endpoint = OPEN_AI_ENDPOINT_API.IMAGES_GENERATIONS
+      break;
+
+    case "homonyms":
+      endpoint = OPEN_AI_ENDPOINT_API.CHAT_COMPLETIONS
+      const homonymsPromptTest = `Give me the list of English words that are formed by replacing one "character" in "word" while keeping the position and the character of the remaining characters correct, along with their Vietnamese translations. The result is a list of words which distinct value. 
+An example: 
+Input: word is "cave", character is "v"
+Output: [cage, cate, cave, cafe, ...]
+Now, you can list out help me for the input: word is "Help" and character is "l". (add vietnamese translation next to the english)
+`
+      const homonymsPrompt = `Give me the list of homonyms English words  of "${body.word}" (add vietnamese translation next to the english)
+`
+      const respHomonym = await callApiOpenAI(openAIHost + endpoint, "POST", getPayloadGenerate(homonymsPrompt))
+      logger.info("OpenAI Homonyms response: with status %s", respHomonym.status)
+      response.words = get(respHomonym, "data.choices[0].message.content", null)
+
+      logger.info("OpenAI Homonyms prompt: %s", homonymsPrompt)
+      logger.info("OpenAI Homonyms outcomes: %s", response.words)
+      response.status = 200;
       break;
 
     case "grammar":
@@ -116,7 +136,7 @@ export const getPayloadGenerate = (prompt: string) => {
 }
 
 export const getPromptByConfigs = (configs: PracticeConfigPayloadType) => {
-  const prompt = `Please generate a ${configs.genreOfOutput} using the following list of words: [${configs.words.join(", ")}]. The purpose of this is to learn English and improve my grammar. Please ensure that the result includes common sentence structures and grammar rules.`;
+  const prompt = `Please generate a ${configs.genreOfOutput} using the following list of words: [${configs?.words?.join(", ")}]. The purpose of this is to learn English and improve my grammar. Please ensure that the result includes common sentence structures and grammar rules.`;
   logger.info("Prompt: %s", prompt)
   return prompt
 }

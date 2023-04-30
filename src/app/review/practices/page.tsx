@@ -41,7 +41,7 @@ const PracticesPage = () => {
   })
 
 
-  const getWordRandom = () => {
+    const getWordRandom = () => {
     setState({isLoad: true})
     getListOfWordRandomBySize(state.numOfWords)
       .then(resp => {
