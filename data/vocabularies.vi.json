@@ -22490,5 +22490,515 @@
         "verb": [
             "N"
         ]
+    },
+    {
+        "id": "U46_01",
+        "unitId": 46,
+        "word": "Ngôn ngữ",
+        "answers": [
+            "Language"
+        ],
+        "sentences": [
+            "English is a foreign language"
+        ],
+        "phrases": [
+            "Foreign language "
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U46_02",
+        "unitId": 46,
+        "word": "Thuộc nước ngoài",
+        "answers": [
+            "Foreign"
+        ],
+        "sentences": [
+            "We haven't been to foreign countries"
+        ],
+        "phrases": [
+            "A foreign country / nước ngoài"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U46_03",
+        "unitId": 46,
+        "word": "Hành trình, chuyến đi",
+        "answers": [
+            "Journey"
+        ],
+        "sentences": [
+            "Take me on a journey with you"
+        ],
+        "phrases": [
+            "On a journey"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U46_04",
+        "unitId": 46,
+        "word": "Người mới bắt đầu",
+        "answers": [
+            "Beginner"
+        ],
+        "sentences": [
+            "This level is easy for a beginner"
+        ],
+        "phrases": [
+            "For a beginner"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U46_05",
+        "unitId": 46,
+        "word": "Từ, lời nói",
+        "answers": [
+            "Word"
+        ],
+        "sentences": [
+            "My leader has the last word on team decisions (quyết định)"
+        ],
+        "phrases": [
+            "Have the last word on something / đưa lời nói cuối cùng về việc gì đó"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U46_06",
+        "unitId": 46,
+        "word": "Lưu loát",
+        "answers": [
+            "Fluent"
+        ],
+        "sentences": [
+            "She is fluent in French"
+        ],
+        "phrases": [
+            "Fluent in something"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U46_07",
+        "unitId": 46,
+        "word": "Bản địa",
+        "answers": [
+            "Native"
+        ],
+        "sentences": [
+            "My native language is Vietnamese"
+        ],
+        "phrases": [
+            "Native language / tiếng mẹ đẻ"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U46_08",
+        "unitId": 46,
+        "word": "Người nói",
+        "answers": [
+            "Speaker"
+        ],
+        "sentences": [
+            "She was a brilliant public speaker"
+        ],
+        "phrases": [
+            "A public speaker / một diễn giả"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U46_09",
+        "unitId": 46,
+        "word": "Dài hạn",
+        "answers": [
+            "Long-term"
+        ],
+        "sentences": [
+            "A long-term goal often takes years to achieve"
+        ],
+        "phrases": [
+            "Long-term goal"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U46_10",
+        "unitId": 46,
+        "word": "Khái niệm, ý tưởng chủ đạo",
+        "answers": [
+            "Concept"
+        ],
+        "sentences": [
+            "The concept of this event is experimental (Đang được thử nghiệm)"
+        ],
+        "phrases": [
+            "Concept of something / ý tưởng chủ đạo của something"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U46_11",
+        "unitId": 46,
+        "word": "Ghi lại",
+        "answers": [
+            "Note"
+        ],
+        "sentences": [
+            "I often note down new words in my handbook"
+        ],
+        "phrases": [
+            "Note down something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U46_12",
+        "unitId": 46,
+        "word": "Đánh vần",
+        "answers": [
+            "Spell"
+        ],
+        "sentences": [
+            "Please spell your name for me"
+        ],
+        "phrases": [
+            "Spell something / đánh vần một cái gì đó"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U46_13",
+        "unitId": 46,
+        "word": "Ngữ pháp",
+        "answers": [
+            "Grammar"
+        ],
+        "sentences": [
+            "English grammar is easy to learn"
+        ],
+        "phrases": [
+            "English grammar"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U46_14",
+        "unitId": 46,
+        "word": "Kỷ thuật",
+        "answers": [
+            "Technique"
+        ],
+        "sentences": [
+            "You must learn the technique for baking."
+        ],
+        "phrases": [
+            "Technique for doing something / kỷ thuật làm một cái gì đó"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U46_15",
+        "unitId": 46,
+        "word": "Thường xuyên",
+        "answers": [
+            "Regular"
+        ],
+        "sentences": [
+            "I am the restaurant's regular customer"
+        ],
+        "phrases": [
+            "A regular customer / khách quen"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U46_16",
+        "unitId": 46,
+        "word": "Dịch",
+        "answers": [
+            "Translate"
+        ],
+        "sentences": [
+            "Can you translate english into vietnamese?"
+        ],
+        "phrases": [
+            "Translate something into something / dịch một cái gì thành một cái gì"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U46_17",
+        "unitId": 46,
+        "word": "Bối cảnh",
+        "answers": [
+            "Context"
+        ],
+        "sentences": [
+            "In the context of funerals(đám tang), wear dark clothing."
+        ],
+        "phrases": [
+            "In or within the context of something / trong bối cảnh gì đó"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U46_18",
+        "unitId": 46,
+        "word": "Định nghĩa",
+        "answers": [
+            "Define"
+        ],
+        "sentences": [
+            "Please define this work for me"
+        ],
+        "phrases": [
+            "Define a word / định nghĩa một từ"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U46_19",
+        "unitId": 46,
+        "word": "Từ điển",
+        "answers": [
+            "Dictionary"
+        ],
+        "sentences": [
+            "You can look it up in the dictionary"
+        ],
+        "phrases": [
+            "Look it up in the dictionary / tra cứu trong từ điển"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U46_20",
+        "unitId": 46,
+        "word": "Động từ",
+        "answers": [
+            "Verb"
+        ],
+        "sentences": [
+            "\"To be\" is an irregular verb "
+        ],
+        "phrases": [
+            "Irregular verb / động từ bất quy tắc"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U46_21",
+        "unitId": 46,
+        "word": "Tương tác",
+        "answers": [
+            "Interact"
+        ],
+        "sentences": [
+            "I love interacting with people"
+        ],
+        "phrases": [
+            "Interact with somebody / tương tác với ai đó"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U46_22",
+        "unitId": 46,
+        "word": "Cụm từ",
+        "answers": [
+            "Phrase"
+        ],
+        "sentences": [
+            "Catchy phrase help me study better"
+        ],
+        "phrases": [
+            "Catchy phrase / cụm từ dễ nhớ"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U46_23",
+        "unitId": 46,
+        "word": "Giảm tốc độ",
+        "answers": [
+            "Slow down"
+        ],
+        "sentences": [
+            "Slow the car down"
+        ],
+        "phrases": [
+            "Slow somebody of something down "
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U46_24",
+        "unitId": 46,
+        "word": "Căn bản, cơ bản",
+        "answers": [
+            "Basic"
+        ],
+        "sentences": [
+            "Lions have basic instincts in hunting"
+        ],
+        "phrases": [
+            "Basic instinct / bản năng căn bản"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U46_25",
+        "unitId": 46,
+        "word": "Quên",
+        "answers": [
+            "Forget"
+        ],
+        "sentences": [
+            "I forgot about you"
+        ],
+        "phrases": [
+            "Forget about something or someone / quên đi một cái gì đó hoặc ai đó"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U46_26",
+        "unitId": 46,
+        "word": "Nghe",
+        "answers": [
+            "Sound"
+        ],
+        "sentences": [
+            "Does my accent sound right?"
+        ],
+        "phrases": [
+            "Sound right / nghe đúng, nghe chuẩn"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U46_27",
+        "unitId": 46,
+        "word": "Trò chuyện",
+        "answers": [
+            "Chat"
+        ],
+        "sentences": [
+            "She is chatting with someone at the bar"
+        ],
+        "phrases": [
+            "Chat with somebody"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U46_28",
+        "unitId": 46,
+        "word": "Câu",
+        "answers": [
+            "Sentence"
+        ],
+        "sentences": [
+            "English only has a few basic sentence structures"
+        ],
+        "phrases": [
+            "Sentence structure / cấu trúc câu"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U46_29",
+        "unitId": 46,
+        "word": "Tự tin",
+        "answers": [
+            "Confident"
+        ],
+        "sentences": [
+            "Are you confident about your performance?"
+        ],
+        "phrases": [
+            "Confident about something"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U46_30",
+        "unitId": 46,
+        "word": "Ý nghĩa",
+        "answers": [
+            "Meaning"
+        ],
+        "sentences": [
+            "What is the meaning of life ="
+        ],
+        "phrases": [
+            "Meaning of something"
+        ],
+        "verb": [
+            "N"
+        ]
     }
 ]
