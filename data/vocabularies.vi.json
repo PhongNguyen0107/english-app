@@ -23510,5 +23510,515 @@
         "verb": [
             "N"
         ]
+    },
+    {
+        "id": "U48_01",
+        "unitId": 48,
+        "word": "Xuất bản",
+        "answers": [
+            "Publish"
+        ],
+        "sentences": [
+            "The author published one novel"
+        ],
+        "phrases": [
+            "Publish something "
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U48_02",
+        "unitId": 48,
+        "word": "Người máy",
+        "answers": [
+            "Robot"
+        ],
+        "sentences": [
+            "I always sing without emotion like a robot"
+        ],
+        "phrases": [
+            "Like a robot / như một cái máy"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U48_03",
+        "unitId": 48,
+        "word": "Máy móc",
+        "answers": [
+            "Machine"
+        ],
+        "sentences": [
+            "The watch was made by machine"
+        ],
+        "phrases": [
+            "By machine / bằng máy"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U48_04",
+        "unitId": 48,
+        "word": "Có thể",
+        "answers": [
+            "Able"
+        ],
+        "sentences": [
+            "She is able to play the piano"
+        ],
+        "phrases": [
+            "Able to do something / có thể làm một cái gì đó"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U48_05",
+        "unitId": 48,
+        "word": "Tự động",
+        "answers": [
+            "Automatic"
+        ],
+        "sentences": [
+            "The car is fully automatic"
+        ],
+        "phrases": [
+            "Fully automatic / hoàn toàn tự động"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U48_06",
+        "unitId": 48,
+        "word": "Trả lời",
+        "answers": [
+            "Respond"
+        ],
+        "sentences": [
+            "Please respond to my email by morning"
+        ],
+        "phrases": [
+            "Respond to something or somebody "
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U48_07",
+        "unitId": 48,
+        "word": "Khảo sát",
+        "answers": [
+            "Survey"
+        ],
+        "sentences": [
+            "We conducted a survey for research"
+        ],
+        "phrases": [
+            "Conduct a survey / tiến hành một cuộc khảo sát"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U48_08",
+        "unitId": 48,
+        "word": "Dòng trạng thái",
+        "answers": [
+            "Status"
+        ],
+        "sentences": [
+            "I recently posted a status on FB"
+        ],
+        "phrases": [
+            "Post a status / đăng tải một dòng trạng thái"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U48_09",
+        "unitId": 48,
+        "word": "Đính",
+        "answers": [
+            "Attach"
+        ],
+        "sentences": [
+            "Could you attach the file with your email?"
+        ],
+        "phrases": [
+            "Attach something to something / đính một cái gì đó vào một cái gì đó"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U48_10",
+        "unitId": 48,
+        "word": "Tài khoản",
+        "answers": [
+            "Account"
+        ],
+        "sentences": [
+            "I am opening up a bank account"
+        ],
+        "phrases": [
+            "A bank account"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U48_11",
+        "unitId": 48,
+        "word": "Chính sách",
+        "answers": [
+            "Policy"
+        ],
+        "sentences": [
+            "What is your policy on education?"
+        ],
+        "phrases": [
+            "Policy on something / chính sách về một cái gì đó"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U48_12",
+        "unitId": 48,
+        "word": "Trang",
+        "answers": [
+            "Page"
+        ],
+        "sentences": [
+            "Turn to page 25 and read"
+        ],
+        "phrases": [
+            "Turn to page / lật sang trang"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U48_13",
+        "unitId": 48,
+        "word": "Cho phép",
+        "answers": [
+            "Permit"
+        ],
+        "sentences": [
+            "My parents do not permit me to come home late"
+        ],
+        "phrases": [
+            "Permit somebody to do something / cho pe ai đó làm một cái gì đó"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U48_14",
+        "unitId": 48,
+        "word": "Hợp lệ, có hiệu lực",
+        "answers": [
+            "Valid"
+        ],
+        "sentences": [
+            "A valid passport is needed for traveling"
+        ],
+        "phrases": [
+            "Valid passport / hộ chiếu có hiệu lực"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U48_15",
+        "unitId": 48,
+        "word": "Ổn định",
+        "answers": [
+            "Stable"
+        ],
+        "sentences": [
+            "The petrol price remains stable in recent times"
+        ],
+        "phrases": [
+            "Remain stable / vẫn ổn định"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U48_16",
+        "unitId": 48,
+        "word": "Kẻ trộm",
+        "answers": [
+            "Thief"
+        ],
+        "sentences": [
+            "Stealing makes you a petty thief"
+        ],
+        "phrases": [
+            "Petty thief / kẻ cắp vặt"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U48_17",
+        "unitId": 48,
+        "word": "Vệ tinh",
+        "answers": [
+            "Satellite"
+        ],
+        "sentences": [
+            "We can watch TV via satallite"
+        ],
+        "phrases": [
+            "Via satellite / thông qua vệ tinh"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U48_18",
+        "unitId": 48,
+        "word": "Tên lửa",
+        "answers": [
+            "Rocket"
+        ],
+        "sentences": [
+            "Little boys love space rockets"
+        ],
+        "phrases": [
+            "Space rocket / tên lửa vũ trụ"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U48_19",
+        "unitId": 48,
+        "word": "Vũ khí",
+        "answers": [
+            "Weapon"
+        ],
+        "sentences": [
+            "Police are armed (trang bị) with weapons"
+        ],
+        "phrases": [
+            "With a weapon / với một vũ khí"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U48_20",
+        "unitId": 48,
+        "word": "Lời cảnh cáo, cảnh báo",
+        "answers": [
+            "Warning"
+        ],
+        "sentences": [
+            "I received a warning for my mistake"
+        ],
+        "phrases": [
+            "Receive a warning / nhận được một lời cảnh cáo"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U48_21",
+        "unitId": 48,
+        "word": "Hồ sơ",
+        "answers": [
+            "Profile"
+        ],
+        "sentences": [
+            "I set up a profile on FB"
+        ],
+        "phrases": [
+            "Set up a profile / thiết lập hồ sơ cá nhân"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U48_22",
+        "unitId": 48,
+        "word": "Chọn",
+        "answers": [
+            "Select"
+        ],
+        "sentences": [
+            "I will help you select an option for your travel plan"
+        ],
+        "phrases": [
+            "Select something / lựa chọn một cái gì đó"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U48_23",
+        "unitId": 48,
+        "word": "Chỉnh sửa",
+        "answers": [
+            "Edit"
+        ],
+        "sentences": [
+            "Can you edit my essay?"
+        ],
+        "phrases": [
+            "Edit something / chỉnh sửa một cái gì đó"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U48_24",
+        "unitId": 48,
+        "word": "Giới hạn",
+        "answers": [
+            "Limit"
+        ],
+        "sentences": [
+            "Mother limited me to playing once a day."
+        ],
+        "phrases": [
+            "Limit somebody to something / giới hạn ai đó trong một việc gì đó"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U48_25",
+        "unitId": 48,
+        "word": "Sao lưu dữ liệu",
+        "answers": [
+            "Back up"
+        ],
+        "sentences": [
+            "You should back up your data"
+        ],
+        "phrases": [
+            "Back up the data"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U48_26",
+        "unitId": 48,
+        "word": "Dữ liệu",
+        "answers": [
+            "Data"
+        ],
+        "sentences": [
+            "Scientists gather data for research "
+        ],
+        "phrases": [
+            "Gather data / thu thập dữ liệu"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U48_27",
+        "unitId": 48,
+        "word": "Thư viện",
+        "answers": [
+            "Library"
+        ],
+        "sentences": [
+            "Return the library book in 1 day"
+        ],
+        "phrases": [
+            "Library book / sách thư viện"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U48_28",
+        "unitId": 48,
+        "word": "Tìm kiếm",
+        "answers": [
+            "Search"
+        ],
+        "sentences": [
+            "I search for love"
+        ],
+        "phrases": [
+            "Search for somebody or something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U48_29",
+        "unitId": 48,
+        "word": "Tiêu chuẩn",
+        "answers": [
+            "Standard"
+        ],
+        "sentences": [
+            "All products must meet the quality standards"
+        ],
+        "phrases": [
+            "Quality standards / các tiêu chuẩn chất lượng"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U48_30",
+        "unitId": 48,
+        "word": "Kho",
+        "answers": [
+            "Storage"
+        ],
+        "sentences": [
+            "The bags are still in storage"
+        ],
+        "phrases": [
+            "In storage / trong kho"
+        ],
+        "verb": [
+            "N"
+        ]
     }
 ]

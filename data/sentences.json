@@ -1,9 +1,492 @@
 [
   {
-    "id": 1,
+    "id": 0,
     "en": "Can't judge a book by its cover",
     "vi": "Không thể đánh giá qua vẻ bề ngoài",
     "origin": "không thể đánh giá một cuốn sách bằng bìa của nó",
+    "image": ""
+  },
+  {
+    "id": 1,
+    "en": "You don't need to wear a jacket.",
+    "vi": "Bạn không cần mặc áo khoác",
+    "origin": "Bạn không cần mặc áo khoác",
+    "image": ""
+  },
+  {
+    "id": 2,
+    "en": "I don't want to talk about it",
+    "vi": "Tôi không muốn nói về nó.",
+    "origin": "Tôi không muốn nói về nó.",
+    "image": ""
+  },
+  {
+    "id": 3,
+    "en": "Can we have a party?",
+    "vi": "Chúng ta có thể mở một bữa tiệc không?",
+    "origin": "Chúng ta có thể mở một bữa tiệc không?",
+    "image": ""
+  },
+  {
+    "id": 4,
+    "en": "Are you talking to me?",
+    "vi": "Bạn đang nói chuyện với tôi phải không?",
+    "origin": "Bạn đang nói chuyện với tôi phải không?",
+    "image": ""
+  },
+  {
+    "id": 5,
+    "en": "A couple of minutes later",
+    "vi": "Một vài phút sau",
+    "origin": "Một vài phút sau",
+    "image": ""
+  },
+  {
+    "id": 6,
+    "en": "Can i sit next to the window",
+    "vi": "Tôi có thể ngồi cạnh cửa sổ không?",
+    "origin": "Tôi có thể ngồi cạnh cửa sổ không?",
+    "image": ""
+  },
+  {
+    "id": 7,
+    "en": "Is she cleaning the toilet?",
+    "vi": "CÔ ấy có đang dọn nhà vệ sinh không",
+    "origin": "CÔ ấy có đang dọn nhà vệ sinh không",
+    "image": ""
+  },
+  {
+    "id": 8,
+    "en": "I would like to have breakfast with you",
+    "vi": "Tôi muốn ăn sáng cùng với bạn",
+    "origin": "Tôi muốn ăn sáng cùng với bạn",
+    "image": ""
+  },
+  {
+    "id": 9,
+    "en": "Would you like some beef for lunch?",
+    "vi": "Bạn có muốn một ít thịt bò vào bữa trưa không?",
+    "origin": "Bạn có muốn một ít thịt bò vào bữa trưa không?",
+    "image": ""
+  },
+  {
+    "id": 10,
+    "en": "That little girl is funny.",
+    "vi": "Cô bé con đó thì vui tính.",
+    "origin": "Cô bé con đó thì vui tính.",
+    "image": ""
+  },
+  {
+    "id": 11,
+    "en": "Are we best friends?",
+    "vi": "Chúng ta có phải là bạn thân không?",
+    "origin": "Chúng ta có phải là bạn thân không?",
+    "image": ""
+  },
+  {
+    "id": 12,
+    "en": "OK, I'm going to tell the principal that I want to leave this job.",
+    "vi": "Được rồi, tôi sẽ nói với hiệu trưởng rằng tôi muốn rời khỏi công việc này.",
+    "origin": "Được rồi, tôi sẽ nói với hiệu trưởng rằng tôi muốn rời khỏi công việc này.",
+    "image": ""
+  },
+  {
+    "id": 13,
+    "en": "I think you're a great teacher/developer!",
+    "vi": "Tôi nghĩ bạn là một giáo viên/ lập trình viên giỏi!",
+    "origin": "Tôi nghĩ bạn là một giáo viên/ lập trình viên giỏi!",
+    "image": ""
+  },
+  {
+    "id": 14,
+    "en": "It is my new job!",
+    "vi": "Nó là công việc mới của tôi!",
+    "origin": "Nó là công việc mới của tôi!",
+    "image": ""
+  },
+  {
+    "id": 15,
+    "en": "Where do you want to go?",
+    "vi": "Bạn muốn đi đâu?",
+    "origin": "Bạn muốn đi đâu?",
+    "image": ""
+  },
+  {
+    "id": 16,
+    "en": "Hello, Mr.Huy, I’m ready to eat lunch",
+    "vi": "Xin chào anh Huy, tôi đã sẵn sàng để ăn trưa",
+    "origin": "Xin chào anh Huy, tôi đã sẵn sàng để ăn trưa",
+    "image": ""
+  },
+  {
+    "id": 17,
+    "en": "Do you like the weather in August?",
+    "vi": "Bạn có thích thời tiết vào tháng 8 không?",
+    "origin": "Bạn có thích thời tiết vào tháng 8 không?",
+    "image": ""
+  },
+  {
+    "id": 18,
+    "en": "I always study English everyday.",
+    "vi": "Tôi luôn luôn học tiếng anh hàng ngày.",
+    "origin": "Tôi luôn luôn học tiếng anh hàng ngày.",
+    "image": ""
+  },
+  {
+    "id": 19,
+    "en": "I always study English on Sundays",
+    "vi": "Do you go to work on Sundays?",
+    "origin": "Do you go to work on Sundays?",
+    "image": ""
+  },
+  {
+    "id": 20,
+    "en": "Bạn có đi làm vào Chủ Nhật không?",
+    "vi": "What time do you go to work?",
+    "origin": "What time do you go to work?",
+    "image": ""
+  },
+  {
+    "id": 21,
+    "en": "Mấy giờ bạn đi làm?",
+    "vi": "Do you want to go to work together?",
+    "origin": "Do you want to go to work together?",
+    "image": ""
+  },
+  {
+    "id": 22,
+    "en": "Bạn có muốn đi làm cùng nhau không?",
+    "vi": "You look like someone i knew many years ago",
+    "origin": "You look like someone i knew many years ago",
+    "image": ""
+  },
+  {
+    "id": 23,
+    "en": "There are some apples in the fridge.",
+    "vi": "Có một vài quả táo trong tủ lạnh.",
+    "origin": "Có một vài quả táo trong tủ lạnh.",
+    "image": ""
+  },
+  {
+    "id": 24,
+    "en": "It snows a lot in January.",
+    "vi": "Tuyết rơi nhiều vào tháng 1",
+    "origin": "Tuyết rơi nhiều vào tháng 1",
+    "image": ""
+  },
+  {
+    "id": 25,
+    "en": "Does it rain here in April?",
+    "vi": "Ở đây trời có mưa vào tháng Tư không?",
+    "origin": "Ở đây trời có mưa vào tháng Tư không?",
+    "image": ""
+  },
+  {
+    "id": 26,
+    "en": "How is the weather in Dalat?",
+    "vi": "Thời tiết ở Đà Lạt thế nào?",
+    "origin": "Thời tiết ở Đà Lạt thế nào?",
+    "image": ""
+  },
+  {
+    "id": 27,
+    "en": "She does not like to watch movies.",
+    "vi": "Cô ấy không thích xem phim",
+    "origin": "Cô ấy không thích xem phim",
+    "image": ""
+  },
+  {
+    "id": 28,
+    "en": "Do birds have ears?",
+    "vi": "Con chim có tai không",
+    "origin": "Con chim có tai không",
+    "image": ""
+  },
+  {
+    "id": 29,
+    "en": "You help me often. Of course I’m going to help you now.",
+    "vi": "Cậu giúp tớ thường xuyên, tất nhiên là tớ sẽ giúp cậu bây giờ",
+    "origin": "Cậu giúp tớ thường xuyên, tất nhiên là tớ sẽ giúp cậu bây giờ",
+    "image": ""
+  },
+  {
+    "id": 30,
+    "en": "When will it be ready",
+    "vi": "Khi nào thì nó mới được",
+    "origin": "Khi nào thì nó mới được",
+    "image": ""
+  },
+  {
+    "id": 31,
+    "en": "Are you OK, Phong? You look worried.",
+    "vi": "Bạn ổn không, Phong? trong cậu có vẻ lo lắng.",
+    "origin": "Bạn ổn không, Phong? trong cậu có vẻ lo lắng.",
+    "image": ""
+  },
+  {
+    "id": 32,
+    "en": "Bạn muốn làm gì tối nay?",
+    "vi": "What would you like to do tonight?",
+    "origin": "What would you like to do tonight?",
+    "image": ""
+  },
+  {
+    "id": 33,
+    "en": "I'm really excited to meet him.",
+    "vi": "Tôi rất háo hức gặp anh ấy",
+    "origin": "Tôi rất háo hức gặp anh ấy",
+    "image": ""
+  },
+  {
+    "id": 34,
+    "en": "I clean the toilet every day.",
+    "vi": "Tôi dọn nhà vệ sinh mỗi ngày",
+    "origin": "Tôi dọn nhà vệ sinh mỗi ngày",
+    "image": ""
+  },
+  {
+    "id": 35,
+    "en": "He never cleans his room.",
+    "vi": "Anh ấy không bao giờ dọn dẹp phòng của anh ấy",
+    "origin": "Anh ấy không bao giờ dọn dẹp phòng của anh ấy",
+    "image": ""
+  },
+  {
+    "id": 36,
+    "en": "Don't Make My Mistakes",
+    "vi": "Đừng mắc sai lầm",
+    "origin": "Đừng mắc sai lầm",
+    "image": ""
+  },
+  {
+    "id": 37,
+    "en": "What time does the meeting start?",
+    "vi": "Mấy giờ buổi họp bắt đầu?",
+    "origin": "Mấy giờ buổi họp bắt đầu?",
+    "image": ""
+  },
+  {
+    "id": 38,
+    "en": "What time do you go to school",
+    "vi": "Mấy giờ bạn đi học?",
+    "origin": "Mấy giờ bạn đi học?",
+    "image": ""
+  },
+  {
+    "id": 39,
+    "en": "What time do you have dinner",
+    "vi": "Mấy giờ bạn ăn tối?",
+    "origin": "Mấy giờ bạn ăn tối?",
+    "image": ""
+  },
+  {
+    "id": 40,
+    "en": "The game is at three o'clock.",
+    "vi": "Trận đấu là vào lúc 3 giờ",
+    "origin": "Trận đấu là vào lúc 3 giờ",
+    "image": ""
+  },
+  {
+    "id": 41,
+    "en": "Do you want to close the door?",
+    "vi": "Bạn có muốn đóng cửa không?",
+    "origin": "Bạn có muốn đóng cửa không?",
+    "image": ""
+  },
+  {
+    "id": 42,
+    "en": "On the other hand",
+    "vi": "Mặt khác",
+    "origin": "Mặt khác",
+    "image": ""
+  },
+  {
+    "id": 43,
+    "en": "How many pens do you have?",
+    "vi": "Bạn có bao nhiều chiếc bút?",
+    "origin": "Bạn có bao nhiều chiếc bút?",
+    "image": ""
+  },
+  {
+    "id": 44,
+    "en": "Emma doesn't want to come here.",
+    "vi": "Emma không muốn đến đây.",
+    "origin": "Emma không muốn đến đây.",
+    "image": ""
+  },
+  {
+    "id": 45,
+    "en": "Is there a bus station near our hotel?",
+    "vi": "Có một trạm xe buýt gần khách sạn của chúng tôi phải không?",
+    "origin": "Có một trạm xe buýt gần khách sạn của chúng tôi phải không?",
+    "image": ""
+  },
+  {
+    "id": 46,
+    "en": "Duo rides a bike to school every day.",
+    "vi": "Duo đi xe đạp đến trường mỗi ngày.",
+    "origin": "Duo đi xe đạp đến trường mỗi ngày.",
+    "image": ""
+  },
+  {
+    "id": 47,
+    "en": "There are many trees in front of the hotel.",
+    "vi": "Có nhiều cây trước khách sạn.",
+    "origin": "Có nhiều cây trước khách sạn.",
+    "image": ""
+  },
+  {
+    "id": 48,
+    "en": "There are many cars in front of my house.",
+    "vi": "Có nhiều xe ô tô trước nhà của tôi.",
+    "origin": "Có nhiều xe ô tô trước nhà của tôi.",
+    "image": ""
+  },
+  {
+    "id": 49,
+    "en": "Which shoe store is open?",
+    "vi": "Cửa hàng giày nào mở cửa?",
+    "origin": "Cửa hàng giày nào mở cửa?",
+    "image": ""
+  },
+  {
+    "id": 50,
+    "en": "What time is the meeting?",
+    "vi": "Cuộc họp là vào lúc mấy giờ?",
+    "origin": "Cuộc họp là vào lúc mấy giờ?",
+    "image": ""
+  },
+  {
+    "id": 51,
+    "en": "Which movies do you like?",
+    "vi": "Bạn thích bộ phim nào?",
+    "origin": "Bạn thích bộ phim nào?",
+    "image": ""
+  },
+  {
+    "id": 52,
+    "en": "When we can go home?",
+    "vi": "Khi nào mình có thể về nhà",
+    "origin": "Khi nào mình có thể về nhà",
+    "image": ""
+  },
+  {
+    "id": 53,
+    "en": "She draws very well.",
+    "vi": "Cô ấy vẽ rất giỏi.",
+    "origin": "Cô ấy vẽ rất giỏi.",
+    "image": ""
+  },
+  {
+    "id": 54,
+    "en": "My left eye doesn't hurt.",
+    "vi": "Mắt trái của tôi không đau.",
+    "origin": "Mắt trái của tôi không đau.",
+    "image": ""
+  },
+  {
+    "id": 55,
+    "en": "Horses are friendly animals.",
+    "vi": "Ngựa là động vật thân thiện",
+    "origin": "Ngựa là động vật thân thiện",
+    "image": ""
+  },
+  {
+    "id": 56,
+    "en": "Can I have some coffee?",
+    "vi": "Cho tôi một ít cà phê được không",
+    "origin": "Cho tôi một ít cà phê được không",
+    "image": ""
+  },
+  {
+    "id": 57,
+    "en": "He acted without reference to me",
+    "vi": "Anh ấy làm mà không hỏi ý kiến tôi",
+    "origin": "Anh ấy làm mà không hỏi ý kiến tôi",
+    "image": ""
+  },
+  {
+    "id": 58,
+    "en": "Your confidence is born of experience",
+    "vi": "Sự tự tin của bạn được sinh ra từ kinh nghiệm",
+    "origin": "Sự tự tin của bạn được sinh ra từ kinh nghiệm",
+    "image": ""
+  },
+  {
+    "id": 59,
+    "en": "How did you do that?",
+    "vi": "Bạn đã làm điều đó như thế nào",
+    "origin": "Bạn đã làm điều đó như thế nào",
+    "image": ""
+  },
+  {
+    "id": 60,
+    "en": "Her silence merely exacerbated the problem.",
+    "vi": "Sự im lặng của cô ấy đã làm vấn đề nghiêm trọng thêm.",
+    "origin": "Sự im lặng của cô ấy đã làm vấn đề nghiêm trọng thêm.",
+    "image": ""
+  },
+  {
+    "id": 61,
+    "en": "Which universities do you like?",
+    "vi": "Ban thích học trường đại học nào",
+    "origin": "Ban thích học trường đại học nào",
+    "image": ""
+  },
+  {
+    "id": 62,
+    "en": "Can I get you a beer?",
+    "vi": "Tôi lấy cho bạn một cốc bia nhé?",
+    "origin": "Tôi lấy cho bạn một cốc bia nhé?",
+    "image": ""
+  },
+  {
+    "id": 63,
+    "en": "You need to wait for five minutes.",
+    "vi": "Bạn cần đợi năm phút.",
+    "origin": "Bạn cần đợi năm phút.",
+    "image": ""
+  },
+  {
+    "id": 64,
+    "en": "Do you like to travel by car?",
+    "vi": "Bạn có thích đi du lịch bằng xe ô tô không",
+    "origin": "Bạn có thích đi du lịch bằng xe ô tô không",
+    "image": ""
+  },
+  {
+    "id": 65,
+    "en": "You need to learn to cook.",
+    "vi": "Bạn cần học nấu ăn",
+    "origin": "Bạn cần học nấu ăn",
+    "image": ""
+  },
+  {
+    "id": 66,
+    "en": "What kind of drink do you want?",
+    "vi": "Bạn muốn uống loại nước nào",
+    "origin": "Bạn muốn uống loại nước nào",
+    "image": ""
+  },
+  {
+    "id": 67,
+    "en": "Hit the nail on the head",
+    "vi": "Nói điều gì đó hoàn toàn chính xác",
+    "origin": "Đánh trúng đầu đinh",
+    "image": ""
+  },
+  {
+    "id": 68,
+    "en": "To be on the same page",
+    "vi": "Khi bạn và ai đó đang \"on the same page\", cả hai cùng chung suy nghĩ, ý tưởng, không bất đồng với nhau. ",
+    "origin": "to understand and agree with what is being done or suggested\n",
+    "image": ""
+  },
+  {
+    "id": 69,
+    "en": "To give someone the benefit of the doubt",
+    "vi": "Mặc dù bạn vẫn còn nghi ngờ, lấn cấn với ai đó, bạn vẫn quyết định tin tưởng họ.",
+    "origin": "Chuck is trying to be a better person, can you give him the benefit of the doubt? \n Chuck đang cố gắng trở thành người tốt, cậu có thể tin tưởng anh ấy được không?",
     "image": ""
   }
 ]

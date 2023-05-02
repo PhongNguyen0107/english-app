@@ -1,15 +1,15 @@
 'use client';
-import React from "react";
+import React, {useEffect} from "react";
 import {Affix, Button, Card, Col, Input, Row, Space, Spin} from 'antd';
 import TabBar from "@/components/tab-bar/TabBar";
 import {ROUTE_NAME} from "@/configuration/Application.config";
-import {useRouter} from "next/navigation";
 import {useQuery} from "react-query";
 import {getSentences} from "@/services/Sentences.service";
 import MenuBar from "@/components/MenuBar";
 import {SentenceType} from "@/services/AppInterface";
 import {useSetState} from "ahooks";
 import Fuse from "fuse.js";
+
 const {Search} = Input
 type IState = {
   isShowAnswer: boolean;
@@ -22,8 +22,6 @@ type IState = {
   isShowSentence: boolean;
 }
 const Sentences = () => {
-  const router = useRouter()
-
 
   const {data: sentencesResp, isLoading} = useQuery('sentences', getSentences);
   const sentences = sentencesResp?.data?.data || [];
@@ -40,6 +38,9 @@ const Sentences = () => {
     unit: 0
   })
 
+  useEffect(() => {
+    setReviewState({sentences: sentences})
+  }, [sentences])
 
   const onSearchInput = (v: string) => {
     if (!v) setReviewState({search: v, sentences: sentences});
@@ -48,7 +49,7 @@ const Sentences = () => {
         includeScore: true,
         keys: [
           {name: 'en', getFn: (w: SentenceType) => w.en.toString()},
-          {name: 'vi', getFn: (w: SentenceType) => w.vi},
+          {name: 'vi', getFn: (w: SentenceType) => w.vi.toString()},
           {name: 'origin', getFn: (w: SentenceType) => w.origin},
         ],
         isCaseSensitive: false,
@@ -58,7 +59,7 @@ const Sentences = () => {
         minMatchCharLength: 1,
         location: 0,
         threshold: 0.6,
-        distance: 100,
+        distance: 1000,
         useExtendedSearch: false,
         ignoreLocation: false,
         ignoreFieldNorm: false,
@@ -135,10 +136,10 @@ const Sentences = () => {
 
           </Affix>
 
-          {sentences.map((s: SentenceType) => {
+          {reviewState.sentences.map((s: SentenceType) => {
             return (
-              <Col key={s.id} xs={24} lg={12} xxl={8}>
-                <Card>
+              <Col key={s.id} xs={24} lg={12} xxl={8} style={{height: "100%"}}>
+                <Card className={"fw"}>
                   <div>{s.en}</div>
                   <div>{s.vi}</div>
                 </Card>
