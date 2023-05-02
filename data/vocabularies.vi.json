@@ -23000,5 +23000,515 @@
         "verb": [
             "N"
         ]
+    },
+    {
+        "id": "U47_01",
+        "unitId": 47,
+        "word": "Đăng",
+        "answers": [
+            "Post"
+        ],
+        "sentences": [
+            "She posted a picture on Instagram"
+        ],
+        "phrases": [
+            "Post something / đăng một cái gì đó"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U47_02",
+        "unitId": 47,
+        "word": "Thông báo",
+        "answers": [
+            "Notification"
+        ],
+        "sentences": [
+            "I turned off notifications on FB"
+        ],
+        "phrases": [
+            "Turn on or off notifications"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U47_03",
+        "unitId": 47,
+        "word": "Phần mềm",
+        "answers": [
+            "Software"
+        ],
+        "sentences": [
+            "Software developers help me update my computer"
+        ],
+        "phrases": [
+            "A software developer / nhà phát triển phần mềm"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U47_04",
+        "unitId": 47,
+        "word": "Cập nhật",
+        "answers": [
+            "Update"
+        ],
+        "sentences": [
+            "You should update your phone"
+        ],
+        "phrases": [
+            "Update something / cập nhật một cái gì đó"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U47_05",
+        "unitId": 47,
+        "word": "Đường dẫn, liên kết",
+        "answers": [
+            "Link"
+        ],
+        "sentences": [
+            "Click on this link to download the document"
+        ],
+        "phrases": [
+            "Click the link / nhấn vào liên kết"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U47_06",
+        "unitId": 47,
+        "word": "Ngón tay",
+        "answers": [
+            "Finger"
+        ],
+        "sentences": [
+            "He points his finger in her direction"
+        ],
+        "phrases": [
+            "Point the finger / chỉ tay"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U47_07",
+        "unitId": 47,
+        "word": "Nhấn chuột",
+        "answers": [
+            "Click"
+        ],
+        "sentences": [
+            "Click on the button to stop"
+        ],
+        "phrases": [
+            "Click on something / nhấp vào một cái gì đó"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U47_08",
+        "unitId": 47,
+        "word": "Tải xuống",
+        "answers": [
+            "Download"
+        ],
+        "sentences": [
+            "Download the program to start"
+        ],
+        "phrases": [
+            "Download something / tải về một cái gì đó"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U47_09",
+        "unitId": 47,
+        "word": "Công nghệ",
+        "answers": [
+            "Technology"
+        ],
+        "sentences": [
+            "Modern technology makes our lives better"
+        ],
+        "phrases": [
+            "Modern technology / công nghệ hiện đại"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U47_10",
+        "unitId": 47,
+        "word": "Sự giao tiếp",
+        "answers": [
+            "Communication"
+        ],
+        "sentences": [
+            "We must have clear communication within the team"
+        ],
+        "phrases": [
+            "Clear communication / sự giao tiếp rõ ràng"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U47_11",
+        "unitId": 47,
+        "word": "Trang mạng",
+        "answers": [
+            "Site"
+        ],
+        "sentences": [
+            "FB is one of the most popular social media sites"
+        ],
+        "phrases": [
+            "A social media site / một trang mạng xã hội"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U47_12",
+        "unitId": 47,
+        "word": "Trang nhật ký",
+        "answers": [
+            "Blog"
+        ],
+        "sentences": [
+            "My online blog is about make-up"
+        ],
+        "phrases": [
+            "An online blog / trang nhật ký trực tuyến"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U47_13",
+        "unitId": 47,
+        "word": "Đổi",
+        "answers": [
+            "Switch"
+        ],
+        "sentences": [
+            "You can press here to switch between your email accounts"
+        ],
+        "phrases": [
+            "Switch between something / đổi giữa cái gì đó"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U47_14",
+        "unitId": 47,
+        "word": "Truy cập",
+        "answers": [
+            "Access"
+        ],
+        "sentences": [
+            "We can access the Internet"
+        ],
+        "phrases": [
+            "Access something or somebody / truy cập một cái gì đó hoặc ai đó"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U47_15",
+        "unitId": 47,
+        "word": "Khách ghé thăm, khách truy cập",
+        "answers": [
+            "Visitor"
+        ],
+        "sentences": [
+            "This site has a growing number of first-time visitors"
+        ],
+        "phrases": [
+            "First-time visitor / khách truy cập lần đầu"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U47_16",
+        "unitId": 47,
+        "word": "Biểu tượng",
+        "answers": [
+            "Icon"
+        ],
+        "sentences": [
+            "Click on the app icon to start"
+        ],
+        "phrases": [
+            "App icon / biểu tưởng ứng dụng"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U47_17",
+        "unitId": 47,
+        "word": "Đăng ký",
+        "answers": [
+            "Sign up"
+        ],
+        "sentences": [
+            "Please sign up for dance class"
+        ],
+        "phrases": [
+            "Sign up for something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U47_18",
+        "unitId": 47,
+        "word": "Tân tiến, đột phá",
+        "answers": [
+            "Innovative"
+        ],
+        "sentences": [
+            "The architecture has an innovative design"
+        ],
+        "phrases": [
+            "Innovative design / thiết kế mang tính đột phá"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U47_19",
+        "unitId": 47,
+        "word": "Trực tiếp",
+        "answers": [
+            "Online"
+        ],
+        "sentences": [
+            "Online shopping is popular in these times(rất phổ biến hiện nay)"
+        ],
+        "phrases": [
+            "Online shopping / mua sắm trực tuyến"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U47_20",
+        "unitId": 47,
+        "word": "Mạng lưới",
+        "answers": [
+            "Network"
+        ],
+        "sentences": [
+            "I have a network of business contacts"
+        ],
+        "phrases": [
+            "Network of something / mạng lưới của cái gì đó"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U47_21",
+        "unitId": 47,
+        "word": "Tín hiệu",
+        "answers": [
+            "Signal"
+        ],
+        "sentences": [
+            "It was a signal for me to run"
+        ],
+        "phrases": [
+            "A signal to do something / một tín hiệu đê làm một cái gì đó"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U47_22",
+        "unitId": 47,
+        "word": "Bảng",
+        "answers": [
+            "Board"
+        ],
+        "sentences": [
+            "The teacher writes a question on the board"
+        ],
+        "phrases": [
+            "On the board"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U47_23",
+        "unitId": 47,
+        "word": "Tiên tiến",
+        "answers": [
+            "Advanced"
+        ],
+        "sentences": [
+            "Advanced technology connects us easier"
+        ],
+        "phrases": [
+            "Advanced technology / công nghệ tiên tiến"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U47_24",
+        "unitId": 47,
+        "word": "Trả lời",
+        "answers": [
+            "Reply"
+        ],
+        "sentences": [
+            "She replied to me yesterday"
+        ],
+        "phrases": [
+            "Reply to somebody or something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U47_25",
+        "unitId": 47,
+        "word": "Không gian",
+        "answers": [
+            "Space"
+        ],
+        "sentences": [
+            "My phone needs extra space for storage"
+        ],
+        "phrases": [
+            "Extra space"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U47_26",
+        "unitId": 47,
+        "word": "Dây cáp",
+        "answers": [
+            "Cable"
+        ],
+        "sentences": [
+            "The mouse bit(cắn) the power cable"
+        ],
+        "phrases": [
+            "A power cable / dây cáp điện"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U47_27",
+        "unitId": 47,
+        "word": "Kết nối",
+        "answers": [
+            "Connect"
+        ],
+        "sentences": [
+            "Connect the phone to the charger"
+        ],
+        "phrases": [
+            "Connect a to b"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U47_28",
+        "unitId": 47,
+        "word": "Giải quyết",
+        "answers": [
+            "Solve"
+        ],
+        "sentences": [
+            "Solve this puzzle for me"
+        ],
+        "phrases": [
+            "Solve a puzzle / giải một câu đố"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U47_29",
+        "unitId": 47,
+        "word": "Tra cứu",
+        "answers": [
+            "Look up"
+        ],
+        "sentences": [
+            "Can you look up this word for me?"
+        ],
+        "phrases": [
+            "Look up something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U47_30",
+        "unitId": 47,
+        "word": "Từ khóa",
+        "answers": [
+            "Keyword"
+        ],
+        "sentences": [
+            "Find the keyword of this text"
+        ],
+        "phrases": [
+            "Find the keyword / tìm ra từ khóa"
+        ],
+        "verb": [
+            "N"
+        ]
     }
 ]
