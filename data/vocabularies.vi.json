@@ -24530,5 +24530,515 @@
         "verb": [
             "V"
         ]
+    },
+    {
+        "id": "U50_01",
+        "unitId": 50,
+        "word": "Tạp chí",
+        "answers": [
+            "Magazine"
+        ],
+        "sentences": [
+            "Online magazines are convenient to read"
+        ],
+        "phrases": [
+            "Online magazine / tạp chí điện tử"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U50_02",
+        "unitId": 50,
+        "word": "Loài động vật",
+        "answers": [
+            "Species"
+        ],
+        "sentences": [
+            "Many fish species are in the ocean"
+        ],
+        "phrases": [
+            "Fish species / loài cá"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U50_03",
+        "unitId": 50,
+        "word": "Sự tuyệt chủng",
+        "answers": [
+            "Extinction"
+        ],
+        "sentences": [
+            "Tigers are on the verge of extinction"
+        ],
+        "phrases": [
+            "On the verge of extinction / trên bờ vực tuyệt chủng"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U50_04",
+        "unitId": 50,
+        "word": "Hành tinh",
+        "answers": [
+            "Planet"
+        ],
+        "sentences": [
+            "The planet Earth is warming up"
+        ],
+        "phrases": [
+            "The planet earth / hành tinh trái đất"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U50_05",
+        "unitId": 50,
+        "word": "Quyên góp",
+        "answers": [
+            "Donate"
+        ],
+        "sentences": [
+            "Will you donate money to charity?"
+        ],
+        "phrases": [
+            "Donate something to somebody or something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U50_06",
+        "unitId": 50,
+        "word": "Tổ chức ",
+        "answers": [
+            "Organization"
+        ],
+        "sentences": [
+            "The WHO is an international organization."
+        ],
+        "phrases": [
+            "International organization / tổ chức quốc tế"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U50_07",
+        "unitId": 50,
+        "word": "Dân số",
+        "answers": [
+            "Population"
+        ],
+        "sentences": [
+            "The working population is increasing each year"
+        ],
+        "phrases": [
+            "Working population / số người lao động"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U50_08",
+        "unitId": 50,
+        "word": "Khí hậu",
+        "answers": [
+            "Climate"
+        ],
+        "sentences": [
+            "Dalat is famous for its mild climate"
+        ],
+        "phrases": [
+            "Mild climate / khí hậu ôn hòa"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U50_09",
+        "unitId": 50,
+        "word": "Nước thải",
+        "answers": [
+            "Sewage"
+        ],
+        "sentences": [
+            "Raw sewage is dangerous to human health"
+        ],
+        "phrases": [
+            "Raw sewage / nước thải chưa qua xử lý"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U50_10",
+        "unitId": 50,
+        "word": "Sự bảo tồn",
+        "answers": [
+            "Conservation"
+        ],
+        "sentences": [
+            "Wildlife conservation is necessary to save animals"
+        ],
+        "phrases": [
+            "Wildlife conservation / bảo tồn động vật hoang dã"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U50_11",
+        "unitId": 50,
+        "word": "Tồn tại",
+        "answers": [
+            "Exist"
+        ],
+        "sentences": [
+            "Trees exist to provide oxygen"
+        ],
+        "phrases": [
+            "Exist to do something / tồn tại để làm cái gì đó"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U50_12",
+        "unitId": 50,
+        "word": "Cuộc bầu cử",
+        "answers": [
+            "Election"
+        ],
+        "sentences": [
+            "Citizens can vote at the national election"
+        ],
+        "phrases": [
+            "National election / cuộc bầu cử toàn quốc"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U50_13",
+        "unitId": 50,
+        "word": "Bầu chọn",
+        "answers": [
+            "Vote"
+        ],
+        "sentences": [
+            "I voted for the new president (tổng thống)"
+        ],
+        "phrases": [
+            "Vote for somebody / bầu chọn cho ai đó"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U50_14",
+        "unitId": 50,
+        "word": "Chính trị",
+        "answers": [
+            "Politics"
+        ],
+        "sentences": [
+            "Employees should avoid office politics"
+        ],
+        "phrases": [
+            "Office politics / chính trị công sở"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U50_15",
+        "unitId": 50,
+        "word": "Tổng thống",
+        "answers": [
+            "President"
+        ],
+        "sentences": [
+            "He is serving as acting president of the country (ông ấy đang đảm nhiệm chức vụ quyền tổng thống của đất nước)"
+        ],
+        "phrases": [
+            "An acting president / quyền tổng thống"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U50_16",
+        "unitId": 50,
+        "word": "Chiến dịch",
+        "answers": [
+            "Campaign"
+        ],
+        "sentences": [
+            "We should start a campaign to save animals"
+        ],
+        "phrases": [
+            "A campaign to do something"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U50_17",
+        "unitId": 50,
+        "word": "Lính",
+        "answers": [
+            "Soldier"
+        ],
+        "sentences": [
+            "There are soldiers on duty around the embassy (đại sứ quán)"
+        ],
+        "phrases": [
+            "A soldier on duty / một người lính đang làm nhiệm vụ"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U50_18",
+        "unitId": 50,
+        "word": "Quân đội",
+        "answers": [
+            "Army"
+        ],
+        "sentences": [
+            "My brother is in the army"
+        ],
+        "phrases": [
+            "In the army / trong quân đội"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U50_19",
+        "unitId": 50,
+        "word": "Huân chương",
+        "answers": [
+            "Medal"
+        ],
+        "sentences": [
+            "She was given a medal of honor"
+        ],
+        "phrases": [
+            "A medal of honor / một huân chương danh dự"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U50_20",
+        "unitId": 50,
+        "word": "Phi công",
+        "answers": [
+            "Pilot"
+        ],
+        "sentences": [
+            "I am studying to be an airline pilot"
+        ],
+        "phrases": [
+            "An airline pilot / một phi công hàng không"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U50_21",
+        "unitId": 50,
+        "word": "Ví dụ, mẫu",
+        "answers": [
+            "Sample"
+        ],
+        "sentences": [
+            "Doctors will take a sample of your blood"
+        ],
+        "phrases": [
+            "A sample of something / một mẫu của một cái gì đó"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U50_22",
+        "unitId": 50,
+        "word": "Phần",
+        "answers": [
+            "Section"
+        ],
+        "sentences": [
+            "This section of the book is interesting"
+        ],
+        "phrases": [
+            "A section of something"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U50_23",
+        "unitId": 50,
+        "word": "Ồ ạt",
+        "answers": [
+            "Massive"
+        ],
+        "sentences": [
+            "The army launched (phát động) a massive attack on the enemy "
+        ],
+        "phrases": [
+            "A massive attack / một cuộc tấn công lớn"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U50_24",
+        "unitId": 50,
+        "word": "Xảy ra",
+        "answers": [
+            "Occur"
+        ],
+        "sentences": [
+            "Earthquakes occur frequently in Japan "
+        ],
+        "phrases": [
+            "Occur frequently / xãy ra thường xuyên"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U50_25",
+        "unitId": 50,
+        "word": "Mạnh mẽ, đầy uy lực",
+        "answers": [
+            "Powerful"
+        ],
+        "sentences": [
+            "The speaker had a  powerful voice"
+        ],
+        "phrases": [
+            "A powerful voice / một giọng nói đầy uy lực"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U50_26",
+        "unitId": 50,
+        "word": "Phong trào",
+        "answers": [
+            "Movement"
+        ],
+        "sentences": [
+            "A social movement can significantly (ảnh hưởng) shape a society"
+        ],
+        "phrases": [
+            "A social movement / một phong trào xã hội"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U50_27",
+        "unitId": 50,
+        "word": "Cuộc cách mạng",
+        "answers": [
+            "Revolution"
+        ],
+        "sentences": [
+            "The activists (nhà hoạt động xã hội) started a revolution"
+        ],
+        "phrases": [
+            "Start a revolution / bắt đầu một cuộc cách mạng"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U50_28",
+        "unitId": 50,
+        "word": "Hiệp hội",
+        "answers": [
+            "Union"
+        ],
+        "sentences": [
+            "You can join a labor union"
+        ],
+        "phrases": [
+            "Labor union / công đoàn"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U50_29",
+        "unitId": 50,
+        "word": "Giải cứu",
+        "answers": [
+            "Rescue"
+        ],
+        "sentences": [
+            "The koala (Chú gấu) was rescued from the fire"
+        ],
+        "phrases": [
+            "Rescue from something / giải cứu khỏi cái gì đó"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U50_30",
+        "unitId": 50,
+        "word": "Bắt buộc",
+        "answers": [
+            "Force"
+        ],
+        "sentences": [
+            "They forced me to clean the dishes"
+        ],
+        "phrases": [
+            "Force something or someone / bắt buộc một cái gì đó hoặc ai đó"
+        ],
+        "verb": [
+            "V"
+        ]
     }
 ]
