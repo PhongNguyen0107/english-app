@@ -24020,5 +24020,515 @@
         "verb": [
             "N"
         ]
+    },
+    {
+        "id": "U49_01",
+        "unitId": 49,
+        "word": "Nhà tù",
+        "answers": [
+            "Prison"
+        ],
+        "sentences": [
+            "He will be in prison for murder"
+        ],
+        "phrases": [
+            "In prison for doing something / phải vào tù vì tội gì đó"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U49_02",
+        "unitId": 49,
+        "word": "Trốn thoát, thoát khỏi",
+        "answers": [
+            "Escape"
+        ],
+        "sentences": [
+            "She must escape from him"
+        ],
+        "phrases": [
+            "Escape from somebody or something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U49_03",
+        "unitId": 49,
+        "word": "Cướp",
+        "answers": [
+            "Rob"
+        ],
+        "sentences": [
+            "It is wrong to rob people / trộm cướp tài sản là điều sai trái"
+        ],
+        "phrases": [
+            "Rob somebody or something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U49_04",
+        "unitId": 49,
+        "word": "Đột nhập vào ",
+        "answers": [
+            "Break into"
+        ],
+        "sentences": [
+            "Someone broke into my house"
+        ],
+        "phrases": [
+            "Break into something / đột nhập vào một cái gì đó"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U49_05",
+        "unitId": 49,
+        "word": "Đuổi theo",
+        "answers": [
+            "Chase"
+        ],
+        "sentences": [
+            "Cats chase mice (chuột)"
+        ],
+        "phrases": [
+            "Chase somebody or something / đuổi theo ai đó hoặc cái gì đó"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U49_06",
+        "unitId": 49,
+        "word": "Che giấu",
+        "answers": [
+            "Hide"
+        ],
+        "sentences": [
+            "They hide their money throughout the house (khắp nhà)"
+        ],
+        "phrases": [
+            "Hide somebody or something"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U49_07",
+        "unitId": 49,
+        "word": "Tội phạm",
+        "answers": [
+            "Criminal"
+        ],
+        "sentences": [
+            "The convicted criminal pleaded guilty (nhận tội)"
+        ],
+        "phrases": [
+            "Convicted criminal / tội phạm bị kết án"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U49_08",
+        "unitId": 49,
+        "word": "Nạn nhân",
+        "answers": [
+            "Victim"
+        ],
+        "sentences": [
+            "He is a victim of his own greed (Anh ta là nạn nhân của lòng tham của chính mình)"
+        ],
+        "phrases": [
+            "A victim of something / nạn nhân của một cái gì đó"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U49_09",
+        "unitId": 49,
+        "word": "Luật sư",
+        "answers": [
+            "Lawyer"
+        ],
+        "sentences": [
+            "He needs to hire a criminal lawyer"
+        ],
+        "phrases": [
+            "A criminal lawyer / một luật sư hình sự"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U49_10",
+        "unitId": 49,
+        "word": "Có tội, có lỗi",
+        "answers": [
+            "Guilty"
+        ],
+        "sentences": [
+            "I feel guilty about lying to you"
+        ],
+        "phrases": [
+            "Guilty about doing something / có lỗi vì làm điều gì đó"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U49_11",
+        "unitId": 49,
+        "word": "Tòa án",
+        "answers": [
+            "Court"
+        ],
+        "sentences": [
+            "He can be a witness in a civil court case"
+        ],
+        "phrases": [
+            "A civil court case / tòa án dân sự"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U49_12",
+        "unitId": 49,
+        "word": "Trường hợp",
+        "answers": [
+            "Case"
+        ],
+        "sentences": [
+            "In case of emergency, here is my number"
+        ],
+        "phrases": [
+            "In case of something / trong trường hợp nào đó"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U49_13",
+        "unitId": 49,
+        "word": "Bằng chứng",
+        "answers": [
+            "Evidence"
+        ],
+        "sentences": [
+            "Scientists are looking for evidence of life on other planets (hành tinh)"
+        ],
+        "phrases": [
+            "Evidence of something / bằng chứng của một cái gì đó"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U49_14",
+        "unitId": 49,
+        "word": "Sự có mặt, sự hiện diện",
+        "answers": [
+            "Presence"
+        ],
+        "sentences": [
+            "In the presence of her, I feel safe"
+        ],
+        "phrases": [
+            "In the presence of something or somebody"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U49_15",
+        "unitId": 49,
+        "word": "Tìm kiếm",
+        "answers": [
+            "Seek"
+        ],
+        "sentences": [
+            "Make sure you seek help if you feel overwhelmed (quá tải)"
+        ],
+        "phrases": [
+            "Seek something or somebody / tìm kiếm một cái gì đó"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U49_16",
+        "unitId": 49,
+        "word": "An ninh",
+        "answers": [
+            "Security"
+        ],
+        "sentences": [
+            "National security is a duty of government"
+        ],
+        "phrases": [
+            "Nation security / an ninh quốc gia"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U49_17",
+        "unitId": 49,
+        "word": "Độc ác, tàn nhẫn",
+        "answers": [
+            "Cruel"
+        ],
+        "sentences": [
+            "I am sorry that I was cruel to you"
+        ],
+        "phrases": [
+            "To be cruel to somebody or something"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U49_18",
+        "unitId": 49,
+        "word": "Sự tự do",
+        "answers": [
+            "Liberty"
+        ],
+        "sentences": [
+            "Citizens have the liberty to voice concerns"
+        ],
+        "phrases": [
+            "Liberty to do something / tự do làm cái gì đó"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U49_19",
+        "unitId": 49,
+        "word": "Tấn công",
+        "answers": [
+            "Attack"
+        ],
+        "sentences": [
+            "The burglar (tên trộm) attacked the civilian (người dân)"
+        ],
+        "phrases": [
+            "Attack somebody / tấn công ai đó"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U49_20",
+        "unitId": 49,
+        "word": "Bạo lực",
+        "answers": [
+            "Violent"
+        ],
+        "sentences": [
+            "We don't have to be violent towards one another"
+        ],
+        "phrases": [
+            "Violent towards or to somebody"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U49_21",
+        "unitId": 49,
+        "word": "Lan truyền",
+        "answers": [
+            "Spread"
+        ],
+        "sentences": [
+            "He spreads the word about her promotion"
+        ],
+        "phrases": [
+            "Spread the word / loan tin"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U49_22",
+        "unitId": 49,
+        "word": "Lạm dụng, lợi dụng",
+        "answers": [
+            "Abuse"
+        ],
+        "sentences": [
+            "Be careful not to abuse alcohol"
+        ],
+        "phrases": [
+            "Abuse alcohol / lạm dụng rượu"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U49_23",
+        "unitId": 49,
+        "word": "Chính phủ",
+        "answers": [
+            "Government"
+        ],
+        "sentences": [
+            "There will be a high-level meeting among government officials"
+        ],
+        "phrases": [
+            "A government official / quan chức chính phủ"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U49_24",
+        "unitId": 49,
+        "word": "Luật, quy định",
+        "answers": [
+            "Law"
+        ],
+        "sentences": [
+            "What is the law on drinking age?"
+        ],
+        "phrases": [
+            "Law on something"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U49_25",
+        "unitId": 49,
+        "word": "Nhanh chóng",
+        "answers": [
+            "Rapid"
+        ],
+        "sentences": [
+            "The company is experiencing a rapid growth"
+        ],
+        "phrases": [
+            "Rapid growth / sự tăng trưởng nhanh chóng"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U49_26",
+        "unitId": 49,
+        "word": "Theo pháp luật",
+        "answers": [
+            "Legal"
+        ],
+        "sentences": [
+            "We rely on (dựa vào) the legal system for justice"
+        ],
+        "phrases": [
+            "The legal system / hệ thống luật pháp"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U49_27",
+        "unitId": 49,
+        "word": "Sau cùng",
+        "answers": [
+            "Ultimate"
+        ],
+        "sentences": [
+            "Having a meaningful life is the ultimate target"
+        ],
+        "phrases": [
+            "Ultimate target / mục tiêu cuối cùng"
+        ],
+        "verb": [
+            "Adj"
+        ]
+    },
+    {
+        "id": "U49_28",
+        "unitId": 49,
+        "word": "Cảnh nghèo nàn",
+        "answers": [
+            "Poverty"
+        ],
+        "sentences": [
+            "Some countries have extreme poverty"
+        ],
+        "phrases": [
+            "Extreme poverty / tình trạng nghèo đói cùng cực"
+        ],
+        "verb": [
+            "N"
+        ]
+    },
+    {
+        "id": "U49_29",
+        "unitId": 49,
+        "word": "Ly dị",
+        "answers": [
+            "Divorce"
+        ],
+        "sentences": [
+            "In the past, wives of kings could never divorce their husbands"
+        ],
+        "phrases": [
+            "Divorce someone"
+        ],
+        "verb": [
+            "V"
+        ]
+    },
+    {
+        "id": "U49_30",
+        "unitId": 49,
+        "word": "Tội giết người",
+        "answers": [
+            "Murder"
+        ],
+        "sentences": [
+            "The detective found out who murdered the victim"
+        ],
+        "phrases": [
+            "Murder somebody / giết ai đó"
+        ],
+        "verb": [
+            "V"
+        ]
     }
 ]
