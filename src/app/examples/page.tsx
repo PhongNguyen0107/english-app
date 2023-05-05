@@ -96,6 +96,7 @@ const ExamplesFeature = (props: IProps) => {
             <Col xs={24}>
               <Image.PreviewGroup
                 preview={{
+                  //@ts-ignore
                   onChange: (current, prev) => console.log(`current index: ${current}, prev index: ${prev}`),
                 }}
               >

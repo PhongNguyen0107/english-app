@@ -1,11 +1,11 @@
 'use client';
 import React, {useEffect} from 'react';
 import {useQuery} from "react-query";
-import {Affix, Button, Col, Input, Row, Space, Select, message, Spin} from "antd";
+import {Affix, Button, Col, Image, Input, message, Row, Select, Space, Spin} from "antd";
 import {WordReviewPropType} from "@/services/AppInterface";
 import {QUERY_CONFIG, ROUTE_NAME} from "@/configuration/Application.config";
 import TabBar from "@/components/tab-bar/TabBar";
-import {getWordReview} from "@/services/Review.service";
+import {getWordReview, padWithZeros} from "@/services/Review.service";
 import ReviewWordCard from "@/components/card/ReviewWordCard";
 import {useSetState} from "ahooks";
 import {InstantSearch} from "react-instantsearch-hooks-web";
@@ -24,6 +24,7 @@ type IProps = {}
 type IState = {
   isShowAnswer: boolean;
   isShowPhrase: boolean;
+  isShowStory: boolean;
   active: any;
   strategy: string;
   search: string;
@@ -43,6 +44,7 @@ const ReviewPage = (_: IProps) => {
     strategy: "VIETNAMESE",
     isShowAnswer: false,
     isShowPhrase: false,
+    isShowStory: false,
     isShowSentence: false,
     search: "",
     unit: 0
@@ -167,13 +169,19 @@ const ReviewPage = (_: IProps) => {
                   onClick={() => setReviewState({isShowPhrase: !reviewState.isShowPhrase})}>
                   {reviewState.isShowPhrase ? `Hide` : `Show`} Phrase
                 </Button>
-
+  
                 <Button
                   type={"dashed"}
                   onClick={() => setReviewState({isShowSentence: !reviewState.isShowSentence})}>
                   {reviewState.isShowSentence ? `Hide` : `Show`} Sentence
                 </Button>
-
+  
+                <Button
+                  type={"dashed"}
+                  onClick={() => setReviewState({isShowStory: !reviewState.isShowStory})}>
+                  {reviewState.isShowStory ? `Hide` : `Show`} Story
+                </Button>
+  
                 <Button
                   type={"primary"}
                   onClick={() => {
@@ -203,6 +211,28 @@ const ReviewPage = (_: IProps) => {
               </Col>
             )
           })}
+  
+          {reviewState.isShowStory && reviewState.unit && (
+            <Col xs={24}>
+              <Image.PreviewGroup
+                preview={{
+                  //@ts-ignore
+                  onChange: (current, prev) => console.log(`current index: ${current}, prev index: ${prev}`),
+                }}
+              >
+                {[1, 2, 3].map((i: any, ind: number) => {
+                  const unitId = `U${padWithZeros(reviewState.unit, 2)}_${padWithZeros(ind + 1, 2)}`
+                  return (
+                    <Image
+                      key={`image_${ind}_${i.url}`}
+                      width={"calc((100% / 3))"}
+                      src={`/story/${unitId}.jpeg`}
+                      alt={`Unit ${padWithZeros(reviewState.unit, 2)} image ${ind + 1}`}/>
+                  )
+                })}
+              </Image.PreviewGroup>
+            </Col>
+          )}
         </Row>
 
       </div>
