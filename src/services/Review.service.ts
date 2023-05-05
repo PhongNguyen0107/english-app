@@ -20,7 +20,7 @@ export const getTop10WordReview = () => {
  * @param length
  * @returns {string}
  */
-export const padWithZeros = (number: number, length: number) => {
+export const padWithZeros = (number: number | string, length: number) => {
   let str = '' + number;
   while (str.length < length) {
     str = '0' + str;

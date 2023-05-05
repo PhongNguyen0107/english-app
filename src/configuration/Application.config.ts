@@ -12,6 +12,7 @@ export const ROUTE_NAME = {
   REVIEW: 'review',
   PRACTICES: 'review/practices',
   SENTENCES: 'sentences',
+  STORIES: 'story',
   SETTINGS: 'settings'
 }
 

@@ -32,6 +32,11 @@ const menu = [
     path: ROUTE_NAME.SENTENCES,
     title: "Sentences"
   },
+  {
+    id: 'story',
+    path: ROUTE_NAME.STORIES,
+    title: "Stories"
+  },
 ]
 
 const Settings = () => {
