@@ -25,7 +25,6 @@ export const getOutcomesHomonymsToPractice = (payload: PracticeConfigPayloadType
   return callApi(ENDPOINT_API.GET_HOMONYMS_PRACTICES_BY_EN, 'POST', payload);
 }
 
-
 export const sendAnEmailReportOutcomes = (payload: PracticeConfigPayloadType) => {
   return callApi(ENDPOINT_API.SEND_AN_EMAIL_OUTCOME_PRACTICES, 'POST', payload);
 }

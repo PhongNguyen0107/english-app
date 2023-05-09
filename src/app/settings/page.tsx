@@ -49,7 +49,7 @@ const Settings = () => {
         <Row gutter={[12, 24]}>
           {menu.map(item => {
             return (
-              <Col key={item.id} xs={24}>
+              <Col key={item.id} xs={24} md={12} lg={8} xl={6} xxl={4}>
                 <Link href={`/${item.path}`}>
                   <Card
                     style={{
