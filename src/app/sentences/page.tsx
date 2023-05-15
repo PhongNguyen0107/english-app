@@ -12,14 +12,12 @@ import Fuse from "fuse.js";
 
 const {Search} = Input
 type IState = {
-  isShowAnswer: boolean;
-  isShowPhrase: boolean;
+  isShowFull: boolean;
   active: any;
   strategy: string;
   search: string;
   unit: number;
   sentences: any[];
-  isShowSentence: boolean;
 }
 const Sentences = () => {
 
@@ -27,23 +25,21 @@ const Sentences = () => {
   const sentences = sentencesResp?.data?.data || [];
 
 
-  const [reviewState, setReviewState] = useSetState<IState>({
+  const [state, setState] = useSetState<IState>({
     active: null,
     sentences: [],
     strategy: "VIETNAMESE",
-    isShowAnswer: false,
-    isShowPhrase: false,
-    isShowSentence: false,
+    isShowFull: false,
     search: "",
     unit: 0
   })
 
   useEffect(() => {
-    setReviewState({sentences: sentences})
+    setState({sentences: sentences})
   }, [sentences])
 
   const onSearchInput = (v: string) => {
-    if (!v) setReviewState({search: v, sentences: sentences});
+    if (!v) setState({search: v, sentences: sentences});
     else {
       const options = {
         includeScore: true,
@@ -73,7 +69,7 @@ const Sentences = () => {
         // @ts-ignore
         return {...res.item}
       })
-      setReviewState({
+      setState({
         sentences: dataFilterUpdate,
         search: v
       })
@@ -96,7 +92,7 @@ const Sentences = () => {
                   <Search
                     placeholder={"Search for whatever you want..."}
                     id={"search-word"}
-                    value={reviewState.search}
+                    value={state.search}
                     //@ts-ignore
                     onChange={(e) => onSearchInput(e.target.value)}
                   />
@@ -106,42 +102,42 @@ const Sentences = () => {
 
                 <Button
                   type={"dashed"}
-                  onClick={() => setReviewState({isShowAnswer: !reviewState.isShowAnswer})}>
-                  {reviewState.isShowAnswer ? `Hide` : `Show`} Word
-                </Button>
-
-                <Button
-                  type={"dashed"}
-                  onClick={() => setReviewState({isShowPhrase: !reviewState.isShowPhrase})}>
-                  {reviewState.isShowPhrase ? `Hide` : `Show`} Phrase
-                </Button>
-
-                <Button
-                  type={"dashed"}
-                  onClick={() => setReviewState({isShowSentence: !reviewState.isShowSentence})}>
-                  {reviewState.isShowSentence ? `Hide` : `Show`} Sentence
+                  onClick={() => setState({isShowFull: !state.isShowFull})}>
+                  {state.isShowFull ? `Hide` : `Show`} all
                 </Button>
 
                 <Button
                   type={"primary"}
                   onClick={() => {
-                    setReviewState({
-                      strategy: reviewState.strategy === "ENGLISH" ? "VIETNAMESE" : "ENGLISH"
+                    setState({
+                      strategy: state.strategy === "ENGLISH" ? "VIETNAMESE" : "ENGLISH"
                     })
                   }}>
-                  {reviewState.strategy === "ENGLISH" ? "VIETNAMESE" : "ENGLISH"}
+                  {state.strategy === "ENGLISH" ? "VIETNAMESE" : "ENGLISH"}
                 </Button>
               </Space>
             </Col>
 
           </Affix>
 
-          {reviewState.sentences.map((s: SentenceType) => {
+          {state.sentences.map((s: SentenceType) => {
             return (
-              <Col key={s.id} xs={24} lg={12} xxl={8} style={{height: "100%"}}>
-                <Card className={"fw"}>
-                  <div>{s.en}</div>
-                  <div>{s.vi}</div>
+              <Col
+                key={s.id}
+                xs={24} lg={12} xxl={8}
+                style={{height: "100%", cursor: "pointer"}}
+              >
+                <Card
+                  className={"fw"}
+                  style={{
+                    border: state.active?.id === s.id ? "2px solid green" : "unset"
+                  }}
+                  onClick={() => setState({active: s})}>
+                  {(state.strategy === "ENGLISH" || state.active?.id === s.id || state.isShowFull) &&
+                    <div>{s.en}</div>}
+
+                  {(state.strategy === "VIETNAMESE" || state.active?.id === s.id || state.isShowFull) &&
+                    <div>{s.vi}</div>}
                 </Card>
               </Col>
             )
