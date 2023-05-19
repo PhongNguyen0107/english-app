@@ -27,6 +27,7 @@
     "eslint-config-next": "13.2.1",
     "firebase": "^9.19.1",
     "firebase-admin": "^11.6.0",
+    "fs": "^0.0.1-security",
     "fuse.js": "^6.6.2",
     "lodash": "^4.17.21",
     "moment": "^2.29.4",

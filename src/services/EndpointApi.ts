@@ -1,6 +1,7 @@
 export const ENDPOINT_API = {
   WORDS_REVIEW: "words/review",
   TOP_10_WORDS_REVIEW: "words/review/mail",
+  TOP_NUM_SENTENCES_REVIEW: "sentences",
   WORDS_RANDOM_BY_SIZE: "words/random/:size",
   WORDS: "words",
   SENTENCES: "sentences",

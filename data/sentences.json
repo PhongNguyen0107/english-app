@@ -1,1346 +1,1348 @@
 [
-  {
-    "id": 0,
-    "en": "Can't judge a book by its cover",
-    "vi": "Không thể đánh giá qua vẻ bề ngoài",
-    "origin": "không thể đánh giá một cuốn sách bằng bìa của nó",
-    "image": ""
-  },
-  {
-    "id": 1,
-    "en": "You don't need to wear a jacket.",
-    "vi": "Bạn không cần mặc áo khoác",
-    "origin": "Bạn không cần mặc áo khoác",
-    "image": ""
-  },
-  {
-    "id": 2,
-    "en": "I don't want to talk about it",
-    "vi": "Tôi không muốn nói về nó.",
-    "origin": "Tôi không muốn nói về nó.",
-    "image": ""
-  },
-  {
-    "id": 3,
-    "en": "Can we have a party?",
-    "vi": "Chúng ta có thể mở một bữa tiệc không?",
-    "origin": "Chúng ta có thể mở một bữa tiệc không?",
-    "image": ""
-  },
-  {
-    "id": 4,
-    "en": "Are you talking to me?",
-    "vi": "Bạn đang nói chuyện với tôi phải không?",
-    "origin": "Bạn đang nói chuyện với tôi phải không?",
-    "image": ""
-  },
-  {
-    "id": 5,
-    "en": "A couple of minutes later",
-    "vi": "Một vài phút sau",
-    "origin": "Một vài phút sau",
-    "image": ""
-  },
-  {
-    "id": 6,
-    "en": "Can i sit next to the window",
-    "vi": "Tôi có thể ngồi cạnh cửa sổ không?",
-    "origin": "Tôi có thể ngồi cạnh cửa sổ không?",
-    "image": ""
-  },
-  {
-    "id": 7,
-    "en": "Is she cleaning the toilet?",
-    "vi": "CÔ ấy có đang dọn nhà vệ sinh không",
-    "origin": "CÔ ấy có đang dọn nhà vệ sinh không",
-    "image": ""
-  },
-  {
-    "id": 8,
-    "en": "I would like to have breakfast with you",
-    "vi": "Tôi muốn ăn sáng cùng với bạn",
-    "origin": "Tôi muốn ăn sáng cùng với bạn",
-    "image": ""
-  },
-  {
-    "id": 9,
-    "en": "Would you like some beef for lunch?",
-    "vi": "Bạn có muốn một ít thịt bò vào bữa trưa không?",
-    "origin": "Bạn có muốn một ít thịt bò vào bữa trưa không?",
-    "image": ""
-  },
-  {
-    "id": 10,
-    "en": "That little girl is funny.",
-    "vi": "Cô bé con đó thì vui tính.",
-    "origin": "Cô bé con đó thì vui tính.",
-    "image": ""
-  },
-  {
-    "id": 11,
-    "en": "Are we best friends?",
-    "vi": "Chúng ta có phải là bạn thân không?",
-    "origin": "Chúng ta có phải là bạn thân không?",
-    "image": ""
-  },
-  {
-    "id": 12,
-    "en": "OK, I'm going to tell the principal that I want to leave this job.",
-    "vi": "Được rồi, tôi sẽ nói với hiệu trưởng rằng tôi muốn rời khỏi công việc này.",
-    "origin": "Được rồi, tôi sẽ nói với hiệu trưởng rằng tôi muốn rời khỏi công việc này.",
-    "image": ""
-  },
-  {
-    "id": 13,
-    "en": "I think you're a great teacher/developer!",
-    "vi": "Tôi nghĩ bạn là một giáo viên/ lập trình viên giỏi!",
-    "origin": "Tôi nghĩ bạn là một giáo viên/ lập trình viên giỏi!",
-    "image": ""
-  },
-  {
-    "id": 14,
-    "en": "It is my new job!",
-    "vi": "Nó là công việc mới của tôi!",
-    "origin": "Nó là công việc mới của tôi!",
-    "image": ""
-  },
-  {
-    "id": 15,
-    "en": "Where do you want to go?",
-    "vi": "Bạn muốn đi đâu?",
-    "origin": "Bạn muốn đi đâu?",
-    "image": ""
-  },
-  {
-    "id": 16,
-    "en": "Hello, Mr.Huy, I’m ready to eat lunch",
-    "vi": "Xin chào anh Huy, tôi đã sẵn sàng để ăn trưa",
-    "origin": "Xin chào anh Huy, tôi đã sẵn sàng để ăn trưa",
-    "image": ""
-  },
-  {
-    "id": 17,
-    "en": "Do you like the weather in August?",
-    "vi": "Bạn có thích thời tiết vào tháng 8 không?",
-    "origin": "Bạn có thích thời tiết vào tháng 8 không?",
-    "image": ""
-  },
-  {
-    "id": 18,
-    "en": "I always study English everyday.",
-    "vi": "Tôi luôn luôn học tiếng anh hàng ngày.",
-    "origin": "Tôi luôn luôn học tiếng anh hàng ngày.",
-    "image": ""
-  },
-  {
-    "id": 19,
-    "en": "I always study English on Sundays",
-    "vi": "Do you go to work on Sundays?",
-    "origin": "Do you go to work on Sundays?",
-    "image": ""
-  },
-  {
-    "id": 20,
-    "en": "Bạn có đi làm vào Chủ Nhật không?",
-    "vi": "What time do you go to work?",
-    "origin": "What time do you go to work?",
-    "image": ""
-  },
-  {
-    "id": 21,
-    "en": "Mấy giờ bạn đi làm?",
-    "vi": "Do you want to go to work together?",
-    "origin": "Do you want to go to work together?",
-    "image": ""
-  },
-  {
-    "id": 22,
-    "en": "Bạn có muốn đi làm cùng nhau không?",
-    "vi": "You look like someone i knew many years ago",
-    "origin": "You look like someone i knew many years ago",
-    "image": ""
-  },
-  {
-    "id": 23,
-    "en": "There are some apples in the fridge.",
-    "vi": "Có một vài quả táo trong tủ lạnh.",
-    "origin": "Có một vài quả táo trong tủ lạnh.",
-    "image": ""
-  },
-  {
-    "id": 24,
-    "en": "It snows a lot in January.",
-    "vi": "Tuyết rơi nhiều vào tháng 1",
-    "origin": "Tuyết rơi nhiều vào tháng 1",
-    "image": ""
-  },
-  {
-    "id": 25,
-    "en": "Does it rain here in April?",
-    "vi": "Ở đây trời có mưa vào tháng Tư không?",
-    "origin": "Ở đây trời có mưa vào tháng Tư không?",
-    "image": ""
-  },
-  {
-    "id": 26,
-    "en": "How is the weather in Dalat?",
-    "vi": "Thời tiết ở Đà Lạt thế nào?",
-    "origin": "Thời tiết ở Đà Lạt thế nào?",
-    "image": ""
-  },
-  {
-    "id": 27,
-    "en": "She does not like to watch movies.",
-    "vi": "Cô ấy không thích xem phim",
-    "origin": "Cô ấy không thích xem phim",
-    "image": ""
-  },
-  {
-    "id": 28,
-    "en": "Do birds have ears?",
-    "vi": "Con chim có tai không",
-    "origin": "Con chim có tai không",
-    "image": ""
-  },
-  {
-    "id": 29,
-    "en": "You help me often. Of course I’m going to help you now.",
-    "vi": "Cậu giúp tớ thường xuyên, tất nhiên là tớ sẽ giúp cậu bây giờ",
-    "origin": "Cậu giúp tớ thường xuyên, tất nhiên là tớ sẽ giúp cậu bây giờ",
-    "image": ""
-  },
-  {
-    "id": 30,
-    "en": "When will it be ready",
-    "vi": "Khi nào thì nó mới được",
-    "origin": "Khi nào thì nó mới được",
-    "image": ""
-  },
-  {
-    "id": 31,
-    "en": "Are you OK, Phong? You look worried.",
-    "vi": "Bạn ổn không, Phong? trong cậu có vẻ lo lắng.",
-    "origin": "Bạn ổn không, Phong? trong cậu có vẻ lo lắng.",
-    "image": ""
-  },
-  {
-    "id": 32,
-    "en": "Bạn muốn làm gì tối nay?",
-    "vi": "What would you like to do tonight?",
-    "origin": "What would you like to do tonight?",
-    "image": ""
-  },
-  {
-    "id": 33,
-    "en": "I'm really excited to meet him.",
-    "vi": "Tôi rất háo hức gặp anh ấy",
-    "origin": "Tôi rất háo hức gặp anh ấy",
-    "image": ""
-  },
-  {
-    "id": 34,
-    "en": "I clean the toilet every day.",
-    "vi": "Tôi dọn nhà vệ sinh mỗi ngày",
-    "origin": "Tôi dọn nhà vệ sinh mỗi ngày",
-    "image": ""
-  },
-  {
-    "id": 35,
-    "en": "He never cleans his room.",
-    "vi": "Anh ấy không bao giờ dọn dẹp phòng của anh ấy",
-    "origin": "Anh ấy không bao giờ dọn dẹp phòng của anh ấy",
-    "image": ""
-  },
-  {
-    "id": 36,
-    "en": "Don't Make My Mistakes",
-    "vi": "Đừng mắc sai lầm",
-    "origin": "Đừng mắc sai lầm",
-    "image": ""
-  },
-  {
-    "id": 37,
-    "en": "What time does the meeting start?",
-    "vi": "Mấy giờ buổi họp bắt đầu?",
-    "origin": "Mấy giờ buổi họp bắt đầu?",
-    "image": ""
-  },
-  {
-    "id": 38,
-    "en": "What time do you go to school",
-    "vi": "Mấy giờ bạn đi học?",
-    "origin": "Mấy giờ bạn đi học?",
-    "image": ""
-  },
-  {
-    "id": 39,
-    "en": "What time do you have dinner",
-    "vi": "Mấy giờ bạn ăn tối?",
-    "origin": "Mấy giờ bạn ăn tối?",
-    "image": ""
-  },
-  {
-    "id": 40,
-    "en": "The game is at three o'clock.",
-    "vi": "Trận đấu là vào lúc 3 giờ",
-    "origin": "Trận đấu là vào lúc 3 giờ",
-    "image": ""
-  },
-  {
-    "id": 41,
-    "en": "Do you want to close the door?",
-    "vi": "Bạn có muốn đóng cửa không?",
-    "origin": "Bạn có muốn đóng cửa không?",
-    "image": ""
-  },
-  {
-    "id": 42,
-    "en": "On the other hand",
-    "vi": "Mặt khác",
-    "origin": "Mặt khác",
-    "image": ""
-  },
-  {
-    "id": 43,
-    "en": "How many pens do you have?",
-    "vi": "Bạn có bao nhiều chiếc bút?",
-    "origin": "Bạn có bao nhiều chiếc bút?",
-    "image": ""
-  },
-  {
-    "id": 44,
-    "en": "Emma doesn't want to come here.",
-    "vi": "Emma không muốn đến đây.",
-    "origin": "Emma không muốn đến đây.",
-    "image": ""
-  },
-  {
-    "id": 45,
-    "en": "Is there a bus station near our hotel?",
-    "vi": "Có một trạm xe buýt gần khách sạn của chúng tôi phải không?",
-    "origin": "Có một trạm xe buýt gần khách sạn của chúng tôi phải không?",
-    "image": ""
-  },
-  {
-    "id": 46,
-    "en": "Duo rides a bike to school every day.",
-    "vi": "Duo đi xe đạp đến trường mỗi ngày.",
-    "origin": "Duo đi xe đạp đến trường mỗi ngày.",
-    "image": ""
-  },
-  {
-    "id": 47,
-    "en": "There are many trees in front of the hotel.",
-    "vi": "Có nhiều cây trước khách sạn.",
-    "origin": "Có nhiều cây trước khách sạn.",
-    "image": ""
-  },
-  {
-    "id": 48,
-    "en": "There are many cars in front of my house.",
-    "vi": "Có nhiều xe ô tô trước nhà của tôi.",
-    "origin": "Có nhiều xe ô tô trước nhà của tôi.",
-    "image": ""
-  },
-  {
-    "id": 49,
-    "en": "Which shoe store is open?",
-    "vi": "Cửa hàng giày nào mở cửa?",
-    "origin": "Cửa hàng giày nào mở cửa?",
-    "image": ""
-  },
-  {
-    "id": 50,
-    "en": "What time is the meeting?",
-    "vi": "Cuộc họp là vào lúc mấy giờ?",
-    "origin": "Cuộc họp là vào lúc mấy giờ?",
-    "image": ""
-  },
-  {
-    "id": 51,
-    "en": "Which movies do you like?",
-    "vi": "Bạn thích bộ phim nào?",
-    "origin": "Bạn thích bộ phim nào?",
-    "image": ""
-  },
-  {
-    "id": 52,
-    "en": "When we can go home?",
-    "vi": "Khi nào mình có thể về nhà",
-    "origin": "Khi nào mình có thể về nhà",
-    "image": ""
-  },
-  {
-    "id": 53,
-    "en": "She draws very well.",
-    "vi": "Cô ấy vẽ rất giỏi.",
-    "origin": "Cô ấy vẽ rất giỏi.",
-    "image": ""
-  },
-  {
-    "id": 54,
-    "en": "My left eye doesn't hurt.",
-    "vi": "Mắt trái của tôi không đau.",
-    "origin": "Mắt trái của tôi không đau.",
-    "image": ""
-  },
-  {
-    "id": 55,
-    "en": "Horses are friendly animals.",
-    "vi": "Ngựa là động vật thân thiện",
-    "origin": "Ngựa là động vật thân thiện",
-    "image": ""
-  },
-  {
-    "id": 56,
-    "en": "Can I have some coffee?",
-    "vi": "Cho tôi một ít cà phê được không",
-    "origin": "Cho tôi một ít cà phê được không",
-    "image": ""
-  },
-  {
-    "id": 57,
-    "en": "He acted without reference to me",
-    "vi": "Anh ấy làm mà không hỏi ý kiến tôi",
-    "origin": "Anh ấy làm mà không hỏi ý kiến tôi",
-    "image": ""
-  },
-  {
-    "id": 58,
-    "en": "Your confidence is born of experience",
-    "vi": "Sự tự tin của bạn được sinh ra từ kinh nghiệm",
-    "origin": "Sự tự tin của bạn được sinh ra từ kinh nghiệm",
-    "image": ""
-  },
-  {
-    "id": 59,
-    "en": "How did you do that?",
-    "vi": "Bạn đã làm điều đó như thế nào",
-    "origin": "Bạn đã làm điều đó như thế nào",
-    "image": ""
-  },
-  {
-    "id": 60,
-    "en": "Her silence merely exacerbated the problem.",
-    "vi": "Sự im lặng của cô ấy đã làm vấn đề nghiêm trọng thêm.",
-    "origin": "Sự im lặng của cô ấy đã làm vấn đề nghiêm trọng thêm.",
-    "image": ""
-  },
-  {
-    "id": 61,
-    "en": "Which universities do you like?",
-    "vi": "Ban thích học trường đại học nào",
-    "origin": "Ban thích học trường đại học nào",
-    "image": ""
-  },
-  {
-    "id": 62,
-    "en": "Can I get you a beer?",
-    "vi": "Tôi lấy cho bạn một cốc bia nhé?",
-    "origin": "Tôi lấy cho bạn một cốc bia nhé?",
-    "image": ""
-  },
-  {
-    "id": 63,
-    "en": "You need to wait for five minutes.",
-    "vi": "Bạn cần đợi năm phút.",
-    "origin": "Bạn cần đợi năm phút.",
-    "image": ""
-  },
-  {
-    "id": 64,
-    "en": "Do you like to travel by car?",
-    "vi": "Bạn có thích đi du lịch bằng xe ô tô không",
-    "origin": "Bạn có thích đi du lịch bằng xe ô tô không",
-    "image": ""
-  },
-  {
-    "id": 65,
-    "en": "You need to learn to cook.",
-    "vi": "Bạn cần học nấu ăn",
-    "origin": "Bạn cần học nấu ăn",
-    "image": ""
-  },
-  {
-    "id": 66,
-    "en": "What kind of drink do you want?",
-    "vi": "Bạn muốn uống loại nước nào",
-    "origin": "Bạn muốn uống loại nước nào",
-    "image": ""
-  },
-  {
-    "id": 67,
-    "en": "Hit the nail on the head",
-    "vi": "Nói điều gì đó hoàn toàn chính xác",
-    "origin": "Đánh trúng đầu đinh",
-    "image": ""
-  },
-  {
-    "id": 68,
-    "en": "We are on the same page. / To be on the same page",
-    "vi": "Tụi mình có chung suy nghĩ đấy. / Khi bạn và ai đó đang \"on the same page\", cả hai cùng chung suy nghĩ, ý tưởng, không bất đồng với nhau. ",
-    "origin": "to understand and agree with what is being done or suggested\n",
-    "image": ""
-  },
-  {
-    "id": 69,
-    "en": "To give someone the benefit of the doubt",
-    "vi": "Mặc dù bạn vẫn còn nghi ngờ, lấn cấn với ai đó, bạn vẫn quyết định tin tưởng họ.",
-    "origin": "Chuck is trying to be a better person, can you give him the benefit of the doubt? \n Chuck đang cố gắng trở thành người tốt, cậu có thể tin tưởng anh ấy được không?",
-    "image": ""
-  },
-  {
-    "en": "What's up?",
-    "vi": "Có chuyện gì vậy",
-    "origin": "",
-    "image": "",
-    "id": 70
-  },
-  {
-    "en": "Let me be",
-    "vi": "Kê tôi",
-    "origin": "",
-    "image": "",
-    "id": 71
-  },
-  {
-    "en": "What for?",
-    "vi": "Để làm gì?",
-    "origin": "",
-    "image": "",
-    "id": 72
-  },
-  {
-    "en": "So so",
-    "vi": "THường thôi",
-    "origin": "",
-    "image": "",
-    "id": 73
-  },
-  {
-    "en": "Take it easy",
-    "vi": "Cứ từ từ",
-    "origin": "",
-    "image": "",
-    "id": 74
-  },
-  {
-    "en": "Nothing much",
-    "vi": "Không có gì mới cả",
-    "origin": "",
-    "image": "",
-    "id": 75
-  },
-  {
-    "en": "I guess so",
-    "vi": "Tôi đoán vậy",
-    "origin": "",
-    "image": "",
-    "id": 76
-  },
-  {
-    "en": "Don't bother",
-    "vi": "Đừng bận tâm",
-    "origin": "",
-    "image": "",
-    "id": 77
-  },
-  {
-    "en": "No hard feeling",
-    "vi": "Không giận chứ",
-    "origin": "",
-    "image": "",
-    "id": 78
-  },
-  {
-    "en": "This is the limit!",
-    "vi": "Đủ rồi đó",
-    "origin": "",
-    "image": "",
-    "id": 79
-  },
-  {
-    "en": "Don't be nosy",
-    "vi": "Đừng nhiều chuyên",
-    "origin": "",
-    "image": "",
-    "id": 80
-  },
-  {
-    "en": "Piece of cake",
-    "vi": "Dễ thôi mà, dễ ợt",
-    "origin": "",
-    "image": "",
-    "id": 81
-  },
-  {
-    "en": "Poor thing",
-    "vi": "Thật tội nghiệp",
-    "origin": "",
-    "image": "",
-    "id": 82
-  },
-  {
-    "en": "So what?",
-    "vi": "Vậy thì sao?",
-    "origin": "",
-    "image": "",
-    "id": 83
-  },
-  {
-    "en": "Dead meat",
-    "vi": "Chết chắc",
-    "origin": "",
-    "image": "",
-    "id": 84
-  },
-  {
-    "en": "What a relief",
-    "vi": "Thật nhẹ nhõm",
-    "origin": "",
-    "image": "",
-    "id": 85
-  },
-  {
-    "en": "That's a lie!",
-    "vi": "Xạo quá!",
-    "origin": "",
-    "image": "",
-    "id": 86
-  },
-  {
-    "en": "Down and out!",
-    "vi": "Thất bại hoàn toàn.",
-    "origin": "",
-    "image": "",
-    "id": 87
-  },
-  {
-    "en": "Just for fun!",
-    "vi": "Giỡn chơi thôi.",
-    "origin": "",
-    "image": "",
-    "id": 88
-  },
-  {
-    "en": "For better or for worst!",
-    "vi": "Chẵn biết là tốt hay là xấu",
-    "origin": "",
-    "image": "",
-    "id": 89
-  },
-  {
-    "en": "Little by little.",
-    "vi": "Từng li từng tý",
-    "origin": "",
-    "image": "",
-    "id": 89
-  },
-  {
-    "en": "Let me go.",
-    "vi": "Để tôi đi",
-    "origin": "",
-    "image": "",
-    "id": 90
-  },
-  {
-    "en": "Let me be.",
-    "vi": "Mặc kệ tôi",
-    "origin": "",
-    "image": "",
-    "id": 91
-  },
-  {
-    "en": "Make yourself at home",
-    "vi": "Cứ tự nhiên như ở nhà",
-    "origin": "",
-    "image": "",
-    "id": 92
-  },
-  {
-    "en": "Nothing at all.",
-    "vi": "Không sao cả",
-    "origin": "",
-    "image": "",
-    "id": 93
-  },
-  {
-    "en": "No choice",
-    "vi": "Không thể làm khác",
-    "origin": "",
-    "image": "",
-    "id": 94
-  },
-  {
-    "en": "Not a chance",
-    "vi": "Đừng hòng",
-    "origin": "",
-    "image": "",
-    "id": 95
-  },
-  {
-    "en": "My pleasure",
-    "vi": "Rất hân hạnh",
-    "origin": "",
-    "image": "",
-    "id": 96
-  },
-  {
-    "en": "Much better",
-    "vi": "Tốt hơn nhiều",
-    "origin": "",
-    "image": "",
-    "id": 97
-  },
-  {
-    "en": "Now or never",
-    "vi": "Bây giờ hoặc không bao giờ",
-    "origin": "",
-    "image": "",
-    "id": 98
-  },
-  {
-    "en": "No way out",
-    "vi": "Không lối thoát",
-    "origin": "",
-    "image": "",
-    "id": 99
-  },
-  {
-    "en": "Dead end",
-    "vi": "Đường cùng",
-    "origin": "",
-    "image": "",
-    "id": 100
-  },
-  {
-    "en": "No kidding",
-    "vi": "Không đùa đấy chứ",
-    "origin": "",
-    "image": "",
-    "id": 101
-  },
-  {
-    "en": "No offense",
-    "vi": "Không có ý gì đâu",
-    "origin": "",
-    "image": "",
-    "id": 102
-  },
-  {
-    "en": "Not long ago",
-    "vi": "Cách đây không lâu",
-    "origin": "",
-    "image": "",
-    "id": 103
-  },
-  {
-    "en": "Out of order",
-    "vi": "Bị hư hỏng",
-    "origin": "",
-    "image": "",
-    "id": 104
-  },
-  {
-    "en": "Out of luck",
-    "vi": "Không gặp may",
-    "origin": "",
-    "image": "",
-    "id": 105
-  },
-  {
-    "en": "Out of blue",
-    "vi": "Bất thình lình",
-    "origin": "",
-    "image": "",
-    "id": 106
-  },
-  {
-    "en": "Thief",
-    "vi": "kẻ trộm",
-    "origin": "",
-    "image": "",
-    "id": 106
-  },
-  {
-    "en": "Burglar",
-    "vi": "ăn trộm (bẻ khóa nhà)",
-    "origin": "",
-    "image": "",
-    "id": 107
-  },
-  {
-    "en": "Catburglars",
-    "vi": "ăn trộm (bẻ khóa tầng 2 trở lên)",
-    "origin": "",
-    "image": "",
-    "id": 108
-  },
-  {
-    "en": "Robber",
-    "vi": "Ăn cướp (bằng vũ lực)",
-    "origin": "",
-    "image": "",
-    "id": 109
-  },
-  {
-    "en": "Mugger",
-    "vi": "Cướp giật (nơi công cộng)",
-    "origin": "",
-    "image": "",
-    "id": 110
-  },
-  {
-    "en": "Pickpocket",
-    "vi": "Cướp móc túi",
-    "origin": "",
-    "image": "",
-    "id": 111
-  },
-  {
-    "en": "Shoplifter",
-    "vi": "Cướp cửa hàng",
-    "origin": "",
-    "image": "",
-    "id": 112
-  },
-  {
-    "en": "Kidnapper",
-    "vi": "kẻ bắt cóc",
-    "origin": "",
-    "image": "",
-    "id": 113
-  },
-  {
-    "en": "Smile",
-    "vi": "Cười mỉm 😊 🙂",
-    "origin": "",
-    "image": "",
-    "id": 113
-  },
-  {
-    "en": "Grin",
-    "vi": "cười thân thiện 😁😄",
-    "origin": "",
-    "image": "",
-    "id": 114
-  },
-  {
-    "en": "Laugh",
-    "vi": "cười lớn 😂🤣",
-    "origin": "",
-    "image": "",
-    "id": 115
-  },
-  {
-    "en": "Giggle",
-    "vi": "cười thanh lịch 🤭",
-    "origin": "",
-    "image": "",
-    "id": 116
-  },
-  {
-    "en": "Smirk",
-    "vi": "cười nhếch mép 😏",
-    "origin": "",
-    "image": "",
-    "id": 117
-  },
-  {
-    "en": "If you don't walk today, you will have to run tomorrow",
-    "vi": "Nếu bạn không bước đi hôm nay, bạn sẽ phải chạy vào ngày hôm sau",
-    "origin": "",
-    "image": "",
-    "id": 118
-  },
-  {
-    "en": "Don't try to convince them otherwise. Don't try to force them to make time for you.",
-    "vi": "Đừng cố thuyết phục học theo cách khác. Đừng cố ép họ dành thời gian cho mình",
-    "origin": "",
-    "image": "",
-    "id": 119
-  },
-  {
-    "en": "Don't overthink! Sometimes knowing nothing is the best option.",
-    "vi": "Đừng suy nghĩ quá nhiều nữa, đôi khi không cần biết gì lại là phương án tốt nhất",
-    "origin": "",
-    "image": "",
-    "id": 120
-  },
-  {
-    "en": "The brake doesn't have the car goes faster, but thanks to it, the car dares to go faster",
-    "vi": "Cái phanh không giúp xe đi nhanh hơn, nhưng nhờ có nó mà chiếc xe mới dám đi nhanh hơn.",
-    "origin": "",
-    "image": "",
-    "id": 121
-  },
-  {
-    "en": "On the way to success, there is no trace of lazy men",
-    "vi": "Trên con đường thành công không có dấu chân của kẻ lười biến",
-    "origin": "",
-    "image": "",
-    "id": 122
-  },
-  {
-    "en": "Take care of your self",
-    "vi": "Bảo trọng nhé! nhớ chăm sóc bản thân",
-    "origin": "",
-    "image": "",
-    "id": 123
-  },
-  {
-    "en": "Better safe than sorry",
-    "vi": "Cẩn thận vẫn hơn",
-    "origin": "",
-    "image": "",
-    "id": 124
-  },
-  {
-    "en": "I won't tell a soul",
-    "vi": "Tôi sẽ không tiết lộ với ai cả. / Không nói với ai đâu",
-    "origin": "",
-    "image": "",
-    "id": 125
-  },
-  {
-    "en": "Better late than never",
-    "vi": "Muộn / có còn hơn không",
-    "origin": "",
-    "image": "",
-    "id": 126
-  },
-  {
-    "en": "You are absolutely right",
-    "vi": "Bạn nói chí phải",
-    "origin": "",
-    "image": "",
-    "id": 127
-  },
-  {
-    "en": "Don't blame yourself",
-    "vi": "Đừng tự trách mình nữa",
-    "origin": "",
-    "image": "",
-    "id": 128
-  },
-  {
-    "en": "Down the hatch",
-    "vi": "Cạn ly",
-    "origin": "",
-    "image": "",
-    "id": 129
-  },
-  {
-    "en": "I bet you can",
-    "vi": "Tôi cá là bạn có thể",
-    "origin": "",
-    "image": "",
-    "id": 130
-  },
-  {
-    "en": "What's done is done",
-    "vi": "Chuyện gì đã qua thì cho qua",
-    "origin": "",
-    "image": "",
-    "id": 131
-  },
-  {
-    "en": "Don't stay up too late",
-    "vi": "Đừng thức khuya quá nhé",
-    "origin": "",
-    "image": "",
-    "id": 132
-  },
-  {
-    "en": "Sorry to bother you",
-    "vi": "Xin lỗi vì đã làm phiền",
-    "origin": "",
-    "image": "",
-    "id": 133
-  },
-  {
-    "en": "I will not let you down",
-    "vi": "Tôi sẽ không làm bạn thất vọng",
-    "origin": "",
-    "image": "",
-    "id": 134
-  },
-  {
-    "en": "I appreciate your concern",
-    "vi": "Tôi rất cảm kích sự quan tâm của bạn",
-    "origin": "Tôi rất biết ơn sự lo lắng của cậu",
-    "image": "",
-    "id": 135
-  },
-  {
-    "en": "You crossed the line",
-    "vi": "Mày bắt đầu mất dậy rồi đấy",
-    "origin": "Bạn đã vượt qua ranh giới",
-    "image": "",
-    "id": 136
-  },
-  {
-    "en": "I got your back",
-    "vi": "Tao sẽ giúp mày",
-    "origin": "",
-    "image": "",
-    "id": 137
-  },
-  {
-    "en": "You want a piece of me",
-    "vi": "Mày muốn đánh nhau à",
-    "origin": "Bạn muốn có một mảnh của tôi",
-    "image": "",
-    "id": 138
-  },
-  {
-    "en": "Be my guest",
-    "vi": "Xin cứ tự nhiên",
-    "origin": "",
-    "image": "",
-    "id": 139
-  },
-  {
-    "en": "It means a lot.",
-    "vi": "Nó rất quan trọng / nó rất ý nghĩa",
-    "origin": "Nó có nghĩa là rất nhiều.",
-    "image": "",
-    "id": 140
-  },
-  {
-    "en": "You set me up",
-    "vi": "Mày bẫy tao",
-    "origin": "Bạn thiết lập cho tôi",
-    "image": "",
-    "id": 141
-  },
-  {
-    "en": "Get over yourself",
-    "vi": "Đừng tưởng tượng mình quan trọng lắm",
-    "origin": "",
-    "image": "",
-    "id": 142
-  },
-  {
-    "en": "Get over yourself",
-    "vi": "Đừng phí lời",
-    "origin": "",
-    "image": "",
-    "id": 143
-  },
-  {
-    "en": "Which country does Mary want to travel to?",
-    "vi": "Mary muốn du lịch đến đất nước nào?",
-    "origin": "",
-    "image": "",
-    "id": 144
-  },
-  {
-    "en": "Would you like ice with that ?",
-    "vi": "Bạn có muốn dùng chung với đá không?",
-    "origin": "",
-    "image": "",
-    "id": 145
-  },
-  {
-    "en": "What can I get you?",
-    "vi": "Bạn muốn gọi gì ạ?",
-    "origin": "",
-    "image": "",
-    "id": 146
-  },
-  {
-    "en": "Would you like anything to drink?",
-    "vi": "Bạn có muốn uống gì không?",
-    "origin": "",
-    "image": "",
-    "id": 147
-  },
-  {
-    "en": "What flavour would you like?",
-    "vi": "Bạn thích vị gì?",
-    "origin": "",
-    "image": "",
-    "id": 148
-  },
-  {
-    "en": "Eat in or take - away?",
-    "vi": "Ăn ở đây, hay mang đi?",
-    "origin": "",
-    "image": "",
-    "id": 149
-  },
-  {
-    "en": "Is it for here or to go?",
-    "vi": "Ăn ở đây, hay mang đi?",
-    "origin": "",
-    "image": "",
-    "id": 150
-  },
-  {
-    "en": "Please give me a few minutes, ok?",
-    "vi": "Cho mình xin vài phút nhé!",
-    "origin": "",
-    "image": "",
-    "id": 151
-  },
-  {
-    "en": "Are you okay?",
-    "vi": "Bạn có ổn không?",
-    "origin": "",
-    "image": "",
-    "id": 152
-  },
-  {
-    "en": "Are you ready?",
-    "vi": "Bạn sẳn sàng chưa?",
-    "origin": "",
-    "image": "",
-    "id": 153
-  },
-  {
-    "en": "Are you free?",
-    "vi": "Bạn rảnh không?",
-    "origin": "",
-    "image": "",
-    "id": 154
-  },
-  {
-    "en": "Are you sure?",
-    "vi": "Bạn chắc chứ?",
-    "origin": "",
-    "image": "",
-    "id": 155
-  },
-  {
-    "en": "Are you thirsty?",
-    "vi": "Bạn khát nước không?",
-    "origin": "",
-    "image": "",
-    "id": 156
-  },
-  {
-    "en": "Are you hungry?",
-    "vi": "Bạn có đói không?",
-    "origin": "",
-    "image": "",
-    "id": 157
-  },
-  {
-    "en": "Are you home?",
-    "vi": "Bạn có nhà không?",
-    "origin": "",
-    "image": "",
-    "id": 158
-  },
-  {
-    "en": "Are you tired?",
-    "vi": "Bạn có mệt không?",
-    "origin": "",
-    "image": "",
-    "id": 159
-  },
-  {
-    "en": "Are you kidding?",
-    "vi": "Bạn có giỡn không?",
-    "origin": "",
-    "image": "",
-    "id": 160
-  },
-  {
-    "en": "Are you crazy?",
-    "vi": "Bạn có điên không?",
-    "origin": "",
-    "image": "",
-    "id": 161
-  },
-  {
-    "en": "Don't waste your breath",
-    "vi": "Đừng phí lời",
-    "origin": "",
-    "image": "",
-    "id": 162
-  },
-  {
-    "en": "Don't be sorry",
-    "vi": "Đừng thấy có lỗi",
-    "origin": "",
-    "image": "",
-    "id": 163
-  },
-  {
-    "en": "Don't go yet",
-    "vi": "Đừng đi vội",
-    "origin": "",
-    "image": "",
-    "id": 164
-  },
-  {
-    "en": "Don't get me wrong",
-    "vi": "Đừng hiểu lầm",
-    "origin": "",
-    "image": "",
-    "id": 165
-  },
-  {
-    "en": "I know what you mean",
-    "vi": "Tôi hiểu ý bạn",
-    "origin": "Tôi hiểu bạn muốn nói gì",
-    "image": "",
-    "id": 166
-  },
-  {
-    "en": "I take your point",
-    "vi": "Tôi hiểu ý bạn rồi",
-    "origin": "",
-    "image": "",
-    "id": 167
-  },
-  {
-    "en": "I noticed",
-    "vi": "Tôi đã chú ý thấy",
-    "origin": "",
-    "image": "",
-    "id": 168
-  },
-  {
-    "en": "Hit it off",
-    "vi": "Tâm đầu ý hợp",
-    "origin": "",
-    "image": "",
-    "id": 169
-  },
-  {
-    "en": "Add fuel to the fire.",
-    "vi": "Thêm dầu vào lửa",
-    "origin": "",
-    "image": "",
-    "id": 170
-  },
-  {
-    "en": "Don't mention it! = You're welcome = That's al right!",
-    "vi": "Không có chi",
-    "origin": "",
-    "image": "",
-    "id": 171
-  },
-  {
-    "en": "Enjoy your meal!",
-    "vi": "Ăn ngon miệng nhé",
-    "origin": "",
-    "image": "",
-    "id": 172
-  },
-  {
-    "en": "No, not a bit.",
-    "vi": "Không, chẳng có gì",
-    "origin": "",
-    "image": "",
-    "id": 173
-  },
-  {
-    "en": "Always the same.",
-    "vi": "Trước sau như một",
-    "origin": "",
-    "image": "",
-    "id": 174
-  },
-  {
-    "en": "I can't say for sure.",
-    "vi": "Tôi không thể nói chắc",
-    "origin": "",
-    "image": "",
-    "id": 175
-  },
-  {
-    "en": "Do as I say.",
-    "vi": "Làm theo lời tôi",
-    "origin": "",
-    "image": "",
-    "id": 176
-  },
-  {
-    "en": "Don't make fun of me",
-    "vi": "Đừng có chọc tôi",
-    "origin": "",
-    "image": "",
-    "id": 177
-  },
-  {
-    "en": "None of your business!",
-    "vi": "Không phải việc của bạn",
-    "origin": "",
-    "image": "",
-    "id": 178
-  },
-  {
-    "en": "Got a minute?",
-    "vi": "Có rảnh không?",
-    "origin": "",
-    "image": "",
-    "id": 179
-  },
-  {
-    "en": "No way!",
-    "vi": "Không đời nào",
-    "origin": "",
-    "image": "",
-    "id": 180
-  },
-  {
-    "en": "You asked for it",
-    "vi": "Tự làm tự chịu",
-    "origin": "Bạn đã yêu cầu nó",
-    "image": "",
-    "id": 181
-  },
-  {
-    "en": "About when?",
-    "vi": "Vào lúc nào",
-    "origin": "",
-    "image": "",
-    "id": 182
-  },
-  {
-    "en": "SOS (Save Our Souls)",
-    "vi": "Hay cúu lay nhüng linh hôn cúa chúng tôi",
-    "origin": "",
-    "image": "",
-    "id": 183
-  },
-  {
-    "en": "POV (Point of view)",
-    "vi": "Quan điểm, góc nhìn cá nhân",
-    "origin": "",
-    "image": "",
-    "id": 184
-  },
-  {
-    "en": "EQ (Emotional Quotient)",
-    "vi": "Chi số thông minh cảm xúc",
-    "origin": "",
-    "image": "",
-    "id": 185
-  },
-  {
-    "en": "VIP (Very Important Person)",
-    "vi": "Nhân vật rất quan trọng",
-    "origin": "",
-    "image": "",
-    "id": 186
-  },
-  {
-    "en": "MC (Master of Ceremonies)",
-    "vi": "Người dẫn chương trình",
-    "origin": "",
-    "image": "",
-    "id": 187
-  },
-  {
-    "en": "ATM (Automated teller machine)",
-    "vi": "Máy rút tiền tự động",
-    "origin": "",
-    "image": "",
-    "id": 188
-  }
+    {
+        "id": 0,
+        "en": "Can't judge a book by its cover",
+        "vi": "Không thể đánh giá qua vẻ bề ngoài",
+        "origin": "không thể đánh giá một cuốn sách bằng bìa của nó",
+        "image": ""
+    },
+    {
+        "id": 1,
+        "en": "You don't need to wear a jacket.",
+        "vi": "Bạn không cần mặc áo khoác",
+        "origin": "Bạn không cần mặc áo khoác",
+        "image": ""
+    },
+    {
+        "id": 2,
+        "en": "I don't want to talk about it",
+        "vi": "Tôi không muốn nói về nó.",
+        "origin": "Tôi không muốn nói về nó.",
+        "image": "",
+        "score": 2
+    },
+    {
+        "id": 3,
+        "en": "Can we have a party?",
+        "vi": "Chúng ta có thể mở một bữa tiệc không?",
+        "origin": "Chúng ta có thể mở một bữa tiệc không?",
+        "image": ""
+    },
+    {
+        "id": 4,
+        "en": "Are you talking to me?",
+        "vi": "Bạn đang nói chuyện với tôi phải không?",
+        "origin": "Bạn đang nói chuyện với tôi phải không?",
+        "image": ""
+    },
+    {
+        "id": 5,
+        "en": "A couple of minutes later",
+        "vi": "Một vài phút sau",
+        "origin": "Một vài phút sau",
+        "image": "",
+        "score": 1
+    },
+    {
+        "id": 6,
+        "en": "Can i sit next to the window",
+        "vi": "Tôi có thể ngồi cạnh cửa sổ không?",
+        "origin": "Tôi có thể ngồi cạnh cửa sổ không?",
+        "image": ""
+    },
+    {
+        "id": 7,
+        "en": "Is she cleaning the toilet?",
+        "vi": "CÔ ấy có đang dọn nhà vệ sinh không",
+        "origin": "CÔ ấy có đang dọn nhà vệ sinh không",
+        "image": ""
+    },
+    {
+        "id": 8,
+        "en": "I would like to have breakfast with you",
+        "vi": "Tôi muốn ăn sáng cùng với bạn",
+        "origin": "Tôi muốn ăn sáng cùng với bạn",
+        "image": ""
+    },
+    {
+        "id": 9,
+        "en": "Would you like some beef for lunch?",
+        "vi": "Bạn có muốn một ít thịt bò vào bữa trưa không?",
+        "origin": "Bạn có muốn một ít thịt bò vào bữa trưa không?",
+        "image": ""
+    },
+    {
+        "id": 10,
+        "en": "That little girl is funny.",
+        "vi": "Cô bé con đó thì vui tính.",
+        "origin": "Cô bé con đó thì vui tính.",
+        "image": ""
+    },
+    {
+        "id": 11,
+        "en": "Are we best friends?",
+        "vi": "Chúng ta có phải là bạn thân không?",
+        "origin": "Chúng ta có phải là bạn thân không?",
+        "image": ""
+    },
+    {
+        "id": 12,
+        "en": "OK, I'm going to tell the principal that I want to leave this job.",
+        "vi": "Được rồi, tôi sẽ nói với hiệu trưởng rằng tôi muốn rời khỏi công việc này.",
+        "origin": "Được rồi, tôi sẽ nói với hiệu trưởng rằng tôi muốn rời khỏi công việc này.",
+        "image": ""
+    },
+    {
+        "id": 13,
+        "en": "I think you're a great teacher/developer!",
+        "vi": "Tôi nghĩ bạn là một giáo viên/ lập trình viên giỏi!",
+        "origin": "Tôi nghĩ bạn là một giáo viên/ lập trình viên giỏi!",
+        "image": ""
+    },
+    {
+        "id": 14,
+        "en": "It is my new job!",
+        "vi": "Nó là công việc mới của tôi!",
+        "origin": "Nó là công việc mới của tôi!",
+        "image": ""
+    },
+    {
+        "id": 15,
+        "en": "Where do you want to go?",
+        "vi": "Bạn muốn đi đâu?",
+        "origin": "Bạn muốn đi đâu?",
+        "image": ""
+    },
+    {
+        "id": 16,
+        "en": "Hello, Mr.Huy, I’m ready to eat lunch",
+        "vi": "Xin chào anh Huy, tôi đã sẵn sàng để ăn trưa",
+        "origin": "Xin chào anh Huy, tôi đã sẵn sàng để ăn trưa",
+        "image": ""
+    },
+    {
+        "id": 17,
+        "en": "Do you like the weather in August?",
+        "vi": "Bạn có thích thời tiết vào tháng 8 không?",
+        "origin": "Bạn có thích thời tiết vào tháng 8 không?",
+        "image": ""
+    },
+    {
+        "id": 18,
+        "en": "I always study English everyday.",
+        "vi": "Tôi luôn luôn học tiếng anh hàng ngày.",
+        "origin": "Tôi luôn luôn học tiếng anh hàng ngày.",
+        "image": ""
+    },
+    {
+        "id": 19,
+        "en": "I always study English on Sundays",
+        "vi": "Do you go to work on Sundays?",
+        "origin": "Do you go to work on Sundays?",
+        "image": ""
+    },
+    {
+        "id": 20,
+        "en": "Bạn có đi làm vào Chủ Nhật không?",
+        "vi": "What time do you go to work?",
+        "origin": "What time do you go to work?",
+        "image": ""
+    },
+    {
+        "id": 21,
+        "en": "Mấy giờ bạn đi làm?",
+        "vi": "Do you want to go to work together?",
+        "origin": "Do you want to go to work together?",
+        "image": ""
+    },
+    {
+        "id": 22,
+        "en": "Bạn có muốn đi làm cùng nhau không?",
+        "vi": "You look like someone i knew many years ago",
+        "origin": "You look like someone i knew many years ago",
+        "image": ""
+    },
+    {
+        "id": 23,
+        "en": "There are some apples in the fridge.",
+        "vi": "Có một vài quả táo trong tủ lạnh.",
+        "origin": "Có một vài quả táo trong tủ lạnh.",
+        "image": ""
+    },
+    {
+        "id": 24,
+        "en": "It snows a lot in January.",
+        "vi": "Tuyết rơi nhiều vào tháng 1",
+        "origin": "Tuyết rơi nhiều vào tháng 1",
+        "image": ""
+    },
+    {
+        "id": 25,
+        "en": "Does it rain here in April?",
+        "vi": "Ở đây trời có mưa vào tháng Tư không?",
+        "origin": "Ở đây trời có mưa vào tháng Tư không?",
+        "image": ""
+    },
+    {
+        "id": 26,
+        "en": "How is the weather in Dalat?",
+        "vi": "Thời tiết ở Đà Lạt thế nào?",
+        "origin": "Thời tiết ở Đà Lạt thế nào?",
+        "image": ""
+    },
+    {
+        "id": 27,
+        "en": "She does not like to watch movies.",
+        "vi": "Cô ấy không thích xem phim",
+        "origin": "Cô ấy không thích xem phim",
+        "image": ""
+    },
+    {
+        "id": 28,
+        "en": "Do birds have ears?",
+        "vi": "Con chim có tai không",
+        "origin": "Con chim có tai không",
+        "image": ""
+    },
+    {
+        "id": 29,
+        "en": "You help me often. Of course I’m going to help you now.",
+        "vi": "Cậu giúp tớ thường xuyên, tất nhiên là tớ sẽ giúp cậu bây giờ",
+        "origin": "Cậu giúp tớ thường xuyên, tất nhiên là tớ sẽ giúp cậu bây giờ",
+        "image": ""
+    },
+    {
+        "id": 30,
+        "en": "When will it be ready",
+        "vi": "Khi nào thì nó mới được",
+        "origin": "Khi nào thì nó mới được",
+        "image": ""
+    },
+    {
+        "id": 31,
+        "en": "Are you OK, Phong? You look worried.",
+        "vi": "Bạn ổn không, Phong? trong cậu có vẻ lo lắng.",
+        "origin": "Bạn ổn không, Phong? trong cậu có vẻ lo lắng.",
+        "image": ""
+    },
+    {
+        "id": 32,
+        "en": "Bạn muốn làm gì tối nay?",
+        "vi": "What would you like to do tonight?",
+        "origin": "What would you like to do tonight?",
+        "image": ""
+    },
+    {
+        "id": 33,
+        "en": "I'm really excited to meet him.",
+        "vi": "Tôi rất háo hức gặp anh ấy",
+        "origin": "Tôi rất háo hức gặp anh ấy",
+        "image": ""
+    },
+    {
+        "id": 34,
+        "en": "I clean the toilet every day.",
+        "vi": "Tôi dọn nhà vệ sinh mỗi ngày",
+        "origin": "Tôi dọn nhà vệ sinh mỗi ngày",
+        "image": ""
+    },
+    {
+        "id": 35,
+        "en": "He never cleans his room.",
+        "vi": "Anh ấy không bao giờ dọn dẹp phòng của anh ấy",
+        "origin": "Anh ấy không bao giờ dọn dẹp phòng của anh ấy",
+        "image": ""
+    },
+    {
+        "id": 36,
+        "en": "Don't Make My Mistakes",
+        "vi": "Đừng mắc sai lầm",
+        "origin": "Đừng mắc sai lầm",
+        "image": ""
+    },
+    {
+        "id": 37,
+        "en": "What time does the meeting start?",
+        "vi": "Mấy giờ buổi họp bắt đầu?",
+        "origin": "Mấy giờ buổi họp bắt đầu?",
+        "image": ""
+    },
+    {
+        "id": 38,
+        "en": "What time do you go to school",
+        "vi": "Mấy giờ bạn đi học?",
+        "origin": "Mấy giờ bạn đi học?",
+        "image": ""
+    },
+    {
+        "id": 39,
+        "en": "What time do you have dinner",
+        "vi": "Mấy giờ bạn ăn tối?",
+        "origin": "Mấy giờ bạn ăn tối?",
+        "image": ""
+    },
+    {
+        "id": 40,
+        "en": "The game is at three o'clock.",
+        "vi": "Trận đấu là vào lúc 3 giờ",
+        "origin": "Trận đấu là vào lúc 3 giờ",
+        "image": ""
+    },
+    {
+        "id": 41,
+        "en": "Do you want to close the door?",
+        "vi": "Bạn có muốn đóng cửa không?",
+        "origin": "Bạn có muốn đóng cửa không?",
+        "image": ""
+    },
+    {
+        "id": 42,
+        "en": "On the other hand",
+        "vi": "Mặt khác",
+        "origin": "Mặt khác",
+        "image": ""
+    },
+    {
+        "id": 43,
+        "en": "How many pens do you have?",
+        "vi": "Bạn có bao nhiều chiếc bút?",
+        "origin": "Bạn có bao nhiều chiếc bút?",
+        "image": ""
+    },
+    {
+        "id": 44,
+        "en": "Emma doesn't want to come here.",
+        "vi": "Emma không muốn đến đây.",
+        "origin": "Emma không muốn đến đây.",
+        "image": ""
+    },
+    {
+        "id": 45,
+        "en": "Is there a bus station near our hotel?",
+        "vi": "Có một trạm xe buýt gần khách sạn của chúng tôi phải không?",
+        "origin": "Có một trạm xe buýt gần khách sạn của chúng tôi phải không?",
+        "image": ""
+    },
+    {
+        "id": 46,
+        "en": "Duo rides a bike to school every day.",
+        "vi": "Duo đi xe đạp đến trường mỗi ngày.",
+        "origin": "Duo đi xe đạp đến trường mỗi ngày.",
+        "image": ""
+    },
+    {
+        "id": 47,
+        "en": "There are many trees in front of the hotel.",
+        "vi": "Có nhiều cây trước khách sạn.",
+        "origin": "Có nhiều cây trước khách sạn.",
+        "image": ""
+    },
+    {
+        "id": 48,
+        "en": "There are many cars in front of my house.",
+        "vi": "Có nhiều xe ô tô trước nhà của tôi.",
+        "origin": "Có nhiều xe ô tô trước nhà của tôi.",
+        "image": ""
+    },
+    {
+        "id": 49,
+        "en": "Which shoe store is open?",
+        "vi": "Cửa hàng giày nào mở cửa?",
+        "origin": "Cửa hàng giày nào mở cửa?",
+        "image": ""
+    },
+    {
+        "id": 50,
+        "en": "What time is the meeting?",
+        "vi": "Cuộc họp là vào lúc mấy giờ?",
+        "origin": "Cuộc họp là vào lúc mấy giờ?",
+        "image": ""
+    },
+    {
+        "id": 51,
+        "en": "Which movies do you like?",
+        "vi": "Bạn thích bộ phim nào?",
+        "origin": "Bạn thích bộ phim nào?",
+        "image": ""
+    },
+    {
+        "id": 52,
+        "en": "When we can go home?",
+        "vi": "Khi nào mình có thể về nhà",
+        "origin": "Khi nào mình có thể về nhà",
+        "image": ""
+    },
+    {
+        "id": 53,
+        "en": "She draws very well.",
+        "vi": "Cô ấy vẽ rất giỏi.",
+        "origin": "Cô ấy vẽ rất giỏi.",
+        "image": ""
+    },
+    {
+        "id": 54,
+        "en": "My left eye doesn't hurt.",
+        "vi": "Mắt trái của tôi không đau.",
+        "origin": "Mắt trái của tôi không đau.",
+        "image": ""
+    },
+    {
+        "id": 55,
+        "en": "Horses are friendly animals.",
+        "vi": "Ngựa là động vật thân thiện",
+        "origin": "Ngựa là động vật thân thiện",
+        "image": ""
+    },
+    {
+        "id": 56,
+        "en": "Can I have some coffee?",
+        "vi": "Cho tôi một ít cà phê được không",
+        "origin": "Cho tôi một ít cà phê được không",
+        "image": ""
+    },
+    {
+        "id": 57,
+        "en": "He acted without reference to me",
+        "vi": "Anh ấy làm mà không hỏi ý kiến tôi",
+        "origin": "Anh ấy làm mà không hỏi ý kiến tôi",
+        "image": ""
+    },
+    {
+        "id": 58,
+        "en": "Your confidence is born of experience",
+        "vi": "Sự tự tin của bạn được sinh ra từ kinh nghiệm",
+        "origin": "Sự tự tin của bạn được sinh ra từ kinh nghiệm",
+        "image": ""
+    },
+    {
+        "id": 59,
+        "en": "How did you do that?",
+        "vi": "Bạn đã làm điều đó như thế nào",
+        "origin": "Bạn đã làm điều đó như thế nào",
+        "image": ""
+    },
+    {
+        "id": 60,
+        "en": "Her silence merely exacerbated the problem.",
+        "vi": "Sự im lặng của cô ấy đã làm vấn đề nghiêm trọng thêm.",
+        "origin": "Sự im lặng của cô ấy đã làm vấn đề nghiêm trọng thêm.",
+        "image": ""
+    },
+    {
+        "id": 61,
+        "en": "Which universities do you like?",
+        "vi": "Ban thích học trường đại học nào",
+        "origin": "Ban thích học trường đại học nào",
+        "image": ""
+    },
+    {
+        "id": 62,
+        "en": "Can I get you a beer?",
+        "vi": "Tôi lấy cho bạn một cốc bia nhé?",
+        "origin": "Tôi lấy cho bạn một cốc bia nhé?",
+        "image": ""
+    },
+    {
+        "id": 63,
+        "en": "You need to wait for five minutes.",
+        "vi": "Bạn cần đợi năm phút.",
+        "origin": "Bạn cần đợi năm phút.",
+        "image": ""
+    },
+    {
+        "id": 64,
+        "en": "Do you like to travel by car?",
+        "vi": "Bạn có thích đi du lịch bằng xe ô tô không",
+        "origin": "Bạn có thích đi du lịch bằng xe ô tô không",
+        "image": ""
+    },
+    {
+        "id": 65,
+        "en": "You need to learn to cook.",
+        "vi": "Bạn cần học nấu ăn",
+        "origin": "Bạn cần học nấu ăn",
+        "image": ""
+    },
+    {
+        "id": 66,
+        "en": "What kind of drink do you want?",
+        "vi": "Bạn muốn uống loại nước nào",
+        "origin": "Bạn muốn uống loại nước nào",
+        "image": ""
+    },
+    {
+        "id": 67,
+        "en": "Hit the nail on the head",
+        "vi": "Nói điều gì đó hoàn toàn chính xác",
+        "origin": "Đánh trúng đầu đinh",
+        "image": ""
+    },
+    {
+        "id": 68,
+        "en": "We are on the same page. / To be on the same page",
+        "vi": "Tụi mình có chung suy nghĩ đấy. / Khi bạn và ai đó đang \"on the same page\", cả hai cùng chung suy nghĩ, ý tưởng, không bất đồng với nhau. ",
+        "origin": "to understand and agree with what is being done or suggested\n",
+        "image": ""
+    },
+    {
+        "id": 69,
+        "en": "To give someone the benefit of the doubt",
+        "vi": "Mặc dù bạn vẫn còn nghi ngờ, lấn cấn với ai đó, bạn vẫn quyết định tin tưởng họ.",
+        "origin": "Chuck is trying to be a better person, can you give him the benefit of the doubt? \n Chuck đang cố gắng trở thành người tốt, cậu có thể tin tưởng anh ấy được không?",
+        "image": ""
+    },
+    {
+        "en": "What's up?",
+        "vi": "Có chuyện gì vậy",
+        "origin": "",
+        "image": "",
+        "id": 70
+    },
+    {
+        "en": "Let me be",
+        "vi": "Kê tôi",
+        "origin": "",
+        "image": "",
+        "id": 71
+    },
+    {
+        "en": "What for?",
+        "vi": "Để làm gì?",
+        "origin": "",
+        "image": "",
+        "id": 72
+    },
+    {
+        "en": "So so",
+        "vi": "THường thôi",
+        "origin": "",
+        "image": "",
+        "id": 73
+    },
+    {
+        "en": "Take it easy",
+        "vi": "Cứ từ từ",
+        "origin": "",
+        "image": "",
+        "id": 74
+    },
+    {
+        "en": "Nothing much",
+        "vi": "Không có gì mới cả",
+        "origin": "",
+        "image": "",
+        "id": 75
+    },
+    {
+        "en": "I guess so",
+        "vi": "Tôi đoán vậy",
+        "origin": "",
+        "image": "",
+        "id": 76
+    },
+    {
+        "en": "Don't bother",
+        "vi": "Đừng bận tâm",
+        "origin": "",
+        "image": "",
+        "id": 77
+    },
+    {
+        "en": "No hard feeling",
+        "vi": "Không giận chứ",
+        "origin": "",
+        "image": "",
+        "id": 78
+    },
+    {
+        "en": "This is the limit!",
+        "vi": "Đủ rồi đó",
+        "origin": "",
+        "image": "",
+        "id": 79
+    },
+    {
+        "en": "Don't be nosy",
+        "vi": "Đừng nhiều chuyên",
+        "origin": "",
+        "image": "",
+        "id": 80
+    },
+    {
+        "en": "Piece of cake",
+        "vi": "Dễ thôi mà, dễ ợt",
+        "origin": "",
+        "image": "",
+        "id": 81
+    },
+    {
+        "en": "Poor thing",
+        "vi": "Thật tội nghiệp",
+        "origin": "",
+        "image": "",
+        "id": 82
+    },
+    {
+        "en": "So what?",
+        "vi": "Vậy thì sao?",
+        "origin": "",
+        "image": "",
+        "id": 83
+    },
+    {
+        "en": "Dead meat",
+        "vi": "Chết chắc",
+        "origin": "",
+        "image": "",
+        "id": 84
+    },
+    {
+        "en": "What a relief",
+        "vi": "Thật nhẹ nhõm",
+        "origin": "",
+        "image": "",
+        "id": 85
+    },
+    {
+        "en": "That's a lie!",
+        "vi": "Xạo quá!",
+        "origin": "",
+        "image": "",
+        "id": 86
+    },
+    {
+        "en": "Down and out!",
+        "vi": "Thất bại hoàn toàn.",
+        "origin": "",
+        "image": "",
+        "id": 87
+    },
+    {
+        "en": "Just for fun!",
+        "vi": "Giỡn chơi thôi.",
+        "origin": "",
+        "image": "",
+        "id": 88
+    },
+    {
+        "en": "For better or for worst!",
+        "vi": "Chẵn biết là tốt hay là xấu",
+        "origin": "",
+        "image": "",
+        "id": 89
+    },
+    {
+        "en": "Little by little.",
+        "vi": "Từng li từng tý",
+        "origin": "",
+        "image": "",
+        "id": 89
+    },
+    {
+        "en": "Let me go.",
+        "vi": "Để tôi đi",
+        "origin": "",
+        "image": "",
+        "id": 90
+    },
+    {
+        "en": "Let me be.",
+        "vi": "Mặc kệ tôi",
+        "origin": "",
+        "image": "",
+        "id": 91
+    },
+    {
+        "en": "Make yourself at home",
+        "vi": "Cứ tự nhiên như ở nhà",
+        "origin": "",
+        "image": "",
+        "id": 92
+    },
+    {
+        "en": "Nothing at all.",
+        "vi": "Không sao cả",
+        "origin": "",
+        "image": "",
+        "id": 93
+    },
+    {
+        "en": "No choice",
+        "vi": "Không thể làm khác",
+        "origin": "",
+        "image": "",
+        "id": 94
+    },
+    {
+        "en": "Not a chance",
+        "vi": "Đừng hòng",
+        "origin": "",
+        "image": "",
+        "id": 95
+    },
+    {
+        "en": "My pleasure",
+        "vi": "Rất hân hạnh",
+        "origin": "",
+        "image": "",
+        "id": 96
+    },
+    {
+        "en": "Much better",
+        "vi": "Tốt hơn nhiều",
+        "origin": "",
+        "image": "",
+        "id": 97
+    },
+    {
+        "en": "Now or never",
+        "vi": "Bây giờ hoặc không bao giờ",
+        "origin": "",
+        "image": "",
+        "id": 98
+    },
+    {
+        "en": "No way out",
+        "vi": "Không lối thoát",
+        "origin": "",
+        "image": "",
+        "id": 99
+    },
+    {
+        "en": "Dead end",
+        "vi": "Đường cùng",
+        "origin": "",
+        "image": "",
+        "id": 100
+    },
+    {
+        "en": "No kidding",
+        "vi": "Không đùa đấy chứ",
+        "origin": "",
+        "image": "",
+        "id": 101
+    },
+    {
+        "en": "No offense",
+        "vi": "Không có ý gì đâu",
+        "origin": "",
+        "image": "",
+        "id": 102
+    },
+    {
+        "en": "Not long ago",
+        "vi": "Cách đây không lâu",
+        "origin": "",
+        "image": "",
+        "id": 103
+    },
+    {
+        "en": "Out of order",
+        "vi": "Bị hư hỏng",
+        "origin": "",
+        "image": "",
+        "id": 104
+    },
+    {
+        "en": "Out of luck",
+        "vi": "Không gặp may",
+        "origin": "",
+        "image": "",
+        "id": 105
+    },
+    {
+        "en": "Out of blue",
+        "vi": "Bất thình lình",
+        "origin": "",
+        "image": "",
+        "id": 106
+    },
+    {
+        "en": "Thief",
+        "vi": "kẻ trộm",
+        "origin": "",
+        "image": "",
+        "id": 106
+    },
+    {
+        "en": "Burglar",
+        "vi": "ăn trộm (bẻ khóa nhà)",
+        "origin": "",
+        "image": "",
+        "id": 107
+    },
+    {
+        "en": "Catburglars",
+        "vi": "ăn trộm (bẻ khóa tầng 2 trở lên)",
+        "origin": "",
+        "image": "",
+        "id": 108
+    },
+    {
+        "en": "Robber",
+        "vi": "Ăn cướp (bằng vũ lực)",
+        "origin": "",
+        "image": "",
+        "id": 109
+    },
+    {
+        "en": "Mugger",
+        "vi": "Cướp giật (nơi công cộng)",
+        "origin": "",
+        "image": "",
+        "id": 110
+    },
+    {
+        "en": "Pickpocket",
+        "vi": "Cướp móc túi",
+        "origin": "",
+        "image": "",
+        "id": 111
+    },
+    {
+        "en": "Shoplifter",
+        "vi": "Cướp cửa hàng",
+        "origin": "",
+        "image": "",
+        "id": 112
+    },
+    {
+        "en": "Kidnapper",
+        "vi": "kẻ bắt cóc",
+        "origin": "",
+        "image": "",
+        "id": 113
+    },
+    {
+        "en": "Smile",
+        "vi": "Cười mỉm 😊 🙂",
+        "origin": "",
+        "image": "",
+        "id": 113
+    },
+    {
+        "en": "Grin",
+        "vi": "cười thân thiện 😁😄",
+        "origin": "",
+        "image": "",
+        "id": 114
+    },
+    {
+        "en": "Laugh",
+        "vi": "cười lớn 😂🤣",
+        "origin": "",
+        "image": "",
+        "id": 115
+    },
+    {
+        "en": "Giggle",
+        "vi": "cười thanh lịch 🤭",
+        "origin": "",
+        "image": "",
+        "id": 116
+    },
+    {
+        "en": "Smirk",
+        "vi": "cười nhếch mép 😏",
+        "origin": "",
+        "image": "",
+        "id": 117
+    },
+    {
+        "en": "If you don't walk today, you will have to run tomorrow",
+        "vi": "Nếu bạn không bước đi hôm nay, bạn sẽ phải chạy vào ngày hôm sau",
+        "origin": "",
+        "image": "",
+        "id": 118
+    },
+    {
+        "en": "Don't try to convince them otherwise. Don't try to force them to make time for you.",
+        "vi": "Đừng cố thuyết phục học theo cách khác. Đừng cố ép họ dành thời gian cho mình",
+        "origin": "",
+        "image": "",
+        "id": 119
+    },
+    {
+        "en": "Don't overthink! Sometimes knowing nothing is the best option.",
+        "vi": "Đừng suy nghĩ quá nhiều nữa, đôi khi không cần biết gì lại là phương án tốt nhất",
+        "origin": "",
+        "image": "",
+        "id": 120
+    },
+    {
+        "en": "The brake doesn't have the car goes faster, but thanks to it, the car dares to go faster",
+        "vi": "Cái phanh không giúp xe đi nhanh hơn, nhưng nhờ có nó mà chiếc xe mới dám đi nhanh hơn.",
+        "origin": "",
+        "image": "",
+        "id": 121
+    },
+    {
+        "en": "On the way to success, there is no trace of lazy men",
+        "vi": "Trên con đường thành công không có dấu chân của kẻ lười biến",
+        "origin": "",
+        "image": "",
+        "id": 122
+    },
+    {
+        "en": "Take care of your self",
+        "vi": "Bảo trọng nhé! nhớ chăm sóc bản thân",
+        "origin": "",
+        "image": "",
+        "id": 123
+    },
+    {
+        "en": "Better safe than sorry",
+        "vi": "Cẩn thận vẫn hơn",
+        "origin": "",
+        "image": "",
+        "id": 124
+    },
+    {
+        "en": "I won't tell a soul",
+        "vi": "Tôi sẽ không tiết lộ với ai cả. / Không nói với ai đâu",
+        "origin": "",
+        "image": "",
+        "id": 125
+    },
+    {
+        "en": "Better late than never",
+        "vi": "Muộn / có còn hơn không",
+        "origin": "",
+        "image": "",
+        "id": 126
+    },
+    {
+        "en": "You are absolutely right",
+        "vi": "Bạn nói chí phải",
+        "origin": "",
+        "image": "",
+        "id": 127
+    },
+    {
+        "en": "Don't blame yourself",
+        "vi": "Đừng tự trách mình nữa",
+        "origin": "",
+        "image": "",
+        "id": 128
+    },
+    {
+        "en": "Down the hatch",
+        "vi": "Cạn ly",
+        "origin": "",
+        "image": "",
+        "id": 129
+    },
+    {
+        "en": "I bet you can",
+        "vi": "Tôi cá là bạn có thể",
+        "origin": "",
+        "image": "",
+        "id": 130
+    },
+    {
+        "en": "What's done is done",
+        "vi": "Chuyện gì đã qua thì cho qua",
+        "origin": "",
+        "image": "",
+        "id": 131
+    },
+    {
+        "en": "Don't stay up too late",
+        "vi": "Đừng thức khuya quá nhé",
+        "origin": "",
+        "image": "",
+        "id": 132
+    },
+    {
+        "en": "Sorry to bother you",
+        "vi": "Xin lỗi vì đã làm phiền",
+        "origin": "",
+        "image": "",
+        "id": 133
+    },
+    {
+        "en": "I will not let you down",
+        "vi": "Tôi sẽ không làm bạn thất vọng",
+        "origin": "",
+        "image": "",
+        "id": 134
+    },
+    {
+        "en": "I appreciate your concern",
+        "vi": "Tôi rất cảm kích sự quan tâm của bạn",
+        "origin": "Tôi rất biết ơn sự lo lắng của cậu",
+        "image": "",
+        "id": 135
+    },
+    {
+        "en": "You crossed the line",
+        "vi": "Mày bắt đầu mất dậy rồi đấy",
+        "origin": "Bạn đã vượt qua ranh giới",
+        "image": "",
+        "id": 136
+    },
+    {
+        "en": "I got your back",
+        "vi": "Tao sẽ giúp mày",
+        "origin": "",
+        "image": "",
+        "id": 137
+    },
+    {
+        "en": "You want a piece of me",
+        "vi": "Mày muốn đánh nhau à",
+        "origin": "Bạn muốn có một mảnh của tôi",
+        "image": "",
+        "id": 138
+    },
+    {
+        "en": "Be my guest",
+        "vi": "Xin cứ tự nhiên",
+        "origin": "",
+        "image": "",
+        "id": 139
+    },
+    {
+        "en": "It means a lot.",
+        "vi": "Nó rất quan trọng / nó rất ý nghĩa",
+        "origin": "Nó có nghĩa là rất nhiều.",
+        "image": "",
+        "id": 140
+    },
+    {
+        "en": "You set me up",
+        "vi": "Mày bẫy tao",
+        "origin": "Bạn thiết lập cho tôi",
+        "image": "",
+        "id": 141
+    },
+    {
+        "en": "Get over yourself",
+        "vi": "Đừng tưởng tượng mình quan trọng lắm",
+        "origin": "",
+        "image": "",
+        "id": 142
+    },
+    {
+        "en": "Get over yourself",
+        "vi": "Đừng phí lời",
+        "origin": "",
+        "image": "",
+        "id": 143
+    },
+    {
+        "en": "Which country does Mary want to travel to?",
+        "vi": "Mary muốn du lịch đến đất nước nào?",
+        "origin": "",
+        "image": "",
+        "id": 144
+    },
+    {
+        "en": "Would you like ice with that ?",
+        "vi": "Bạn có muốn dùng chung với đá không?",
+        "origin": "",
+        "image": "",
+        "id": 145
+    },
+    {
+        "en": "What can I get you?",
+        "vi": "Bạn muốn gọi gì ạ?",
+        "origin": "",
+        "image": "",
+        "id": 146
+    },
+    {
+        "en": "Would you like anything to drink?",
+        "vi": "Bạn có muốn uống gì không?",
+        "origin": "",
+        "image": "",
+        "id": 147
+    },
+    {
+        "en": "What flavour would you like?",
+        "vi": "Bạn thích vị gì?",
+        "origin": "",
+        "image": "",
+        "id": 148
+    },
+    {
+        "en": "Eat in or take - away?",
+        "vi": "Ăn ở đây, hay mang đi?",
+        "origin": "",
+        "image": "",
+        "id": 149
+    },
+    {
+        "en": "Is it for here or to go?",
+        "vi": "Ăn ở đây, hay mang đi?",
+        "origin": "",
+        "image": "",
+        "id": 150
+    },
+    {
+        "en": "Please give me a few minutes, ok?",
+        "vi": "Cho mình xin vài phút nhé!",
+        "origin": "",
+        "image": "",
+        "id": 151
+    },
+    {
+        "en": "Are you okay?",
+        "vi": "Bạn có ổn không?",
+        "origin": "",
+        "image": "",
+        "id": 152
+    },
+    {
+        "en": "Are you ready?",
+        "vi": "Bạn sẳn sàng chưa?",
+        "origin": "",
+        "image": "",
+        "id": 153
+    },
+    {
+        "en": "Are you free?",
+        "vi": "Bạn rảnh không?",
+        "origin": "",
+        "image": "",
+        "id": 154
+    },
+    {
+        "en": "Are you sure?",
+        "vi": "Bạn chắc chứ?",
+        "origin": "",
+        "image": "",
+        "id": 155
+    },
+    {
+        "en": "Are you thirsty?",
+        "vi": "Bạn khát nước không?",
+        "origin": "",
+        "image": "",
+        "id": 156
+    },
+    {
+        "en": "Are you hungry?",
+        "vi": "Bạn có đói không?",
+        "origin": "",
+        "image": "",
+        "id": 157
+    },
+    {
+        "en": "Are you home?",
+        "vi": "Bạn có nhà không?",
+        "origin": "",
+        "image": "",
+        "id": 158
+    },
+    {
+        "en": "Are you tired?",
+        "vi": "Bạn có mệt không?",
+        "origin": "",
+        "image": "",
+        "id": 159
+    },
+    {
+        "en": "Are you kidding?",
+        "vi": "Bạn có giỡn không?",
+        "origin": "",
+        "image": "",
+        "id": 160
+    },
+    {
+        "en": "Are you crazy?",
+        "vi": "Bạn có điên không?",
+        "origin": "",
+        "image": "",
+        "id": 161
+    },
+    {
+        "en": "Don't waste your breath",
+        "vi": "Đừng phí lời",
+        "origin": "",
+        "image": "",
+        "id": 162
+    },
+    {
+        "en": "Don't be sorry",
+        "vi": "Đừng thấy có lỗi",
+        "origin": "",
+        "image": "",
+        "id": 163
+    },
+    {
+        "en": "Don't go yet",
+        "vi": "Đừng đi vội",
+        "origin": "",
+        "image": "",
+        "id": 164
+    },
+    {
+        "en": "Don't get me wrong",
+        "vi": "Đừng hiểu lầm",
+        "origin": "",
+        "image": "",
+        "id": 165
+    },
+    {
+        "en": "I know what you mean",
+        "vi": "Tôi hiểu ý bạn",
+        "origin": "Tôi hiểu bạn muốn nói gì",
+        "image": "",
+        "id": 166
+    },
+    {
+        "en": "I take your point",
+        "vi": "Tôi hiểu ý bạn rồi",
+        "origin": "",
+        "image": "",
+        "id": 167
+    },
+    {
+        "en": "I noticed",
+        "vi": "Tôi đã chú ý thấy",
+        "origin": "",
+        "image": "",
+        "id": 168
+    },
+    {
+        "en": "Hit it off",
+        "vi": "Tâm đầu ý hợp",
+        "origin": "",
+        "image": "",
+        "id": 169
+    },
+    {
+        "en": "Add fuel to the fire.",
+        "vi": "Thêm dầu vào lửa",
+        "origin": "",
+        "image": "",
+        "id": 170
+    },
+    {
+        "en": "Don't mention it! = You're welcome = That's al right!",
+        "vi": "Không có chi",
+        "origin": "",
+        "image": "",
+        "id": 171
+    },
+    {
+        "en": "Enjoy your meal!",
+        "vi": "Ăn ngon miệng nhé",
+        "origin": "",
+        "image": "",
+        "id": 172
+    },
+    {
+        "en": "No, not a bit.",
+        "vi": "Không, chẳng có gì",
+        "origin": "",
+        "image": "",
+        "id": 173
+    },
+    {
+        "en": "Always the same.",
+        "vi": "Trước sau như một",
+        "origin": "",
+        "image": "",
+        "id": 174
+    },
+    {
+        "en": "I can't say for sure.",
+        "vi": "Tôi không thể nói chắc",
+        "origin": "",
+        "image": "",
+        "id": 175
+    },
+    {
+        "en": "Do as I say.",
+        "vi": "Làm theo lời tôi",
+        "origin": "",
+        "image": "",
+        "id": 176
+    },
+    {
+        "en": "Don't make fun of me",
+        "vi": "Đừng có chọc tôi",
+        "origin": "",
+        "image": "",
+        "id": 177
+    },
+    {
+        "en": "None of your business!",
+        "vi": "Không phải việc của bạn",
+        "origin": "",
+        "image": "",
+        "id": 178
+    },
+    {
+        "en": "Got a minute?",
+        "vi": "Có rảnh không?",
+        "origin": "",
+        "image": "",
+        "id": 179
+    },
+    {
+        "en": "No way!",
+        "vi": "Không đời nào",
+        "origin": "",
+        "image": "",
+        "id": 180
+    },
+    {
+        "en": "You asked for it",
+        "vi": "Tự làm tự chịu",
+        "origin": "Bạn đã yêu cầu nó",
+        "image": "",
+        "id": 181
+    },
+    {
+        "en": "About when?",
+        "vi": "Vào lúc nào",
+        "origin": "",
+        "image": "",
+        "id": 182
+    },
+    {
+        "en": "SOS (Save Our Souls)",
+        "vi": "Hay cúu lay nhüng linh hôn cúa chúng tôi",
+        "origin": "",
+        "image": "",
+        "id": 183
+    },
+    {
+        "en": "POV (Point of view)",
+        "vi": "Quan điểm, góc nhìn cá nhân",
+        "origin": "",
+        "image": "",
+        "id": 184
+    },
+    {
+        "en": "EQ (Emotional Quotient)",
+        "vi": "Chi số thông minh cảm xúc",
+        "origin": "",
+        "image": "",
+        "id": 185
+    },
+    {
+        "en": "VIP (Very Important Person)",
+        "vi": "Nhân vật rất quan trọng",
+        "origin": "",
+        "image": "",
+        "id": 186
+    },
+    {
+        "en": "MC (Master of Ceremonies)",
+        "vi": "Người dẫn chương trình",
+        "origin": "",
+        "image": "",
+        "id": 187
+    },
+    {
+        "en": "ATM (Automated teller machine)",
+        "vi": "Máy rút tiền tự động",
+        "origin": "",
+        "image": "",
+        "id": 188
+    }
 ]

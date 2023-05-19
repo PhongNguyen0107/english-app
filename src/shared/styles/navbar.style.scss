@@ -7,5 +7,28 @@
 }
 
 .en-tab-bar {
+  padding: 24px;
 
+  .tab-bar-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 100%;
+
+    .tab-menu-item {
+      display: flex;
+      justify-content: center;
+      flex-direction: column;
+      align-content: center;
+      align-items: center;
+
+      &.active {
+        color: blue;
+      }
+
+      .tab-menu-title {
+        font-size: 18px;
+      }
+    }
+  }
 }

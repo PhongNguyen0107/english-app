@@ -1,18 +1,22 @@
 'use client';
 import React, {useEffect} from "react";
-import {Affix, Button, Card, Col, Input, Row, Space, Spin} from 'antd';
+import {Affix, Button, Card, Col, Input, Row, Space, Spin, Badge} from 'antd';
 import TabBar from "@/components/tab-bar/TabBar";
 import {ROUTE_NAME} from "@/configuration/Application.config";
 import {useQuery} from "react-query";
-import {getSentences} from "@/services/Sentences.service";
+import {getSentences, increaseSentence} from "@/services/Sentences.service";
 import MenuBar from "@/components/MenuBar";
 import {SentenceType} from "@/services/AppInterface";
 import {useSetState} from "ahooks";
 import Fuse from "fuse.js";
+import {copyToClipboardLargeData} from "@/shared/utils";
+import {AppColors} from "@/shared/AppColors";
+import {Plus} from "phosphor-react";
 
 const {Search} = Input
 type IState = {
   isShowFull: boolean;
+  loading: boolean;
   active: any;
   strategy: string;
   search: string;
@@ -21,15 +25,15 @@ type IState = {
 }
 const Sentences = () => {
 
-  const {data: sentencesResp, isLoading} = useQuery('sentences', getSentences);
+  const {data: sentencesResp, isLoading, refetch} = useQuery('sentences', getSentences);
   const sentences = sentencesResp?.data?.data || [];
-
 
   const [state, setState] = useSetState<IState>({
     active: null,
     sentences: [],
     strategy: "VIETNAMESE",
     isShowFull: false,
+    loading: false,
     search: "",
     unit: 0
   })
@@ -76,6 +80,13 @@ const Sentences = () => {
     }
   }
 
+  const addScoreForSentence = (s: SentenceType) => {
+    setState({loading: true})
+    increaseSentence(s).then((r) => {
+      if (r.status === 200) return refetch()
+    }).finally(() => setState({loading: false}))
+  }
+
 
   return (
     <main className="page">
@@ -83,7 +94,7 @@ const Sentences = () => {
       <MenuBar/>
       <div className="page-body">
         <Row gutter={[24, 24]}>
-          {isLoading && <Col xs={24}><Spin/></Col>}
+          {(isLoading || state.loading) && <Col xs={24}><Spin/></Col>}
 
           <Affix offsetTop={24} className={"fw"}>
             <Col xs={24} className={"fw"}>
@@ -127,18 +138,38 @@ const Sentences = () => {
                 xs={24} lg={12} xxl={8}
                 style={{height: "100%", cursor: "pointer"}}
               >
-                <Card
-                  className={"fw"}
-                  style={{
-                    border: state.active?.id === s.id ? "2px solid green" : "unset"
-                  }}
-                  onClick={() => setState({active: s})}>
-                  {(state.strategy === "ENGLISH" || state.active?.id === s.id || state.isShowFull) &&
-                    <div>{s.en}</div>}
+                <Badge.Ribbon text={s.score ? s.score : 0} color="green">
+                  <Card
+                    className={"fw"}
+                    style={{
+                      border: state.active?.id === s.id ? "2px solid green" : "unset"
+                    }}
+                    onClick={() => {
+                      setState({active: s})
+                      copyToClipboardLargeData(s.en)
+                    }}>
 
-                  {(state.strategy === "VIETNAMESE" || state.active?.id === s.id || state.isShowFull) &&
-                    <div>{s.vi}</div>}
-                </Card>
+                    {(state.strategy === "ENGLISH" || state.active?.id === s.id || state.isShowFull) &&
+                      <div>{s.en}</div>}
+
+                    {(state.strategy === "VIETNAMESE" || state.active?.id === s.id || state.isShowFull) &&
+                      <div>{s.vi}</div>}
+
+                    {state.active?.id === s.id && (
+                      <div>
+                        <Space size={12}>
+                          <Button
+                            onClick={() => addScoreForSentence(s)}
+                            style={{background: AppColors.green60}}
+                            type="primary"
+                            shape="circle"
+                            icon={<Plus size={12}/>}
+                          />
+                        </Space>
+                      </div>
+                    )}
+                  </Card>
+                </Badge.Ribbon>
               </Col>
             )
           })}

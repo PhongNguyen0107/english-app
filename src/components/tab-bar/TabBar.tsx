@@ -1,15 +1,14 @@
 'use client';
 import React, {useEffect, useState} from 'react';
-import {Badge, TabBar} from 'antd-mobile';
+import {Badge} from 'antd-mobile';
 import {File, Gear, House, Student} from "phosphor-react"
-import {useRouter} from 'next/navigation'
 import {ROUTE_NAME} from "@/configuration/Application.config";
+import Link from "next/link";
 
 type TabBarPropType = {
   active: string;
 }
 const TabBarCustomization = (props: TabBarPropType) => {
-  const router = useRouter()
   const tabs = [
     {
       key: 'home',
@@ -26,9 +25,9 @@ const TabBarCustomization = (props: TabBarPropType) => {
       badge: '5',
     },
     {
-      key: ROUTE_NAME.LEARNING,
-      title: 'Learning',
-      url: `/${ROUTE_NAME.LEARNING}`,
+      key: ROUTE_NAME.SENTENCES,
+      title: 'Sentences',
+      url: `/${ROUTE_NAME.SENTENCES}`,
       icon: <Student size={32}/>,
       badge: '1',
     },
@@ -55,15 +54,21 @@ const TabBarCustomization = (props: TabBarPropType) => {
 
   return (
     <div className={"en-tab-bar"}>
-      <TabBar activeKey={activeKey} onChange={(keyActive) => {
-        setActiveKey(keyActive)
-        const menu = tabs.find(x => x.key === keyActive);
-        if (menu) router.push(menu.url)
-      }}>
+
+      <div className={"tab-bar-container"}>
         {tabs.map(item => (
-          <TabBar.Item key={item.key} icon={item.icon} title={item.title}/>
+          <React.Fragment key={item.key}>
+            <Link
+              onClick={() => setActiveKey(item.key)}
+              href={item.url}>
+              <div className={`tab-menu-item ${item.key === activeKey && "active"}`}>
+                {item.icon}
+                <div className={"tab-menu-title"}>{item.title}</div>
+              </div>
+            </Link>
+          </React.Fragment>
         ))}
-      </TabBar>
+      </div>
     </div>
   );
 };

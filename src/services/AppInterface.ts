@@ -24,6 +24,7 @@ export type SentenceType = {
   vi: string;
   origin?: string;
   image?: string;
+  score?: number;
 }
 
 
