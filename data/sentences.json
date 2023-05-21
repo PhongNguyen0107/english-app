@@ -135,30 +135,23 @@
         "image": ""
     },
     {
-        "id": 19,
-        "en": "I always study English on Sundays",
-        "vi": "Do you go to work on Sundays?",
-        "origin": "Do you go to work on Sundays?",
-        "image": ""
-    },
-    {
         "id": 20,
-        "en": "Bạn có đi làm vào Chủ Nhật không?",
-        "vi": "What time do you go to work?",
-        "origin": "What time do you go to work?",
+        "en": "Do you go to work on Sundays?",
+        "vi": "Bạn có đi làm vào Chủ Nhật không?",
+        "origin": "",
         "image": ""
     },
     {
         "id": 21,
-        "en": "Mấy giờ bạn đi làm?",
-        "vi": "Do you want to go to work together?",
-        "origin": "Do you want to go to work together?",
+        "vi": "Mấy giờ bạn đi làm?",
+        "en": "What time do you go to work?",
+        "origin": "",
         "image": ""
     },
     {
         "id": 22,
-        "en": "Bạn có muốn đi làm cùng nhau không?",
-        "vi": "You look like someone i knew many years ago",
+        "en": "Do you want to go to work together?",
+        "vi": "Bạn có muốn đi làm cùng nhau không?",
         "origin": "You look like someone i knew many years ago",
         "image": ""
     },
@@ -1414,5 +1407,19 @@
         "origin": "",
         "image": "",
         "id": 198
+    },
+    {
+        "en": "feel free to ask.",
+        "vi": "Mạnh dạn hỏi",
+        "origin": "",
+        "image": "",
+        "id": 199
+    },
+    {
+        "en": "That's a thoughtful idea!",
+        "vi": "Đó là một ý tưởng chu đáo!",
+        "origin": "",
+        "image": "",
+        "id": 200
     }
 ]
