@@ -1344,5 +1344,75 @@
         "origin": "",
         "image": "",
         "id": 188
+    },
+    {
+        "en": "Can you provide a step by step guide to [subject]?",
+        "vi": "Hướng dẫn từng bước cách thực hiện [chủ đề]",
+        "origin": "",
+        "image": "",
+        "id": 189
+    },
+    {
+        "en": "Can you explain [subject] in simple terms?",
+        "vi": "Giải thích một cách đơn giản [Chủ đề]",
+        "origin": "",
+        "image": "",
+        "id": 190
+    },
+    {
+        "en": "What are the best practices for [subject] in [specific context/industry/field]?",
+        "vi": "Cho tôi một số ví dụ về những cách làm tốt của [chủ đề] trong [lĩnh vực /ngành công nghiệp/bối cảnh]?",
+        "origin": "",
+        "image": "",
+        "id": 191
+    },
+    {
+        "en": "Can you give some case studies?",
+        "vi": "Cho một số trường hợp điển hình?",
+        "origin": "",
+        "image": "",
+        "id": 192
+    },
+    {
+        "en": "Can you provide a summary of [subject] research and its impact?",
+        "vi": "Cung cấp tóm tắt của nghiên cứu/dự án [chủ đề] và những tác động của nó?",
+        "origin": "",
+        "image": "",
+        "id": 193
+    },
+    {
+        "en": "What are the skills required to excel in [subject]?",
+        "vi": "Những kỹ năng cần thiết để tôi thành `trùm` của [lĩnh vực] ?",
+        "origin": "",
+        "image": "",
+        "id": 194
+    },
+    {
+        "en": "What are the best resources for learning more about [subject]?",
+        "vi": "Những nguồn tốt nhất để học thêm về [chủ đề]?",
+        "origin": "",
+        "image": "",
+        "id": 195
+    },
+    {
+        "en": "What is the role of [subject] in [industry/field]?",
+        "vi": "Vai trò của [Tên chức danh] trong [ngành/lĩnh vực]?",
+        "origin": "",
+        "image": "",
+        "id": 196
+    },
+    {
+        "en": "Can you describe the process of [subject] in detail?",
+        "vi": "Mô tả quy trình của [chủ đề] một cách chi tiết",
+        "origin": "",
+        "image": "",
+        "id": 197
+    },
+    {
+        "en": "Write a letter to a customer and request a meeting on [subject].",
+        "vi": "Viết một bức thư cho khách hàng, để yêu cầu một cuộc họp nhằm giới thiệu [chủ đề]",
+        "origin": "",
+        "image": "",
+        "id": 198
     }
 ]
