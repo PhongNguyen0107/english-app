@@ -1339,6 +1339,13 @@
         "id": 188
     },
     {
+        "en": "Pay as you go",
+        "vi": "Làm bao nhiêu trả bấy nhiêu",
+        "origin": "",
+        "image": "",
+        "id": 200
+    },
+    {
         "en": "Can you provide a step by step guide to [subject]?",
         "vi": "Hướng dẫn từng bước cách thực hiện [chủ đề]",
         "origin": "",
@@ -1420,6 +1427,6 @@
         "vi": "Đó là một ý tưởng chu đáo!",
         "origin": "",
         "image": "",
-        "id": 200
+        "id": 201
     }
 ]

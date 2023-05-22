@@ -2,7 +2,7 @@
 import React, {useEffect} from "react";
 import {Affix, Button, Card, Col, Input, Row, Space, Spin, Badge} from 'antd';
 import TabBar from "@/components/tab-bar/TabBar";
-import {ROUTE_NAME} from "@/configuration/Application.config";
+import {QUERY_CONFIG, ROUTE_NAME} from "@/configuration/Application.config";
 import {useQuery} from "react-query";
 import {getSentences, increaseSentence} from "@/services/Sentences.service";
 import MenuBar from "@/components/MenuBar";
@@ -25,7 +25,7 @@ type IState = {
 }
 const Sentences = () => {
 
-  const {data: sentencesResp, isLoading, refetch} = useQuery('sentences', getSentences);
+  const {data: sentencesResp, isLoading, refetch} = useQuery('sentences', getSentences, QUERY_CONFIG);
   const sentences = sentencesResp?.data?.data || [];
 
   const [state, setState] = useSetState<IState>({

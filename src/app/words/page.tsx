@@ -3,7 +3,7 @@ import React from 'react';
 import WordCard from "@/components/card/WordCard";
 import {Col, Row, Spin} from "antd";
 import TabBar from "@/components/tab-bar/TabBar";
-import {ROUTE_NAME} from "@/configuration/Application.config";
+import {QUERY_CONFIG, ROUTE_NAME} from "@/configuration/Application.config";
 import {useQuery} from "react-query";
 import {getWords} from "@/services/Words.service";
 import {useRouter} from "next/navigation";
@@ -12,7 +12,7 @@ import MenuBar from "@/components/MenuBar";
 
 export default function Page() {
   const router = useRouter()
-  const {data: wordsResp, isLoading} = useQuery('words', getWords);
+  const {data: wordsResp, isLoading} = useQuery('words', getWords, QUERY_CONFIG);
   const words = wordsResp?.data?.data || [];
 
   return (

@@ -1,13 +1,13 @@
 'use client';
 import React from "react";
 import TabBar from "@/components/tab-bar/TabBar";
-import {ROUTE_NAME} from "@/configuration/Application.config";
+import {QUERY_CONFIG, ROUTE_NAME} from "@/configuration/Application.config";
 import {useQuery} from "react-query";
 import {getWords} from "@/services/Words.service";
 import QuestionCard from "@/components/card/QuestionCard";
 
 export default function Learning() {
-  const {data: wordsResp, isLoading, error} = useQuery('words', getWords);
+  const {data: wordsResp, isLoading, error} = useQuery('words', getWords, QUERY_CONFIG);
   const words = wordsResp?.data?.data?.[0] || {}
   if (isLoading) return <React.Fragment/>
   return (
