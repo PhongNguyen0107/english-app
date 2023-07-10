@@ -38,7 +38,7 @@ export async function POST(_request: Request) {
     template[enKey] = w.answers?.[0]
 
     const viKey = "vi_" + padWithZeros(i + 1, 2);
-    template[viKey] = w.word
+    template[viKey] = "..." || w.word
 
     const phraseKey = "ph_" + padWithZeros(i + 1, 2);
     template[phraseKey] = w.phrases?.[0]
