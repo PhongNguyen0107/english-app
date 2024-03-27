@@ -45,3 +45,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ### TabBar beautiful
 - https://codepen.io/chrisbautista/pen/NWXjqLN
+
+### Notes:
+deliberation
+retreat to
+secluded
